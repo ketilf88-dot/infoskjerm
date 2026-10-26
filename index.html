@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>*{box-sizing:border-box}body{margin:0}img{max-width:100%}</style>
+<title>Kontorets infoskjerm</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: 16:9 TV. Header with logo + clock, big featured story left, "next up" list right, ticker along the bottom.
+   Single dark look built on the Enios navy, since it hangs on a wall. */
+:root {
+  --deep: #111b2b;      /* page ground, darkened Enios navy */
+  --brand: #2d4164;     /* Enios navy from the logo */
+  --panel: #18253a;
+  --line: #2a3a55;
+  --fg: #eef2f7;
+  --muted: #9aa8bd;
+  --accent: #f2a541;    /* safety orange, ROV paint */
+  --sea: #4fc0cf;
+  --display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "IBM Plex Sans", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--deep); color: var(--fg); font-family: var(--body); overflow: hidden; }
+.screen { height: 100%; display: grid; grid-template-rows: auto minmax(0, 1fr) auto; }
+
+/* Header */
+header { display: flex; justify-content: space-between; align-items: center; gap: 16px;
+  padding-block: 1.1vw; padding-left: max(2.2vw, env(safe-area-inset-left, 0px)); padding-right: max(2.2vw, env(safe-area-inset-right, 0px));
+  border-bottom: 1px solid var(--line); }
+.logo { height: clamp(28px, 3.6vw, 72px); width: auto; color: #fff; display: block; }
+.clock { display: flex; align-items: baseline; gap: 1.2vw; font-variant-numeric: tabular-nums; }
+.clock span { color: var(--muted); font-size: clamp(12px, 1.1vw, 22px); text-transform: capitalize; }
+.clock b { font-family: var(--display); font-weight: 600; font-size: clamp(28px, 3.4vw, 68px); line-height: 1; }
+
+/* Main */
+main { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 2vw; min-height: 0;
+  padding-block: 2vw; padding-left: max(2.2vw, env(safe-area-inset-left, 0px)); padding-right: max(2.2vw, env(safe-area-inset-right, 0px)); }
+.feature { position: relative; overflow: hidden; background: var(--brand); min-height: 0; display: flex; align-items: flex-end; }
+.feature .bg { position: absolute; inset: 0; background-size: cover; background-position: center; }
+.feature.has-img .bg { animation: drift 14s ease-out forwards; }
+@keyframes drift { from { transform: scale(1); } to { transform: scale(1.06); } }
+.feature:not(.has-img) .bg {
+  background: radial-gradient(110% 80% at 85% 0%, #3f5a86 0%, transparent 60%),
+              repeating-linear-gradient(-8deg, transparent 0 46px, rgba(255,255,255,.035) 46px 48px), var(--brand); }
+.feature .shade { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, rgba(10,16,28,.92) 100%); }
+.feature .txt { position: relative; padding: 2.6vw; display: grid; gap: 1vw; max-width: 100%; animation: rise .7s ease both; }
+.feature h2 { margin: 0; font-family: var(--display); font-weight: 600; font-size: clamp(26px, 3.6vw, 76px); line-height: 1.02; text-wrap: balance; max-width: 24ch; }
+.feature p { margin: 0; font-size: clamp(13px, 1.25vw, 24px); color: #d5dce6; line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.meta { color: var(--muted); font-size: clamp(11px, 1vw, 19px); }
+.progress { position: absolute; top: 0; left: 0; height: 4px; background: var(--accent); width: 0; }
+.progress.run { animation: fill linear forwards; }
+@keyframes fill { to { width: 100%; } }
+
+.tag { justify-self: start; font-family: var(--mono); font-size: clamp(9px, .75vw, 15px); text-transform: uppercase; letter-spacing: .08em;
+  padding: 3px 8px; border: 1px solid currentColor; background: rgba(10,16,28,.5); }
+.t-norden { color: var(--sea); } .t-afrika { color: var(--accent); } .t-global { color: #c3cedb; }
+.t-trond { color: #a3d68e; } .t-bors { color: #c9a8f0; } .t-norge { color: #ee9494; }
+
+.next { display: flex; flex-direction: column; gap: 1vw; min-height: 0; min-width: 0; }
+.next h3 { margin: 0; font-family: var(--display); font-weight: 600; text-transform: uppercase; letter-spacing: .1em;
+  font-size: clamp(13px, 1.1vw, 22px); color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: .6vw;
+  display: flex; justify-content: space-between; align-items: baseline; }
+.next h3 small { font-family: var(--mono); font-weight: 500; letter-spacing: .04em; text-transform: none; font-size: clamp(9px, .7vw, 13px); }
+.next ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 1.2vw; overflow: hidden; flex: 1; }
+.next li { display: grid; grid-template-columns: 6.5vw minmax(0, 1fr); gap: 1vw; align-items: start; animation: rise .6s ease both; }
+.thumb { width: 6.5vw; aspect-ratio: 4 / 3; max-width: 100%; background: var(--panel) center / cover; border: 1px solid var(--line); }
+.next li div { display: grid; gap: .3vw; min-width: 0; }
+.next h4 { margin: 0; font-weight: 500; font-size: clamp(13px, 1.15vw, 23px); line-height: 1.25;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+/* Ticker */
+.ticker { display: flex; align-items: center; background: var(--accent); color: #1a1206; overflow: hidden; }
+.ticker strong { font-family: var(--display); text-transform: uppercase; letter-spacing: .08em; font-size: clamp(13px, 1.1vw, 21px);
+  padding: .6vw 1.4vw; padding-left: max(1.4vw, env(safe-area-inset-left, 0px)); background: var(--deep); color: var(--accent); white-space: nowrap; }
+.track { white-space: nowrap; display: inline-block; padding-left: 100%; animation: tick 150s linear infinite; font-weight: 500; font-size: clamp(13px, 1.1vw, 21px); }
+.track span::after { content: "  ◆  "; opacity: .55; }
+@keyframes tick { to { transform: translateX(-100%); } }
+.demo-note { font-family: var(--mono); font-size: clamp(9px, .7vw, 13px); color: var(--accent); }
+
+@media (max-width: 760px) {
+  body { overflow: auto; }
+  .screen { height: auto; }
+  main { grid-template-columns: 1fr; gap: 18px; padding-block: 16px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  header { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  .feature { min-height: 62vw; }
+  .feature .txt { padding: 16px; gap: 8px; }
+  .next li { grid-template-columns: 64px minmax(0, 1fr); gap: 12px; }
+  .thumb { width: 64px; }
+  .next ul, .next { gap: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .feature .bg, .feature .txt, .next li { animation: none !important; }
+  .track { animation-duration: 500s; }
+}
+</style>
+</head>
+<body>
+
+<div class="screen">
+  <header>
+    <svg class="logo" viewBox="124 264 841 245" role="img" aria-label="Enios"><path fill="currentColor" d="m 128.31425,357.73829 784.70922,0 -40.92774,-82.33203 76.70118,-0.041 -31.08985,54.5293 6.16797,3.51563 37.14841,-65.15238 -100.38282,0.0547 40.92383,82.32422 -773.25028,0 z m 635.03537,-11.20117 c 1.41704,-1.73458 3.06836,-3.29966 4.96484,-4.68555 3.2959,-2.31934 7.20215,-4.08789 11.71875,-5.30859 4.5166,-1.34277 9.58203,-2.01563 15.19727,-2.01563 17.94433,0 33.81347,4.51758 47.60742,13.55078 l 0,-30.39648 c -12.81739,-5.61524 -27.34278,-8.42187 -43.57812,-8.42187 -9.15528,0 -18.06739,1.15917 -26.73438,3.47851 -8.54492,2.31933 -16.1748,5.79883 -22.88867,10.4375 -6.71387,4.5166 -12.08496,10.19336 -16.11328,17.0293 -1.21,2.01666 -2.23353,4.12814 -3.08008,6.33203 z m -225.58008,0 0,-32.88281 -30.0293,0 0,32.88281 z m -202.52145,15.22461 0,139.39258 30.02929,0 0,-106.9336 c 0,-12.36628 2.53513,-23.18033 7.57618,-32.45898 z m 121.00586,0 c 3.06351,8.72619 4.60547,19.53655 4.60547,32.45898 l 0,106.9336 30.02929,0 0,-114.625 c 0,-9.03121 -0.71779,-17.27859 -2.13281,-24.76758 z m 51.48632,0 0,139.39258 30.0293,0 0,-139.39258 z m 219.79102,0 c -0.0172,0.56523 -0.0488,1.12318 -0.0488,1.69726 0,7.20216 1.03613,13.48829 3.11133,18.85938 2.19726,5.37109 5.37109,10.19238 9.52148,14.46484 4.27246,4.15039 9.52246,7.93555 15.74805,11.35352 6.34765,3.2959 13.67187,6.59082 21.97266,9.88672 5.98144,2.31934 11.53515,4.57812 16.66211,6.77539 5.24902,2.07519 9.7666,4.45508 13.55078,7.14062 3.90624,2.68555 6.95703,5.79981 9.15429,9.33985 2.31935,3.41796 3.47852,7.62792 3.47852,12.63281 0,17.57812 -13.18359,26.36719 -39.55078,26.36719 -19.65333,0 -37.65821,-6.042 -54.01563,-18.12696 l 0,32.22657 c 14.16016,7.44629 30.88477,11.16992 50.17188,11.16992 9.76563,0 19.10254,-1.09961 28.01367,-3.29688 8.91113,-2.19726 16.78516,-5.55371 23.6211,-10.07031 6.83594,-4.5166 12.26855,-10.19336 16.29687,-17.0293 4.15039,-6.83594 6.22461,-14.89258 6.22461,-24.16992 0,-7.56836 -1.28027,-14.09863 -3.84375,-19.5918 -2.44141,-5.49316 -5.98242,-10.31445 -10.62109,-14.46484 -4.63867,-4.27246 -10.25391,-8.05761 -16.84571,-11.35351 -6.5918,-3.41797 -14.03711,-6.7129 -22.33789,-9.88672 -6.22558,-2.44141 -11.78125,-4.70019 -16.66406,-6.77539 -4.88281,-2.0752 -9.0332,-4.39356 -12.45117,-6.95704 -3.41797,-2.56347 -6.042,-5.49316 -7.87305,-8.78906 -1.60578,-3.09684 -2.44599,-6.90446 -2.54297,-11.40234 z M 219.24805,346.53711 c 9.20876,-7.99917 20.09973,-12.00977 32.68164,-12.00977 13.33882,0 23.98477,4.01345 31.95898,12.00977 l 34.56251,1e-5 c -2.56566,-4.8982 -5.57308,-9.3923 -9.02734,-13.47461 -13.42774,-15.86915 -32.40918,-23.80273 -56.94531,-23.80273 -24.53613,0 -45.10547,9.21581 -61.70704,27.64843 -2.75126,3.05696 -5.26665,6.26914 -7.55859,9.62891 z m 165.65429,0 c 8.98953,-7.99489 19.77683,-12.00977 32.37696,-12.00977 13.02381,0 23.11921,4.01272 30.30468,12.00977 l 36.93556,1e-5 c -2.5458,-6.60482 -5.85568,-12.37699 -9.92773,-17.31836 -10.86426,-13.30567 -26.55078,-19.95898 -47.0586,-19.95898 -26.85546,0 -47.36327,11.83983 -61.52343,35.52148 l -0.73243,0 0,-31.12695 -30.02929,0 0,32.88281 z m 216.59961,0 c 10.1333,-7.99345 22.69862,-12.00977 37.7168,-12.00977 15.40328,0 27.95002,4.01409 37.66406,12.00977 l 38.60743,1e-5 c -2.57118,-4.09936 -5.47072,-7.92163 -8.70703,-11.45899 -15.625,-17.21191 -37.41308,-25.81835 -65.36718,-25.81835 -29.29688,0 -52.55176,8.85058 -69.76368,26.55078 -3.23933,3.33122 -6.175,6.90675 -8.80468,10.72656 z m -307.60351,15.22461 c 3.19147,7.76941 4.8309,16.99776 4.90625,27.69726 l -101.25781,0 c 1.49214,-10.52354 4.5589,-19.75048 9.18359,-27.69726 l -31.89453,10e-6 c -5.85386,13.52909 -8.78321,28.9867 -8.78321,46.375 0,30.88379 7.56836,54.87109 22.70508,71.96094 15.13672,16.96777 35.9502,25.45117 62.43946,25.45117 27.0996,0 48.88769,-5.98242 65.36718,-17.94531 l 0,-28.19727 c -17.70019,13.91601 -37.10839,20.87305 -58.22656,20.87305 -18.79883,0 -33.57031,-5.67481 -44.3125,-17.02735 -10.74219,-11.35253 -16.35742,-27.46581 -16.8457,-48.33984 l 132.38672,0 0,-15.74805 c 0,-13.9853 -1.65799,-26.44975 -4.96094,-37.40234 z m 395.61328,0 c 6.74906,11.88623 10.13086,27.21557 10.13086,46.00781 0,23.19336 -5.24805,41.07715 -15.7461,53.65039 -10.37597,12.57324 -25.26855,18.85938 -44.67773,18.85938 -19.04297,0 -34.24121,-6.40723 -45.59375,-19.22461 -11.35254,-12.81739 -17.0293,-30.33594 -17.0293,-52.55274 0,-18.96415 3.80274,-34.5392 11.39063,-46.74023 l -33.45899,10e-6 c -5.79155,13.62746 -8.69336,29.57092 -8.69336,47.83984 0,28.93067 8.23926,52.18555 24.71875,69.76367 16.60156,17.45606 38.75879,26.1836 66.46875,26.1836 28.44239,0 51.08595,-8.97168 67.93164,-26.91602 16.96778,-18.0664 25.45118,-42.05371 25.45118,-71.96093 0,-17.04649 -2.4598,-32.01519 -7.37305,-44.91016 z"/></svg>
+    <div class="clock"><span id="date"></span><b id="time">--:--</b></div>
+  </header>
+
+  <main>
+    <article class="feature" id="feature">
+      <div class="bg" id="fbg"></div><div class="shade"></div><div class="progress" id="prog"></div>
+      <div class="txt" id="ftxt"></div>
+    </article>
+    <section class="next">
+      <h3>Neste <small id="status">henter …</small></h3>
+      <ul id="list"></ul>
+    </section>
+  </main>
+
+  <div class="ticker"><strong>Siste</strong><div class="track" id="track"></div></div>
+</div>
+
+<script>
+/* ============ INNSTILLINGER — endre her ============ */
+const CONFIG = {
+  storySeconds: 20,        // hvor lenge hver hovedsak vises
+  listCount: 5,            // antall saker i "Neste"-listen
+  refreshMinutes: 15,
+  newsFile: "news.json",   // ferdig hentede nyheter fra serveren (GitHub-jobben). Finnes den ikke, hentes alt fra nettleseren.
+  // Nettlesere får ikke lese RSS direkte fra andre sider, så vi går via en gratis mellomtjener. Prøver neste hvis en feiler.
+  proxies: [
+    "",                                            // først direkte, i tilfelle kilden tillater det
+    "https://api.allorigins.win/raw?url=",
+    "https://corsproxy.io/?url=",
+    "https://api.codetabs.com/v1/proxy?quest=",
+  ],
+  rss2json: "https://api.rss2json.com/v1/api.json?rss_url=",   // reserve hvis alle over feiler
+
+  // Børsmeldinger fra Oslo Børs (Newsweb). Bare selskaper hvis navn inneholder ett av disse ordene vises.
+  bors: {
+    tag: "Oslo Børs", cls: "t-bors", weight: 3, days: 7, max: 10,
+    companies: ["DOF", "Moreld", "BW Energy", "BW Offshore", "Equinor", "Aker BP", "Vår Energi", "Aker Solutions",
+      "Subsea 7", "Subsea7", "Reach Subsea", "Odfjell", "Solstad", "Havila Shipping", "Eidesvik", "Siem Offshore",
+      "Okea", "DNO", "Panoro", "TGS", "Archer", "Borr Drilling", "Seadrill", "Shelf Drilling", "Northern Ocean", "Akastor"],
+  },
+
+  // RSS-kilder. region: true = saken merkes Norden/Afrika/Globalt ut fra teksten.
+  // onlyOffshore: true = bare saker som handler om offshore/subsea/olje og gass tas med.
+  feeds: [
+    { name: "Offshore Energy", weight: 2, region: true, onlyOffshore: true,
+      url: "https://www.offshore-energy.biz/feed/" },
+    { name: "gCaptain Offshore", weight: 2, region: true,
+      url: "https://gcaptain.com/category/offshore-news/feed/" },
+    { name: "Splash247", weight: 1, region: true, onlyOffshore: true,
+      url: "https://splash247.com/feed/" },
+    { name: "Subsea Norden (Bing)", weight: 2, region: true,
+      url: "https://www.bing.com/news/search?q=subsea+(Norway+OR+%22North+Sea%22+OR+Equinor+OR+Barents)&format=rss&mkt=en-US" },
+    { name: "Subsea Afrika (Bing)", weight: 2, region: true,
+      url: "https://www.bing.com/news/search?q=subsea+(Africa+OR+Angola+OR+Nigeria+OR+Mozambique+OR+Namibia+OR+Ghana)&format=rss&mkt=en-US" },
+    { name: "NRK Trøndelag", tag: "Trøndelag", cls: "t-trond", weight: 1, max: 4,
+      url: "https://www.nrk.no/trondelag/toppsaker.rss" },
+    { name: "NRK", tag: "Norge", cls: "t-norge", weight: 1, max: 4,
+      url: "https://www.nrk.no/toppsaker.rss" },
+  ],
+};
+
+// Words used to sort stories into regions and to keep only offshore-related stories from broad feeds
+const OFFSHORE = /subsea|offshore|fpso|\brigs?\b|drill|\boil\b|\bgas\b|\bROV\b|vessel|\bPSV\b|AHTS|pipeline|LNG|field|reservoir|platform|Equinor|Aker BP|Vår Energi|DOF|Moreld|BW Energy|TechnipFMC|Subsea ?7|Saipem|Oceaneering|North Sea|Nordsjø/i;
+const AFRICA = /Africa|Afrika|Angola|Nigeria|Mozambique|Namibia|Ghana|Senegal|Egypt|Ivory Coast|Côte d.Ivoire|Congo|Gabon|Cameroon|Tanzania|Mauritania|Equatorial Guinea|Libya|Algeria/i;
+const NORDIC = /Norw|Norge|North Sea|Nordsjø|Barents|Denmark|Danish|Iceland|Faroe|Sweden|Swedish|Finland|Equinor|Aker BP|Vår Energi|Okea|Hammerfest|Bergen|Stavanger|Trondheim/i;
+/* =================================================== */
+
+const $ = id => document.getElementById(id);
+
+function tick() {
+  const d = new Date();
+  $("time").textContent = d.toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
+  $("date").textContent = d.toLocaleDateString("nb-NO", { weekday: "long", day: "numeric", month: "long" });
+}
+tick(); setInterval(tick, 10000);
+
+const DEMO = [
+  { tag: "Oslo Børs", cls: "t-bors", weight: 3 }, { tag: "Offshore · Norden", cls: "t-norden", weight: 3 },
+  { tag: "Offshore · Afrika", cls: "t-afrika", weight: 3 }, { tag: "Trøndelag", cls: "t-trond", weight: 1 }, { tag: "Norge", cls: "t-norge", weight: 1 },
+].map((d, i) => ({ ...d, date: new Date(Date.now() - i * 3e6), title: `Eksempel: siste sak fra «${d.tag}» vises her`,
+  summary: "Ingress fra saken vises under overskriften når kilden har en.", source: "Demo, ikke ekte nyhet", img: "" }));
+
+const MEDIA = "http://search.yahoo.com/mrss/";
+function firstImg(html) { const m = /<img[^>]+src=["']([^"']+)/i.exec(html || ""); return m ? m[1] : ""; }
+function safeUrl(u) { return /^https?:/i.test(u) ? u.replace(/["'()\\\s]/g, encodeURIComponent) : ""; }
+function strip(html) { const d = document.createElement("div"); d.innerHTML = html || ""; return d.textContent.trim(); }
+
+// Raw entries from either RSS (via a proxy) or rss2json, in one shape
+const diag = [];   // what failed, shown on screen when no news could be loaded
+function note(f, via, why) { diag.push(`${f.name} via ${via || "direkte"}: ${why}`); }
+
+// Oslo Børs announcements from the Newsweb JSON API, filtered to the companies in CONFIG.bors
+async function loadBors() {
+  const c = CONFIG.bors, f = { name: "Oslo Børs" };
+  const day = d => d.toISOString().slice(0, 10);
+  const url = "https://api3.oslo.oslobors.no/v1/newsreader/list?category=&issuer=&market=&messageTitle="
+    + `&fromDate=${day(new Date(Date.now() - c.days * 864e5))}&toDate=${day(new Date())}`;
+  for (const proxy of CONFIG.proxies) {
+    const via = proxy && new URL(proxy).hostname;
+    try {
+      const res = await fetch(proxy ? proxy + encodeURIComponent(url) : url, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) { note(f, via, "svar " + res.status); continue; }
+      const data = await res.json();
+      const list = data?.data?.messages || data?.messages || [];
+      if (!list.length) { note(f, via, "ingen meldinger i svaret"); continue; }
+      const want = new RegExp("\\b(" + c.companies.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|") + ")\\b", "i");
+      return list.filter(m => want.test(m.issuerName || "") || want.test(m.title || "")).slice(0, c.max).map(m => {
+        const text = (m.issuerName || "") + " " + (m.title || "");
+        return { tag: c.tag, cls: c.cls, weight: c.weight + (AFRICA.test(text) ? 1 : 0),
+          title: m.title || "", source: m.issuerName || m.issuerSign || "Oslo Børs", summary: "", img: "",
+          date: new Date(m.publishedTime || m.publishedDate || Date.now()) };
+      });
+    } catch (e) { note(f, via, e.name === "TimeoutError" ? "tidsavbrudd" : "blokkert eller ikke nåbar"); }
+  }
+  throw new Error("Newsweb not reachable");
+}
+
+async function fetchRaw(f) {
+  for (const proxy of CONFIG.proxies) {
+    const via = proxy && new URL(proxy).hostname;
+    try {
+      const res = await fetch(proxy ? proxy + encodeURIComponent(f.url) : f.url, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) { note(f, via, "svar " + res.status); continue; }
+      const doc = new DOMParser().parseFromString(await res.text(), "text/xml");
+      const its = [...doc.querySelectorAll("item")];
+      if (!its.length) { note(f, via, "ingen saker i svaret"); continue; }
+      return its.map(it => {
+        const txt = sel => it.querySelector(sel)?.textContent || "";
+        const media = it.getElementsByTagNameNS(MEDIA, "content")[0] || it.getElementsByTagNameNS(MEDIA, "thumbnail")[0];
+        const enc = it.querySelector("enclosure[type^='image']");
+        return { title: txt("title"), source: txt("source"), desc: txt("description"), pubDate: txt("pubDate"),
+          content: it.getElementsByTagName("content:encoded")[0]?.textContent || "",
+          img: media?.getAttribute("url") || enc?.getAttribute("url") || "" };
+      });
+    } catch (e) { note(f, via, e.name === "TimeoutError" ? "tidsavbrudd" : "blokkert eller ikke nåbar"); }
+  }
+  // Last resort: rss2json converts the feed to JSON and allows browser access
+  let data;
+  try {
+    const res = await fetch(CONFIG.rss2json + encodeURIComponent(f.url), { signal: AbortSignal.timeout(12000) });
+    data = await res.json();
+  } catch (e) { note(f, "rss2json", "blokkert eller ikke nåbar"); throw e; }
+  if (data.status !== "ok" || !data.items?.length) { note(f, "rss2json", data.message || "ingen saker"); throw new Error("no source answered"); }
+  return data.items.map(it => ({ title: it.title || "", source: "", desc: it.description || "", content: it.content || "",
+    pubDate: (it.pubDate || "").replace(" ", "T") + "Z", img: it.thumbnail || it.enclosure?.link || "" }));
+}
+
+async function loadFeed(f) {
+  const raw = await fetchRaw(f);
+  return raw.map(r => {
+    let title = r.title.trim();
+    let source = r.source || f.name;
+    const suffix = / - ([^-]{2,40})$/.exec(title); // news search feeds end titles with " - Publisher"
+    if (!r.source && suffix && /bing\.com|news\.google/.test(f.url)) { source = suffix[1]; title = title.slice(0, suffix.index); }
+    if (title.endsWith(" - " + source)) title = title.slice(0, -(source.length + 3)); // news search feeds append " - Source"
+    let summary = strip(r.desc);
+    if (summary.startsWith(title)) summary = "";
+    const date = new Date(r.pubDate);
+    let tag = f.tag, cls = f.cls, weight = f.weight;
+    if (f.region) {
+      const text = title + " " + summary;
+      if (AFRICA.test(text)) { tag = "Offshore · Afrika"; cls = "t-afrika"; weight += 1; }
+      else if (NORDIC.test(text)) { tag = "Offshore · Norden"; cls = "t-norden"; weight += 1; }
+      else { tag = "Offshore · Globalt"; cls = "t-global"; }
+    }
+    return { tag, cls, weight, title, source, summary: summary.slice(0, 260), offshore: OFFSHORE.test(title + " " + summary),
+      img: safeUrl(r.img || firstImg(r.content) || firstImg(r.desc)),
+      date: isNaN(date) ? new Date() : date };
+  }).filter(n => !f.onlyOffshore || n.offshore).slice(0, f.max || 8);
+}
+
+let items = [], cur = 0, demo = false, failed = [];
+function score(n) { return n.date / 3.6e6 + n.weight * 12; } // each weight point counts as 12 hours newer
+
+// News collected server-side (no proxy needed). Returns null when the file is missing, e.g. when the page is opened locally.
+async function loadNewsFile() {
+  if (location.protocol === "file:") return null;
+  try {
+    const res = await fetch(CONFIG.newsFile + "?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (!data.items?.length) return null;
+    data.items = data.items.map(n => ({ ...n, img: safeUrl(n.img || ""), date: new Date(n.date) }));
+    return data;
+  } catch (e) { return null; }
+}
+
+async function refresh() {
+  diag.length = 0;
+  let got = [], results = [];
+  const server = await loadNewsFile();
+  if (server) {
+    got = server.items; failed = server.failed || [];
+    results = Array.from({ length: server.sources || got.length }, (_, i) => ({ status: i < (server.sources || 0) - failed.length ? "fulfilled" : "rejected" }));
+  } else {
+    results = await Promise.allSettled([loadBors(), ...CONFIG.feeds.map(loadFeed)]);
+    if (diag.length) console.table(diag);
+    const names = ["Oslo Børs", ...CONFIG.feeds.map(f => f.name)];
+    failed = names.filter((_, i) => results[i].status === "rejected");
+    got = results.flatMap(r => r.status === "fulfilled" ? r.value : []);
+  }
+  demo = got.length === 0;
+  const seen = new Set();
+  items = (demo ? DEMO : got).filter(n => n.title && !seen.has(n.title) && seen.add(n.title)).sort((a, b) => score(b) - score(a));
+  $("status").textContent = demo ? "demo-modus" : `${results.filter(r => r.status === "fulfilled").length}/${results.length} kilder · ` + new Date().toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
+  $("track").innerHTML = items.map(n => `<span>${esc(n.tag)}: ${esc(n.title)}</span>`).join("");
+  cur = 0; show();
+}
+
+function show() {
+  if (!items.length) return;
+  const n = items[cur % items.length];
+  const f = $("feature");
+  f.classList.toggle("has-img", !!n.img);
+  const bg = $("fbg"); bg.style.backgroundImage = n.img ? `url("${n.img}")` : "";
+  bg.style.animation = "none"; bg.offsetWidth; bg.style.animation = "";
+  $("ftxt").outerHTML = `<div class="txt" id="ftxt"><span class="tag ${n.cls}">${esc(n.tag)}</span>
+    <h2>${esc(n.title)}</h2>${n.summary ? `<p>${esc(n.summary)}</p>` : ""}
+    <span class="meta">${esc(n.source)} · ${ago(n.date)}</span></div>`;
+  const p = $("prog"); p.classList.remove("run"); p.offsetWidth; p.style.animationDuration = CONFIG.storySeconds + "s"; p.classList.add("run");
+
+  const next = Array.from({ length: Math.min(CONFIG.listCount, items.length - 1) }, (_, i) => items[(cur + 1 + i) % items.length]);
+  $("list").innerHTML = next.map((m, i) => `<li style="animation-delay:${i * 80}ms">
+      <span class="thumb" ${m.img ? `style="background-image:url('${m.img}')"` : ""}></span>
+      <div><span class="tag ${m.cls}">${esc(m.tag)}</span><h4>${esc(m.title)}</h4><span class="meta">${esc(m.source)} · ${ago(m.date)}</span></div></li>`).join("")
+    + (demo ? `<li class="demo-note" style="display:block">Viser eksempler fordi nyhetene ikke kunne hentes. I forhåndsvisningen på claude.ai blokkeres eksterne kilder; åpne filen i en vanlig nettleser for ekte nyheter.<br><br>Feil: ${esc(diag.filter(d => d.startsWith("Oslo Børs")).join(" | ") || "ingen")}</li>` : "")
+    + (!demo && failed.length ? `<li class="demo-note" style="display:block">Ikke nådd: ${esc(failed.join(", "))}</li>` : "");
+  cur = (cur + 1) % items.length;
+}
+
+function ago(d) {
+  const m = Math.round((Date.now() - d) / 60000);
+  if (m < 60) return m <= 1 ? "nå" : `${m} min siden`;
+  if (m < 1440) return `${Math.round(m / 60)} t siden`;
+  return d.toLocaleDateString("nb-NO", { day: "numeric", month: "short" });
+}
+function esc(s) { return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]); }
+
+refresh();
+setInterval(show, CONFIG.storySeconds * 1000);
+setInterval(refresh, CONFIG.refreshMinutes * 60000);
+navigator.wakeLock?.request("screen").catch(() => {});
+</script>
+</body>
+</html>
