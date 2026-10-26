@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:20:49.840847+00:00",
+ "updated": "2026-10-26T12:26:20.979338+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -337,21 +337,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
-   "source": "The Globe and Mail",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-21T14:17:08+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Subsea cable to link Norway and Canada, bypassing the US",
    "source": "mediasat.info",
    "summary": "",
    "img": "",
    "date": "2026-10-20T13:20:20+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
+   "source": "TradingView",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-21T12:13:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
