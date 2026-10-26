@@ -128,6 +128,7 @@ main { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); ga
 /* ============ INNSTILLINGER — endre her ============ */
 const CONFIG = {
   storySeconds: 20,        // hvor lenge hver hovedsak vises
+  tickerSeconds: 25,       // sekunder den rullende teksten bruker på å krysse skjermen én gang. Høyere tall = saktere.
   listCount: 5,            // antall saker i "Neste"-listen
   refreshMinutes: 15,
   newsFile: "news.json",   // ferdig hentede nyheter fra serveren (GitHub-jobben). Finnes den ikke, hentes alt fra nettleseren.
@@ -313,6 +314,9 @@ async function refresh() {
   items = (demo ? DEMO : got).filter(n => n.title && !seen.has(n.title) && seen.add(n.title)).sort((a, b) => score(b) - score(a));
   $("status").textContent = demo ? "demo-modus" : `${results.filter(r => r.status === "fulfilled").length}/${results.length} kilder · ` + new Date().toLocaleTimeString("nb-NO", { hour: "2-digit", minute: "2-digit" });
   $("track").innerHTML = items.map(n => `<span>${esc(n.tag)}: ${esc(n.title)}</span>`).join("");
+  // Same reading speed however long the text is: duration follows the track's width
+  const screens = $("track").scrollWidth / Math.max(window.innerWidth, 1);
+  $("track").style.animationDuration = Math.round(screens * CONFIG.tickerSeconds) + "s";
   cur = 0; show();
 }
 
