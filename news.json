@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:27:57.457776+00:00",
+ "updated": "2026-10-26T12:29:06.420461+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -47,16 +47,6 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Major Shareholding Disclosure",
-   "source": "Panoro Energy ASA",
-   "summary": "JPMorgan Chase & Co. (\"JPMC \") has a notifiable interest in the share capital of Panoro Energy ASA as a result of trades by its subsidiary J.P. Morgan Securities PLC.",
-   "img": "",
-   "date": "2026-10-23T14:43:10.306Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "Havila Shipping ASA: Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight",
    "source": "Havila Shipping ASA",
    "summary": "Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight Following the exercise, Havila Charisma has contract until 16 December 2027, Havila Foresight until 1 January 2028.",
@@ -72,6 +62,16 @@
    "summary": "DOF Group ASA (\"DOF\") has agreed to sell the 2018-built subsea construction vessel Skandi Implementer to an undisclosed buyer. The vessel is planned to be delivered to its new owner in Q2 2027.",
    "img": "",
    "date": "2026-10-23T12:44:38.972Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Invitation to OKEA's third quarter conference call, 3 November 2026",
+   "source": "OKEA ASA",
+   "summary": "(Trondheim, 23 October 2026) OKEA ASA (OSE: OKEA) will publish its financial report for the third quarter of 2026 on Tuesday 3 November at 06:00 CET.",
+   "img": "",
+   "date": "2026-10-23T10:00:18.176Z"
   },
   {
    "tag": "Offshore · Globalt",
