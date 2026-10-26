@@ -21,7 +21,7 @@ COMPANIES = ["DOF", "Moreld", "BW Energy", "BW Offshore", "Equinor", "Aker BP", 
 
 # region: True = merkes Norden/Afrika/Globalt ut fra teksten. only_offshore: True = bare offshore-relaterte saker.
 FEEDS = [
-    {"name": "Offshore Energy", "weight": 2, "region": True, "only_offshore": True,
+    {"name": "Offshore Energy", "weight": 2, "region": True,
      "url": "https://www.offshore-energy.biz/feed/"},
     {"name": "gCaptain Offshore", "weight": 2, "region": True,
      "url": "https://gcaptain.com/category/offshore-news/feed/"},
@@ -40,6 +40,8 @@ FEEDS = [
 OFFSHORE = re.compile(r"subsea|offshore|fpso|\brigs?\b|drill|\boil\b|\bgas\b|\bROV\b|vessel|\bPSV\b|AHTS|pipeline|LNG|field|reservoir|platform|Equinor|Aker BP|Vår Energi|DOF|Moreld|BW Energy|TechnipFMC|Subsea ?7|Saipem|Oceaneering|North Sea|Nordsjø", re.I)
 AFRICA = re.compile(r"Africa|Afrika|Angola|Nigeria|Mozambique|Namibia|Ghana|Senegal|Egypt|Ivory Coast|Côte d.Ivoire|Congo|Gabon|Cameroon|Tanzania|Mauritania|Equatorial Guinea|Libya|Algeria", re.I)
 NORDIC = re.compile(r"Norw|Norge|North Sea|Nordsjø|Barents|Denmark|Danish|Iceland|Faroe|Sweden|Swedish|Finland|Equinor|Aker BP|Vår Energi|Okea|Hammerfest|Bergen|Stavanger|Trondheim", re.I)
+# Stricter test for broad shipping feeds, where "oil" or "gas" alone usually means tankers
+OFFSHORE_STRICT = re.compile(r"subsea|offshore|fpso|\brigs?\b|drill|\bROV\b|\bPSV\b|AHTS|\bCSV\b|\bIMR\b|platform|field development|Equinor|Aker BP|Vår Energi|DOF|Moreld|BW Energy|BW Offshore|TechnipFMC|Subsea ?7|Saipem|Oceaneering|North Sea|Nordsjø", re.I)
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
 UA = "Mozilla/5.0 (infoskjerm; +https://github.com)"
@@ -75,6 +77,8 @@ def load_feed(f):
             if m:
                 source, title = m.group(1), title[:m.start()]
         source = source or f["name"]
+        if title.endswith(" - " + source):
+            title = title[: -(len(source) + 3)]
         desc = it.findtext("description") or ""
         summary = strip(desc)
         if summary.startswith(title):
@@ -99,7 +103,7 @@ def load_feed(f):
                 tag, cls, weight = "Offshore · Norden", "t-norden", weight + 1
             else:
                 tag, cls = "Offshore · Globalt", "t-global"
-        if f.get("only_offshore") and not OFFSHORE.search(text):
+        if f.get("only_offshore") and not OFFSHORE_STRICT.search(text):
             continue
         out.append({"tag": tag, "cls": cls, "weight": weight, "title": title, "source": source,
                     "summary": summary[:260], "img": img if img.startswith("http") else "", "date": iso(date)})
