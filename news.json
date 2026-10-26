@@ -1,8 +1,18 @@
 {
- "updated": "2026-10-26T12:29:06.420461+00:00",
+ "updated": "2026-10-26T18:45:43.596758+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "NOTIFICATION OF MAJOR HOLDINGS ",
+   "source": "Borr Drilling Limited",
+   "summary": "Please see attachment on www.newsweb.no",
+   "img": "",
+   "date": "2026-10-26T14:26:16.658Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,14 +74,34 @@
    "date": "2026-10-23T12:44:38.972Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
+   "source": "Offshore Energy",
+   "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894386204-860x857-430x428.png?prefix=media",
+   "date": "2026-10-26T14:17:24+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
+   "source": "Offshore Energy",
+   "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
+   "img": "https://offshore-energy.biz/api/media/file/Reach%20Subsea%20and%20Eidesvik's%202009-built%20IMR%20vessel%20delivered%20to%20new%20owner-1600x1066.jpg?prefix=media",
+   "date": "2026-10-26T13:51:17+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Invitation to OKEA's third quarter conference call, 3 November 2026",
-   "source": "OKEA ASA",
-   "summary": "(Trondheim, 23 October 2026) OKEA ASA (OSE: OKEA) will publish its financial report for the third quarter of 2026 on Tuesday 3 November at 06:00 CET.",
-   "img": "",
-   "date": "2026-10-23T10:00:18.176Z"
+   "title": "Tight reservoirs on Equinor and Aker BP’s agenda amid Norway’s 2.8-billion-boe potential",
+   "source": "Offshore Energy",
+   "summary": "Equinor and Aker BP have joined forces to unlock the recovery potential of tight oil and gas reservoirs on the Norwegian Continental Shelf (NCS).",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784732343930-1024x512-512x256.png?prefix=media",
+   "date": "2026-10-26T13:08:31+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -127,21 +157,21 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Yinson Production, PTSC cheer FSO’s first oil at Southeast Asian project",
-   "source": "Offshore Energy",
-   "summary": "Yinson Production and PTSC have achieved first oil ahead of schedule at a floating storage and offloading (FSO) vessel deployed offshore Vietnam.",
-   "img": "https://offshore-energy.biz/api/media/file/FSO%20PTSC%20LDV%20moored%20offshore%20at%20Block%2015-1%2005%20in%20Vietnam%20Source%20Yinson%20Production-1600x900.png?prefix=media",
-   "date": "2026-10-23T13:08:37+00:00"
+   "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
+   "source": "gCaptain Offshore",
+   "summary": "At a shipyard in northern Singapore, a yellow platform towers over a maze of scaffolding and cranes. Resembling a 15-story building, the piece will be shipped halfway around the world to Europe to be installed into an offshore wind farm.",
+   "img": "",
+   "date": "2026-10-26T18:22:16+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "DOF opts to sell 2018-built subsea vessel as attractive offer emerges",
-   "source": "Offshore Energy",
-   "summary": "Norway's DOF Group is selling its 2018-built subsea construction vessel (CSV) Skandi Implementer to an undisclosed buyer. Mons S. Aase , CEO of...",
-   "img": "https://offshore-energy.biz/api/media/file/skandi-1324x748.jpg?prefix=media",
-   "date": "2026-10-23T12:54:06+00:00"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
+   "source": "gCaptain Offshore",
+   "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
+   "img": "",
+   "date": "2026-10-26T16:17:46+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -206,26 +236,6 @@
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
-   "weight": 2,
-   "title": "Hornbeck and Helix Complete Merger, Creating Offshore Services Giant",
-   "source": "gCaptain Offshore",
-   "summary": "Hornbeck Offshore Services and Helix Energy Solutions Group have completed their previously announced all-stock merger, creating a larger offshore services company spanning marine transportation, subsea services, well intervention and robotics....",
-   "img": "",
-   "date": "2026-09-01T15:44:05+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "California Sues Trump Administration Over $120 Million Offshore Wind Buyout",
-   "source": "gCaptain Offshore",
-   "summary": "California has sued the Trump administration over its deal to cancel a planned 2-gigawatt floating offshore wind project off the state’s Central Coast, challenging the administration’s increasingly aggressive strategy of...",
-   "img": "",
-   "date": "2026-08-31T15:10:49+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
    "weight": 1,
    "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
    "source": "Splash247",
@@ -242,16 +252,6 @@
    "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest extensions will keep the 2012-built Havila Cha",
    "img": "https://splash247.com/wp-content/uploads/2023/11/Havila-Charisma.jpg",
    "date": "2026-10-26T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Perenco UK completes subsea well decommissioning campaign in North Sea",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-19T15:30:48+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -294,6 +294,16 @@
    "date": "2026-10-21T10:42:42+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Subsea cable to link Norway and Canada, bypassing the US",
+   "source": "mediasat.info",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-20T13:20:20+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -302,16 +312,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-22T20:01:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Which Oil Major Is Best Positioned for Africa's Offshore Growth?",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-19T12:30:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +347,26 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Midtnytt: Alle må øve på beredskap",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/KO75-NtTdET2A5yFoeqtpgTEP3Eza95uTyD3Y1vU96GA.jpg",
+   "date": "2026-10-26T18:13:02+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Begynte å bruke KI i 2022 – dette har skjedd med karak­terene",
+   "source": "NRK Trøndelag",
+   "summary": "­",
+   "img": "https://gfx.nrk.no/exoBriSs2WoYxFhHLGE8qQyjMD37X_WSNoKYpxWlNQWg.jpg",
+   "date": "2026-10-26T15:13:11+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Send inn forslag: Hvem er Årets trønder og Årets hverdagshelt?",
    "source": "NRK Trøndelag",
    "summary": "Nå kan du igjen avgjøre hvem som fortjener ekstra heder.",
@@ -357,71 +377,51 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Innstilte ferjer skal ikke lenger gi lønnstrekk",
+   "title": "Fascinerende tanke­eksperiment i under­holdende roman – les anmeldelse",
    "source": "NRK Trøndelag",
    "summary": "",
-   "img": "https://gfx.nrk.no/s-ZLoUaHocr77QzilRWZpgV3iFDrv7b4HC8og1itsU0g.jpg",
-   "date": "2026-10-25T20:05:55+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Plater blåste ned fra bygg",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/sPYQo1zWuhk79vFv07Ij7w1tK9YRnI-5ac0cjIcBSkAQ.jpg",
-   "date": "2026-10-25T16:49:45+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "RBKs superduo sørget for borteseier",
-   "source": "NRK Trøndelag",
-   "summary": "Rosenborg vinner og vinner, og lørdag var Emil Konradsen Ceïde og Amin Chiakha i storform da laget vant 3-0 mot HamKam.",
-   "img": "https://gfx.nrk.no/wZ6Iqk9PcprRpjPmRomvuQ_nFofoPHPV5k_7NbWthMzQ.jpg",
-   "date": "2026-10-24T18:08:41+00:00"
+   "img": "https://gfx.nrk.no/TTx9ima7lF5rSY1b9zxPbwjxYaLfp4vj7Z6eObwnzaHg.jpg",
+   "date": "2026-10-26T16:38:20+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sparta skylder 21 millioner: Rapport sendt til politiet",
+   "title": "Den skjulte kampen om Gullballen",
    "source": "NRK",
-   "summary": "189 ulike kreditorer har kommet med krav etter konkursen i hockeylaget i Sarpsborg. Bostyrer har funnet mulige straffbare forhold knyttet til økonomi.",
-   "img": "https://gfx.nrk.no/bvFaYnUnkasbRMkLr8-uWgWxChepNQsmINubBFJ2DJTg.jpg",
-   "date": "2026-10-26T11:19:42+00:00"
+   "summary": "Fotballstjernenes største drøm er Gullballen. Men prisen for verdens beste spiller har ført til boikott, drapstrusler og politiske kampanjer.",
+   "img": "https://gfx.nrk.no/ZivVOfVH6bSm3SAU12i73Aw3M07p0qY3GJsxptLJ6yTA.jpg",
+   "date": "2026-10-26T17:23:37+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sperrer av område i Oslo sentrum – frykter krankollaps",
+   "title": "Bjørnen rakk å gå i hi tre ganger – så kom endelig avslaget på fellingstillatelsen",
    "source": "NRK",
-   "summary": "Politiet har også evakuert bygg i området.",
-   "img": "https://gfx.nrk.no/-1r1dt8P8P_P2GddnOJ5jwUsZeKJ76SD8bmuIdPVj1NA.jpg",
-   "date": "2026-10-26T11:35:41+00:00"
+   "summary": "Da kommunen klagde på avslaget for fellingstillatelse på bjørn, kom svaret fra Miljødirektoratet først tre år senere.",
+   "img": "https://gfx.nrk.no/JONqSKeL7e5Jx5llqYFZ4AhXdHnq_NrX8lZV3c2kig5Q.jpg",
+   "date": "2026-10-26T13:20:42+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Braathen røper klesutfordring: – Det er heilt krise opplegg",
+   "title": "Elon (15) om regjeringens nye leseliste: – Kjenner ingen av dem",
    "source": "NRK",
-   "summary": "Lucas Pinheiro Braathen er ein ettertrakta fyr med ski på beina, men også i moteverda. Det skapar utfordringar med fleire månadar på reisefot.",
-   "img": "https://gfx.nrk.no/nr2btHrZVCC5xeAOJNaL7gIzPwS0-luQfOLlTAaU2G8w.jpg",
-   "date": "2026-10-26T10:57:21+00:00"
+   "summary": "Fra Henrik Ibsen til Karpe: Kunnskapsministeren mener oppdateringen vil løfte norskfaget. Professor synes flere av tekstene er dårlige.",
+   "img": "https://gfx.nrk.no/FWFUTRgP4OlRqtvSi4jLjQ_6D9qmk3KVxwO1Pnw3KK4g.jpg",
+   "date": "2026-10-26T16:13:47+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Vannmangel i Sør-Varanger: Må rasjonere drikkevann på butikken",
+   "title": "Bloomberg: Microsoft skal kutte 60.000 ansatte",
    "source": "NRK",
-   "summary": "Sør-Varanger er igjen rammet av en stor vannlekkasje. Sykehuset er satt i rød beredskap og skoler holder stengt. Kommunen ber innbyggerne å rasjonere på vannet og hjelpe hverandre.",
-   "img": "https://gfx.nrk.no/ZFS3AEoTh3HrguFQZVWAgAR85-S4MGTNj5X73bqml0-g.jpg",
-   "date": "2026-10-26T08:23:12+00:00"
+   "summary": "Tek-selskapet Microsoft har tilbudt 60.000 ansatte sluttpakker, skriver Bloomberg. Tilbudet kommer fram i internt notat som ble sendt ut til de ansatte mandag fra selskapets HR-sjef Amy Coleman. Ifølge AFP omfatter sluttpakketilbudet selskapets ansatte i USA, ",
+   "img": "",
+   "date": "2026-10-26T15:43:17+00:00"
   }
  ]
 }
