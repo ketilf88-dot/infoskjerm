@@ -27,9 +27,9 @@ FEEDS = [
      "url": "https://gcaptain.com/category/offshore-news/feed/"},
     {"name": "Splash247", "weight": 1, "region": True, "only_offshore": True,
      "url": "https://splash247.com/feed/"},
-    {"name": "Subsea Norden", "weight": 2, "region": True,
+    {"name": "Subsea Norden", "weight": 2, "region": True, "max": 5,
      "url": "https://news.google.com/rss/search?q=subsea+(Norway+OR+%22North+Sea%22+OR+Equinor+OR+Barents)+when:7d&hl=en&gl=NO&ceid=NO:en"},
-    {"name": "Subsea Afrika", "weight": 2, "region": True,
+    {"name": "Subsea Afrika", "weight": 2, "region": True, "max": 5,
      "url": "https://news.google.com/rss/search?q=subsea+(Africa+OR+Angola+OR+Nigeria+OR+Mozambique+OR+Namibia+OR+Ghana)+when:7d&hl=en&gl=US&ceid=US:en"},
     {"name": "NRK Trøndelag", "tag": "Trøndelag", "cls": "t-trond", "weight": 1, "max": 4,
      "url": "https://www.nrk.no/trondelag/toppsaker.rss"},
@@ -112,6 +112,30 @@ def load_feed(f):
     return out
 
 
+def short(text, limit=260):
+    """First sentences of text, at most limit characters."""
+    text = text.strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    end = max(cut.rfind(". "), cut.rfind("! "), cut.rfind("? "))
+    return cut[: end + 1] if end > 80 else cut.rsplit(" ", 1)[0] + " …"
+
+
+def bors_summary(m):
+    """Opening of the announcement text. Empty if Newsweb does not answer."""
+    mid = m.get("messageId") or m.get("id")
+    if not mid:
+        return ""
+    try:
+        data = json.loads(get(f"https://api3.oslo.oslobors.no/v1/newsreader/message?messageId={mid}"))
+        body = ((data.get("data") or {}).get("message") or {}).get("body") or ""
+        return short(strip(body))
+    except Exception as e:
+        print(f"Oslo Børs: fikk ikke meldingstekst for {mid}: {e}", file=sys.stderr)
+        return ""
+
+
 def load_bors():
     today = datetime.now(timezone.utc).date()
     q = urllib.parse.urlencode({"category": "", "issuer": "", "market": "", "messageTitle": "",
@@ -133,7 +157,7 @@ def load_bors():
         if not (want.search(name) or want.search(title)):
             continue
         out.append({"tag": BORS["tag"], "cls": BORS["cls"], "weight": BORS["weight"] + (1 if AFRICA.search(name + title) else 0),
-                    "title": title, "source": name or m.get("issuerSign") or "Oslo Børs", "summary": "", "img": "",
+                    "title": title, "source": name or m.get("issuerSign") or "Oslo Børs", "summary": bors_summary(m), "img": "",
                     "date": m.get("publishedTime") or iso(datetime.now(timezone.utc))})
         if len(out) >= BORS["max"]:
             break
@@ -150,11 +174,14 @@ def main():
         except Exception as e:
             print(f"{name}: FEIL {e}", file=sys.stderr)
             failed.append(name)
-    seen, unique = set(), []
+    # Drop stories whose headline mostly repeats one already kept (the same news from several outlets)
+    kept_words, unique = [], []
     for n in items:
-        if n["title"] and n["title"] not in seen:
-            seen.add(n["title"])
-            unique.append(n)
+        words = {w for w in re.findall(r"\w+", n["title"].lower()) if len(w) > 3}
+        if not n["title"] or any(len(words & k) >= 0.6 * min(len(words), len(k)) for k in kept_words if words and k):
+            continue
+        kept_words.append(words)
+        unique.append(n)
     with open("news.json", "w", encoding="utf-8") as fh:
         json.dump({"updated": iso(datetime.now(timezone.utc)), "sources": 1 + len(FEEDS), "failed": failed,
                    "items": unique}, fh, ensure_ascii=False, indent=1)
