@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:26:20.979338+00:00",
+ "updated": "2026-10-26T12:27:57.457776+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -9,17 +9,7 @@
    "weight": 3,
    "title": "Reach Subsea ASA - Completion of Viking Reach sale",
    "source": "Reach Subsea ASA",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T10:30:00.000Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "EIOF - Sale of IMR vessel Viking Reach completed",
-   "source": "Eidesvik Offshore ASA",
-   "summary": "",
+   "summary": "Further to the stock exchange notices published on 4 August 2026, Reach Subsea confirms that the IMR vessel Viking Reach has been delivered to the new owners and that the transaction has been completed.",
    "img": "",
    "date": "2026-10-26T10:30:00.000Z"
   },
@@ -29,7 +19,7 @@
    "weight": 3,
    "title": "Partnering to develop challenging discoveries",
    "source": "Aker BP ASA",
-   "summary": "",
+   "summary": "Equinor and Aker BP enter into a strategic collaboration on tight reservoirs on the Norwegian Continental Shelf.",
    "img": "",
    "date": "2026-10-26T10:00:09.546Z"
   },
@@ -39,7 +29,7 @@
    "weight": 3,
    "title": "Panoro Energy - Drilling Rig Incident on Dussafu",
    "source": "Panoro Energy ASA",
-   "summary": "",
+   "summary": "Oslo, 25 October 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") confirms with profound sadness that an incident occurred on the Dussafu Marin Permit (\"Dussafu\") offshore Gabon at 20:37 local time on Saturday 24 October 2026, involving the jack-up …",
    "img": "",
    "date": "2026-10-25T08:36:13.615Z"
   },
@@ -47,19 +37,9 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "BW Energy: Drilling rig incident on the Dussafu licence",
-   "source": "BW Energy Limited",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-25T06:24:03.767Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "Borr Drilling Limited - Prospector 5 Rig Incident",
    "source": "Borr Drilling Limited",
-   "summary": "",
+   "summary": "Hamilton, Bermuda, October 25, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\") confirms that an incident occurred at approximately 20:37 local time on October 24, 2026 involving the Prospector 5 drilling rig while conducting jacking …",
    "img": "",
    "date": "2026-10-25T06:08:39.873Z"
   },
@@ -69,7 +49,7 @@
    "weight": 3,
    "title": "Major Shareholding Disclosure",
    "source": "Panoro Energy ASA",
-   "summary": "",
+   "summary": "JPMorgan Chase & Co. (\"JPMC \") has a notifiable interest in the share capital of Panoro Energy ASA as a result of trades by its subsidiary J.P. Morgan Securities PLC.",
    "img": "",
    "date": "2026-10-23T14:43:10.306Z"
   },
@@ -79,7 +59,7 @@
    "weight": 3,
    "title": "Havila Shipping ASA: Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight",
    "source": "Havila Shipping ASA",
-   "summary": "",
+   "summary": "Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight Following the exercise, Havila Charisma has contract until 16 December 2027, Havila Foresight until 1 January 2028.",
    "img": "",
    "date": "2026-10-23T13:50:49.474Z"
   },
@@ -87,19 +67,9 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Havila Shipping ASA: Equinor Energy har erklært ett års opsjon for PSV-ene Havila Charisma og Havila Foresight",
-   "source": "Havila Shipping ASA",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-23T13:50:49.473Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "DOF Group ASA - Sale of vessel",
    "source": "DOF Group ASA",
-   "summary": "",
+   "summary": "DOF Group ASA (\"DOF\") has agreed to sell the 2018-built subsea construction vessel Skandi Implementer to an undisclosed buyer. The vessel is planned to be delivered to its new owner in Q2 2027.",
    "img": "",
    "date": "2026-10-23T12:44:38.972Z"
   },
@@ -152,16 +122,6 @@
    "summary": "Keppel’s RigCo has enlisted Seatrium to finish construction of four premium offshore rigs in a deal worth over S$500 million ($391 million).",
    "img": "https://offshore-energy.biz/api/media/file/Illustration%20Keppel-700x1050.png?prefix=media",
    "date": "2026-10-26T07:01:33+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Rig incident: 110 rescued, 5 still missing after Borr Drilling’s jack-up sinks off Gabon coast",
-   "source": "Offshore Energy",
-   "summary": "The search is ongoing for offshore workers, who remain unaccounted for following a punch-through incident at a 2014-built rig offshore Gabon.",
-   "img": "https://offshore-energy.biz/api/media/file/Prospector%205%20Source%20Borr%20Drilling-1240x826.png?prefix=media",
-   "date": "2026-10-25T07:49:04+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -334,36 +294,6 @@
    "date": "2026-10-21T10:42:42+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Subsea cable to link Norway and Canada, bypassing the US",
-   "source": "mediasat.info",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-20T13:20:20+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
-   "source": "TradingView",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-21T12:13:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor: successful bids for three new licences offshore Newfoundland",
-   "source": "Oilfield Technology",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-23T07:00:00+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -412,36 +342,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-22T15:24:41+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DOF Group Secures African Subsea Installation Contract for Skandi Acergy - News and Statistics",
-   "source": "IndexBox",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T10:22:15+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DOF Gets Deepwater Subsea Installation Job in Africa",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:27:48+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Dof Group Wins Subsea Installation Contract In Africa",
-   "source": "TradingView",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:18:37+00:00"
   },
   {
    "tag": "Trøndelag",
