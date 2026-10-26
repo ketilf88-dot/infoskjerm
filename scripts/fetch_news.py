@@ -112,6 +112,10 @@ def load_feed(f):
     return out
 
 
+# Routine stock exchange notices that are not news for the office screen
+BORS_SKIP = re.compile(r"shareholding|disclosure of large|mandatory notification|primary insider|close associate|share buy-?back|own shares|financial calendar|ex[- ]dividend|key information relating|flagging|meldepliktig|innsidehandel|tilbakekjøp", re.I)
+
+
 def short(text, limit=260):
     """First sentences of text, at most limit characters."""
     text = text.strip()
@@ -154,7 +158,7 @@ def load_bors():
     out = []
     for m in msgs:
         name, title = m.get("issuerName") or "", m.get("title") or ""
-        if not (want.search(name) or want.search(title)):
+        if not (want.search(name) or want.search(title)) or BORS_SKIP.search(title):
             continue
         out.append({"tag": BORS["tag"], "cls": BORS["cls"], "weight": BORS["weight"] + (1 if AFRICA.search(name + title) else 0),
                     "title": title, "source": name or m.get("issuerSign") or "Oslo Børs", "summary": bors_summary(m), "img": "",
