@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:45:43.596758+00:00",
+ "updated": "2026-10-26T22:56:27.528997+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -297,11 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Subsea cable to link Norway and Canada, bypassing the US",
-   "source": "mediasat.info",
+   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
+   "source": "The Globe and Mail",
    "summary": "",
    "img": "",
-   "date": "2026-10-20T13:20:20+00:00"
+   "date": "2026-10-21T14:17:08+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -327,16 +327,6 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:13:49+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Skandi Acergy to carry out DOF subsea contract in Africa",
    "source": "Inspenet",
    "summary": "",
@@ -344,14 +334,14 @@
    "date": "2026-10-22T15:24:41+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Alle må øve på beredskap",
-   "source": "NRK Trøndelag",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DOF Gets Deepwater Subsea Installation Job in Africa",
+   "source": "Offshore Engineer Magazine",
    "summary": "",
-   "img": "https://gfx.nrk.no/KO75-NtTdET2A5yFoeqtpgTEP3Eza95uTyD3Y1vU96GA.jpg",
-   "date": "2026-10-26T18:13:02+00:00"
+   "img": "",
+   "date": "2026-10-22T09:27:48+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -377,6 +367,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Midtnytt: Alle må trene på beredskap",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
+   "date": "2026-10-26T19:52:47+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Fascinerende tanke­eksperiment i under­holdende roman – les anmeldelse",
    "source": "NRK Trøndelag",
    "summary": "",
@@ -387,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Arne var 12 år da han ble fanget av nazistene",
+   "source": "NRK",
+   "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. 94 år gamle Arne Eilertsen var bare barnet da han ble arrestert.",
+   "img": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3E9tLlfTbhdEw.jpg",
+   "date": "2026-10-26T20:45:18+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Glimt nådde ikke opp i prestisjekåring: – Overveldende",
+   "source": "NRK",
+   "summary": "Bodø/Glimt gikk glipp av prisen som årets klubb i verden under Gullballen-utdelingen mandag kveld. Likevel var det en spesiell kveld for den norske klubben.",
+   "img": "https://gfx.nrk.no/6BvDPSO5rKwXNE7KO45daQLX5YSYuhEPCLMxaTgd5sww.jpg",
+   "date": "2026-10-26T19:00:07+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Haaland nådde ikkje opp – Harry Kane kåra til verdas beste",
+   "source": "NRK",
+   "summary": "Erling Braut Haaland hang lenge med, men vart for liten når verdas beste spelar skulle bli kåra.",
+   "img": "https://gfx.nrk.no/xEeF3XAszWNEn3up7PQmFAX9x4S7aCl02tW8xuMLIs_A.jpg",
+   "date": "2026-10-26T18:40:11+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Den skjulte kampen om Gullballen",
    "source": "NRK",
    "summary": "Fotballstjernenes største drøm er Gullballen. Men prisen for verdens beste spiller har ført til boikott, drapstrusler og politiske kampanjer.",
    "img": "https://gfx.nrk.no/ZivVOfVH6bSm3SAU12i73Aw3M07p0qY3GJsxptLJ6yTA.jpg",
    "date": "2026-10-26T17:23:37+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Bjørnen rakk å gå i hi tre ganger – så kom endelig avslaget på fellingstillatelsen",
-   "source": "NRK",
-   "summary": "Da kommunen klagde på avslaget for fellingstillatelse på bjørn, kom svaret fra Miljødirektoratet først tre år senere.",
-   "img": "https://gfx.nrk.no/JONqSKeL7e5Jx5llqYFZ4AhXdHnq_NrX8lZV3c2kig5Q.jpg",
-   "date": "2026-10-26T13:20:42+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Elon (15) om regjeringens nye leseliste: – Kjenner ingen av dem",
-   "source": "NRK",
-   "summary": "Fra Henrik Ibsen til Karpe: Kunnskapsministeren mener oppdateringen vil løfte norskfaget. Professor synes flere av tekstene er dårlige.",
-   "img": "https://gfx.nrk.no/FWFUTRgP4OlRqtvSi4jLjQ_6D9qmk3KVxwO1Pnw3KK4g.jpg",
-   "date": "2026-10-26T16:13:47+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Bloomberg: Microsoft skal kutte 60.000 ansatte",
-   "source": "NRK",
-   "summary": "Tek-selskapet Microsoft har tilbudt 60.000 ansatte sluttpakker, skriver Bloomberg. Tilbudet kommer fram i internt notat som ble sendt ut til de ansatte mandag fra selskapets HR-sjef Amy Coleman. Ifølge AFP omfatter sluttpakketilbudet selskapets ansatte i USA, ",
-   "img": "",
-   "date": "2026-10-26T15:43:17+00:00"
   }
  ]
 }
