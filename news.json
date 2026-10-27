@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:40:25.078957+00:00",
+ "updated": "2026-10-27T22:36:58.913694+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,6 +267,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T22:50:26+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "North Sea Subsea Decom Campaign Wraps Up with Two Wells Abandoned",
    "source": "Offshore Engineer Magazine",
    "summary": "",
@@ -292,16 +302,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-21T12:13:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "UK regulator approves North Sea Jackdaw gas project",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-21T22:34:25+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -357,7 +357,7 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Politisk kommentator gir tiåringen ti av ti som lobbyist",
+   "title": "Lobbyisten Ingveig (10) sjarmerte politikerne - håper å berge Lille norske leksikon",
    "source": "NRK Trøndelag",
    "summary": "Da Ingveig (10) tok ordet på Stortinget gav hun det tydeligste inntrykket gjennom to lange dager med høringer, mener politiker.",
    "img": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQexvBv_rL4jSkgw.jpg",
@@ -397,6 +397,26 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Arsenal ydmyket av nivå fire-lag: – Det er ikke til å tro",
+   "source": "NRK",
+   "summary": "Arsenal og Martin Ødegaard gikk på en gedigen cupsmell lille Fleetwood Town.",
+   "img": "https://gfx.nrk.no/N0kS7MnXOVoJQk2ddqnAmQw8K7GJ5TWyLk86xZ2BehhA.jpg",
+   "date": "2026-10-27T20:52:48+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Vannet tilbake i Kirkenes",
+   "source": "NRK",
+   "summary": "Samtlige innbyggere i Sør-Varanger i Finnmark har nå fått vannet tilbake. Vannet har vært borte i to dager etter et omfattende brudd i hovedvannledningen. Kommunen varsler at vannet fortsatt må kokes i flere dager fremover. Alle skoler, barnehager og SFO vil h",
+   "img": "https://gfx.nrk.no/Ias7c3SqH_5O9sq7vXl6sQ-7X7ww8UyG8gz94Vcvjptg.jpg",
+   "date": "2026-10-27T19:34:51+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Denne kjempegjedda gikk på kroken",
    "source": "NRK",
    "summary": "Fisketuren gikk over all forventning for Glenn Evensen (18). Men det betyr ikke at middagen er sikret i ukene fremover.",
@@ -412,26 +432,6 @@
    "summary": "Skandalescenene frå Åråsen blir slått kraftig ned på av Vålerenga. Dei første sanksjonane har komme – og fleire vil det bli.",
    "img": "https://gfx.nrk.no/bJ3CdwM9fh2rcSJdz-_cLwfJnhVnTdr6deATVVTi3fjg.jpg",
    "date": "2026-10-27T17:48:11+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Full brann i bolig i Horten – uavklart om noen er inne",
-   "source": "NRK",
-   "summary": "Brannvesenet har søkt i deler av huset, men kan ikke lenger ta seg inn på grunn av de kraftige flammene. Det er fortsatt uavklart om noen befinner seg inne i bygget",
-   "img": "https://gfx.nrk.no/USCmXuozdx0B09WdPfIY2QA2hb3VXUOh8EtFfqrYhkdw.jpg",
-   "date": "2026-10-27T16:59:00+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Somalia-tur i 2017 skaper trøbbel – New York Marathon kan ryke",
-   "source": "NRK",
-   "summary": "Søndag skal Øystein Pettersen og kona Ellen etter planen løpe New York maraton. Nå tyder det meste på at kona må reise alene.",
-   "img": "https://gfx.nrk.no/siA-fYItWmIFLvADAGBgdQsuWcDxcXcSv6oV5nXUSXOA.jpg",
-   "date": "2026-10-27T16:57:13+00:00"
   }
  ]
 }
