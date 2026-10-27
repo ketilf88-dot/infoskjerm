@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:10:14.777566+00:00",
+ "updated": "2026-10-27T18:40:25.078957+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -77,6 +77,26 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
+   "source": "Offshore Energy",
+   "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784736599630-750x500-600x400.png?prefix=media",
+   "date": "2026-10-27T14:21:49+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Fugro wins UXO survey contract for German offshore grid connections",
+   "source": "Offshore Energy",
+   "summary": "Fugro has been awarded a contract by 50Hertz to deliver unexploded ordnance (UXO) survey, identification and clearance services for the LanWin3...",
+   "img": "https://offshore-energy.biz/api/media/file/fugro-2-938x624.jpg?prefix=media",
+   "date": "2026-10-27T13:22:14+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "Accelerating operational excellence in offshore energy",
    "source": "Offshore Energy",
    "summary": "By- Nisha Lathif, General Manager, Oil and Gas,Honeywell Technologies With decades of expertise in addressing the complex needs of the energy...",
@@ -132,26 +152,6 @@
    "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
    "img": "https://offshore-energy.biz/api/media/file/T-16%20rig%20Source%20Energy%20Drilling-1600x1200.png?prefix=media",
    "date": "2026-10-27T08:39:50+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Siem Industries orders two subsea construction vessels from China",
-   "source": "Offshore Energy",
-   "summary": "Siem Industries has placed an order with a Chinese shipyard for two offshore subsea construction vessels (OSCVs) that will be 145 meters long....",
-   "img": "https://offshore-energy.biz/api/media/file/Siem%20Industries%20orders%20two%20subsea%20construction%20vessels%20from%20China-1567x779.jpg?prefix=media",
-   "date": "2026-10-27T08:13:53+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Eni gets the ball rolling on execution of Mediterranean gas project",
-   "source": "Offshore Energy",
-   "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894386204-860x857-430x428.png?prefix=media",
-   "date": "2026-10-26T14:17:24+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -294,6 +294,16 @@
    "date": "2026-10-21T12:13:00+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "UK regulator approves North Sea Jackdaw gas project",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-21T22:34:25+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -347,11 +357,21 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Rykka ut til brann i sponsilo i Stjørdal",
+   "title": "Politisk kommentator gir tiåringen ti av ti som lobbyist",
    "source": "NRK Trøndelag",
-   "summary": "Naudetatane rykka ut til Stjørdal etter melding om brann i ein sponsilo. Dei tilsette sløkte brannen sjølv.",
-   "img": "https://gfx.nrk.no/AfuizQjwMyqlG3tW8N2ATwqsUwU1KbYifkqrnMzZt6kw.jpg",
-   "date": "2026-10-27T11:27:07+00:00"
+   "summary": "Da Ingveig (10) tok ordet på Stortinget gav hun det tydeligste inntrykket gjennom to lange dager med høringer, mener politiker.",
+   "img": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQexvBv_rL4jSkgw.jpg",
+   "date": "2026-10-27T17:33:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Stram fylkesøkonomi i Trøndelag",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/hRzPdbu7myOB4fmmsvG3qgaXYBra9ZkrWkWRYZY_IPxA.jpg",
+   "date": "2026-10-27T18:11:46+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -367,61 +387,51 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Begynte å bruke KI i 2022 – dette har skjedd med karak­terene",
+   "title": "Rykka ut til brann i sponsilo i Stjørdal",
    "source": "NRK Trøndelag",
-   "summary": "­",
-   "img": "https://gfx.nrk.no/exoBriSs2WoYxFhHLGE8qQyjMD37X_WSNoKYpxWlNQWg.jpg",
-   "date": "2026-10-26T15:13:11+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Send inn forslag: Hvem er Årets trønder og Årets hverdagshelt?",
-   "source": "NRK Trøndelag",
-   "summary": "Nå kan du igjen avgjøre hvem som fortjener ekstra heder.",
-   "img": "https://gfx.nrk.no/u7E1SiGn1aU5EEgEKlY05QGpEB6999MHfhJiOXo1ofvg.jpg",
-   "date": "2026-10-26T07:05:05+00:00"
+   "summary": "Naudetatane rykka ut til Stjørdal etter melding om brann i ein sponsilo. Dei tilsette sløkte brannen sjølv.",
+   "img": "https://gfx.nrk.no/8ZupdvG85mDl_W8gRLBUFgFz6wCtixzlFJr5f7J40N7w.jpg",
+   "date": "2026-10-27T11:27:07+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Taterne krever forsoning fra staten: – Ble utsatt for meget grove overgrep",
+   "title": "Denne kjempegjedda gikk på kroken",
    "source": "NRK",
-   "summary": "Kirken vil ikke signere taternes opprop om en ny sannhets- og forsoningskommisjon. – Kirken har betydelig ansvar for uretten som er begått, mener forsker.",
-   "img": "https://gfx.nrk.no/XL4uVL5IspKMkmQu27BogAUgjqvA3Pz03w2qZiQgzdgg.jpg",
-   "date": "2026-10-27T12:41:55+00:00"
+   "summary": "Fisketuren gikk over all forventning for Glenn Evensen (18). Men det betyr ikke at middagen er sikret i ukene fremover.",
+   "img": "https://gfx.nrk.no/KxICHlj5v2gEevz7GOoe5wkqd-VtVitqYWTozpKEZC0A.jpg",
+   "date": "2026-10-27T17:22:38+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Ble rørt av kameratenes gest: – Det er verdt mye mer",
+   "title": "Harde sanksjonar etter Åråsen-bråket: Supporterar utestengde i opptil 50 kampar",
    "source": "NRK",
-   "summary": "Før lagkameratene stilte til start, stilte de opp for Aleksander Aamodt Kilde (34). Besøket hjemme i Innsbruck ble et lyspunkt etter nok et tungt tilbakeslag.",
-   "img": "https://gfx.nrk.no/_DG3e9SiTrnLppTjaIMDGAw7uv4Kxoir_uG4QH2b8cHg.jpg",
-   "date": "2026-10-27T11:32:18+00:00"
+   "summary": "Skandalescenene frå Åråsen blir slått kraftig ned på av Vålerenga. Dei første sanksjonane har komme – og fleire vil det bli.",
+   "img": "https://gfx.nrk.no/bJ3CdwM9fh2rcSJdz-_cLwfJnhVnTdr6deATVVTi3fjg.jpg",
+   "date": "2026-10-27T17:48:11+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Hjemmesykepleier stjal fra eldre – må betale over én million i erstatning",
+   "title": "Full brann i bolig i Horten – uavklart om noen er inne",
    "source": "NRK",
-   "summary": "Kvinnen fra Telemark stjal store mengder smykker fra de gamle pasientene mens hun var på jobb. Nå er hun dømt til fengsel.",
-   "img": "https://gfx.nrk.no/Ng-FDm0wAsScJtp8zgsPhgNw5U7Maj9qohfKHPXU8iRw.jpg",
-   "date": "2026-10-27T09:56:58+00:00"
+   "summary": "Brannvesenet har søkt i deler av huset, men kan ikke lenger ta seg inn på grunn av de kraftige flammene. Det er fortsatt uavklart om noen befinner seg inne i bygget",
+   "img": "https://gfx.nrk.no/USCmXuozdx0B09WdPfIY2QA2hb3VXUOh8EtFfqrYhkdw.jpg",
+   "date": "2026-10-27T16:59:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "«Profeten» må betale 300.000 til TV 2",
+   "title": "Somalia-tur i 2017 skaper trøbbel – New York Marathon kan ryke",
    "source": "NRK",
-   "summary": "Ifølge TV 2 må Christian Sønstebø og Carine Smeby Schackt dekke saksomkostningene til TV 2 på 300.000 kroner. Paret saksøkte mediehuset i kjølvannet av dokumentaren «Kollaps - profeten i Bærum», men trakk søksmålet dagen etter. Tirsdag morgen ble det avgjort i",
-   "img": "",
-   "date": "2026-10-27T09:31:17+00:00"
+   "summary": "Søndag skal Øystein Pettersen og kona Ellen etter planen løpe New York maraton. Nå tyder det meste på at kona må reise alene.",
+   "img": "https://gfx.nrk.no/siA-fYItWmIFLvADAGBgdQsuWcDxcXcSv6oV5nXUSXOA.jpg",
+   "date": "2026-10-27T16:57:13+00:00"
   }
  ]
 }
