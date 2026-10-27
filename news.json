@@ -1,8 +1,18 @@
 {
- "updated": "2026-10-27T07:01:52.080444+00:00",
+ "updated": "2026-10-27T13:10:14.777566+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Odfjell Drilling Ltd - Details for the Third Quarter of 2026 Webcast and Conference Call",
+   "source": "Odfjell Drilling Ltd",
+   "summary": "In connection with the Company's Third Quarter of 2026 earnings announcement on Tuesday 3 November 2026, Odfjell Drilling Ltd will host a webcast and conference call on the same day at 14:00hrs CET.",
+   "img": "",
+   "date": "2026-10-27T08:41:00.352Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,14 +74,74 @@
    "date": "2026-10-25T06:08:39.873Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Accelerating operational excellence in offshore energy",
+   "source": "Offshore Energy",
+   "summary": "By- Nisha Lathif, General Manager, Oil and Gas,Honeywell Technologies With decades of expertise in addressing the complex needs of the energy...",
+   "img": "https://offshore-energy.biz/api/media/file/HT%20AD%20graphic%201920x1920-2-1600x1600.png?prefix=media",
+   "date": "2026-10-27T12:12:32+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Havila Shipping ASA: Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight",
-   "source": "Havila Shipping ASA",
-   "summary": "Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight Following the exercise, Havila Charisma has contract until 16 December 2027, Havila Foresight until 1 January 2028.",
-   "img": "",
-   "date": "2026-10-23T13:50:49.474Z"
+   "title": "Go-ahead for North Sea wildcat clears path for Equinor’s drilling ops with COSL rig",
+   "source": "Offshore Energy",
+   "summary": "Norwegian authorities have approved a new hydrocarbon exploration well, continuing the country's active drilling program.",
+   "img": "https://offshore-energy.biz/api/media/file/COSL%20Promoter%3B%20Source%20COSL%20Drilling%20Europe-750x540.png?prefix=media",
+   "date": "2026-10-27T12:10:52+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Former IMR ship strengthens Asso.subsea's fleet as trenching support vessel",
+   "source": "Offshore Energy",
+   "summary": "Greece’s Asso.subsea has taken delivery of the new addition to its fleet, the trenching support vessel (TSV) Arete, previously the inspection,...",
+   "img": "https://offshore-energy.biz/api/media/file/arete-778x601.jpg?prefix=media",
+   "date": "2026-10-27T11:31:17+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Dolphin Drilling parts ways with 52-year-old rig and forges pact with SPM",
+   "source": "Offshore Energy",
+   "summary": "Dolphin Drilling has sealed a deal to divest its 1974-built rig for up to $25 million and formed a strategic partnership with SPM.",
+   "img": "https://offshore-energy.biz/api/media/file/Blackford%20Dolphin%20Source%20Dolphin%20Drilling-1600x1059.jpg?prefix=media",
+   "date": "2026-10-27T10:01:18+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Fugro's 18-meter USV on survey duty at 'world's longest interconnector'",
+   "source": "Offshore Energy",
+   "summary": "Fugro's 18-meter Blue Eclipse uncrewed surface vessel (USV) is carrying out an environmental survey for the 1.4 GW Viking Link high-voltage...",
+   "img": "https://offshore-energy.biz/api/media/file/fugro-1-1217x686.jpg?prefix=media",
+   "date": "2026-10-27T09:46:49+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Energy Drilling lines up 30-month job to keep its rig busy through 2030",
+   "source": "Offshore Energy",
+   "summary": "Energy Drilling has secured a multimillion-dollar offshore drilling campaign in Southeast Asia for its 2013-built rig, ensuring work until decade-end.",
+   "img": "https://offshore-energy.biz/api/media/file/T-16%20rig%20Source%20Energy%20Drilling-1600x1200.png?prefix=media",
+   "date": "2026-10-27T08:39:50+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Siem Industries orders two subsea construction vessels from China",
+   "source": "Offshore Energy",
+   "summary": "Siem Industries has placed an order with a Chinese shipyard for two offshore subsea construction vessels (OSCVs) that will be 145 meters long....",
+   "img": "https://offshore-energy.biz/api/media/file/Siem%20Industries%20orders%20two%20subsea%20construction%20vessels%20from%20China-1567x779.jpg?prefix=media",
+   "date": "2026-10-27T08:13:53+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -82,76 +152,6 @@
    "summary": "Eni has kicked off the execution phase of Cyprus's 3 trillion cubic feet (tcf) gas project, targeting first production by H1 2028.",
    "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894386204-860x857-430x428.png?prefix=media",
    "date": "2026-10-26T14:17:24+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Reach Subsea and Eidesvik's 2009-built IMR vessel delivered to new owners",
-   "source": "Offshore Energy",
-   "summary": "A joint venture of Reach Subsea and Eidesvik Offshore has delivered the 2009-built, 85-meter-long inspection, maintenance and repair (IMR) vessel...",
-   "img": "https://offshore-energy.biz/api/media/file/Reach%20Subsea%20and%20Eidesvik's%202009-built%20IMR%20vessel%20delivered%20to%20new%20owner-1600x1066.jpg?prefix=media",
-   "date": "2026-10-26T13:51:17+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Tight reservoirs on Equinor and Aker BP’s agenda amid Norway’s 2.8-billion-boe potential",
-   "source": "Offshore Energy",
-   "summary": "Equinor and Aker BP have joined forces to unlock the recovery potential of tight oil and gas reservoirs on the Norwegian Continental Shelf (NCS).",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784732343930-1024x512-512x256.png?prefix=media",
-   "date": "2026-10-26T13:08:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "AI solutions to track wildlife at Welsh 30 MW tidal energy project",
-   "source": "Offshore Energy",
-   "summary": "UK's Inyanga Marine Energy Group is set to deploy AI-driven wildlife detection solutions to its tidal stream energy project at Morlais in Wales....",
-   "img": "https://offshore-energy.biz/api/media/file/AI%20solutions%20to%20track%20wildlife%20at%20Welsh%2030%20MW%20tidal%20energy%20project-1280x963.jpg?prefix=media",
-   "date": "2026-10-26T11:41:38+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Rig sinking incident: Search continues for five missing as 'robust' probe looms",
-   "source": "Offshore Energy",
-   "summary": "Borr Drilling has emphasized that search and rescue mission for five offshore workers that are still missing remains the “overriding priority.”",
-   "img": "https://offshore-energy.biz/api/media/file/Prospector%205%20Source%20Borr%20Drilling-1240x826.png?prefix=media",
-   "date": "2026-10-26T10:37:33+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Minesto enters MoU in Maldives for tidal energy development",
-   "source": "Offshore Energy",
-   "summary": "Swedish ocean energy developer Minesto has signed a memorandum of understanding (MoU) with Morteza Capital, a Maldives- and Indian Ocean-focused...",
-   "img": "https://offshore-energy.biz/api/media/file/Minesto%20enters%20MoU%20in%20Maldives%20for%20tidal%20energy%20development-1174x657.jpg?prefix=media",
-   "date": "2026-10-26T09:49:39+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Samsung Heavy Industries unveils Canada-tailored FLNG solution",
-   "source": "Offshore Energy",
-   "summary": "SHI is streamlining LNG development with a standardized FLNG platform, while strengthening local partnerships across Canada's energy sector.",
-   "img": "https://offshore-energy.biz/api/media/file/FLNG%20Megugu%20being%20constructed%20at%20SHI%20for%20Cedar%20LNG%20Source%20SHI-1240x827.png?prefix=media",
-   "date": "2026-10-26T09:04:49+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Seatrium rakes in millions with Keppel’s RigCo to revive four stranded rigs",
-   "source": "Offshore Energy",
-   "summary": "Keppel’s RigCo has enlisted Seatrium to finish construction of four premium offshore rigs in a deal worth over S$500 million ($391 million).",
-   "img": "https://offshore-energy.biz/api/media/file/Illustration%20Keppel-700x1050.png?prefix=media",
-   "date": "2026-10-26T07:01:33+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -236,12 +236,22 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor Scales Back Troll Project to Preserve European Gas Supplies",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-20T12:30:00+00:00"
+   "weight": 2,
+   "title": "Fugro to hunt for unexploded munitions along North Sea cable routes",
+   "source": "Splash247",
+   "summary": "Dutch survey specialist Fugro has secured a contract from German transmission system operator 50Hertz to survey and clear unexploded ordnance along the routes of two offshore wind grid connections in the North Sea. The contract covers the LanWin3 and LanWin6 h",
+   "img": "https://splash247.com/wp-content/uploads/2023/10/Fugro-survey-vessel.jpg",
+   "date": "2026-10-27T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Eni locks in offshore contractors for Cyprus gas project",
+   "source": "Splash247",
+   "summary": "Italian energy major Eni has signed the main engineering, procurement, construction, and drilling contracts for the Cronos gas development offshore Cyprus, with a string of major offshore contractors securing work on the project. The contracts, valued by local",
+   "img": "https://splash247.com/wp-content/uploads/2026/07/Eni-headquarters.jpg",
+   "date": "2026-10-27T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -257,16 +267,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T22:50:26+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "North Sea Subsea Decom Campaign Wraps Up with Two Wells Abandoned",
    "source": "Offshore Engineer Magazine",
    "summary": "",
@@ -277,11 +277,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
-   "source": "The Globe and Mail",
+   "title": "A $620M subsea cable would link Canada directly to Norway",
+   "source": "Yahoo Tech",
    "summary": "",
    "img": "",
-   "date": "2026-10-21T14:17:08+00:00"
+   "date": "2026-10-23T00:05:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
+   "source": "TradingView",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-21T12:13:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -307,6 +317,26 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "DOF Gets Deepwater Subsea Installation Job In Africa",
+   "source": "Marine News Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T09:47:48+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T09:13:49+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
    "source": "Ocean News & Technology",
    "summary": "",
@@ -314,14 +344,14 @@
    "date": "2026-10-22T13:05:32+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DOF Group Secures African Subsea Installation Contract for Skandi Acergy - News and Statistics",
-   "source": "IndexBox",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T10:22:15+00:00"
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rykka ut til brann i sponsilo i Stjørdal",
+   "source": "NRK Trøndelag",
+   "summary": "Naudetatane rykka ut til Stjørdal etter melding om brann i ein sponsilo. Dei tilsette sløkte brannen sjølv.",
+   "img": "https://gfx.nrk.no/AfuizQjwMyqlG3tW8N2ATwqsUwU1KbYifkqrnMzZt6kw.jpg",
+   "date": "2026-10-27T11:27:07+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -354,54 +384,44 @@
    "date": "2026-10-26T07:05:05+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt: Alle må trene på beredskap",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
-   "date": "2026-10-26T19:52:47+00:00"
+   "title": "Taterne krever forsoning fra staten: – Ble utsatt for meget grove overgrep",
+   "source": "NRK",
+   "summary": "Kirken vil ikke signere taternes opprop om en ny sannhets- og forsoningskommisjon. – Kirken har betydelig ansvar for uretten som er begått, mener forsker.",
+   "img": "https://gfx.nrk.no/XL4uVL5IspKMkmQu27BogAUgjqvA3Pz03w2qZiQgzdgg.jpg",
+   "date": "2026-10-27T12:41:55+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Byter programleiar i Mesternes mester – her er dei nye deltakarane",
+   "title": "Ble rørt av kameratenes gest: – Det er verdt mye mer",
    "source": "NRK",
-   "summary": "Ti nye idrettsutøvarar skal kjempe om å bli Mesternes mester. Samstundes får programmet ny programleiar.",
-   "img": "https://gfx.nrk.no/MUzzHr68umKkuJSEpyxwqgwo5jNA_swnCNbVz5zpBhAQ.jpg",
-   "date": "2026-10-27T05:21:00+00:00"
+   "summary": "Før lagkameratene stilte til start, stilte de opp for Aleksander Aamodt Kilde (34). Besøket hjemme i Innsbruck ble et lyspunkt etter nok et tungt tilbakeslag.",
+   "img": "https://gfx.nrk.no/_DG3e9SiTrnLppTjaIMDGAw7uv4Kxoir_uG4QH2b8cHg.jpg",
+   "date": "2026-10-27T11:32:18+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Brann i enebolig på Nesodden",
+   "title": "Hjemmesykepleier stjal fra eldre – må betale over én million i erstatning",
    "source": "NRK",
-   "summary": "Brannvesenet jobber med å slukke en brann i en enebolig ved Alværn på Nesodden. – Brannvesenet er i kontakt med huseier på stedet. Huset er bebodd og alle skal være ute av huset, skriver oppdragsleder Ronny Mangseth fra Øst politidistrikt i politiloggen. Det e",
+   "summary": "Kvinnen fra Telemark stjal store mengder smykker fra de gamle pasientene mens hun var på jobb. Nå er hun dømt til fengsel.",
+   "img": "https://gfx.nrk.no/Ng-FDm0wAsScJtp8zgsPhgNw5U7Maj9qohfKHPXU8iRw.jpg",
+   "date": "2026-10-27T09:56:58+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "«Profeten» må betale 300.000 til TV 2",
+   "source": "NRK",
+   "summary": "Ifølge TV 2 må Christian Sønstebø og Carine Smeby Schackt dekke saksomkostningene til TV 2 på 300.000 kroner. Paret saksøkte mediehuset i kjølvannet av dokumentaren «Kollaps - profeten i Bærum», men trakk søksmålet dagen etter. Tirsdag morgen ble det avgjort i",
    "img": "",
-   "date": "2026-10-27T02:31:32+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Hvem skal styre Kina etter Xi Jinping?",
-   "source": "NRK",
-   "summary": "Spørsmålet er rett og slett farlig. Denne uken blir det likevel stilt.",
-   "img": "https://gfx.nrk.no/C3iSMzK9qe92IOQT38Y7aAqyKbIgs91AEBW47ca9D56Q.jpg",
-   "date": "2026-10-26T22:53:32+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Arne var 12 år da han ble fanget av nazistene",
-   "source": "NRK",
-   "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. 94 år gamle Arne Eilertsen var bare barnet da han ble arrestert.",
-   "img": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3E9tLlfTbhdEw.jpg",
-   "date": "2026-10-26T20:45:18+00:00"
+   "date": "2026-10-27T09:31:17+00:00"
   }
  ]
 }
