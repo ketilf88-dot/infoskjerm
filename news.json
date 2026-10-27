@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:56:27.528997+00:00",
+ "updated": "2026-10-27T01:46:29.192820+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -257,16 +257,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Offshore Norway: Vår Energi, Equinor discovery joins rig awards and decommissioning milestone",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-19T23:38:51+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Equinor Scales Back Troll Project to Preserve European Gas Supplies",
    "source": "Yahoo Finance",
    "summary": "",
@@ -304,6 +294,16 @@
    "date": "2026-10-21T14:17:08+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Subsea cable to link Norway and Canada, bypassing the US",
+   "source": "mediasat.info",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-20T13:20:20+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -312,6 +312,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-22T20:01:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -332,16 +342,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-22T15:24:41+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DOF Gets Deepwater Subsea Installation Job in Africa",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:27:48+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,6 +387,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Hvem skal styre Kina etter Xi Jinping?",
+   "source": "NRK",
+   "summary": "Spørsmålet er rett og slett farlig. Denne uken blir det likevel stilt.",
+   "img": "https://gfx.nrk.no/C3iSMzK9qe92IOQT38Y7aAqyKbIgs91AEBW47ca9D56Q.jpg",
+   "date": "2026-10-26T22:53:32+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Arne var 12 år da han ble fanget av nazistene",
    "source": "NRK",
    "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. 94 år gamle Arne Eilertsen var bare barnet da han ble arrestert.",
@@ -397,7 +407,7 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Glimt nådde ikke opp i prestisjekåring: – Overveldende",
+   "title": "Ingen prestisjepris til Bodø/Glimt - PSG ble årets klubb",
    "source": "NRK",
    "summary": "Bodø/Glimt gikk glipp av prisen som årets klubb i verden under Gullballen-utdelingen mandag kveld. Likevel var det en spesiell kveld for den norske klubben.",
    "img": "https://gfx.nrk.no/6BvDPSO5rKwXNE7KO45daQLX5YSYuhEPCLMxaTgd5sww.jpg",
@@ -412,16 +422,6 @@
    "summary": "Erling Braut Haaland hang lenge med, men vart for liten når verdas beste spelar skulle bli kåra.",
    "img": "https://gfx.nrk.no/xEeF3XAszWNEn3up7PQmFAX9x4S7aCl02tW8xuMLIs_A.jpg",
    "date": "2026-10-26T18:40:11+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Den skjulte kampen om Gullballen",
-   "source": "NRK",
-   "summary": "Fotballstjernenes største drøm er Gullballen. Men prisen for verdens beste spiller har ført til boikott, drapstrusler og politiske kampanjer.",
-   "img": "https://gfx.nrk.no/ZivVOfVH6bSm3SAU12i73Aw3M07p0qY3GJsxptLJ6yTA.jpg",
-   "date": "2026-10-26T17:23:37+00:00"
   }
  ]
 }
