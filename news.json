@@ -1,8 +1,18 @@
 {
- "updated": "2026-10-27T01:46:29.192820+00:00",
+ "updated": "2026-10-27T07:01:52.080444+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "OKEA third quarter 2026 trading update",
+   "source": "OKEA ASA",
+   "summary": "(Trondheim, 27 October 2026) OKEA ASA (OSE: OKEA) will publish its financial report for the third quarter of 2026 on Tuesday 3 November at 06:00 (CET).",
+   "img": "",
+   "date": "2026-10-27T05:00:04.723Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -62,16 +72,6 @@
    "summary": "Equinor Energy AS has exercised one year option for the PSV vessels Havila Charisma and Havila Foresight Following the exercise, Havila Charisma has contract until 16 December 2027, Havila Foresight until 1 January 2028.",
    "img": "",
    "date": "2026-10-23T13:50:49.474Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "DOF Group ASA - Sale of vessel",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") has agreed to sell the 2018-built subsea construction vessel Skandi Implementer to an undisclosed buyer. The vessel is planned to be delivered to its new owner in Q2 2027.",
-   "img": "",
-   "date": "2026-10-23T12:44:38.972Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,26 +234,6 @@
    "date": "2026-09-22T21:13:18+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "NMDC Energy lands $763m in Saudi Aramco offshore contracts",
-   "source": "Splash247",
-   "summary": "UAE-based offshore engineering and construction player NMDC Energy has secured three new offshore projects from Saudi Aramco worth a combined AED 2.8bn ($763.3m). The Abu Dhabi-listed contractor said in a stock exchange filing that it received a letter of awar",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Marjan-oil-field-Saudi-Aramco.jpg",
-   "date": "2026-10-26T10:33:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Equinor extends Havila PSV pair for one more year",
-   "source": "Splash247",
-   "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest extensions will keep the 2012-built Havila Cha",
-   "img": "https://splash247.com/wp-content/uploads/2023/11/Havila-Charisma.jpg",
-   "date": "2026-10-26T10:00:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -277,6 +257,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T22:50:26+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "North Sea Subsea Decom Campaign Wraps Up with Two Wells Abandoned",
    "source": "Offshore Engineer Magazine",
    "summary": "",
@@ -294,14 +284,14 @@
    "date": "2026-10-21T14:17:08+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Subsea cable to link Norway and Canada, bypassing the US",
-   "source": "mediasat.info",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-20T13:20:20+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -317,16 +307,6 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
    "source": "Ocean News & Technology",
    "summary": "",
@@ -337,11 +317,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Skandi Acergy to carry out DOF subsea contract in Africa",
-   "source": "Inspenet",
+   "title": "DOF Group Secures African Subsea Installation Contract for Skandi Acergy - News and Statistics",
+   "source": "IndexBox",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T15:24:41+00:00"
+   "date": "2026-10-22T10:22:15+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Trondheim Ap endrar listeforslag etter press frå partiet sentralt",
+   "source": "NRK Trøndelag",
+   "summary": "Søndag foreslo nominasjonskomiteen menn som både ordførar- og byrådsleiarkandidat. Måndag kveld endra komiteen listeforslaget.",
+   "img": "https://gfx.nrk.no/I4gKrpoD_c2R1plUtfjhEAwvMyz3jwSsMOAoJB4t9YgQ.jpg",
+   "date": "2026-10-27T06:42:48+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -374,14 +364,24 @@
    "date": "2026-10-26T19:52:47+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Fascinerende tanke­eksperiment i under­holdende roman – les anmeldelse",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/TTx9ima7lF5rSY1b9zxPbwjxYaLfp4vj7Z6eObwnzaHg.jpg",
-   "date": "2026-10-26T16:38:20+00:00"
+   "title": "Byter programleiar i Mesternes mester – her er dei nye deltakarane",
+   "source": "NRK",
+   "summary": "Ti nye idrettsutøvarar skal kjempe om å bli Mesternes mester. Samstundes får programmet ny programleiar.",
+   "img": "https://gfx.nrk.no/MUzzHr68umKkuJSEpyxwqgwo5jNA_swnCNbVz5zpBhAQ.jpg",
+   "date": "2026-10-27T05:21:00+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Brann i enebolig på Nesodden",
+   "source": "NRK",
+   "summary": "Brannvesenet jobber med å slukke en brann i en enebolig ved Alværn på Nesodden. – Brannvesenet er i kontakt med huseier på stedet. Huset er bebodd og alle skal være ute av huset, skriver oppdragsleder Ronny Mangseth fra Øst politidistrikt i politiloggen. Det e",
+   "img": "",
+   "date": "2026-10-27T02:31:32+00:00"
   },
   {
    "tag": "Norge",
@@ -402,26 +402,6 @@
    "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. 94 år gamle Arne Eilertsen var bare barnet da han ble arrestert.",
    "img": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3E9tLlfTbhdEw.jpg",
    "date": "2026-10-26T20:45:18+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ingen prestisjepris til Bodø/Glimt - PSG ble årets klubb",
-   "source": "NRK",
-   "summary": "Bodø/Glimt gikk glipp av prisen som årets klubb i verden under Gullballen-utdelingen mandag kveld. Likevel var det en spesiell kveld for den norske klubben.",
-   "img": "https://gfx.nrk.no/6BvDPSO5rKwXNE7KO45daQLX5YSYuhEPCLMxaTgd5sww.jpg",
-   "date": "2026-10-26T19:00:07+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Haaland nådde ikkje opp – Harry Kane kåra til verdas beste",
-   "source": "NRK",
-   "summary": "Erling Braut Haaland hang lenge med, men vart for liten når verdas beste spelar skulle bli kåra.",
-   "img": "https://gfx.nrk.no/xEeF3XAszWNEn3up7PQmFAX9x4S7aCl02tW8xuMLIs_A.jpg",
-   "date": "2026-10-26T18:40:11+00:00"
   }
  ]
 }
