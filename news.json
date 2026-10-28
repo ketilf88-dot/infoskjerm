@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T22:36:58.913694+00:00",
+ "updated": "2026-10-28T01:42:12.378249+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,16 +267,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T22:50:26+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "North Sea Subsea Decom Campaign Wraps Up with Two Wells Abandoned",
    "source": "Offshore Engineer Magazine",
    "summary": "",
@@ -302,6 +292,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-21T12:13:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "UK regulator approves North Sea Jackdaw gas project",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-21T22:34:25+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -337,21 +337,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:13:49+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
    "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
    "date": "2026-10-22T13:05:32+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DOF cements its spot on Africa’s subsea stage with multimillion-dollar vessel job",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T09:13:49+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -397,9 +397,9 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Arsenal ydmyket av nivå fire-lag: – Det er ikke til å tro",
+   "title": "19-åring sendte ut Arsenal: – Opp i hjørnet, deretter løp jeg bare",
    "source": "NRK",
-   "summary": "Arsenal og Martin Ødegaard gikk på en gedigen cupsmell lille Fleetwood Town.",
+   "summary": "Lille Fleetwood Town sto for et cupmirakel mot Martin Ødegaards Arsenal. Helten mener det viser hvor bra laget hans er.",
    "img": "https://gfx.nrk.no/N0kS7MnXOVoJQk2ddqnAmQw8K7GJ5TWyLk86xZ2BehhA.jpg",
    "date": "2026-10-27T20:52:48+00:00"
   },
