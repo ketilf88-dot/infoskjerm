@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:13:30.998086+00:00",
+ "updated": "2026-10-28T19:34:18.559898+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -7,11 +7,41 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Solstad Maritime ASA: Invitation to Webcast - Presentation of Third Quarter 2026 Results",
-   "source": "Solstad Maritime ASA",
-   "summary": "Skudeneshavn, 28 October 2026 Solstad Maritime ASA (SOMA) is pleased to invite you to a live webcast presentation of the company's third quarter 2026 results on Wednesday, November 4, 2026, at 09:00 a.m. CEST.",
+   "title": "Aker BP completes annual employee share programme",
+   "source": "Aker BP ASA",
+   "summary": "Reference is made to Aker BP's announcement on 28 September 2026 regarding the company's annual share purchase programme for employees. The programme has now been completed, with a total of 672,988 shares sold to employees at a price of NOK 282.10 per share.",
    "img": "",
-   "date": "2026-10-28T08:00:08.631Z"
+   "date": "2026-10-28T17:45:32.624Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Odfjell SE: Presentation of third quarter 2026 results",
+   "source": "Odfjell SE",
+   "summary": "Odfjell SE will release its third quarter 2026 results on Wednesday, November 4, 2026 at 20:00 CEST. The results will be published on Oslo Stock Exchange, at Newsweb.no and at Odfjell.com.",
+   "img": "",
+   "date": "2026-10-28T15:00:05.289Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Odfjell SE: Presentasjon av resultater for tredje kvartal 2026",
+   "source": "Odfjell SE",
+   "summary": "Odfjell SE vil offentliggjøre resultater for tredje kvartal 2026 onsdag 4.november, 2026 kl. 20:00 CEST. Kvartalsrapporten vil bli publisert på Oslo Børs, på Newsweb.no og på Odfjell.com. Påfølgende dag presenteres resultatene i en live webcast kl.",
+   "img": "",
+   "date": "2026-10-28T15:00:04.352Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Notifiable trading - Equinor ASA",
+   "source": "Equinor ASA",
+   "summary": "A primary insider in Equinor ASA (OSE: EQNR, NYSE: EQNR) has sold shares in Equinor ASA: Hilde Møllerstad, board member in Equinor ASA, has on 28 October 2026 sold 1662 shares in Equinor ASA at a price of NOK 442.50 per share.",
+   "img": "",
+   "date": "2026-10-28T14:34:19.787Z"
   },
   {
    "tag": "Oslo Børs",
@@ -24,24 +54,24 @@
    "date": "2026-10-28T05:46:37.993Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Odfjell Drilling Ltd - Details for the Third Quarter of 2026 Webcast and Conference Call",
-   "source": "Odfjell Drilling Ltd",
-   "summary": "In connection with the Company's Third Quarter of 2026 earnings announcement on Tuesday 3 November 2026, Odfjell Drilling Ltd will host a webcast and conference call on the same day at 14:00hrs CET.",
-   "img": "",
-   "date": "2026-10-27T08:41:00.352Z"
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "source": "Offshore Energy",
+   "summary": "Equinor has opened a new, dedicated facility in Norway for the testing, qualification and development of marine robotic technologies, such as...",
+   "img": "https://offshore-energy.biz/api/media/file/First-of-its-kind%20marine%20robotics%20test%20and%20development%20center%20opens%20in%20Norway1-1182x664.jpg?prefix=media",
+   "date": "2026-10-28T14:21:42+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "OKEA third quarter 2026 trading update",
-   "source": "OKEA ASA",
-   "summary": "(Trondheim, 27 October 2026) OKEA ASA (OSE: OKEA) will publish its financial report for the third quarter of 2026 on Tuesday 3 November at 06:00 (CET).",
-   "img": "",
-   "date": "2026-10-27T05:00:04.723Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
+   "source": "Offshore Energy",
+   "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
+   "img": "https://offshore-energy.biz/api/media/file/Shell_Perdido_deepwater_offshore_production_platform_(51115227891)-1600x1065.jpg?prefix=media",
+   "date": "2026-10-28T14:08:19+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -104,24 +134,14 @@
    "date": "2026-10-28T08:49:49+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Saipem wins multimillion-dollar rig jobs with Eni in Mediterranean and West Africa",
-   "source": "Offshore Energy",
-   "summary": "Saipem has picked up offshore drilling assignments with Eni off the coasts of Cyprus and Ghana, boosting fleet utilization for 2026 and 2027.",
-   "img": "https://offshore-energy.biz/api/media/file/saipem1000_Source%20Saipem-1600x1000.jpg?prefix=media",
-   "date": "2026-10-28T07:43:10+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Woodside passes the baton for offshore gas project to Timor Gap in $200 million deal",
-   "source": "Offshore Energy",
-   "summary": "Timor Gap is taking over the reins for a gas project in the Timor Sea from Woodside with completion of the takeover anticipated in H1 2027.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784736599630-750x500-600x400.png?prefix=media",
-   "date": "2026-10-27T14:21:49+00:00"
+   "title": "MARAD Approves $8.2 Billion Texas LNG Export Port in Record-Time Review",
+   "source": "gCaptain Offshore",
+   "summary": "The Trump administration has approved an $8.2 billion offshore liquefied natural gas export project off the Texas coast, marking a major milestone for its effort to speed up deepwater port...",
+   "img": "",
+   "date": "2026-10-28T17:24:40+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -196,16 +216,6 @@
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
-   "weight": 2,
-   "title": "New York Leads Lawsuits Challenging $1.4 Billion Offshore Wind Buyouts",
-   "source": "gCaptain Offshore",
-   "summary": "New York is leading a coalition of states in two new lawsuits challenging Trump administration agreements that would cancel offshore wind leases and redirect roughly $1.4 billion toward liquefied natural...",
-   "img": "",
-   "date": "2026-09-22T21:13:18+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
    "weight": 1,
    "title": "Noble offloads idle drillship for $38m",
    "source": "Splash247",
@@ -267,16 +277,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
-   "source": "The Globe and Mail",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-21T14:17:08+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "A $620M subsea cable would link Canada directly to Norway",
    "source": "Yahoo Tech",
    "summary": "",
@@ -292,6 +292,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-23T07:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Delayed vessels force Equinor to postpone power production from US offshore project",
+   "source": "EnergyWatch",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T11:25:13+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -317,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Gets Deepwater Subsea Installation Job In Africa",
-   "source": "Marine News Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:47:48+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
    "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
    "date": "2026-10-22T13:05:32+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T03:11:27+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -342,6 +352,16 @@
    "summary": "Både høge drivstoffprisar og kutt i momsfritaket for elbilar kan vere årsaker til den kraftige auken i salet.",
    "img": "https://gfx.nrk.no/_E-G9hqmbstBsbjUpi2OOABsKyU7PZQKExAMIM5lUIcg.jpg",
    "date": "2026-10-28T09:41:58+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Elbil-boom før nyttår",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/KO75-NtTdET2A5yFoeqtpgTEP3Eza95uTyD3Y1vU96GA.jpg",
+   "date": "2026-10-28T18:09:46+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -364,54 +384,44 @@
    "date": "2026-10-27T17:33:00+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt: Stram fylkesøkonomi i Trøndelag",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/hRzPdbu7myOB4fmmsvG3qgaXYBra9ZkrWkWRYZY_IPxA.jpg",
-   "date": "2026-10-27T18:11:46+00:00"
+   "title": "– Pappa er ikkje redd meg",
+   "source": "NRK",
+   "summary": "Fleire jobbtilbod rauk då kollegaene kjende han att frå TV. Hans Marius nyt fridommen, men saknar noko frå fengselet.",
+   "img": "https://gfx.nrk.no/NjuojGq8vv89Lq3vmGakxgnRV7-7jQESWQAPU_TIEZsQ.jpg",
+   "date": "2026-10-28T18:56:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Flavio Bolsonaro skal ha landet i Miami",
+   "title": "Melding om mulig skyting i Drammen",
    "source": "NRK",
-   "summary": "Et privatfly med det som skal være Flavio Bolsonaro har landet i Miami i USA, melder nyhetsbyråene AFP og Reuters. Søndag tapte Bolsonaro presidentvalget i Brasil. Han ble bedt om å innlevere passet sitt fordi han er etterforskes for alvorlig økonomisk krimina",
-   "img": "https://gfx.nrk.no/NzHbPQs69c84Bem1-UdJsArAAWZoU8Um0yF6nm-yCGMg.jpg",
-   "date": "2026-10-28T13:33:11+00:00"
+   "summary": "Politiet har fått melding om at det skal ha blitt avfyrt skudd i Dronninggata i Drammen. Det skal ha vært en krangel i forkant, og flere personer har løpt fra området. Politiet mener det ikke er fare for allmennheten og at bakgrunnen er en konflikt mellom to g",
+   "img": "",
+   "date": "2026-10-28T18:06:58+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Første av sitt slag: Nekter å betale bot etter ulovlig TV-bruk",
+   "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
    "source": "NRK",
-   "summary": "Rundt 50 mennesker har godtatt bot og inndragning av titusenvis av kroner. Syv nektet – og møter i retten denne uka.",
-   "img": "https://gfx.nrk.no/oC6OgsvLFzie-YsNZhdjMQmA34RUItxBnZoKjKochcKA.jpg",
-   "date": "2026-10-28T13:16:58+00:00"
+   "summary": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto. I en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett. Det betyr a",
+   "img": "https://gfx.nrk.no/rWXW7zWOapO2bvYL22eVSQ83JAtrpWaPH3jL1rAF9MxA.jpg",
+   "date": "2026-10-28T16:57:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bhatti-saken: Aktor ber om 30 års forvaring",
+   "title": "Bekymret for utviklingen i sentrum – bibliotekene ruster seg for overdoser",
    "source": "NRK",
-   "summary": "Aktors påstand er den samme som han ble dømt til i tingretten. Der ble han dømt til 30 års forvaring. Arfan Bhatti ble dømt for medvirkning til terrorangrepet i Oslo 25. juni 2022, i tillegg til å ha forsøkt å planlegge flere andre terrorangrep sammen med IS. ",
-   "img": "https://gfx.nrk.no/IiN7fDIncesy7xk6yS77sQrZg4CqnPFLAenD2_l197MQ.jpg",
-   "date": "2026-10-28T12:44:08+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Denne dronen skal spare Equinor for svimlende summer",
-   "source": "NRK",
-   "summary": "Equinor skal teste selvgående droner og roboter til offshore-arbeid. Målet er tryggere og billigere undersøkelser av olje- og gassanlegg.",
-   "img": "https://gfx.nrk.no/eMh07RcjpefencnLbgffpw02Igop4Hdpy313Ym4dIQyQ.jpg",
-   "date": "2026-10-28T12:00:13+00:00"
+   "summary": "Sprøyter på toalettet og økende rusproblemer gjør at ansatte ved flere bibliotek i landet må utstyres med overdosemedisin og kurses i voldshåndtering.",
+   "img": "https://gfx.nrk.no/6ABBXRoOYOp4QXIaW0PVjgr7L0eJLCbOqIuKsPrCqCHA.jpg",
+   "date": "2026-10-28T16:38:37+00:00"
   }
  ]
 }
