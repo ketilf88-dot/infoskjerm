@@ -1,8 +1,28 @@
 {
- "updated": "2026-10-28T01:42:12.378249+00:00",
+ "updated": "2026-10-28T07:25:37.662531+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker Solutions ASA: Third-quarter results 2026",
+   "source": "Aker Solutions ASA",
+   "summary": "October 28, 2026 - Aker Solutions continued to deliver solid financial results in the third quarter of 2026. Several milestones have been met across the project portfolio in the period.",
+   "img": "",
+   "date": "2026-10-28T06:00:26.726Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Nøkkelinformasjon angående kontantutbytte for tredje kvartal 2026.",
+   "source": "Equinor ASA",
+   "summary": "Nøkkelinformasjon angående kontantutbytte for Equinor ASA (OSE: EQNR, NYSE: EQNR) for tredje kvartal 2026. Utbyttebeløp: 0,39 Annonsert valuta: USD Siste dag inklusive: 12. februar 2027 Ex-dato Oslo Børs: 15. februar 2027 Ex-dato New York Stock Exchange: 16.",
+   "img": "",
+   "date": "2026-10-28T05:46:37.993Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -42,36 +62,6 @@
    "summary": "Further to the stock exchange notices published on 4 August 2026, Reach Subsea confirms that the IMR vessel Viking Reach has been delivered to the new owners and that the transaction has been completed.",
    "img": "",
    "date": "2026-10-26T10:30:00.000Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Partnering to develop challenging discoveries",
-   "source": "Aker BP ASA",
-   "summary": "Equinor and Aker BP enter into a strategic collaboration on tight reservoirs on the Norwegian Continental Shelf.",
-   "img": "",
-   "date": "2026-10-26T10:00:09.546Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Panoro Energy - Drilling Rig Incident on Dussafu",
-   "source": "Panoro Energy ASA",
-   "summary": "Oslo, 25 October 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") confirms with profound sadness that an incident occurred on the Dussafu Marin Permit (\"Dussafu\") offshore Gabon at 20:37 local time on Saturday 24 October 2026, involving the jack-up …",
-   "img": "",
-   "date": "2026-10-25T08:36:13.615Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Borr Drilling Limited - Prospector 5 Rig Incident",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, October 25, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\") confirms that an incident occurred at approximately 20:37 local time on October 24, 2026 involving the Prospector 5 drilling rig while conducting jacking …",
-   "img": "",
-   "date": "2026-10-25T06:08:39.873Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -277,11 +267,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "A $620M subsea cable would link Canada directly to Norway",
-   "source": "Yahoo Tech",
+   "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-23T00:05:00+00:00"
+   "date": "2026-10-28T03:52:16+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -297,11 +287,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "UK regulator approves North Sea Jackdaw gas project",
-   "source": "Offshore Magazine",
+   "title": "A $620M subsea cable would link Canada directly to Norway",
+   "source": "Yahoo Tech",
    "summary": "",
    "img": "",
-   "date": "2026-10-21T22:34:25+00:00"
+   "date": "2026-10-23T00:05:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -327,21 +317,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Gets Deepwater Subsea Installation Job In Africa",
-   "source": "Marine News Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T09:47:48+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
    "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
    "date": "2026-10-22T13:05:32+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T03:11:27+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -397,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "19-åring sendte ut Arsenal: – Opp i hjørnet, deretter løp jeg bare",
+   "title": "SAS-streik i gang",
    "source": "NRK",
-   "summary": "Lille Fleetwood Town sto for et cupmirakel mot Martin Ødegaards Arsenal. Helten mener det viser hvor bra laget hans er.",
+   "summary": "24 kabinansatte i datterselskapet SAS Link har gått ut i streik i dag. Dette skjer etter at Fellesforbundets medlemmer sa nei til meklingsforslaget. SAS venter likevel begrensede følger for flytrafikken. – Vårt fokus nå er å ta vare på passasjerene og sørge fo",
+   "img": "",
+   "date": "2026-10-28T05:12:08+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Slik gjør oljegigantens milliardsuksess lånet ditt dyrere",
+   "source": "NRK",
+   "summary": "Equinor leverer nok et skyhøyt resultat, og milliardene strømmer inn i oljefondet. Dette betyr kvartalsresultatet for deg.",
+   "img": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIeadRF_jJGAA.jpg",
+   "date": "2026-10-28T05:46:15+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Fryktar elgen kan bli raudlista: – Heilt tomt",
+   "source": "NRK",
+   "summary": "Elgjegerar er redde skogens konge kan hamne på lista over utryddingstrua artar. No håpar forskarar å løyse mysteriet.",
+   "img": "https://gfx.nrk.no/gLexfNDQP1S0BegM2a41DgUn3rzR0zZJgc1dvQuHYMuQ.jpg",
+   "date": "2026-10-28T04:12:59+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Ødegaard frustrert etter sjokktap: – Var ikke på nivå",
+   "source": "NRK",
+   "summary": "Lille Fleetwood Town sto for et cupmirakel mot Martin Ødegaards Arsenal. Ødegaard er svært kritisk til sitt lags prestasjon.",
    "img": "https://gfx.nrk.no/N0kS7MnXOVoJQk2ddqnAmQw8K7GJ5TWyLk86xZ2BehhA.jpg",
    "date": "2026-10-27T20:52:48+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Vannet tilbake i Kirkenes",
-   "source": "NRK",
-   "summary": "Samtlige innbyggere i Sør-Varanger i Finnmark har nå fått vannet tilbake. Vannet har vært borte i to dager etter et omfattende brudd i hovedvannledningen. Kommunen varsler at vannet fortsatt må kokes i flere dager fremover. Alle skoler, barnehager og SFO vil h",
-   "img": "https://gfx.nrk.no/Ias7c3SqH_5O9sq7vXl6sQ-7X7ww8UyG8gz94Vcvjptg.jpg",
-   "date": "2026-10-27T19:34:51+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Denne kjempegjedda gikk på kroken",
-   "source": "NRK",
-   "summary": "Fisketuren gikk over all forventning for Glenn Evensen (18). Men det betyr ikke at middagen er sikret i ukene fremover.",
-   "img": "https://gfx.nrk.no/KxICHlj5v2gEevz7GOoe5wkqd-VtVitqYWTozpKEZC0A.jpg",
-   "date": "2026-10-27T17:22:38+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Harde sanksjonar etter Åråsen-bråket: Supporterar utestengde i opptil 50 kampar",
-   "source": "NRK",
-   "summary": "Skandalescenene frå Åråsen blir slått kraftig ned på av Vålerenga. Dei første sanksjonane har komme – og fleire vil det bli.",
-   "img": "https://gfx.nrk.no/bJ3CdwM9fh2rcSJdz-_cLwfJnhVnTdr6deATVVTi3fjg.jpg",
-   "date": "2026-10-27T17:48:11+00:00"
   }
  ]
 }
