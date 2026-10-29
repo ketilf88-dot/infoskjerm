@@ -1,8 +1,48 @@
 {
- "updated": "2026-10-29T02:51:29.719410+00:00",
+ "updated": "2026-10-29T09:06:33.561646+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Moreld - Invitation to presentation of Moreld's third quarter 2026 results, 5 November 2025",
+   "source": "Moreld ASA",
+   "summary": "Stavanger, 29 October 2026: Moreld ASA will announce its results for the third quarter of 2026 on Thursday 5 November 2026.",
+   "img": "",
+   "date": "2026-10-29T08:15:05.009Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DNO Races Ahead on Stronger Production, Higher Prices",
+   "source": "DNO ASA",
+   "summary": "Oslo, 29 October 2026 - DNO ASA, the Norwegian oil and gas operator, today announced strong financial and operational results for the third quarter of 2026, driven by the resumption of Kurdistan region of Iraq production and higher prices across the …",
+   "img": "",
+   "date": "2026-10-29T06:00:12.757Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DNO Scores North Sea Double",
+   "source": "DNO ASA",
+   "summary": "Oslo, 29 October 2026 - DNO ASA, the Norwegian oil and gas operator, today announced that an appraisal well at the Afrodite gas-condensate discovery has more than doubled estimated recoverable resources to 77-180 million barrels of oil equivalent (MMboe).",
+   "img": "",
+   "date": "2026-10-29T06:00:01.342Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker BP: Key information related to cash dividend",
+   "source": "Aker BP ASA",
+   "summary": "The following sets out the cash dividends to be paid by Aker BP in the fourth quarter of 2026: Dividend amount: USD 0.6615 (NOK 6.14642) per share Declared currency: USD Last day of trading including right: 2 November 2026 Ex-date: 3 November 2026 Record …",
+   "img": "",
+   "date": "2026-10-29T05:00:09.172Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -12,16 +52,6 @@
    "summary": "Reference is made to Aker BP's announcement on 28 September 2026 regarding the company's annual share purchase programme for employees. The programme has now been completed, with a total of 672,988 shares sold to employees at a price of NOK 282.10 per share.",
    "img": "",
    "date": "2026-10-28T17:45:32.624Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Odfjell SE: Presentation of third quarter 2026 results",
-   "source": "Odfjell SE",
-   "summary": "Odfjell SE will release its third quarter 2026 results on Wednesday, November 4, 2026 at 20:00 CEST. The results will be published on Oslo Stock Exchange, at Newsweb.no and at Odfjell.com.",
-   "img": "",
-   "date": "2026-10-28T15:00:05.289Z"
   },
   {
    "tag": "Oslo Børs",
@@ -44,14 +74,24 @@
    "date": "2026-10-28T14:34:19.787Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor ASA: Nøkkelinformasjon angående kontantutbytte for tredje kvartal 2026.",
-   "source": "Equinor ASA",
-   "summary": "Nøkkelinformasjon angående kontantutbytte for Equinor ASA (OSE: EQNR, NYSE: EQNR) for tredje kvartal 2026. Utbyttebeløp: 0,39 Annonsert valuta: USD Siste dag inklusive: 12. februar 2027 Ex-dato Oslo Børs: 15. februar 2027 Ex-dato New York Stock Exchange: 16.",
-   "img": "",
-   "date": "2026-10-28T05:46:37.993Z"
+   "title": "North Sea gas discovery twice as big after appraisal success with tie-back on the table",
+   "source": "Offshore Energy",
+   "summary": "Appraisal activities have doubled a North Sea gas discovery’s estimate, with a potential tie-back to existing infrastructure being contemplated.",
+   "img": "https://offshore-energy.biz/api/media/file/Kvitebj%C3%B8rn%20platform%20in%20the%20North%20Sea%20Credit%20Torstein%20Lund%20Eik%20Equinor-1600x900.png?prefix=media",
+   "date": "2026-10-29T07:58:13+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Huge investment to keep first UK-France interconnector running until at least 2050",
+   "source": "Offshore Energy",
+   "summary": "The UK's National Grid is investing up to £400 million (around €478 million) in the first cross-border electricity link between the UK and...",
+   "img": "https://offshore-energy.biz/api/media/file/Huge%20investment%20to%20keep%20first%20UK-France%20interconnector%20running%20until%20at%20least%202050-1158x546.png?prefix=media",
+   "date": "2026-10-29T06:40:22+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -112,26 +152,6 @@
    "summary": "Dutch thermoplastic composite pipe (TCP) manufacturer Strohm has secured an order from McDermott for four TCP jumpers to be installed at a...",
    "img": "https://offshore-energy.biz/api/media/file/McDermott%20orders%20Strohm's%20gas%20production%20jumpers%20for%20Southeast%20Asia-1050x1600.jpg?prefix=media",
    "date": "2026-10-28T10:05:08+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "New gas pay for Chevron in Mediterranean waters",
-   "source": "Offshore Energy",
-   "summary": "Chevron’s drilling activities in the Mediterranean have uncovered another gas-bearing interval, extending reservoirs initially discovered in 2022.",
-   "img": "https://offshore-energy.biz/api/media/file/Stena%20Forth%20drillship%20Source%20Stena%20Drilling-1600x1199.jpg?prefix=media",
-   "date": "2026-10-28T08:58:40+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
-   "summary": "DeepOcean has secured a contract with Tullow Ghana Ltd, a subsidiary of the UK-headquartered Tullow Oil, for a riser retermination project in...",
-   "img": "https://offshore-energy.biz/api/media/file/DeepOcean%20to%20employ%20recently%20upgraded%20subsea%20vessel%20offshore%20Ghana-1600x900.jpg?prefix=media",
-   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -214,44 +234,24 @@
    "date": "2026-10-08T17:33:33+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Noble offloads idle drillship for $38m",
-   "source": "Splash247",
-   "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The transaction is expected to close in the fourth qua",
-   "img": "https://splash247.com/wp-content/uploads/2021/09/Noble-Globetrotter-II.jpg",
-   "date": "2026-10-28T12:31:29+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 2,
-   "title": "Norway lines up full-scale test of marine nuclear propulsion system",
+   "title": "ADES adds $52m to backlog with Angola jackup extension",
    "source": "Splash247",
-   "summary": "A Norwegian-led consortium involving shipbuilder Vard and offshore vessel owner Island Offshore is preparing to build and test an integrated nuclear propulsion system, targeting its first vessel deployment in 2031 or 2032. The Marine Nuclear Propulsion System ",
-   "img": "https://splash247.com/wp-content/uploads/2025/01/VardNuclear.jpg",
-   "date": "2026-10-28T10:30:00+00:00"
+   "summary": "Saudi offshore drilling contractor ADES has secured a one-year extension for its Shelf Drilling Tenacious jackup offshore Angola, adding around SAR195m ($52m) to its backlog. The company said an existing international oil company had exercised the optional per",
+   "img": "https://splash247.com/wp-content/uploads/2026/10/MarineTraffic-Rohan-Paliwal-Shelf-Drilling-Tenacious-ADES.jpg",
+   "date": "2026-10-29T02:40:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "South Korean shipyard set for offshore wind makeover",
+   "title": "Baker Hughes lands Eni offshore double and Golar FLNG order",
    "source": "Splash247",
-   "summary": "Four South Korean companies have signed an agreement to transform part of the Gunsan shipyard into an offshore wind manufacturing hub, with plans to produce large turbines, towers and offshore substations. HJ Heavy Industries, J-Ocean Heavy Industries, Myeongu",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Gunsan-shipyard.jpg",
-   "date": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Woodside exits delayed Timor-Leste gas project",
-   "source": "Splash247",
-   "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste’s state-owned energy company TIMOR GAP for up to $200m. The agreement could bring one of the region’s largest undevel",
-   "img": "https://splash247.com/wp-content/uploads/2024/02/Woodside-building.jpg",
-   "date": "2026-10-28T09:38:00+00:00"
+   "summary": "US energy technology company Baker Hughes has revealed three offshore contract wins, including two awards from Italian energy major Eni and an equipment package for Golar LNG’s fourth floating LNG unit. The company confirmed a significant subsea production sys",
+   "img": "https://splash247.com/wp-content/uploads/2023/07/Baker-Hughes-workers.jpg",
+   "date": "2026-10-29T02:30:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -282,16 +282,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-22T22:50:26+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "OneSubsea and oil & gas giants are unlocking deeper waters with all-electric subsea tech",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-22T08:26:10+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,11 +317,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Gets Deepwater Subsea Installation Job In Africa",
-   "source": "Marine News Magazine",
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T09:47:48+00:00"
+   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -342,6 +332,26 @@
    "summary": "",
    "img": "",
    "date": "2026-10-28T16:23:03+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
+   "source": "Ocean News & Technology",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-22T13:05:32+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "67.000 ukrainere kan få nei til opphold i Norge: – Mange er bekymret",
+   "source": "NRK Trøndelag",
+   "summary": "Iryna flyktet fra krigen i Ukraina og vil søke om å få bli i Norge. Men hun har ikke høy nok arbeidsinntekt.",
+   "img": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yg7__deH2EDAw.jpg",
+   "date": "2026-10-29T04:12:52+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -374,54 +384,34 @@
    "date": "2026-10-28T11:09:48+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Lobbyisten Ingveig (10) sjarmerte politikerne - håper å berge Lille norske leksikon",
-   "source": "NRK Trøndelag",
-   "summary": "Da Ingveig (10) tok ordet på Stortinget gav hun det tydeligste inntrykket gjennom to lange dager med høringer, mener politiker.",
-   "img": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQexvBv_rL4jSkgw.jpg",
-   "date": "2026-10-27T17:33:00+00:00"
+   "title": "Festmiddag i Spania avlyst etter togulykke",
+   "source": "NRK",
+   "summary": "Dronning Sonja er i Spania for å delta på åpningen av en kunstutstilling på Mueso Picasso i Malaga, men den planlagte festmiddagen er avlyst. Det bekrefter Slottet overfor TV 2. – Museo Picasso Málaga har bekreftet at den planlagte utstillingsåpningen består, ",
+   "img": "https://gfx.nrk.no/1wB8mkW_ffAeBBo0vIjtHwEBf2aKWiuAnqzo1HsmrhwQ.jpg",
+   "date": "2026-10-29T08:41:19+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bevæpnet politiaksjon i Vesterålen",
+   "title": "Sammenstøt i Madrid etter togulykke",
    "source": "NRK",
-   "summary": "Væpnet politi har omringet et hus i Andøy kommune i Vesterålen. Det skjer etter en voldshendelse onsdag kveld. En person er lettere skadet og tatt hånd om av helsepersonell. Politiet opplyser at de har funnet det de mener er gjerningspersonen inne i et hus. Po",
+   "summary": "Demonstranter støtte sammen med politiet i Madrid onsdag kveld. Det skjedde under en protest mot regjeringen etter togulykken i Spania onsdag. En ytre høyre-gruppe skal blant annet ha oppfordret til demonstrasjonen, ifølge El Pais. Flere hundre personer skal h",
+   "img": "https://gfx.nrk.no/o0SyTM6syek8lNlcvG3ZZQEUrSgWJntd0Vqku1XrMrSw.jpg",
+   "date": "2026-10-29T03:10:51+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Person pågrepet etter politiaksjon i Vesterålen",
+   "source": "NRK",
+   "summary": "En antatt gjerningsperson er pågrepet etter en bevæpnet politiaksjon på Andøy i Vesterålen. Det opplyser Nordland politidistrikt. – Personen ble pågrepet uten dramatikk. Gjerningspersonen vil bli avhørt på et senere tidspunkt, skriver operasjonsleder Ina Krist",
    "img": "",
-   "date": "2026-10-29T02:18:15+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Russland får VM: – Krystallklar på at vi ikkje sender utøvarar",
-   "source": "NRK",
-   "summary": "VM-tildelinga vekker sterke reaksjonar i Det norske vektløftarforbundet. Viss situasjonen held fram med å vere uendra, ser det ut til at det blir utan norsk deltaking.",
-   "img": "https://gfx.nrk.no/ouB3RH05MzWH19yj7tw35A0Rxom-FFdZMm5mgOdkxXng.jpg",
-   "date": "2026-10-28T19:57:35+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "– Pappa er ikkje redd meg",
-   "source": "NRK",
-   "summary": "Fleire jobbtilbod rauk då kollegaene kjende han att frå TV. Hans Marius nyt fridommen, men saknar noko frå fengselet.",
-   "img": "https://gfx.nrk.no/NjuojGq8vv89Lq3vmGakxgnRV7-7jQESWQAPU_TIEZsQ.jpg",
-   "date": "2026-10-28T18:56:43+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Melding om mulig skyting i Drammen",
-   "source": "NRK",
-   "summary": "Politiet har fått melding om at det skal ha blitt avfyrt skudd i Dronninggata i Drammen. Det skal ha vært en krangel i forkant, og flere personer har løpt fra området. Politiet mener det ikke er fare for allmennheten og at bakgrunnen er en konflikt mellom to g",
-   "img": "https://gfx.nrk.no/ZP-TrdgFWXlG-Fbn64TFrQUmgaNdXqug53go1_NXfZ4A.jpg",
-   "date": "2026-10-28T18:06:58+00:00"
+   "date": "2026-10-29T02:59:03+00:00"
   }
  ]
 }
