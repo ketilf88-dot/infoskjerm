@@ -1,8 +1,28 @@
 {
- "updated": "2026-10-29T09:06:33.561646+00:00",
+ "updated": "2026-10-29T16:04:35.398300+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Archer Limited: Share capital increase - vesting of restricted stock units",
+   "source": "Archer Limited",
+   "summary": "Hamilton, Bermuda (October 29, 2026) In connection with Archer's long term incentive program 118,905 restricted stock units (\"RSUs\") have vested.",
+   "img": "",
+   "date": "2026-10-29T14:00:46.291Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Prospector 5 Rig Incident Update - October 29, 2026",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, October 29, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\" or the \"Company\") provides an update on the Prospector 5 incident offshore Gabon, first announced by the Company on October 25, 2026.",
+   "img": "",
+   "date": "2026-10-29T12:06:08.695Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -54,104 +74,84 @@
    "date": "2026-10-28T17:45:32.624Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Odfjell SE: Presentasjon av resultater for tredje kvartal 2026",
-   "source": "Odfjell SE",
-   "summary": "Odfjell SE vil offentliggjøre resultater for tredje kvartal 2026 onsdag 4.november, 2026 kl. 20:00 CEST. Kvartalsrapporten vil bli publisert på Oslo Børs, på Newsweb.no og på Odfjell.com. Påfølgende dag presenteres resultatene i en live webcast kl.",
-   "img": "",
-   "date": "2026-10-28T15:00:04.352Z"
+   "title": "Fatal rig incident: Search still underway for two missing workers off Gabon",
+   "source": "Offshore Energy",
+   "summary": "Borr Drilling continues the search for two people who remain unaccounted for after its rig sank, while supporting affected personnel and families.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FProspector_25205_2520Source_2520Borr_2520Drilling-1240x826-620x413.png?prefix=media",
+   "date": "2026-10-29T14:40:24+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Notifiable trading - Equinor ASA",
-   "source": "Equinor ASA",
-   "summary": "A primary insider in Equinor ASA (OSE: EQNR, NYSE: EQNR) has sold shares in Equinor ASA: Hilde Møllerstad, board member in Equinor ASA, has on 28 October 2026 sold 1662 shares in Equinor ASA at a price of NOK 442.50 per share.",
-   "img": "",
-   "date": "2026-10-28T14:34:19.787Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Planned wave energy project in India takes step forward",
+   "source": "Offshore Energy",
+   "summary": "Wave energy developer Eco Wave Power has secured a purchase order for the initial site assessment phase of the planned wave energy project in...",
+   "img": "https://offshore-energy.biz/api/media/file/eco%20wave-1600x1066.jpg?prefix=media",
+   "date": "2026-10-29T14:37:11+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "North Sea gas discovery twice as big after appraisal success with tie-back on the table",
+   "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
    "source": "Offshore Energy",
-   "summary": "Appraisal activities have doubled a North Sea gas discovery’s estimate, with a potential tie-back to existing infrastructure being contemplated.",
-   "img": "https://offshore-energy.biz/api/media/file/Kvitebj%C3%B8rn%20platform%20in%20the%20North%20Sea%20Credit%20Torstein%20Lund%20Eik%20Equinor-1600x900.png?prefix=media",
-   "date": "2026-10-29T07:58:13+00:00"
+   "summary": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
+   "img": "https://offshore-energy.biz/api/media/file/CO2%20storage%20appraisal%20campaign%20in%20UK%20North%20Sea%20yields%20positive%20results-1600x1429.jpg?prefix=media",
+   "date": "2026-10-29T13:44:32+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Huge investment to keep first UK-France interconnector running until at least 2050",
+   "title": "MOL and Deutsche ReGas shake hands on FSRU for German LNG terminal",
    "source": "Offshore Energy",
-   "summary": "The UK's National Grid is investing up to £400 million (around €478 million) in the first cross-border electricity link between the UK and...",
-   "img": "https://offshore-energy.biz/api/media/file/Huge%20investment%20to%20keep%20first%20UK-France%20interconnector%20running%20until%20at%20least%202050-1158x546.png?prefix=media",
-   "date": "2026-10-29T06:40:22+00:00"
+   "summary": "This deal with MOL will enable an LNG carrier to be converted into an FSRU and chartered to Deutsche ReGas from 2028.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784733255486-1536x1051-768x525.png?prefix=media",
+   "date": "2026-10-29T13:09:40+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Egypt’s energy infrastructure grows as two new offshore platforms slide into place",
+   "source": "Offshore Energy",
+   "summary": "Petroleum Marine Services (PMS) has installed two offshore platforms at North Sinai’s gas field, boosting Egypt's energy infrastructure arsenal.",
+   "img": "https://offshore-energy.biz/api/media/file/Hoor-1%202%20platform%20installation%20Source%20PMS-1280x960.png?prefix=media",
+   "date": "2026-10-29T11:20:18+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Seaway7 completes inter-array cable installation at East Anglia Three offshore wind farm",
+   "source": "Offshore Energy",
+   "summary": "Seaway7 has completed the final inter-array cable lay at the 1.4 GW East Anglia Three offshore wind farm in the UK. Seaway7's teams installed 95...",
+   "img": "https://offshore-energy.biz/api/media/file/ea3-1175x771.jpg?prefix=media",
+   "date": "2026-10-29T11:16:06+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "title": "'Industry’s first’ energy construction vessel launches one year after construction start",
    "source": "Offshore Energy",
-   "summary": "Equinor has opened a new, dedicated facility in Norway for the testing, qualification and development of marine robotic technologies, such as...",
-   "img": "https://offshore-energy.biz/api/media/file/First-of-its-kind%20marine%20robotics%20test%20and%20development%20center%20opens%20in%20Norway1-1182x664.jpg?prefix=media",
-   "date": "2026-10-28T14:21:42+00:00"
+   "summary": "VARD has launched the energy construction vessel (ECV) it is building for Norway's Wind Energy Construction, a company partly owned by the...",
+   "img": "https://offshore-energy.biz/api/media/file/'Industry%E2%80%99s%20first%E2%80%99%20energy%20construction%20vessel%20launches%20one%20year%20after%20construction%20start-1280x720.jpg?prefix=media",
+   "date": "2026-10-29T10:34:11+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Shell ups its production ante with first oil from US Gulf project’s third chapter",
+   "title": "QatarEnergy locks in more US LNG through 20-year deal with Woodside",
    "source": "Offshore Energy",
-   "summary": "Shell has tied new wells into an existing floating oil facility, boosting deepwater output in the U.S. Gulf of Mexico (Gulf of America).",
-   "img": "https://offshore-energy.biz/api/media/file/Shell_Perdido_deepwater_offshore_production_platform_(51115227891)-1600x1065.jpg?prefix=media",
-   "date": "2026-10-28T14:08:19+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Germany’s SEFE firms up two-decade-long offtake deal with Canadian LNG project",
-   "source": "Offshore Energy",
-   "summary": "A binding 20-year agreement has enabled Germany’s SEFE to secure 1 mtpa of Canadian LNG starting in the early 2030s.",
-   "img": "https://offshore-energy.biz/api/media/file/LNG-Project-620x443.png?prefix=media",
-   "date": "2026-10-28T12:59:12+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Baker Hughes' subsea systems to help fast-track Cyprus's first commercial gas project",
-   "source": "Offshore Energy",
-   "summary": "Baker Hughes has been awarded a contract by Italy’s energy giant Eni for the supply of subsea production systems and services for Cyprus's...",
-   "img": "https://offshore-energy.biz/api/media/file/Baker%20Hughes'%20equipment%20to%20help%20fast-track%20Cyprus's%20first%20commercial%20gas%20project-1600x1200.jpg?prefix=media",
-   "date": "2026-10-28T12:14:20+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Sintana cuts early payout deal to tie up loose ends for Trinidad exit",
-   "source": "Offshore Energy",
-   "summary": "Sintana is putting finishing touches on its departure from the Caribbean by accelerating deferred cash payments for the sale of its Trinidad business.",
-   "img": "https://offshore-energy.biz/api/media/file/Cratons_West_Gondwana_SCF2-768x1023-768x1023.png?prefix=media",
-   "date": "2026-10-28T10:08:06+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "McDermott orders Strohm's gas production jumpers for Southeast Asia",
-   "source": "Offshore Energy",
-   "summary": "Dutch thermoplastic composite pipe (TCP) manufacturer Strohm has secured an order from McDermott for four TCP jumpers to be installed at a...",
-   "img": "https://offshore-energy.biz/api/media/file/McDermott%20orders%20Strohm's%20gas%20production%20jumpers%20for%20Southeast%20Asia-1050x1600.jpg?prefix=media",
-   "date": "2026-10-28T10:05:08+00:00"
+   "summary": "Woodside has struck a two-decade-long supply agreement with QatarEnergy for LNG from its project in Louisiana, United States (U.S.).",
+   "img": "https://offshore-energy.biz/api/media/file/woodside_louisiana%20lng-1416x600.jpg?prefix=media",
+   "date": "2026-10-29T10:10:07+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,24 +234,14 @@
    "date": "2026-10-08T17:33:33+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 2,
-   "title": "ADES adds $52m to backlog with Angola jackup extension",
+   "title": "Aker Solutions braces for more job cuts",
    "source": "Splash247",
-   "summary": "Saudi offshore drilling contractor ADES has secured a one-year extension for its Shelf Drilling Tenacious jackup offshore Angola, adding around SAR195m ($52m) to its backlog. The company said an existing international oil company had exercised the optional per",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/MarineTraffic-Rohan-Paliwal-Shelf-Drilling-Tenacious-ADES.jpg",
-   "date": "2026-10-29T02:40:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Baker Hughes lands Eni offshore double and Golar FLNG order",
-   "source": "Splash247",
-   "summary": "US energy technology company Baker Hughes has revealed three offshore contract wins, including two awards from Italian energy major Eni and an equipment package for Golar LNG’s fourth floating LNG unit. The company confirmed a significant subsea production sys",
-   "img": "https://splash247.com/wp-content/uploads/2023/07/Baker-Hughes-workers.jpg",
-   "date": "2026-10-29T02:30:00+00:00"
+   "summary": "Norwegian offshore engineering group Aker Solutions is preparing for another round of workforce reductions as a sharp decline in activity following the completion of major oil and gas projects threatens hundreds more jobs. Chief financial officer Idar Eikrem t",
+   "img": "https://splash247.com/wp-content/uploads/2026/07/Aker-Solutions-worker.jpg",
+   "date": "2026-10-29T10:30:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -262,6 +252,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-28T13:02:32+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T14:21:42+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -297,21 +297,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
+   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
+   "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
+   "date": "2026-10-26T14:09:38+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Oceaneering Sees Mozambique, Guyana Driving Offshore Growth in 2027",
-   "source": "Hart Energy",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T20:01:00+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -337,11 +337,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
-   "source": "Ocean News & Technology",
+   "title": "Tullow hires DeepOcean for Jubilee gas lift riser work offshore Ghana",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T13:05:32+00:00"
+   "date": "2026-10-28T22:50:58+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Politiet sin trusselvurdering: Har avverget voldsoppdrag i Trøndelag",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet i Trøndelag peker i sin trusselvurdering for 2027 blant annet på at vold som en handelsvare har blitt vanligere.",
+   "img": "https://gfx.nrk.no/x_y1Qi1hToRUlOG5pyO7mg-CwhKecTVC9erFmZsQaeug.jpg",
+   "date": "2026-10-29T10:23:09+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -374,44 +384,44 @@
    "date": "2026-10-28T18:09:46+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Polititeori: Skulle til Marokko og Kypros for å «stabbe»",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/4ZWiGOhkiWTb20euKLkzggzM54YYPtVfv49jTd86OeOQ.jpg",
-   "date": "2026-10-28T11:09:48+00:00"
+   "title": "Løsnet skudd i Drammen – siktet for drapsforsøk",
+   "source": "NRK",
+   "summary": "Politiet har pågrepet tre unge menn i begynnelsen av 20-årene. Alle tre er nå siktet for drapsforsøk etter skytingen i Drammen.",
+   "img": "https://gfx.nrk.no/Zgb_32u8KuOx_VzD92aihQr1hNoHmZbZ9F4rTRr_Qu7w.jpg",
+   "date": "2026-10-29T14:23:16+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Festmiddag i Spania avlyst etter togulykke",
+   "title": "30 pågrepet i Økokrim-aksjon: – Alvorlig kriminalitet i et kriminelt nettverk",
    "source": "NRK",
-   "summary": "Dronning Sonja er i Spania for å delta på åpningen av en kunstutstilling på Mueso Picasso i Malaga, men den planlagte festmiddagen er avlyst. Det bekrefter Slottet overfor TV 2. – Museo Picasso Málaga har bekreftet at den planlagte utstillingsåpningen består, ",
-   "img": "https://gfx.nrk.no/1wB8mkW_ffAeBBo0vIjtHwEBf2aKWiuAnqzo1HsmrhwQ.jpg",
-   "date": "2026-10-29T08:41:19+00:00"
+   "summary": "Åtte politidistrikt har vært involvert i det Økokrim kaller alvorlig kriminalitet i fiskerinæringen. Politiet sier de har sikret verdier i 100-millionersklassen.",
+   "img": "https://gfx.nrk.no/8ga2zu9PDnwWdEcW2zgA9gCdwcf1k6cbtVJGW53hwabw.jpg",
+   "date": "2026-10-29T13:26:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sammenstøt i Madrid etter togulykke",
+   "title": "Solbakken avslører framtidsplanane: – Eg har lyst på ein klubbjobb",
    "source": "NRK",
-   "summary": "Demonstranter støtte sammen med politiet i Madrid onsdag kveld. Det skjedde under en protest mot regjeringen etter togulykken i Spania onsdag. En ytre høyre-gruppe skal blant annet ha oppfordret til demonstrasjonen, ifølge El Pais. Flere hundre personer skal h",
-   "img": "https://gfx.nrk.no/o0SyTM6syek8lNlcvG3ZZQEUrSgWJntd0Vqku1XrMrSw.jpg",
-   "date": "2026-10-29T03:10:51+00:00"
+   "summary": "Ståle Solbakken veit kva han ønsker når tida som norsk landslagssjef er over. No avslører han at klubbar frå dei fem største ligaene i Europa allereie har tatt kontakt.",
+   "img": "https://gfx.nrk.no/qyM_-ZxfulAJ4rekYOCJ1Qt_3HfbAA3oYSYJHr_kk6Jw.jpg",
+   "date": "2026-10-29T13:14:13+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Person pågrepet etter politiaksjon i Vesterålen",
+   "title": "Nekter militærtjeneste og lærer ikke matte – likevel er de avgjørende i valget i Israel",
    "source": "NRK",
-   "summary": "En antatt gjerningsperson er pågrepet etter en bevæpnet politiaksjon på Andøy i Vesterålen. Det opplyser Nordland politidistrikt. – Personen ble pågrepet uten dramatikk. Gjerningspersonen vil bli avhørt på et senere tidspunkt, skriver operasjonsleder Ina Krist",
-   "img": "",
-   "date": "2026-10-29T02:59:03+00:00"
+   "summary": "Israels ultraortodokse vil ikke bidra i militæret og flere frykter de er en tikkende bombe for landets økonomi. – Dette leder oss mot Israels undergang, mener aktivist.",
+   "img": "https://gfx.nrk.no/2j1zfDo5ONg2bgmTjoBVpwKP98fr8ELs3fE1D_i2RZQw.jpg",
+   "date": "2026-10-29T12:59:35+00:00"
   }
  ]
 }
