@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:31:07.290703+00:00",
+ "updated": "2026-10-29T02:51:29.719410+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,6 +267,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
+   "source": "The Maritime Executive",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T22:27:07+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
    "source": "Offshore Magazine",
    "summary": "",
@@ -287,21 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
-   "source": "The Maritime Executive",
+   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T22:27:07+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "A $620M subsea cable would link Canada directly to Norway",
-   "source": "Yahoo Tech",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-23T00:05:00+00:00"
+   "date": "2026-10-27T12:38:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -327,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
-   "source": "Drilling Contractor",
+   "title": "DOF Gets Deepwater Subsea Installation Job In Africa",
+   "source": "Marine News Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T16:23:03+00:00"
+   "date": "2026-10-22T09:47:48+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Skandi Acergy Tapped For Deep-Water SPS Installation Off Africa",
-   "source": "Ocean News & Technology",
+   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
+   "source": "Drilling Contractor",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T13:05:32+00:00"
+   "date": "2026-10-28T16:23:03+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,6 +387,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Bevæpnet politiaksjon i Vesterålen",
+   "source": "NRK",
+   "summary": "Væpnet politi har omringet et hus i Andøy kommune i Vesterålen. Det skjer etter en voldshendelse onsdag kveld. En person er lettere skadet og tatt hånd om av helsepersonell. Politiet opplyser at de har funnet det de mener er gjerningspersonen inne i et hus. Po",
+   "img": "",
+   "date": "2026-10-29T02:18:15+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Russland får VM: – Krystallklar på at vi ikkje sender utøvarar",
    "source": "NRK",
    "summary": "VM-tildelinga vekker sterke reaksjonar i Det norske vektløftarforbundet. Viss situasjonen held fram med å vere uendra, ser det ut til at det blir utan norsk deltaking.",
@@ -412,16 +422,6 @@
    "summary": "Politiet har fått melding om at det skal ha blitt avfyrt skudd i Dronninggata i Drammen. Det skal ha vært en krangel i forkant, og flere personer har løpt fra området. Politiet mener det ikke er fare for allmennheten og at bakgrunnen er en konflikt mellom to g",
    "img": "https://gfx.nrk.no/ZP-TrdgFWXlG-Fbn64TFrQUmgaNdXqug53go1_NXfZ4A.jpg",
    "date": "2026-10-28T18:06:58+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
-   "source": "NRK",
-   "summary": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto. I en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett. Det betyr a",
-   "img": "https://gfx.nrk.no/rWXW7zWOapO2bvYL22eVSQ83JAtrpWaPH3jL1rAF9MxA.jpg",
-   "date": "2026-10-28T16:57:46+00:00"
   }
  ]
 }
