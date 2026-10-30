@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:05:10.584292+00:00",
+ "updated": "2026-10-30T00:56:01.722125+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -277,31 +277,31 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP, Höegh Evi secure €223 million EU grant for Atlas North Sea carbon storage project",
-   "source": "Offshore Magazine",
+   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-10-22T22:50:26+00:00"
+   "date": "2026-10-27T12:38:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor eyes major annual savings from underwater robots",
-   "source": "EnergyWatch",
+   "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T12:40:49+00:00"
+   "date": "2026-10-28T04:42:24+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
+   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
+   "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
+   "date": "2026-10-26T14:09:38+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +347,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Mann omkom under militærøvelse",
+   "source": "NRK Trøndelag",
+   "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld, opplyser politiet.",
+   "img": "https://gfx.nrk.no/f1w7NAs0MtbEyq93Dho-BwYuGj17C8ErMiaaGKEAAROA.jpg",
+   "date": "2026-10-29T21:14:50+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Torsdagens sending med Kristin Agerlie",
    "source": "NRK Trøndelag",
    "summary": "",
@@ -372,16 +382,6 @@
    "summary": "Iryna flyktet fra krigen i Ukraina og vil søke om å få bli i Norge. Men hun har ikke høy nok arbeidsinntekt.",
    "img": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yg7__deH2EDAw.jpg",
    "date": "2026-10-29T04:12:52+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Nybilsalet tar av: – Er nok ein dobbelteffekt på etterspurnaden",
-   "source": "NRK Trøndelag",
-   "summary": "Både høge drivstoffprisar og kutt i momsfritaket for elbilar kan vere årsaker til den kraftige auken i salet.",
-   "img": "https://gfx.nrk.no/_E-G9hqmbstBsbjUpi2OOABsKyU7PZQKExAMIM5lUIcg.jpg",
-   "date": "2026-10-28T09:41:58+00:00"
   },
   {
    "tag": "Norge",
@@ -412,16 +412,6 @@
    "summary": "Dronning Sonja opna torsdag kveld utstillinga Munch-Picasso i spanske Málaga. Men besøket er også prega av togulukka, der minst 69 menneske mista livet.",
    "img": "https://gfx.nrk.no/CUxQMFYsv0ftSd5K75eSJw6Hnk6fPxBcZZfK80FmpweQ.jpg",
    "date": "2026-10-29T19:51:40+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Seks personar i trafikkulukke i Førde",
-   "source": "NRK",
-   "summary": "Ein lastebil mista lasta på E39 i Førde. Fleire bilar fekk kassar med fisk rett i fronten, og to personar er sende til legevakt.",
-   "img": "https://gfx.nrk.no/HQZs2Fc4n8SFz8gFocTygA8WHPyjLvd3PmVlMATZ4OYw.jpg",
-   "date": "2026-10-29T18:53:05+00:00"
   }
  ]
 }
