@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:33:42.770883+00:00",
+ "updated": "2026-10-30T18:51:08.506407+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -87,6 +87,26 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "Mazarine taking the helm at Black Sea Oil & Gas as Carlyle and EBRD exit",
+   "source": "Offshore Energy",
+   "summary": "Mazarine Energy has struck a deal to acquire Romania's largest offshore gas producer, Black Sea Oil & Gas (BSOG).",
+   "img": "https://offshore-energy.biz/api/media/file/Mazarine%20Energy-1280x694.jpg?prefix=media",
+   "date": "2026-10-30T14:08:27+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "CNOOC’s 2026 run powered by 9 start-ups, 5 new oil & gas discoveries, and 23 appraisals",
+   "source": "Offshore Energy",
+   "summary": "CNOOC's 2026 activities have led to nine new projects being brought online, discovery of five hydrocarbon finds, and 23 appraisal successes.",
+   "img": "https://offshore-energy.biz/api/media/file/CNOOC-800x450.png?prefix=media",
+   "date": "2026-10-30T13:19:46+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
    "source": "Offshore Energy",
    "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
@@ -144,24 +164,14 @@
    "date": "2026-10-30T07:44:19+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fatal rig incident: Search still underway for two missing workers off Gabon",
-   "source": "Offshore Energy",
-   "summary": "Borr Drilling continues the search for two people who remain unaccounted for after its rig sank, while supporting affected personnel and families.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FProspector_25205_2520Source_2520Borr_2520Drilling-1240x826-620x413.png?prefix=media",
-   "date": "2026-10-29T14:40:24+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Planned wave energy project in India takes step forward",
-   "source": "Offshore Energy",
-   "summary": "Wave energy developer Eco Wave Power has secured a purchase order for the initial site assessment phase of the planned wave energy project in...",
-   "img": "https://offshore-energy.biz/api/media/file/eco%20wave-1600x1066.jpg?prefix=media",
-   "date": "2026-10-29T14:37:11+00:00"
+   "title": "How MARAD Cut Years Off Deepwater Port Reviews Without Changing Environmental Standards",
+   "source": "gCaptain Offshore",
+   "summary": "As gCaptain reported earlier this week, the Maritime Administration (MARAD) announced its approval of the $8.2 billion Texas ST LNG export port application, a major development for U.S. energy production. But the announcement also highlighted another significa",
+   "img": "",
+   "date": "2026-10-30T17:36:50+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -236,16 +246,6 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor Brings Shell Into $14 Billion Bay du Nord Project",
-   "source": "gCaptain Offshore",
-   "summary": "Shell has agreed to acquire a 30% stake in Equinor’s Bay du Nord offshore oil project in Canada, bringing a new partner into the estimated C$14 billion development as it...",
-   "img": "",
-   "date": "2026-10-09T13:25:14+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
    "weight": 2,
    "title": "Swedish owner Veritas books up to six chemical tankers in China",
    "source": "Splash247",
@@ -287,6 +287,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-27T12:38:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
    "source": "Offshore Magazine",
    "summary": "",
@@ -294,24 +304,24 @@
    "date": "2026-10-28T04:42:24+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Equinor eyes major annual savings from underwater robots",
-   "source": "EnergyWatch",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T12:40:49+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
-   "source": "Ocean News & Technology",
+   "title": "TotalEnergies farms out partial interest in block offshore Nigeria ahead of appraisal",
+   "source": "Oil & Gas Journal",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T14:09:38+00:00"
+   "date": "2026-10-30T15:10:44+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -344,14 +354,24 @@
    "date": "2026-10-28T22:50:58+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
-   "source": "Offshore Magazine",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Martin (29) omkom under militærøvinga i Stjørdal",
+   "source": "NRK Trøndelag",
+   "summary": "Det var 29 år gamle Martin Aune som omkom under ei militærøving i Stjørdal torsdag kveld.",
+   "img": "https://gfx.nrk.no/SNZ5xq7N7amWbYfjBWs6oAyJ5FKgQwUnxUAVKNaaDPHw.jpg",
+   "date": "2026-10-30T13:28:34+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Sorg i leiren i Stjørdal",
+   "source": "NRK Trøndelag",
    "summary": "",
-   "img": "",
-   "date": "2026-10-28T03:11:27+00:00"
+   "img": "https://gfx.nrk.no/KO75-NtTdET2A5yFoeqtpgTEP3Eza95uTyD3Y1vU96GA.jpg",
+   "date": "2026-10-30T18:06:07+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -374,64 +394,34 @@
    "date": "2026-10-30T11:21:14+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Rykket ut til mistenkelig gjenstand: – Skapt for å skremme",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet rykket fredag formiddag ut etter melding om funn av en mistenkelig gjenstand. Politiet mener gjenstand var skapt for å skremme.",
-   "img": "https://gfx.nrk.no/xn26v40N4fqzkxncIHaaZgstmmi8DpfikD9oaSupMOxA.jpg",
-   "date": "2026-10-30T10:20:20+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Mann omkom under militærøvelse",
-   "source": "NRK Trøndelag",
-   "summary": "En mann i 20-årene fra Trondheim omkom under en militærøvelse i Stjørdal torsdag kveld.",
-   "img": "https://gfx.nrk.no/jOQYMFsCPPoxZT71_DZzoQSOvm-kc6Y4w8U_G0OOGvRw.jpg",
-   "date": "2026-10-29T21:14:50+00:00"
+   "title": "Stian er en av 50.000 som har fått slettet studiegjeld: – Vi sparer ganske mye",
+   "source": "NRK",
+   "summary": "Ekteparet ga opp bylivet og flyttet til bygda – og kan smile bredt av distriktsordningen til 1,4 milliarder kroner. Sjekk hvor mange som har fått gjeldskutt i din kommune.",
+   "img": "https://gfx.nrk.no/fevj_PYnmpyMdbt-vErYlgdA0GEfayOIGX6MCrxRld4Q.jpg",
+   "date": "2026-10-30T18:48:30+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Christa Pike uttaler seg etter mislykket henrettelse",
+   "title": "Mann fraktet til sykehus med alvorlig skuddskade",
    "source": "NRK",
-   "summary": "Christa Pike uttaler seg for første gang etter den mislykkede henrettelsen sin tidligere i høst, melder flere medier. Pike sier at hun er i konstant smerte.",
+   "summary": "En mann ble flydd til sykehus med alvorlige skuddskader fredag ettermiddag.",
    "img": "",
-   "date": "2026-10-30T13:27:51+00:00"
+   "date": "2026-10-30T18:28:35+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Martin (29) omkom under militærøvelsen i Stjørdal",
+   "title": "Enorm kort-forskjell mellom Glimt og Viking: – Absurde tall",
    "source": "NRK",
-   "summary": "Det var 29 år gamle Martin Aune som omkom i en tragisk hendelse, under en militærøvelse i Stjørdal torsdag kveld. Aune var bosatt i Trondheim. Navn og bilde fra Luftforsvarets minnestund i dag, frigis i samråd med nærmeste pårørende. I forbindelse med frigivel",
-   "img": "https://gfx.nrk.no/SNZ5xq7N7amWbYfjBWs6oAyJ5FKgQwUnxUAVKNaaDPHw.jpg",
-   "date": "2026-10-30T13:21:57+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Pelsbønder tapte rentesak: – Veldig skuffa",
-   "source": "NRK",
-   "summary": "230 pelsdyrbønder krevde 60 millioner fra staten i forsinkelsesrenter, men tapte i Oslo tingrett.",
-   "img": "https://gfx.nrk.no/yBt5M8ktEQoi9IsLbV1tug1F5O-vwAR-tZRyis64JrAQ.jpg",
-   "date": "2026-10-30T13:00:57+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Forklarer Tripic-vrakingen: – Du tar ikke bare med deg den rollen",
-   "source": "NRK",
-   "summary": "Fredag kan Zlatko Tripic ta et stort steg mot seriegullet med Viking. Til tross for 25 målpoeng har han ikke fått sjansen på landslaget. Nå forklarer Ståle Solbakken hvorfor.",
-   "img": "https://gfx.nrk.no/K1hKkiKbFvPDCJxOV9pmFAEZiIaPXKldbyhSiWZ055Dw.jpg",
-   "date": "2026-10-30T12:37:09+00:00"
+   "summary": "To av Vikings stjernespillere har pådratt seg like mange gule kort som hele Bodø/Glimt. – Oppsiktsvekkende, mener NRK-ekspert.",
+   "img": "https://gfx.nrk.no/2FXFr2M0flvUuPANPkXtuwxm3DxgcaWfqkvcq-sfIQCQ.jpg",
+   "date": "2026-10-30T14:08:09+00:00"
   }
  ]
 }
