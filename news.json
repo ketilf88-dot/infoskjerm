@@ -1,7 +1,9 @@
 {
- "updated": "2026-10-30T00:56:01.722125+00:00",
+ "updated": "2026-10-30T06:40:39.097070+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Splash247"
+ ],
  "items": [
   {
    "tag": "Oslo Børs",
@@ -236,16 +238,6 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 2,
-   "title": "Aker Solutions braces for more job cuts",
-   "source": "Splash247",
-   "summary": "Norwegian offshore engineering group Aker Solutions is preparing for another round of workforce reductions as a sharp decline in activity following the completion of major oil and gas projects threatens hundreds more jobs. Chief financial officer Idar Eikrem t",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Aker-Solutions-worker.jpg",
-   "date": "2026-10-29T10:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
    "weight": 3,
    "title": "Equinor opens Kårstø Marine Robotics Centre",
    "source": "Equinor",
@@ -297,11 +289,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
-   "source": "Ocean News & Technology",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T14:09:38+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -349,8 +341,8 @@
    "weight": 1,
    "title": "Mann omkom under militærøvelse",
    "source": "NRK Trøndelag",
-   "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld, opplyser politiet.",
-   "img": "https://gfx.nrk.no/f1w7NAs0MtbEyq93Dho-BwYuGj17C8ErMiaaGKEAAROA.jpg",
+   "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld.",
+   "img": "https://gfx.nrk.no/V4fFieohL6KEw8iGu49IRg6-M85fJ5WGFgSz-Ea_yAFA.jpg",
    "date": "2026-10-29T21:14:50+00:00"
   },
   {
@@ -387,31 +379,31 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "No blir dette forbode: – Har laga ei felle for meg sjølv",
+   "source": "NRK",
+   "summary": "Det internasjonale skiskyttarforbundet (IBU) har igjen stramma inn på våpenreglane. No må utøvarane endre ein gammal vane.",
+   "img": "https://gfx.nrk.no/uytMLF3WqJCu_HbD1F7hkQyThzCB6N8WhvI1r-WqQY4w.jpg",
+   "date": "2026-10-30T05:07:05+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Valget i Israel: Ingen blokker fikk flertall",
+   "source": "NRK",
+   "summary": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg. Det er klart etter at alle stemmene skal være talt opp, melder avisen The Times of Israel. Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen, der d",
+   "img": "https://gfx.nrk.no/0vw3_Az_Yq3P66QSt4xbpg9mKVBjaIOPjRk58BrX536A.jpg",
+   "date": "2026-10-30T00:33:00+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Fiskeri-redaktør om Økokrims storaksjon: – Jeg er sjokkert",
    "source": "NRK",
    "summary": "Politiet har pågrepet over 30 personer i det som kan bli norgeshistoriens største fiskerikrimsak.",
    "img": "https://gfx.nrk.no/538ASVTSsBHew5zq9EWjFQJyjKbpFqUB_VceFO1BWsPw.jpg",
    "date": "2026-10-29T19:27:14+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Skuespiller Patrick Stewart er død, 86 år gammel",
-   "source": "NRK",
-   "summary": "Skuespiller Patrick Stewart, kjent for mange fra Star Trek og X-Men, har gått bort. Han ble 86 år gammel. En talsperson for familien forteller om dødsfallet, melder flere amerikanske medier. Hans siste periode ble preget av alzheimers og demens. – Vi vil for a",
-   "img": "https://gfx.nrk.no/FcVaqERmx1TQMhDWouLCkgZOFuVYUufV0H43VLGdiUlA.jpg",
-   "date": "2026-10-29T19:52:25+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Dronning Sonja kondolerte Spania: – Vil uttrykke mi djupaste medkjensle",
-   "source": "NRK",
-   "summary": "Dronning Sonja opna torsdag kveld utstillinga Munch-Picasso i spanske Málaga. Men besøket er også prega av togulukka, der minst 69 menneske mista livet.",
-   "img": "https://gfx.nrk.no/CUxQMFYsv0ftSd5K75eSJw6Hnk6fPxBcZZfK80FmpweQ.jpg",
-   "date": "2026-10-29T19:51:40+00:00"
   }
  ]
 }
