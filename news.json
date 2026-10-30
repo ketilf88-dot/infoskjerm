@@ -1,10 +1,18 @@
 {
- "updated": "2026-10-30T06:40:39.097070+00:00",
+ "updated": "2026-10-30T13:33:42.770883+00:00",
  "sources": 8,
- "failed": [
-  "Splash247"
- ],
+ "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Solstad Maritime ASA - Contract awards for CSV Normand Australis",
+   "source": "Solstad Maritime ASA",
+   "summary": "Skudeneshavn, 30 October 2026 Solstad Maritime ASA (\"SOMA\") is pleased to announce that it has been awarded two firm contracts for the CSV Normand Australis in the Asia Pacific region.",
+   "img": "",
+   "date": "2026-10-30T10:16:11.807Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -76,6 +84,66 @@
    "date": "2026-10-28T17:45:32.624Z"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
+   "source": "Offshore Energy",
+   "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
+   "img": "https://offshore-energy.biz/api/media/file/Normand-Australis-850x510.jpg?prefix=media",
+   "date": "2026-10-30T11:16:44+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Noble rigs’ $560 million drilling gigs push fleet backlog to $6.7 billion",
+   "source": "Offshore Energy",
+   "summary": "Noble Corporation has secured a string of new deals across multiple geographies, spanning South America, Africa, and Europe.",
+   "img": "https://offshore-energy.biz/api/media/file/Noble-Intrepid%20Source%20Noble%20Corporation-1037x682.png?prefix=media",
+   "date": "2026-10-30T10:34:46+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Siem's China-built vessel sisters to feature Huisman cranes",
+   "source": "Offshore Energy",
+   "summary": "Siem Industries has selected Huisman to deliver knuckle boom cranes for the two offshore support vessels (OSVs) it recently ordered from China....",
+   "img": "https://offshore-energy.biz/api/media/file/Siem's%20China-built%20vessel%20sisters%20to%20feature%20Huisman%20cranes-730x392.jpg?prefix=media",
+   "date": "2026-10-30T09:29:48+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "€3.1 billion Spain-France interconnector is 70% complete",
+   "source": "Offshore Energy",
+   "summary": "The multibillion-euro Biscay Gulf interconnector, set to increase electricity exchange capacity between Spain and France from 2.8 GW to 5 GW, is...",
+   "img": "https://offshore-energy.biz/api/media/file/%E2%82%AC3.1%20billion%20Spain-France%20interconnector%20is%2070%25%20complete-1280x853.jpg?prefix=media",
+   "date": "2026-10-30T08:50:40+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Petrobras hits paydirt for third time in ultra-deep Amapá waters as Equatorial Margin’s oil arsenal grows",
+   "source": "Offshore Energy",
+   "summary": "Petrobras' third discovery off the coast of Amapá has strengthened Equatorial Margin's emerging oil frontier.",
+   "img": "https://offshore-energy.biz/api/media/file/Sonda%20NS-42%20(ODN-II)_Home_Divulga%C3%A7%C3%A3o%20Foresea%20(2)-1600x1064.jpg?prefix=media",
+   "date": "2026-10-30T08:41:43+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "SBM Offshore tasks Seatrium with multimillion-dollar South American FPSO job",
+   "source": "Offshore Energy",
+   "summary": "Seatrium has lined up an FPSO integration deal with SBM Offshore, enabling it to play a role in powering upcoming energy projects in South America.",
+   "img": "https://offshore-energy.biz/api/media/file/SBM-Offshore-FPSO-Fundamentals-1600x904.png?prefix=media",
+   "date": "2026-10-30T07:44:19+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -94,66 +162,6 @@
    "summary": "Wave energy developer Eco Wave Power has secured a purchase order for the initial site assessment phase of the planned wave energy project in...",
    "img": "https://offshore-energy.biz/api/media/file/eco%20wave-1600x1066.jpg?prefix=media",
    "date": "2026-10-29T14:37:11+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "CO2 storage appraisal campaign in UK North Sea yields positive results",
-   "source": "Offshore Energy",
-   "summary": "The Northern Endurance Partnership (NEP), a joint venture of BP, Equinor and TotalEnergies, has completed an appraisal program offshore the UK...",
-   "img": "https://offshore-energy.biz/api/media/file/CO2%20storage%20appraisal%20campaign%20in%20UK%20North%20Sea%20yields%20positive%20results-1600x1429.jpg?prefix=media",
-   "date": "2026-10-29T13:44:32+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "MOL and Deutsche ReGas shake hands on FSRU for German LNG terminal",
-   "source": "Offshore Energy",
-   "summary": "This deal with MOL will enable an LNG carrier to be converted into an FSRU and chartered to Deutsche ReGas from 2028.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784733255486-1536x1051-768x525.png?prefix=media",
-   "date": "2026-10-29T13:09:40+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Egypt’s energy infrastructure grows as two new offshore platforms slide into place",
-   "source": "Offshore Energy",
-   "summary": "Petroleum Marine Services (PMS) has installed two offshore platforms at North Sinai’s gas field, boosting Egypt's energy infrastructure arsenal.",
-   "img": "https://offshore-energy.biz/api/media/file/Hoor-1%202%20platform%20installation%20Source%20PMS-1280x960.png?prefix=media",
-   "date": "2026-10-29T11:20:18+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Seaway7 completes inter-array cable installation at East Anglia Three offshore wind farm",
-   "source": "Offshore Energy",
-   "summary": "Seaway7 has completed the final inter-array cable lay at the 1.4 GW East Anglia Three offshore wind farm in the UK. Seaway7's teams installed 95...",
-   "img": "https://offshore-energy.biz/api/media/file/ea3-1175x771.jpg?prefix=media",
-   "date": "2026-10-29T11:16:06+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "'Industry’s first’ energy construction vessel launches one year after construction start",
-   "source": "Offshore Energy",
-   "summary": "VARD has launched the energy construction vessel (ECV) it is building for Norway's Wind Energy Construction, a company partly owned by the...",
-   "img": "https://offshore-energy.biz/api/media/file/'Industry%E2%80%99s%20first%E2%80%99%20energy%20construction%20vessel%20launches%20one%20year%20after%20construction%20start-1280x720.jpg?prefix=media",
-   "date": "2026-10-29T10:34:11+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "QatarEnergy locks in more US LNG through 20-year deal with Woodside",
-   "source": "Offshore Energy",
-   "summary": "Woodside has struck a two-decade-long supply agreement with QatarEnergy for LNG from its project in Louisiana, United States (U.S.).",
-   "img": "https://offshore-energy.biz/api/media/file/woodside_louisiana%20lng-1416x600.jpg?prefix=media",
-   "date": "2026-10-29T10:10:07+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -238,22 +246,22 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
+   "weight": 2,
+   "title": "Swedish owner Veritas books up to six chemical tankers in China",
+   "source": "Splash247",
+   "summary": "Swedish shipowner Veritas Tankers has placed an order for up to six 13,000 dwt stainless steel chemical tankers at China’s Nantong Rainbow Offshore & Engineering Equipment, in a deal potentially worth $248m. The yard’s Shenzhen-listed parent, Jiangsu Rainbow H",
+   "img": "https://splash247.com/wp-content/uploads/2026/10/Veritas-Tankers-Rainbow-order.jpg",
+   "date": "2026-10-30T10:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
    "title": "Equinor opens Kårstø Marine Robotics Centre",
    "source": "Equinor",
    "summary": "",
    "img": "",
    "date": "2026-10-28T13:02:32+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T14:21:42+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -269,11 +277,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
-   "source": "Yahoo Finance",
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-27T12:38:00+00:00"
+   "date": "2026-10-28T14:21:42+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -286,14 +294,24 @@
    "date": "2026-10-28T04:42:24+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor eyes major annual savings from underwater robots",
+   "source": "EnergyWatch",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-29T12:40:49+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
+   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
+   "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
+   "date": "2026-10-26T14:09:38+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -339,71 +357,81 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Stakk mann i hjartet med kniv – dømt for drapsforsøk",
+   "source": "NRK Trøndelag",
+   "summary": "Mannen stakk ein mann sju gongar i overkroppen og ein annan i hjartet med kniv.",
+   "img": "https://gfx.nrk.no/A87jOnVcKaghCG6JpJCkZgMYSYdJlqkueObGUXtNxSsQ.jpg",
+   "date": "2026-10-30T13:05:12+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Døde i militærøvelse – kan ha startet kjøretøyet selv",
+   "source": "NRK Trøndelag",
+   "summary": "Torsdag kveld omkom 29 år gamle Martin Aune under en øvelse på Frigården skytefelt i Stjørdal.",
+   "img": "https://gfx.nrk.no/ofLkmtY9mL3Du-nzto86vQMoscy6aocWAfFhFJ52tqog.jpg",
+   "date": "2026-10-30T11:21:14+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rykket ut til mistenkelig gjenstand: – Skapt for å skremme",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet rykket fredag formiddag ut etter melding om funn av en mistenkelig gjenstand. Politiet mener gjenstand var skapt for å skremme.",
+   "img": "https://gfx.nrk.no/xn26v40N4fqzkxncIHaaZgstmmi8DpfikD9oaSupMOxA.jpg",
+   "date": "2026-10-30T10:20:20+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Mann omkom under militærøvelse",
    "source": "NRK Trøndelag",
-   "summary": "En mann i 20-årene omkom under en militærøvelse i Stjørdal torsdag kveld.",
-   "img": "https://gfx.nrk.no/V4fFieohL6KEw8iGu49IRg6-M85fJ5WGFgSz-Ea_yAFA.jpg",
+   "summary": "En mann i 20-årene fra Trondheim omkom under en militærøvelse i Stjørdal torsdag kveld.",
+   "img": "https://gfx.nrk.no/jOQYMFsCPPoxZT71_DZzoQSOvm-kc6Y4w8U_G0OOGvRw.jpg",
    "date": "2026-10-29T21:14:50+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Torsdagens sending med Kristin Agerlie",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
-   "date": "2026-10-29T18:24:51+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Politiet sin trusselvurdering: Har avverget voldsoppdrag i Trøndelag",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet i Trøndelag peker i sin trusselvurdering for 2027 blant annet på at vold som en handelsvare har blitt vanligere.",
-   "img": "https://gfx.nrk.no/x_y1Qi1hToRUlOG5pyO7mg-CwhKecTVC9erFmZsQaeug.jpg",
-   "date": "2026-10-29T10:23:09+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "67.000 ukrainere kan få nei til opphold i Norge: – Mange er bekymret",
-   "source": "NRK Trøndelag",
-   "summary": "Iryna flyktet fra krigen i Ukraina og vil søke om å få bli i Norge. Men hun har ikke høy nok arbeidsinntekt.",
-   "img": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yg7__deH2EDAw.jpg",
-   "date": "2026-10-29T04:12:52+00:00"
+   "title": "Christa Pike uttaler seg etter mislykket henrettelse",
+   "source": "NRK",
+   "summary": "Christa Pike uttaler seg for første gang etter den mislykkede henrettelsen sin tidligere i høst, melder flere medier. Pike sier at hun er i konstant smerte.",
+   "img": "",
+   "date": "2026-10-30T13:27:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "No blir dette forbode: – Har laga ei felle for meg sjølv",
+   "title": "Martin (29) omkom under militærøvelsen i Stjørdal",
    "source": "NRK",
-   "summary": "Det internasjonale skiskyttarforbundet (IBU) har igjen stramma inn på våpenreglane. No må utøvarane endre ein gammal vane.",
-   "img": "https://gfx.nrk.no/uytMLF3WqJCu_HbD1F7hkQyThzCB6N8WhvI1r-WqQY4w.jpg",
-   "date": "2026-10-30T05:07:05+00:00"
+   "summary": "Det var 29 år gamle Martin Aune som omkom i en tragisk hendelse, under en militærøvelse i Stjørdal torsdag kveld. Aune var bosatt i Trondheim. Navn og bilde fra Luftforsvarets minnestund i dag, frigis i samråd med nærmeste pårørende. I forbindelse med frigivel",
+   "img": "https://gfx.nrk.no/SNZ5xq7N7amWbYfjBWs6oAyJ5FKgQwUnxUAVKNaaDPHw.jpg",
+   "date": "2026-10-30T13:21:57+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Valget i Israel: Ingen blokker fikk flertall",
+   "title": "Pelsbønder tapte rentesak: – Veldig skuffa",
    "source": "NRK",
-   "summary": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg. Det er klart etter at alle stemmene skal være talt opp, melder avisen The Times of Israel. Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen, der d",
-   "img": "https://gfx.nrk.no/0vw3_Az_Yq3P66QSt4xbpg9mKVBjaIOPjRk58BrX536A.jpg",
-   "date": "2026-10-30T00:33:00+00:00"
+   "summary": "230 pelsdyrbønder krevde 60 millioner fra staten i forsinkelsesrenter, men tapte i Oslo tingrett.",
+   "img": "https://gfx.nrk.no/yBt5M8ktEQoi9IsLbV1tug1F5O-vwAR-tZRyis64JrAQ.jpg",
+   "date": "2026-10-30T13:00:57+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fiskeri-redaktør om Økokrims storaksjon: – Jeg er sjokkert",
+   "title": "Forklarer Tripic-vrakingen: – Du tar ikke bare med deg den rollen",
    "source": "NRK",
-   "summary": "Politiet har pågrepet over 30 personer i det som kan bli norgeshistoriens største fiskerikrimsak.",
-   "img": "https://gfx.nrk.no/538ASVTSsBHew5zq9EWjFQJyjKbpFqUB_VceFO1BWsPw.jpg",
-   "date": "2026-10-29T19:27:14+00:00"
+   "summary": "Fredag kan Zlatko Tripic ta et stort steg mot seriegullet med Viking. Til tross for 25 målpoeng har han ikke fått sjansen på landslaget. Nå forklarer Ståle Solbakken hvorfor.",
+   "img": "https://gfx.nrk.no/K1hKkiKbFvPDCJxOV9pmFAEZiIaPXKldbyhSiWZ055Dw.jpg",
+   "date": "2026-10-30T12:37:09+00:00"
   }
  ]
 }
