@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:54:35.120104+00:00",
+ "updated": "2026-10-31T18:03:19.795588+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -337,9 +337,19 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Rundballer trillet ut på E6",
+   "title": "Les kamprererat her: Rosenborg vant 3-0 over Fredrikstad",
    "source": "NRK Trøndelag",
-   "summary": "Politiet måtte rykke ut da en henger og flere rundballer trillet ut på E6 nord for Steinkjer.",
+   "summary": "",
+   "img": "https://gfx.nrk.no/9KVrxB2ic6UN13v3yFt1mgdvs3dk1f9fkbLxuc-DWZDA.jpg",
+   "date": "2026-10-30T15:39:45+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Fikk lyktestolpe over frontruta på E6",
+   "source": "NRK Trøndelag",
+   "summary": "To biler fikk skader da en lyktestolpe veltet over veien nord for Steinkjer lørdag ettermiddag.",
    "img": "https://gfx.nrk.no/7WhRZqfBQfsAFncbhNkEKgmr57ZBoNXQ77FJPHKEiQPw.jpg",
    "date": "2026-10-31T13:33:12+00:00"
   },
@@ -364,54 +374,44 @@
    "date": "2026-10-31T07:54:47+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Martin (29) omkom under militærøvinga i Stjørdal",
-   "source": "NRK Trøndelag",
-   "summary": "Det var 29 år gamle Martin Aune som omkom under ei militærøving i Stjørdal torsdag kveld.",
-   "img": "https://gfx.nrk.no/SNZ5xq7N7amWbYfjBWs6oAyJ5FKgQwUnxUAVKNaaDPHw.jpg",
-   "date": "2026-10-30T13:28:34+00:00"
+   "title": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
+   "source": "NRK",
+   "summary": "Eliteseriens toppscorer Amin Chiakha (20) laget to mål – men var likevel tydelig opprørt i Rosenborgs 3–0 seier i Fredrikstad lørdag. Dommeren bekrefter at det er anklager om rasisme.",
+   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAqOhUZf4ywUtazwcMAjU97w.jpg",
+   "date": "2026-10-31T17:20:26+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sviende nederlag for Bodø/Glimt-styret: Omstridt navneforslag ble nedstemt",
+   "title": "22. juli minnesmerke utsett for hærverk",
    "source": "NRK",
-   "summary": "Til tross for advarsler om at en millionkontrakt kunne ryke, stemte et flertall av Bodø/Glimts medlemmer ned styrets forslag om å kalle stadion Arctic Arena.",
-   "img": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtq0h9IIAnEuHQ.jpg",
-   "date": "2026-10-31T11:55:40+00:00"
+   "summary": "Minnesmerket etter 22. juli på Askøy vart reist etter at to ungdommar frå lokalsamfunnet mista livet på Utøya. No har minnesmerket blitt vandalisert med hakekors.",
+   "img": "https://gfx.nrk.no/ZjUx0tuPoFdhg_zr3q7yVAr7zcCEMcFLDcb9SPiZxfHQ.jpg",
+   "date": "2026-10-31T16:41:22+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
+   "title": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
    "source": "NRK",
-   "summary": "Og det er ikke det lureste hvis målet er at flest mulig skal la bilen stå.",
-   "img": "https://gfx.nrk.no/vwM5HhryRoiz0kxX99nTugBa4iNCQnO5bQW64oHf4BZA.jpg",
-   "date": "2026-10-31T11:05:37+00:00"
+   "summary": "Alle veit at breane smeltar, men kor fort veit ingen heilt sikkert. Hundrevis av brear i Noreg vil vere borte om få år. I verdsarvområda på Vestlandet er dei aller fleste utryddingstrua.",
+   "img": "https://gfx.nrk.no/v6m6PUYrG91ItEK3Y9kp5gAYCtDG-h3KBUAYWWb4KLUA.jpg",
+   "date": "2026-10-31T15:27:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kjærestepar overlevde dødsulykke: Måtte knuse seg ut av brennende nattbuss",
+   "title": "Bryter tausheten om City-dommen: – Journalister ønsker blod",
    "source": "NRK",
-   "summary": "Olena Hætta og kjæresten Øystein Haukaas måtte knuse bussvinduene for å komme seg ut da nattbussen de satt i, krasjet inn i to brennende lastebiler i Bulgaria. To personer omkom i kollisjonen.",
-   "img": "https://gfx.nrk.no/A4K3mRQVC5MiB24FrRvT2wppw_0wjkABRkawNSZ_RZvg.jpg",
-   "date": "2026-10-31T10:09:18+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Går hardt ut mot Bodø/Glimt: – Sutrekultur",
-   "source": "NRK",
-   "summary": "Viking-profiler har fått nok. Nå retter de krass kritikk mot oppførselen til gullrivalene fra Nordland.",
-   "img": "https://gfx.nrk.no/9irVL37IYo91k5AjOc7J8AtFaHqxE5VCxhiYud11bseQ.jpg",
-   "date": "2026-10-31T09:07:20+00:00"
+   "summary": "Alfie Haaland kommenterte den knusende dommen mot Manchester City. Så gikk klubben på et sviende nederlag.",
+   "img": "https://gfx.nrk.no/0-9Z-z12acZ_rY3J8RKIzQg6FSBfGwwfqG6k_iQkI2Tw.jpg",
+   "date": "2026-10-31T14:46:23+00:00"
   }
  ]
 }
