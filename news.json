@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:43:26.533096+00:00",
+ "updated": "2026-10-31T01:50:59.613172+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -307,6 +307,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
+   "source": "Ocean News & Technology",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-26T14:09:38+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "TotalEnergies farms out partial interest in block offshore Nigeria ahead of appraisal",
    "source": "Oil & Gas Journal",
    "summary": "",
@@ -317,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
    "date": "2026-10-28T08:49:49+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-30T19:42:34+00:00"
   },
   {
    "tag": "Offshore · Afrika",
