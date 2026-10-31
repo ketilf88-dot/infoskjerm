@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:50:59.613172+00:00",
+ "updated": "2026-10-31T07:44:41.374880+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -277,21 +277,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "title": "North Sea gas discovery twice as big after appraisal success with tie-back on the table",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T14:21:42+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-27T12:38:00+00:00"
+   "date": "2026-10-29T07:58:13+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,31 +317,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-26T23:40:14+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
    "date": "2026-10-28T08:49:49+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-30T19:42:34+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
-   "source": "Drilling Contractor",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T16:23:03+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -397,6 +377,26 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Tilbake på start",
+   "source": "NRK",
+   "summary": "For drøye to år siden lå Mia Rusthen for døden etter å ha krasjet i 200 kilometer i timen. Nå er målet å løpe for livet.",
+   "img": "https://gfx.nrk.no/O_TxheIDATvZzX38SK7gngXhCQRJLvbGFhOVML5UWa3w.jpg",
+   "date": "2026-10-31T07:20:39+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Avis: Angrep mot ukrainsk energianlegg",
+   "source": "NRK",
+   "summary": "Et energianlegg i Kyiv er rammet i et russisk angrep fredag kveld, melder avisen The Kyiv Independent. Fire bydeler i den ukrainske hovedstaden er uten strøm, ifølge energiselskapet DTEK. Det har så langt ikke kommet meldinger om døde eller sårede etter angrep",
+   "img": "",
+   "date": "2026-10-30T23:33:35+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "– Kan ikke noen bare si noe fint om meg?",
    "source": "NRK",
    "summary": "Viking-kaptein Zlatko Tripic fikk gjennomgå av Glimt-spillerne etter «seriefinalen». Han slår tilbake – men blir ikke trodd.",
@@ -412,26 +412,6 @@
    "summary": "Først skulle de koste under 40. Så rundt 50. Nå er det klart at den samla prisen blir langt høyere.",
    "img": "https://gfx.nrk.no/l0OWohTl9rR0HsQa2plTjwUMRQSU4Oqeb_RAa9pmhCTg.jpg",
    "date": "2026-10-30T21:24:13+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Blodrød dag på Wall Street",
-   "source": "NRK",
-   "summary": "Salget av teknologiaksjer på New York-børsene akselererte fredag, drevet av bekymringer om at KI-feberen på Wall Street har presset prisene for høyt. Teknologifallet ble utløst av skuffende kvartalsresultater fra Intel og Amazon, som ble lagt frem sent torsdag",
-   "img": "",
-   "date": "2026-10-30T20:51:37+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Glimt-spillerne ut mot Tripic: – 100 prosent med vilje",
-   "source": "NRK",
-   "summary": "Bodø/Glimts seier 3-2 i «seriefinalen» gjør at det er helt likt mellom de to topplagene. Viking-kaptein Zlatko Tripic fikk gjennomgå både i kampen og etterpå – men slår tilbake.",
-   "img": "https://gfx.nrk.no/kMCGdm_hEY5ug4M2-cjYcgo2H_w9acnZAEus2r4wxnhw.jpg",
-   "date": "2026-10-30T19:58:45+00:00"
   }
  ]
 }
