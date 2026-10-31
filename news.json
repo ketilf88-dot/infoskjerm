@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:03:19.795588+00:00",
+ "updated": "2026-10-31T21:29:33.217204+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,21 +267,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
-   "source": "The Maritime Executive",
+   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T22:27:07+00:00"
+   "date": "2026-10-28T14:21:42+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "North Sea gas discovery twice as big after appraisal success with tie-back on the table",
-   "source": "Offshore Energy",
+   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
+   "source": "The Maritime Executive",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T07:58:13+00:00"
+   "date": "2026-10-28T22:27:07+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -337,11 +337,11 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Les kamprererat her: Rosenborg vant 3-0 over Fredrikstad",
+   "title": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
    "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/9KVrxB2ic6UN13v3yFt1mgdvs3dk1f9fkbLxuc-DWZDA.jpg",
-   "date": "2026-10-30T15:39:45+00:00"
+   "summary": "Eliteseriens toppscorer Amin Chiakha (20) laget to mål – men var likevel tydelig opprørt i Rosenborgs 3–0 seier i Fredrikstad lørdag. Dommeren bekrefter at det er anklager om rasisme.",
+   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAqOhUZf4ywUtazwcMAjU97w.jpg",
+   "date": "2026-10-31T17:20:26+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -349,7 +349,7 @@
    "weight": 1,
    "title": "Fikk lyktestolpe over frontruta på E6",
    "source": "NRK Trøndelag",
-   "summary": "To biler fikk skader da en lyktestolpe veltet over veien nord for Steinkjer lørdag ettermiddag.",
+   "summary": "To biler fikk skader da en lyktestolpe veltet over veien sør for Steinkjer lørdag ettermiddag.",
    "img": "https://gfx.nrk.no/7WhRZqfBQfsAFncbhNkEKgmr57ZBoNXQ77FJPHKEiQPw.jpg",
    "date": "2026-10-31T13:33:12+00:00"
   },
@@ -377,41 +377,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
+   "title": "Nytt system skal redde minst fem flere liv i året",
    "source": "NRK",
-   "summary": "Eliteseriens toppscorer Amin Chiakha (20) laget to mål – men var likevel tydelig opprørt i Rosenborgs 3–0 seier i Fredrikstad lørdag. Dommeren bekrefter at det er anklager om rasisme.",
-   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAqOhUZf4ywUtazwcMAjU97w.jpg",
-   "date": "2026-10-31T17:20:26+00:00"
+   "summary": "Hovedredningssentralen erstatter nå et 25 år gammelt datasystem. Håpet er å kutte livsviktige minutter, og spare samfunnet for milliarder.",
+   "img": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgDrbDRCHJGXQ.jpg",
+   "date": "2026-10-31T21:05:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "22. juli minnesmerke utsett for hærverk",
+   "title": "Ufornuft og følelser",
    "source": "NRK",
-   "summary": "Minnesmerket etter 22. juli på Askøy vart reist etter at to ungdommar frå lokalsamfunnet mista livet på Utøya. No har minnesmerket blitt vandalisert med hakekors.",
-   "img": "https://gfx.nrk.no/ZjUx0tuPoFdhg_zr3q7yVAr7zcCEMcFLDcb9SPiZxfHQ.jpg",
-   "date": "2026-10-31T16:41:22+00:00"
+   "summary": "Fotballhelgen i Bodø har nok en gang vist oss hvor viktig det er med følelser, selv i den moderne fotballen.",
+   "img": "https://gfx.nrk.no/Mx42xU_0Bn9jVrlBEVo93QVfOcxi2mlt0Jx4T5QO0zqw.jpg",
+   "date": "2026-10-31T21:03:27+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
+   "title": "Etterforsker navnekrøll i Alaska før mellomvalget",
    "source": "NRK",
-   "summary": "Alle veit at breane smeltar, men kor fort veit ingen heilt sikkert. Hundrevis av brear i Noreg vil vere borte om få år. I verdsarvområda på Vestlandet er dei aller fleste utryddingstrua.",
-   "img": "https://gfx.nrk.no/v6m6PUYrG91ItEK3Y9kp5gAYCtDG-h3KBUAYWWb4KLUA.jpg",
-   "date": "2026-10-31T15:27:25+00:00"
+   "summary": "USAs president krever at demokratenes kandidat må tas av lista for senatsvalget i Alaska. Påtalemyndigheten skal etterforske om demokratene har hentet inn en pensjonert lærer for å forvirre velgere.",
+   "img": "https://gfx.nrk.no/_OxMMic9SHGoj_G-bfWsCg2W4HFffa-BNMJP5QgAYMeQ.jpg",
+   "date": "2026-10-31T20:26:29+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bryter tausheten om City-dommen: – Journalister ønsker blod",
+   "title": "Væpna menn tok seg inn om natta",
    "source": "NRK",
-   "summary": "Alfie Haaland kommenterte den knusende dommen mot Manchester City. Så gikk klubben på et sviende nederlag.",
-   "img": "https://gfx.nrk.no/0-9Z-z12acZ_rY3J8RKIzQg6FSBfGwwfqG6k_iQkI2Tw.jpg",
-   "date": "2026-10-31T14:46:23+00:00"
+   "summary": "Personane var maskerte og væpna då dei midt på natta tok seg inn på adressa til ein familie på fire.",
+   "img": "https://gfx.nrk.no/NpHX-U2ZWU8DTaHziNK4_g9Ke7m7xb4ya46J7rg8Gr3Q.jpg",
+   "date": "2026-10-31T19:49:51+00:00"
   }
  ]
 }
