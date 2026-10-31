@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:44:41.374880+00:00",
+ "updated": "2026-10-31T13:54:35.120104+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -317,11 +317,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
+   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
+   "date": "2026-10-30T19:42:34+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -337,6 +337,36 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Rundballer trillet ut på E6",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet måtte rykke ut da en henger og flere rundballer trillet ut på E6 nord for Steinkjer.",
+   "img": "https://gfx.nrk.no/7WhRZqfBQfsAFncbhNkEKgmr57ZBoNXQ77FJPHKEiQPw.jpg",
+   "date": "2026-10-31T13:33:12+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Måtte sperre seg inne på butikk: – Kunne gått mye verre",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet måtte ta kontroll på en person som forsøkte å komme seg inn på en butikk med flere kniver.",
+   "img": "https://gfx.nrk.no/Qo9xjORr-S7m1qUzOR3F8Q8dU2WN5kRXYxXkfo0ZWeLA.jpg",
+   "date": "2026-10-31T12:04:12+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Britisk hangarskip til kai i Namsos: – Det er et svært viktig besøk",
+   "source": "NRK Trøndelag",
+   "summary": "For første gang fyller et britisk hangarskip opp med ammunisjon og drivstoff i en havn utenfor Storbritannia.",
+   "img": "https://gfx.nrk.no/Le6QjxnxUeAUOW3LadQYqQPMkDaGK0-Xp-aGQ-gFAsog.jpg",
+   "date": "2026-10-31T07:54:47+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Martin (29) omkom under militærøvinga i Stjørdal",
    "source": "NRK Trøndelag",
    "summary": "Det var 29 år gamle Martin Aune som omkom under ei militærøving i Stjørdal torsdag kveld.",
@@ -344,74 +374,44 @@
    "date": "2026-10-30T13:28:34+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt: Sorg i leiren i Stjørdal",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/KO75-NtTdET2A5yFoeqtpgTEP3Eza95uTyD3Y1vU96GA.jpg",
-   "date": "2026-10-30T18:06:07+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Stakk mann i hjartet med kniv – dømt for drapsforsøk",
-   "source": "NRK Trøndelag",
-   "summary": "Mannen stakk ein mann sju gongar i overkroppen og ein annan i hjartet med kniv.",
-   "img": "https://gfx.nrk.no/A87jOnVcKaghCG6JpJCkZgMYSYdJlqkueObGUXtNxSsQ.jpg",
-   "date": "2026-10-30T13:05:12+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Døde i militærøvelse – kan ha startet kjøretøyet selv",
-   "source": "NRK Trøndelag",
-   "summary": "Torsdag kveld omkom 29 år gamle Martin Aune under en øvelse på Frigården skytefelt i Stjørdal.",
-   "img": "https://gfx.nrk.no/ofLkmtY9mL3Du-nzto86vQMoscy6aocWAfFhFJ52tqog.jpg",
-   "date": "2026-10-30T11:21:14+00:00"
+   "title": "Sviende nederlag for Bodø/Glimt-styret: Omstridt navneforslag ble nedstemt",
+   "source": "NRK",
+   "summary": "Til tross for advarsler om at en millionkontrakt kunne ryke, stemte et flertall av Bodø/Glimts medlemmer ned styrets forslag om å kalle stadion Arctic Arena.",
+   "img": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtq0h9IIAnEuHQ.jpg",
+   "date": "2026-10-31T11:55:40+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tilbake på start",
+   "title": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
    "source": "NRK",
-   "summary": "For drøye to år siden lå Mia Rusthen for døden etter å ha krasjet i 200 kilometer i timen. Nå er målet å løpe for livet.",
-   "img": "https://gfx.nrk.no/O_TxheIDATvZzX38SK7gngXhCQRJLvbGFhOVML5UWa3w.jpg",
-   "date": "2026-10-31T07:20:39+00:00"
+   "summary": "Og det er ikke det lureste hvis målet er at flest mulig skal la bilen stå.",
+   "img": "https://gfx.nrk.no/vwM5HhryRoiz0kxX99nTugBa4iNCQnO5bQW64oHf4BZA.jpg",
+   "date": "2026-10-31T11:05:37+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Avis: Angrep mot ukrainsk energianlegg",
+   "title": "Kjærestepar overlevde dødsulykke: Måtte knuse seg ut av brennende nattbuss",
    "source": "NRK",
-   "summary": "Et energianlegg i Kyiv er rammet i et russisk angrep fredag kveld, melder avisen The Kyiv Independent. Fire bydeler i den ukrainske hovedstaden er uten strøm, ifølge energiselskapet DTEK. Det har så langt ikke kommet meldinger om døde eller sårede etter angrep",
-   "img": "",
-   "date": "2026-10-30T23:33:35+00:00"
+   "summary": "Olena Hætta og kjæresten Øystein Haukaas måtte knuse bussvinduene for å komme seg ut da nattbussen de satt i, krasjet inn i to brennende lastebiler i Bulgaria. To personer omkom i kollisjonen.",
+   "img": "https://gfx.nrk.no/A4K3mRQVC5MiB24FrRvT2wppw_0wjkABRkawNSZ_RZvg.jpg",
+   "date": "2026-10-31T10:09:18+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "– Kan ikke noen bare si noe fint om meg?",
+   "title": "Går hardt ut mot Bodø/Glimt: – Sutrekultur",
    "source": "NRK",
-   "summary": "Viking-kaptein Zlatko Tripic fikk gjennomgå av Glimt-spillerne etter «seriefinalen». Han slår tilbake – men blir ikke trodd.",
-   "img": "https://gfx.nrk.no/8h2FtdMmPqUdWPl6gemdBAx9Z9l8xlE8sAJoTPDyfaKA.jpg",
-   "date": "2026-10-30T21:38:07+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nye Oslo-sykehus blir stadig dyrere - kan koste nesten 70 milliarder",
-   "source": "NRK",
-   "summary": "Først skulle de koste under 40. Så rundt 50. Nå er det klart at den samla prisen blir langt høyere.",
-   "img": "https://gfx.nrk.no/l0OWohTl9rR0HsQa2plTjwUMRQSU4Oqeb_RAa9pmhCTg.jpg",
-   "date": "2026-10-30T21:24:13+00:00"
+   "summary": "Viking-profiler har fått nok. Nå retter de krass kritikk mot oppførselen til gullrivalene fra Nordland.",
+   "img": "https://gfx.nrk.no/9irVL37IYo91k5AjOc7J8AtFaHqxE5VCxhiYud11bseQ.jpg",
+   "date": "2026-10-31T09:07:20+00:00"
   }
  ]
 }
