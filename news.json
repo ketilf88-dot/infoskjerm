@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:40:21.221009+00:00",
+ "updated": "2026-11-01T22:25:14.120714+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -294,14 +294,14 @@
    "date": "2026-10-28T14:21:42+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T04:42:24+00:00"
+   "date": "2026-10-28T03:11:27+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +347,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Ansatt ved NTNU omkom i Rindal",
+   "source": "NRK Trøndelag",
+   "summary": "En mann i 30-årene omkom i Rindal lørdag ettermiddag.",
+   "img": "https://gfx.nrk.no/6AD59a2z9lhnyYgvKyeSQwq34XJk5OwTJ0ieqBB_L4Rw.jpg",
+   "date": "2026-11-01T19:32:14+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Har Norges største lightersamling: – Håpet er å nå 20.000",
    "source": "NRK Trøndelag",
    "summary": "",
@@ -374,54 +384,34 @@
    "date": "2026-11-01T13:41:46+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
-   "source": "NRK Trøndelag",
-   "summary": "Eliteseriens toppscorer Amin Chiakha (20) laget to mål – men var likevel tydelig opprørt i Rosenborgs 3–0 seier i Fredrikstad lørdag. Dommeren bekrefter at det er anklager om rasisme.",
-   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAqOhUZf4ywUtazwcMAjU97w.jpg",
-   "date": "2026-10-31T17:20:26+00:00"
+   "title": "Dette kvier jeg meg for å fortelle fra Midtøsten",
+   "source": "NRK",
+   "summary": "Jeg dro til Syria og opplevde noe hyggelig. Men kunne jeg fortelle om det uten å få dårlig samvittighet?",
+   "img": "https://gfx.nrk.no/qDfR0Ib911x33332VrafDAX1TFvp4fbMfPcuPl7a-ptA.jpg",
+   "date": "2026-11-01T21:22:28+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Flere kontroverser i storkamp – Liverpool-stjerne raste mot Ødegaard",
+   "title": "Kilder til NRK: FIS frykter Russland-blemme – kan føre til Bolsjunov-retur",
+   "source": "NRK",
+   "summary": "Aleksandr Bolsjunov er med i den russiske troppen til verdenscuprennene i Ruka og Trondheim. Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg.",
+   "img": "https://gfx.nrk.no/PMTC6c8QSJFIQ_UVBt-6KgdaJ8Dcs5cJAFBXiXmW6KrQ.jpg",
+   "date": "2026-11-01T20:34:42+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Stjerne klapset til Ødegaard: – Et forsøk på å få noen utvist",
    "source": "NRK",
    "summary": "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig.",
    "img": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPiPIH7J4GTgNw.jpg",
    "date": "2026-11-01T18:26:13+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Forholdet mellom USA og Russland: – Trump er blitt et lett bytte",
-   "source": "NRK",
-   "summary": "Vladimir Putin sitter med et trumfkort overfor Donald Trump mener USA-forsker Hilde Restad.",
-   "img": "https://gfx.nrk.no/8ZP2iQPQhfIo-tulGzg4BgKR29cmPMMtbojlDOGDCHGw.jpg",
-   "date": "2026-11-01T15:29:20+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ut mot Brann-spillerne: – De herset litt med ham",
-   "source": "NRK",
-   "summary": "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann.",
-   "img": "https://gfx.nrk.no/yyl4ErsjYU3H4zAA7FKCSQKrD_mhTpIqSJsMdrLq1FWw.jpg",
-   "date": "2026-11-01T14:58:40+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Bilulykke i Gullesfjorden: Tre personer kritisk skadd",
-   "source": "NRK",
-   "summary": "En person ble flydd til sykehus med helikopter.",
-   "img": "https://gfx.nrk.no/qugTgyvJpyau60dZ5_URyQPSaqNEROxz6QtplrSOqfzw.jpg",
-   "date": "2026-11-01T14:43:53+00:00"
   }
  ]
 }
