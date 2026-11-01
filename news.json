@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:46:40.026850+00:00",
+ "updated": "2026-11-01T18:40:21.221009+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -327,6 +327,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-26T23:40:14+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
    "source": "Offshore Magazine",
    "summary": "",
@@ -334,14 +344,34 @@
    "date": "2026-10-30T19:42:34+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Har Norges største lightersamling: – Håpet er å nå 20.000",
+   "source": "NRK Trøndelag",
    "summary": "",
-   "img": "",
-   "date": "2026-10-28T08:49:49+00:00"
+   "img": "https://gfx.nrk.no/BvUEqIvNFEbbHrU_tigG7g9rKJf6_uiuJH0et9mXD5wg.jpg",
+   "date": "2026-11-01T17:24:29+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Person falt ned fra demning i Orkland",
+   "source": "NRK Trøndelag",
+   "summary": "En person er fløyet til St.Olavs Hospital etter å ha falt rundt fem meter ned fra en demning i Orkland søndag ettermiddag.",
+   "img": "https://gfx.nrk.no/erMT1OLdCkImJP-BsOE4RguRzkul2DdMCxJOM6W54L-g.jpg",
+   "date": "2026-11-01T14:31:34+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rosenborg sikrer bronse og spill i Europa etter 6-0 seier mot Røa",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/7b5NthXaT9S2hB-SoGnDVQ6b5XIrQCJzeWKYasX3sBYQ.jpg",
+   "date": "2026-11-01T13:41:46+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -354,74 +384,44 @@
    "date": "2026-10-31T17:20:26+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Fikk lyktestolpe over frontruta på E6",
-   "source": "NRK Trøndelag",
-   "summary": "To biler fikk skader da en lyktestolpe veltet over veien sør for Steinkjer lørdag ettermiddag.",
-   "img": "https://gfx.nrk.no/7WhRZqfBQfsAFncbhNkEKgmr57ZBoNXQ77FJPHKEiQPw.jpg",
-   "date": "2026-10-31T13:33:12+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Måtte sperre seg inne på butikk: – Kunne gått mye verre",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet måtte ta kontroll på en person som forsøkte å komme seg inn på en butikk med flere kniver.",
-   "img": "https://gfx.nrk.no/Qo9xjORr-S7m1qUzOR3F8Q8dU2WN5kRXYxXkfo0ZWeLA.jpg",
-   "date": "2026-10-31T12:04:12+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Britisk hangarskip til kai i Namsos: – Det er et svært viktig besøk",
-   "source": "NRK Trøndelag",
-   "summary": "For første gang fyller et britisk hangarskip opp med ammunisjon og drivstoff i en havn utenfor Storbritannia.",
-   "img": "https://gfx.nrk.no/Le6QjxnxUeAUOW3LadQYqQPMkDaGK0-Xp-aGQ-gFAsog.jpg",
-   "date": "2026-10-31T07:54:47+00:00"
+   "title": "Flere kontroverser i storkamp – Liverpool-stjerne raste mot Ødegaard",
+   "source": "NRK",
+   "summary": "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig.",
+   "img": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPiPIH7J4GTgNw.jpg",
+   "date": "2026-11-01T18:26:13+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Magnus (30) er narkodealer på si",
+   "title": "Forholdet mellom USA og Russland: – Trump er blitt et lett bytte",
    "source": "NRK",
-   "summary": "­",
-   "img": "https://gfx.nrk.no/AC2OoSKRuYK9tsEBSzR0fAFm7yWNuUYr4Zu3vC_DyFzA.jpg",
-   "date": "2026-11-01T13:28:55+00:00"
+   "summary": "Vladimir Putin sitter med et trumfkort overfor Donald Trump mener USA-forsker Hilde Restad.",
+   "img": "https://gfx.nrk.no/8ZP2iQPQhfIo-tulGzg4BgKR29cmPMMtbojlDOGDCHGw.jpg",
+   "date": "2026-11-01T15:29:20+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Vart seriemeister etter maktdemonstrasjon - no ventar gullfeiring i Bergen",
+   "title": "Ut mot Brann-spillerne: – De herset litt med ham",
    "source": "NRK",
-   "summary": "Brann kvinner er seriemeistrar i Toppserien etter ein overtydande 4–1 siger over LSK kvinner.",
-   "img": "https://gfx.nrk.no/2D9Dt5BHb85T_ASOhKYmdw3xwEjRp5J6iRbDGV69_X4Q.jpg",
-   "date": "2026-11-01T12:49:56+00:00"
+   "summary": "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann.",
+   "img": "https://gfx.nrk.no/yyl4ErsjYU3H4zAA7FKCSQKrD_mhTpIqSJsMdrLq1FWw.jpg",
+   "date": "2026-11-01T14:58:40+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Jørn-Bjørn har brukt samme bukse i et år",
+   "title": "Bilulykke i Gullesfjorden: Tre personer kritisk skadd",
    "source": "NRK",
-   "summary": "Jørn-Bjørn Fuller-Gee er kåret til verdensmester i jeans. Nå får han skryt for sitt oppgjør med klesindustrien.",
-   "img": "https://gfx.nrk.no/DUixOayvgEhsPi0UXPjOHgJufTDrIV2lwALit-wepR0w.jpg",
-   "date": "2026-11-01T09:38:08+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Røykutvikling på Majorstuen",
-   "source": "NRK",
-   "summary": "Brannvesenet gjør undersøkelser på en adresse i Gjørstads gate på Majorstuen etter kraftig røykutvikling. Det fremstår per nå som udramatisk, opplyser operasjonsleder Alexander Østerhaug i Oslo-politiet. Årsaken kan være fra en mindre pipebrann som følge av fy",
-   "img": "",
-   "date": "2026-11-01T09:11:36+00:00"
+   "summary": "En person ble flydd til sykehus med helikopter.",
+   "img": "https://gfx.nrk.no/qugTgyvJpyau60dZ5_URyQPSaqNEROxz6QtplrSOqfzw.jpg",
+   "date": "2026-11-01T14:43:53+00:00"
   }
  ]
 }
