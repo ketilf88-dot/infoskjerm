@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:31:44.740616+00:00",
+ "updated": "2026-11-01T13:46:40.026850+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -327,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
    "date": "2026-10-30T19:42:34+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Trump: – Bolsonaro kan bli så lenge han vil",
+   "title": "Magnus (30) er narkodealer på si",
    "source": "NRK",
-   "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Det sier president Donald Trump til journalister på en halloweenfest i Mar-a-Lago i Florida natt til søndag. Bolsonaro",
-   "img": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljf36lFRbr9VyQ.jpg",
-   "date": "2026-11-01T03:44:40+00:00"
+   "summary": "­",
+   "img": "https://gfx.nrk.no/AC2OoSKRuYK9tsEBSzR0fAFm7yWNuUYr4Zu3vC_DyFzA.jpg",
+   "date": "2026-11-01T13:28:55+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tenåring påkjørt av elsparkesyklist – sendt til sykehus",
+   "title": "Vart seriemeister etter maktdemonstrasjon - no ventar gullfeiring i Bergen",
    "source": "NRK",
-   "summary": "En ung mann er sendt til sykehus etter at han ble påkjørt av en elsparkesyklist i Fredrikstad, opplyser Øst politidistrikt. Mannen er i slutten av tenårene. Han skal ha vært bevisstløs i lengre tid etter hendelsen, men skal senere ha våknet igjen. Han ble send",
+   "summary": "Brann kvinner er seriemeistrar i Toppserien etter ein overtydande 4–1 siger over LSK kvinner.",
+   "img": "https://gfx.nrk.no/2D9Dt5BHb85T_ASOhKYmdw3xwEjRp5J6iRbDGV69_X4Q.jpg",
+   "date": "2026-11-01T12:49:56+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Jørn-Bjørn har brukt samme bukse i et år",
+   "source": "NRK",
+   "summary": "Jørn-Bjørn Fuller-Gee er kåret til verdensmester i jeans. Nå får han skryt for sitt oppgjør med klesindustrien.",
+   "img": "https://gfx.nrk.no/DUixOayvgEhsPi0UXPjOHgJufTDrIV2lwALit-wepR0w.jpg",
+   "date": "2026-11-01T09:38:08+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Røykutvikling på Majorstuen",
+   "source": "NRK",
+   "summary": "Brannvesenet gjør undersøkelser på en adresse i Gjørstads gate på Majorstuen etter kraftig røykutvikling. Det fremstår per nå som udramatisk, opplyser operasjonsleder Alexander Østerhaug i Oslo-politiet. Årsaken kan være fra en mindre pipebrann som følge av fy",
    "img": "",
-   "date": "2026-11-01T00:18:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "En gjenglemt herrebokser ble starten på Annikens nye liv",
-   "source": "NRK",
-   "summary": "Anniken sa opp lederjobben og gir alt for sitt eget klesmerke. Kvinner er fortsatt underrepresentert blant norske gründere.",
-   "img": "https://gfx.nrk.no/lmY8hL661Uf-ydnCBSAQmQo06P7M_uM_zk_s63p0aEzg.jpg",
-   "date": "2026-10-31T21:45:14+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nytt system skal redde minst fem flere liv i året",
-   "source": "NRK",
-   "summary": "Hovedredningssentralen erstatter nå et 25 år gammelt datasystem. Håpet er å kutte livsviktige minutter, og spare samfunnet for milliarder.",
-   "img": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgDrbDRCHJGXQ.jpg",
-   "date": "2026-10-31T21:05:00+00:00"
+   "date": "2026-11-01T09:11:36+00:00"
   }
  ]
 }
