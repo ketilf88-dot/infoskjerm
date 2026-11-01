@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:19:36.095781+00:00",
+ "updated": "2026-11-01T06:31:44.740616+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,6 +267,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Equinor Unveils Karsto Robotics Centre to Target Offshore Savings",
+   "source": "Yahoo! Finance Canada",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-29T14:04:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
    "source": "The Maritime Executive",
    "summary": "",
@@ -282,16 +292,6 @@
    "summary": "",
    "img": "",
    "date": "2026-10-28T14:21:42+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "EQNR Partners With Aker BP to Unlock Challenging Offshore Resources",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-27T12:38:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
-   "source": "Offshore Magazine",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-30T19:42:34+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
+   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T08:49:49+00:00"
+   "date": "2026-10-30T19:42:34+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,6 +387,26 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Trump: – Bolsonaro kan bli så lenge han vil",
+   "source": "NRK",
+   "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Det sier president Donald Trump til journalister på en halloweenfest i Mar-a-Lago i Florida natt til søndag. Bolsonaro",
+   "img": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljf36lFRbr9VyQ.jpg",
+   "date": "2026-11-01T03:44:40+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Tenåring påkjørt av elsparkesyklist – sendt til sykehus",
+   "source": "NRK",
+   "summary": "En ung mann er sendt til sykehus etter at han ble påkjørt av en elsparkesyklist i Fredrikstad, opplyser Øst politidistrikt. Mannen er i slutten av tenårene. Han skal ha vært bevisstløs i lengre tid etter hendelsen, men skal senere ha våknet igjen. Han ble send",
+   "img": "",
+   "date": "2026-11-01T00:18:21+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "En gjenglemt herrebokser ble starten på Annikens nye liv",
    "source": "NRK",
    "summary": "Anniken sa opp lederjobben og gir alt for sitt eget klesmerke. Kvinner er fortsatt underrepresentert blant norske gründere.",
@@ -402,26 +422,6 @@
    "summary": "Hovedredningssentralen erstatter nå et 25 år gammelt datasystem. Håpet er å kutte livsviktige minutter, og spare samfunnet for milliarder.",
    "img": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgDrbDRCHJGXQ.jpg",
    "date": "2026-10-31T21:05:00+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ufornuft og følelser",
-   "source": "NRK",
-   "summary": "Fotballhelgen i Bodø har nok en gang vist oss hvor viktig det er med følelser, selv i den moderne fotballen.",
-   "img": "https://gfx.nrk.no/Mx42xU_0Bn9jVrlBEVo93QVfOcxi2mlt0Jx4T5QO0zqw.jpg",
-   "date": "2026-10-31T21:03:27+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Etterforsker navnekrøll i Alaska før mellomvalget",
-   "source": "NRK",
-   "summary": "USAs president krever at demokratenes kandidat må tas av lista for senatsvalget i Alaska. Påtalemyndigheten skal etterforske om demokratene har hentet inn en pensjonert lærer for å forvirre velgere.",
-   "img": "https://gfx.nrk.no/_OxMMic9SHGoj_G-bfWsCg2W4HFffa-BNMJP5QgAYMeQ.jpg",
-   "date": "2026-10-31T20:26:29+00:00"
   }
  ]
 }
