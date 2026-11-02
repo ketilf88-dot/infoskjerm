@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-02T01:39:08.269596+00:00",
+ "updated": "2026-11-02T08:17:21.894958+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea7 awarded contract offshore Norway",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 2 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced the award of a substantial1 contract by Aker BP for the Lyra field development project, formerly known as Kjøttkake, located in the northern part of the North Sea, …",
+   "img": "",
+   "date": "2026-11-02T07:00:07.332Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Prospector 5 Rig Incident Update - November 2, 2026",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 2, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\" or the \"Company\") provides an update on the Prospector 5 incident offshore Gabon, first announced by the Company on October 25, 2026.",
+   "img": "",
+   "date": "2026-11-02T06:30:11.136Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Odfjell Drilling Ltd. New Management Agreement and Contract Award for Beacon Pacific",
+   "source": "Odfjell Drilling Ltd",
+   "summary": "Odfjell Drilling Ltd is pleased to announce that Serica Energy (UK) Limited has entered into a drilling contract with Beacon Pacific Offshore Ltd for the sixth-generation semi-submersible rig, Beacon Pacific.",
+   "img": "",
+   "date": "2026-11-02T06:00:00.000Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -22,16 +52,6 @@
    "summary": "Hamilton, Bermuda (October 29, 2026) In connection with Archer's long term incentive program 118,905 restricted stock units (\"RSUs\") have vested.",
    "img": "",
    "date": "2026-10-29T14:00:46.291Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Borr Drilling Limited - Prospector 5 Rig Incident Update - October 29, 2026",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, October 29, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\" or the \"Company\") provides an update on the Prospector 5 incident offshore Gabon, first announced by the Company on October 25, 2026.",
-   "img": "",
-   "date": "2026-10-29T12:06:08.695Z"
   },
   {
    "tag": "Oslo Børs",
@@ -64,24 +84,14 @@
    "date": "2026-10-29T06:00:01.342Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Aker BP: Key information related to cash dividend",
-   "source": "Aker BP ASA",
-   "summary": "The following sets out the cash dividends to be paid by Aker BP in the fourth quarter of 2026: Dividend amount: USD 0.6615 (NOK 6.14642) per share Declared currency: USD Last day of trading including right: 2 November 2026 Ex-date: 3 November 2026 Record …",
-   "img": "",
-   "date": "2026-10-29T05:00:09.172Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Aker BP completes annual employee share programme",
-   "source": "Aker BP ASA",
-   "summary": "Reference is made to Aker BP's announcement on 28 September 2026 regarding the company's annual share purchase programme for employees. The programme has now been completed, with a total of 672,988 shares sold to employees at a price of NOK 282.10 per share.",
-   "img": "",
-   "date": "2026-10-28T17:45:32.624Z"
+   "title": "Four fatalities as search for missing worker continues: Independent investigation into tragic rig incident underway",
+   "source": "Offshore Energy",
+   "summary": "Borr Drilling has confirmed the fourth fatality after the tragic rig incident offshore Gabon, with search efforts ongoing to find the missing worker.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FProspector_25205_2520Source_2520Borr_2520Drilling-1240x826-1-620x413.png?prefix=media",
+   "date": "2026-11-02T07:34:15+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -152,16 +162,6 @@
    "summary": "Petrobras' third discovery off the coast of Amapá has strengthened Equatorial Margin's emerging oil frontier.",
    "img": "https://offshore-energy.biz/api/media/file/Sonda%20NS-42%20(ODN-II)_Home_Divulga%C3%A7%C3%A3o%20Foresea%20(2)-1600x1064.jpg?prefix=media",
    "date": "2026-10-30T08:41:43+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "SBM Offshore tasks Seatrium with multimillion-dollar South American FPSO job",
-   "source": "Offshore Energy",
-   "summary": "Seatrium has lined up an FPSO integration deal with SBM Offshore, enabling it to play a role in powering upcoming energy projects in South America.",
-   "img": "https://offshore-energy.biz/api/media/file/SBM-Offshore-FPSO-Fundamentals-1600x904.png?prefix=media",
-   "date": "2026-10-30T07:44:19+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -244,14 +244,14 @@
    "date": "2026-10-09T13:35:54+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 2,
-   "title": "Swedish owner Veritas books up to six chemical tankers in China",
+   "title": "Independent probe follows recovery of final Borr rig victim",
    "source": "Splash247",
-   "summary": "Swedish shipowner Veritas Tankers has placed an order for up to six 13,000 dwt stainless steel chemical tankers at China’s Nantong Rainbow Offshore & Engineering Equipment, in a deal potentially worth $248m. The yard’s Shenzhen-listed parent, Jiangsu Rainbow H",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Veritas-Tankers-Rainbow-order.jpg",
-   "date": "2026-10-30T10:30:00+00:00"
+   "summary": "The body of the fifth and final missing worker from Borr Drilling’s Prospector 5 jackup sinking offshore Gabon has been located, according to the country’s state news agency, as the Norwegian-listed drilling contractor launches an independent investigation int",
+   "img": "https://splash247.com/wp-content/uploads/2026/10/Prospector-5-rig-sinking-X.com_.jpg",
+   "date": "2026-11-02T02:40:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -294,14 +294,14 @@
    "date": "2026-10-28T14:21:42+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T03:11:27+00:00"
+   "date": "2026-10-28T04:42:24+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -382,6 +382,16 @@
    "summary": "",
    "img": "https://gfx.nrk.no/7b5NthXaT9S2hB-SoGnDVQ6b5XIrQCJzeWKYasX3sBYQ.jpg",
    "date": "2026-11-01T13:41:46+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Minst 12 utlendinger døde i togulykken i Spania",
+   "source": "NRK",
+   "summary": "Til sammen er 12 utlendinger bekreftet omkommet i togulykken i Spania 28. oktober. Det opplyser spanske myndigheter, melder nyhetsbyrået AFP. Blant de 66 omkomne som er identifisert, er 12 utlendinger. Fire av dem var fra USA. De andre var fra Canada, Japan, A",
+   "img": "",
+   "date": "2026-11-02T03:49:26+00:00"
   },
   {
    "tag": "Norge",
