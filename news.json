@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:25:14.120714+00:00",
+ "updated": "2026-11-02T01:39:08.269596+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -327,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
    "date": "2026-10-30T19:42:34+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,6 +387,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
+   "source": "NRK",
+   "summary": "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne. Men i det Formel 1-gale Italia kjører han for «feil» team.",
+   "img": "https://gfx.nrk.no/flZxk-HLROyKBpYsIeOG8gJCQxRR1VBmyujlFB4R1cgw.jpg",
+   "date": "2026-11-01T22:24:26+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Dette kvier jeg meg for å fortelle fra Midtøsten",
    "source": "NRK",
    "summary": "Jeg dro til Syria og opplevde noe hyggelig. Men kunne jeg fortelle om det uten å få dårlig samvittighet?",
@@ -402,16 +412,6 @@
    "summary": "Aleksandr Bolsjunov er med i den russiske troppen til verdenscuprennene i Ruka og Trondheim. Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg.",
    "img": "https://gfx.nrk.no/PMTC6c8QSJFIQ_UVBt-6KgdaJ8Dcs5cJAFBXiXmW6KrQ.jpg",
    "date": "2026-11-01T20:34:42+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Stjerne klapset til Ødegaard: – Et forsøk på å få noen utvist",
-   "source": "NRK",
-   "summary": "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig.",
-   "img": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPiPIH7J4GTgNw.jpg",
-   "date": "2026-11-01T18:26:13+00:00"
   }
  ]
 }
