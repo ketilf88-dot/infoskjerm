@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-02T08:17:21.894958+00:00",
+ "updated": "2026-11-02T18:37:15.165757+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "BW Offshore: 50% owned joint venture awarded NOK 1.94 billion Enova grant for floating offshore wind project",
+   "source": "BW Offshore Limited",
+   "summary": "50% owned joint venture awarded NOK 1.94 billion Enova grant for floating offshore wind project BW Offshore is pleased to announce that Fram Wind Solutions AS, a joint venture between BW Offshore, Grieg Kapital and Fram Green Technology, has received formal …",
+   "img": "",
+   "date": "2026-11-02T15:00:01.207Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Finansiell kalender",
+   "source": "Equinor ASA",
+   "summary": "Finansiell kalender for Equinor ASA REGNSKAPSÅR 2026 03.02.2027 - Kvartalsrapport - Q4 REGNSKAPSÅR 2027 21.07.2027 - Halvårsrapport 18.03.2027 - Årsrapport 13.05.2027 - Ordinær generalforsamling 28.04.2027 - Kvartalsrapport - Q1 27.10.2027 - Kvartalsrapport - …",
+   "img": "",
+   "date": "2026-11-02T13:04:09.982Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,24 +84,64 @@
    "date": "2026-10-29T08:15:05.009Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "DNO Races Ahead on Stronger Production, Higher Prices",
-   "source": "DNO ASA",
-   "summary": "Oslo, 29 October 2026 - DNO ASA, the Norwegian oil and gas operator, today announced strong financial and operational results for the third quarter of 2026, driven by the resumption of Kurdistan region of Iraq production and higher prices across the …",
-   "img": "",
-   "date": "2026-10-29T06:00:12.757Z"
+   "title": "TotalEnergies sheds partial stake ahead of appraisal ops at Nigerian block",
+   "source": "Offshore Energy",
+   "summary": "TotalEnergies has set the wheels in motion to sell a partial interest in an offshore block to SAPETRO to fast-track the appraisal of a Nigerian field.",
+   "img": "https://offshore-energy.biz/api/media/file/FPSO%20Egina%20Source%20TotalEnergies-1500x1125.png?prefix=media",
+   "date": "2026-11-02T13:52:25+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Shell and Hornbeck Offshore seal multiple deals for deepwater services",
+   "source": "Offshore Energy",
+   "summary": "Hornbeck Offshore Services, which merged with Helix Energy Solutions two months ago, has entered into multiple agreements with Shell Offshore for...",
+   "img": "https://offshore-energy.biz/api/media/file/Shell%20and%20Hornbeck%20Offshore%20seal%20multiple%20deals%20for%20deepwater%20services-1355x654.jpg?prefix=media",
+   "date": "2026-11-02T13:30:46+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Shell lifts first cargo as Venture Global’s US LNG project kicks off commercial ops",
+   "source": "Offshore Energy",
+   "summary": "Venture Global has achieved commercial operations at Phase 1 of its LNG project in Louisiana, with Shell lifting the facility's first cargo.",
+   "img": "https://offshore-energy.biz/api/media/file/an%20aerial%20rendering%20of%20Venture%20Global%20LNG's%20Plaquemines%20LNG%20export%20facility%20located%20in%20Plaquemines%20Parish%2C%20Louisiana%2C%20United%20States-600x437.jpg?prefix=media",
+   "date": "2026-11-02T13:02:05+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Gas flows from Southeast Asian offshore field 21 months after FID",
+   "source": "Offshore Energy",
+   "summary": "Eni and Petronas’ Searah has brought online an Asian gas field, flowing 250 million standard cubic feet per day (scfd) to domestic and export markets.",
+   "img": "https://offshore-energy.biz/api/media/file/Jangkrik%20FPU%20Source%20Eni-1246x702.png?prefix=media",
+   "date": "2026-11-02T11:55:48+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "UK's 2 GW subsea power cable gets government's approval",
+   "source": "Offshore Energy",
+   "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
+   "img": "https://offshore-energy.biz/api/media/file/uk-1053x698.jpg?prefix=media",
+   "date": "2026-11-02T10:22:54+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "DNO Scores North Sea Double",
-   "source": "DNO ASA",
-   "summary": "Oslo, 29 October 2026 - DNO ASA, the Norwegian oil and gas operator, today announced that an appraisal well at the Afrodite gas-condensate discovery has more than doubled estimated recoverable resources to 77-180 million barrels of oil equivalent (MMboe).",
-   "img": "",
-   "date": "2026-10-29T06:00:01.342Z"
+   "title": "Odfjell Drilling-managed rig lands multi-well North Sea job with UK oil & gas operator",
+   "source": "Offshore Energy",
+   "summary": "Serica Energy has booked an Odfjell Drilling-managed rig for a six-well drilling campaign on the UK Continental Shelf (UKCS).",
+   "img": "https://offshore-energy.biz/api/media/file/Beacon%20Pacific%20rig%20Source%20CIMC%20Odfjell%20Drilling%20via%20LinkedIn-1-1280x960.jpg?prefix=media",
+   "date": "2026-11-02T09:50:12+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -92,76 +152,6 @@
    "summary": "Borr Drilling has confirmed the fourth fatality after the tragic rig incident offshore Gabon, with search efforts ongoing to find the missing worker.",
    "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FProspector_25205_2520Source_2520Borr_2520Drilling-1240x826-1-620x413.png?prefix=media",
    "date": "2026-11-02T07:34:15+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Mazarine taking the helm at Black Sea Oil & Gas as Carlyle and EBRD exit",
-   "source": "Offshore Energy",
-   "summary": "Mazarine Energy has struck a deal to acquire Romania's largest offshore gas producer, Black Sea Oil & Gas (BSOG).",
-   "img": "https://offshore-energy.biz/api/media/file/Mazarine%20Energy-1280x694.jpg?prefix=media",
-   "date": "2026-10-30T14:08:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "CNOOC’s 2026 run powered by 9 start-ups, 5 new oil & gas discoveries, and 23 appraisals",
-   "source": "Offshore Energy",
-   "summary": "CNOOC's 2026 activities have led to nine new projects being brought online, discovery of five hydrocarbon finds, and 23 appraisal successes.",
-   "img": "https://offshore-energy.biz/api/media/file/CNOOC-800x450.png?prefix=media",
-   "date": "2026-10-30T13:19:46+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Solstad vessel nets two subsea contracts in Asia Pacific",
-   "source": "Offshore Energy",
-   "summary": "Solstad Maritime (SOMA) has secured two firm contracts for its 2009-built construction support vessel (CSV) for subsea and ROV support activities...",
-   "img": "https://offshore-energy.biz/api/media/file/Normand-Australis-850x510.jpg?prefix=media",
-   "date": "2026-10-30T11:16:44+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Noble rigs’ $560 million drilling gigs push fleet backlog to $6.7 billion",
-   "source": "Offshore Energy",
-   "summary": "Noble Corporation has secured a string of new deals across multiple geographies, spanning South America, Africa, and Europe.",
-   "img": "https://offshore-energy.biz/api/media/file/Noble-Intrepid%20Source%20Noble%20Corporation-1037x682.png?prefix=media",
-   "date": "2026-10-30T10:34:46+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Siem's China-built vessel sisters to feature Huisman cranes",
-   "source": "Offshore Energy",
-   "summary": "Siem Industries has selected Huisman to deliver knuckle boom cranes for the two offshore support vessels (OSVs) it recently ordered from China....",
-   "img": "https://offshore-energy.biz/api/media/file/Siem's%20China-built%20vessel%20sisters%20to%20feature%20Huisman%20cranes-730x392.jpg?prefix=media",
-   "date": "2026-10-30T09:29:48+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "€3.1 billion Spain-France interconnector is 70% complete",
-   "source": "Offshore Energy",
-   "summary": "The multibillion-euro Biscay Gulf interconnector, set to increase electricity exchange capacity between Spain and France from 2.8 GW to 5 GW, is...",
-   "img": "https://offshore-energy.biz/api/media/file/%E2%82%AC3.1%20billion%20Spain-France%20interconnector%20is%2070%25%20complete-1280x853.jpg?prefix=media",
-   "date": "2026-10-30T08:50:40+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Petrobras hits paydirt for third time in ultra-deep Amapá waters as Equatorial Margin’s oil arsenal grows",
-   "source": "Offshore Energy",
-   "summary": "Petrobras' third discovery off the coast of Amapá has strengthened Equatorial Margin's emerging oil frontier.",
-   "img": "https://offshore-energy.biz/api/media/file/Sonda%20NS-42%20(ODN-II)_Home_Divulga%C3%A7%C3%A3o%20Foresea%20(2)-1600x1064.jpg?prefix=media",
-   "date": "2026-10-30T08:41:43+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -244,14 +234,44 @@
    "date": "2026-10-09T13:35:54+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "Independent probe follows recovery of final Borr rig victim",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Oceanity bags Petrobras charter for oil spill response vessel",
    "source": "Splash247",
-   "summary": "The body of the fifth and final missing worker from Borr Drilling’s Prospector 5 jackup sinking offshore Gabon has been located, according to the country’s state news agency, as the Norwegian-listed drilling contractor launches an independent investigation int",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Prospector-5-rig-sinking-X.com_.jpg",
-   "date": "2026-11-02T02:40:00+00:00"
+   "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity subsidiary, CMM Offshore Brasil, signed ",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Purity-CMM.jpg",
+   "date": "2026-11-02T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Norway hands out $430m for floating offshore wind projects",
+   "source": "Splash247",
+   "summary": "Norway’s state-backed Enova has awarded NOK3.94bn ($430m) in funding to two floating offshore wind projects to install four next-generation turbines off Karmøy. Fortius Offshore Wind and Fram Wind Solutions have been selected to receive support for projects at",
+   "img": "https://splash247.com/wp-content/uploads/2024/10/Norwegian-Offshore-Wind-floating-wind.jpg",
+   "date": "2026-11-02T11:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "LS Cable & System lines up Korean offshore wind installation deal",
+   "source": "Splash247",
+   "summary": "South Korea’s LS Cable & System and its subsidiary, LS Marine Solution, have signed a capacity reservation agreement with Taean Wind Power for subsea cable supply and installation work on the 504MW Taean offshore wind project. The two companies are currently c",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/MarineTraffic-V.-Tonic-GL2030-LS-Marine-Solutions.jpg",
+   "date": "2026-11-02T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Subsea 7 lands North Sea subsea contract from Aker BP",
+   "source": "Splash247",
+   "summary": "Offshore engineering and construction specialist Subsea 7 has secured a contract worth between $150m and $300m from Aker BP for the fast-track development of the Lyra field in the Norwegian North Sea. The award covers EPCI for gas lift and production pipelines",
+   "img": "https://splash247.com/wp-content/uploads/2022/11/Normand-Subsea.jpg",
+   "date": "2026-11-02T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -294,34 +314,34 @@
    "date": "2026-10-28T14:21:42+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Equinor, Aker BP team up to unlock 2.8 Bboe of tight reservoir resources offshore Norway",
-   "source": "Offshore Magazine",
+   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
+   "source": "African Arguments",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T04:42:24+00:00"
+   "date": "2026-10-26T23:40:14+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Aquaterra Energy Fast-Tracks Subsea Template For Emadeb Project Offshore Nigeria",
-   "source": "Ocean News & Technology",
+   "title": "TotalEnergies farms out 40% of OPL257 offshore Nigeria to SAPETRO",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-10-26T14:09:38+00:00"
+   "date": "2026-10-30T14:56:41+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies farms out partial interest in block offshore Nigeria ahead of appraisal",
-   "source": "Oil & Gas Journal",
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-30T19:49:57+00:00"
+   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -334,14 +354,24 @@
    "date": "2026-10-30T19:42:34+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Ole Marius Trøen med ukas første sending",
+   "source": "NRK Trøndelag",
    "summary": "",
-   "img": "",
-   "date": "2026-10-28T08:49:49+00:00"
+   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
+   "date": "2026-11-02T18:24:48+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rasisme-anklager i kamp: Spilleren får muligheten til å uttale seg til NFF",
+   "source": "NRK Trøndelag",
+   "summary": "Spilleren som i følge Amin Chiakha skal ha sagt noe rasistisk, får muligheten til å gi sin forklaring til Norges Fotballforbund.",
+   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAkM8q6kY8sDs26iU2HkDF1g.jpg",
+   "date": "2026-11-02T10:54:42+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -364,64 +394,44 @@
    "date": "2026-11-01T17:24:29+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Person falt ned fra demning i Orkland",
-   "source": "NRK Trøndelag",
-   "summary": "En person er fløyet til St.Olavs Hospital etter å ha falt rundt fem meter ned fra en demning i Orkland søndag ettermiddag.",
-   "img": "https://gfx.nrk.no/erMT1OLdCkImJP-BsOE4RguRzkul2DdMCxJOM6W54L-g.jpg",
-   "date": "2026-11-01T14:31:34+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Rosenborg sikrer bronse og spill i Europa etter 6-0 seier mot Røa",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/7b5NthXaT9S2hB-SoGnDVQ6b5XIrQCJzeWKYasX3sBYQ.jpg",
-   "date": "2026-11-01T13:41:46+00:00"
+   "title": "Pasient døde: Innrømmer dårlig vurdering",
+   "source": "NRK",
+   "summary": "Sykehuset ville ha en lungesyk pasient raskt ut, men hen ble flydd tilbake få timer senere. På nytt ville de skrive ut hen raskt, men så døde pasienten.",
+   "img": "https://gfx.nrk.no/UthqzmO7Tl-wI9qG8sxpGQnmMH1oNdxvLpOr1PZWdJmg.jpg",
+   "date": "2026-11-02T18:22:12+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Minst 12 utlendinger døde i togulykken i Spania",
+   "title": "Minst 24 drept i russiske angrep mot ukrainsk landsby",
    "source": "NRK",
-   "summary": "Til sammen er 12 utlendinger bekreftet omkommet i togulykken i Spania 28. oktober. Det opplyser spanske myndigheter, melder nyhetsbyrået AFP. Blant de 66 omkomne som er identifisert, er 12 utlendinger. Fire av dem var fra USA. De andre var fra Canada, Japan, A",
+   "summary": "Landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet med glidebomber gjentatte ganger siden i morges, ifølge Ukrainas president Volodymyr Zelenskyj. Ukrainske nødetater opplyser at 24 mennesker er drept, ifølge Reuters. Han hevder blant annet at an",
    "img": "",
-   "date": "2026-11-02T03:49:26+00:00"
+   "date": "2026-11-02T17:19:22+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
+   "title": "Øvrebø ut i bok – Røkke slår tilbake: – Ukultur",
    "source": "NRK",
-   "summary": "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne. Men i det Formel 1-gale Italia kjører han for «feil» team.",
-   "img": "https://gfx.nrk.no/flZxk-HLROyKBpYsIeOG8gJCQxRR1VBmyujlFB4R1cgw.jpg",
-   "date": "2026-11-01T22:24:26+00:00"
+   "summary": "Toppidrettssjef Tore Øvrebø tar et oppgjør med Kjell Inge Røkke i sin nye bok «Vinneroppskriften».",
+   "img": "https://gfx.nrk.no/cR2KHrtc-AHKnDQRcBhEzQidIEl5tF0A920c92V41H3w.jpg",
+   "date": "2026-11-02T17:08:05+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Dette kvier jeg meg for å fortelle fra Midtøsten",
+   "title": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
    "source": "NRK",
-   "summary": "Jeg dro til Syria og opplevde noe hyggelig. Men kunne jeg fortelle om det uten å få dårlig samvittighet?",
-   "img": "https://gfx.nrk.no/qDfR0Ib911x33332VrafDAX1TFvp4fbMfPcuPl7a-ptA.jpg",
-   "date": "2026-11-01T21:22:28+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Kilder til NRK: FIS frykter Russland-blemme – kan føre til Bolsjunov-retur",
-   "source": "NRK",
-   "summary": "Aleksandr Bolsjunov er med i den russiske troppen til verdenscuprennene i Ruka og Trondheim. Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg.",
-   "img": "https://gfx.nrk.no/PMTC6c8QSJFIQ_UVBt-6KgdaJ8Dcs5cJAFBXiXmW6KrQ.jpg",
-   "date": "2026-11-01T20:34:42+00:00"
+   "summary": "Sykehusene har ingen sjanse til å ta imot 7000 skadde soldater, som regjeringen har bedt om. Det mener kirurg og overlege Kristina Stølen Ugelvik.",
+   "img": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclD21qp1WlPb1A.jpg",
+   "date": "2026-11-02T16:24:49+00:00"
   }
  ]
 }
