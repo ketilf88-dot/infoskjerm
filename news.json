@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:11:11.084749+00:00",
+ "updated": "2026-11-03T21:45:02.607160+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -294,14 +294,14 @@
    "date": "2026-10-28T14:21:42+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
-   "source": "Offshore Magazine",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor eyes major annual savings from underwater robots",
+   "source": "EnergyWatch",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T03:11:27+00:00"
+   "date": "2026-10-29T12:40:49+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +347,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Tirsdagens sending med Ole Marius Trøen",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
+   "date": "2026-11-03T18:20:15+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Får første minnepris til ære for Utøya-offer",
    "source": "NRK Trøndelag",
    "summary": "Emil Okkenhaug ble drept på Utøya. Nå får Silje (25) den første minneprisen i hans navn.",
@@ -374,54 +384,44 @@
    "date": "2026-11-03T05:23:02+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Ole Marius Trøen med ukas første sending",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/fbpm_yoKsx0zSt9EFvqViQ8BECJVUfb-tODCrsPwVs1w.jpg",
-   "date": "2026-11-02T18:24:48+00:00"
+   "title": "Slakter Manchester United etter grusom start: – Utrolig hvor langt de har falt",
+   "source": "NRK",
+   "summary": "Manchester United ble ydmyket av Como i forrige mesterligarunde. Mot Roma fortsatte marerittet på Old Trafford, der hjemmesupporterne begynte å kaste gjenstander på banen.",
+   "img": "https://gfx.nrk.no/a_4eV-AjmnJsxjm6t3oKdg_sipqkrOHd8PtmzYhsk8sQ.jpg",
+   "date": "2026-11-03T20:49:21+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tidligere NRK-journalist Audun Tjomsland er død",
+   "title": "7500 høner avlivet etter smitteutbrudd på Jæren: Innfører portforbud i stort område",
    "source": "NRK",
-   "summary": "Tidligere NRK-journalist og redaktør i Sandefjords Blad, Audun Tjomsland, er død. Han ble 83 år gammel. Det skriver Sandefjords Blad tirsdag. Tjomsland var først å se på Dagsrevyen på NRK i 1968. I tillegg var han utenrikskorrespondent i både London og New Yor",
-   "img": "",
-   "date": "2026-11-03T15:48:25+00:00"
+   "summary": "Rundt 7500 høner på en gård i Klepp kommune, der viruset ble oppdaget, er avlivet for å hindre at sykdommen sprer seg videre i Rogalands store landbruksmiljø.",
+   "img": "https://gfx.nrk.no/TWAdu_cmqgCCDxPFpwiSKA8U0XOGW_kdo756ooTEDdmA.jpg",
+   "date": "2026-11-03T19:45:21+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "NRK-funn: Blokkerte nettkasinoer hadde millioner besøk fra Norge",
+   "title": "Menneskehandelssak må gjennomføres på nytt etter at forsvarer ble pågrepet",
    "source": "NRK",
-   "summary": "­",
-   "img": "https://gfx.nrk.no/sw5jGmlv8xOb8_5TxGmhogEH_ga3WTGtzcFho7OV6OKw.jpg",
-   "date": "2026-11-03T15:21:41+00:00"
+   "summary": "Da saken var inne i sin sjette uke i Nedre Telemark tingrett, ble en av forsvarerne siktet for bevispåvirkning. Nå er hele rettssaken kansellert.",
+   "img": "https://gfx.nrk.no/3oEaO5atCkWgezRRPMxCYwHv9fzu6CWQX5XdyzMiWHkg.jpg",
+   "date": "2026-11-03T17:21:15+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mulig hackerangrep mot norsk varehus: – Skade av betydelig omfang",
+   "title": "Ut mot Listhaugs plan for integrering: – En motorvei til franske tilstander",
    "source": "NRK",
-   "summary": "Natt til tirsdag ble temperaturen i et fryserom i varehuset Havaristen skrudd opp så høyt at sprinkleranlegget ble utløst. Ledelsen tror fryseren ble hacket.",
-   "img": "https://gfx.nrk.no/TlUmghV54zJRf0dDZfxNxQ3ZJz9RKXeuv6HUIxPZugTg.jpg",
-   "date": "2026-11-03T14:59:27+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
-   "source": "NRK",
-   "summary": "Israel vil fra nyåret av ikke lenger få støtte fra USA, sier president Donald Trump i et intervju med Fox News tirsdag. Han sier videre at Israels statsminister Benjamin Netanyahu har gått med på dette, og at israelerne mener de ikke trenger støtten. Israel vi",
-   "img": "https://gfx.nrk.no/RBXTfQnRSGyiTm4dGja2qAP5Lwts0cw4Tdz4Sng9gQNA.jpg",
-   "date": "2026-11-03T13:38:15+00:00"
+   "summary": "Tonje Brenna (Ap) mener Fremskrittspartiets politikk bare vil føre til de samme tilstandene de advarer mot.",
+   "img": "https://gfx.nrk.no/b8mq-JNYRXz78uiF0zURwAtTEJEj58lbZ8am1k7ysfGw.jpg",
+   "date": "2026-11-03T17:31:28+00:00"
   }
  ]
 }
