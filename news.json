@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-03T08:07:59.292229+00:00",
+ "updated": "2026-11-03T16:11:11.084749+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea 7 S.A. Notification of major holding",
+   "source": "Subsea 7 S.A.",
+   "summary": "Subsea 7 S.A. has received notification of transactions in its shares by a major shareholder. Please see the attachment for details.",
+   "img": "",
+   "date": "2026-11-03T16:03:51.879Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,14 +74,74 @@
    "date": "2026-11-02T07:00:07.332Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "LS Cable, LS Marine secure production and installation capacity for 504 MW South Korean offshore wind farm",
+   "source": "Offshore Energy",
+   "summary": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
+   "img": "https://offshore-energy.biz/api/media/file/LS%20Marine%20Solution-1-900x600.jpg?prefix=media",
+   "date": "2026-11-03T13:20:22+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
+   "source": "Offshore Energy",
+   "summary": "As Shell heads for the exit, ADNOC’s XRG is buying a stake in a Woodside-operated LNG and gas development in Western Australia.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784740004007-1024x678-512x339.png?prefix=media",
+   "date": "2026-11-03T12:19:47+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DP crews are the new bottleneck: how OSV operators can staff vessels faster",
+   "source": "Offshore Energy",
+   "summary": "I spent my early career as a deck officer in the merchant fleet, and one lesson from those years has stayed with me through almost two decades of...",
+   "img": "https://offshore-energy.biz/api/media/file/Pavel-Manchenko-author-photo-16x9-OE-1600x900.png?prefix=media",
+   "date": "2026-11-03T12:12:59+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Rossi EP Winch: a new approach to winch gearbox design",
+   "source": "Offshore Energy",
+   "summary": "Developed for marine, construction and mining applications, EP Winch combines a rotating housing, advanced simulations and experimental...",
+   "img": "https://offshore-energy.biz/api/media/file/EP%20Winch%20a%20Bauma-1600x1184.jpg?prefix=media",
+   "date": "2026-11-03T11:15:16+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Taihan renames CLV recently acquired from DOF",
+   "source": "Offshore Energy",
+   "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
+   "img": "https://offshore-energy.biz/api/media/file/Taihan%20Connector%20-%20Taihan%20Cable%20%26%20Solution-1-1600x1067.jpg?prefix=media",
+   "date": "2026-11-03T11:10:22+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DEME and Prysmian start cable installation for Dutch offshore grid connections",
+   "source": "Offshore Energy",
+   "summary": "DEME and Prysmian have started installing high-voltage cables for grid operator TenneT in the Veerse Meer in the Netherlands, as part of the...",
+   "img": "https://offshore-energy.biz/api/media/file/Screenshot_1-1056x702.jpg?prefix=media",
+   "date": "2026-11-03T09:10:22+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Borr Drilling Limited - Prospector 5 Rig Incident Update - November 2, 2026",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 2, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\" or the \"Company\") provides an update on the Prospector 5 incident offshore Gabon, first announced by the Company on October 25, 2026.",
-   "img": "",
-   "date": "2026-11-02T06:30:11.136Z"
+   "title": "Vår Energi comes up dry in the North Sea",
+   "source": "Offshore Energy",
+   "summary": "Vår Energi’s drilling operations with COSL Drilling Europe’s rig in the Norwegian sector of the North Sea have not yielded hydrocarbons.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729196195-1024x518-512x259.png?prefix=media",
+   "date": "2026-11-03T09:02:21+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -82,76 +152,6 @@
    "summary": "This 44-year-old rig has crossed the finish line at a multi-well subsea decommissioning campaign on the UK Continental Shelf (UKCS).",
    "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784752208422-1024x745-512x372.png?prefix=media",
    "date": "2026-11-03T09:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Wison New Energies lays keel for Türkiye’s ultra-deepwater FPU",
-   "source": "Offshore Energy",
-   "summary": "This ultra-deepwater floating production unit (FPU) is being built for Türkiye Petrolleri A.O. (TPAO) to boost Türkiye's natural gas supply.",
-   "img": "https://offshore-energy.biz/api/media/file/Wison%20New%20Energies-800x534.jpg?prefix=media",
-   "date": "2026-11-03T08:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
-   "source": "Offshore Energy",
-   "summary": "This multimillion-dollar extension enables the 19-year-old jack-up rig to remain with Chevron’s subsidiary until February 2028.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894197908-768x432-384x216.png?prefix=media",
-   "date": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies sheds partial stake ahead of appraisal ops at Nigerian block",
-   "source": "Offshore Energy",
-   "summary": "TotalEnergies has set the wheels in motion to sell a partial interest in an offshore block to SAPETRO to fast-track the appraisal of a Nigerian field.",
-   "img": "https://offshore-energy.biz/api/media/file/FPSO%20Egina%20Source%20TotalEnergies-1500x1125.png?prefix=media",
-   "date": "2026-11-02T13:52:25+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Shell and Hornbeck Offshore seal multiple deals for deepwater services",
-   "source": "Offshore Energy",
-   "summary": "Hornbeck Offshore Services, which merged with Helix Energy Solutions two months ago, has entered into multiple agreements with Shell Offshore for...",
-   "img": "https://offshore-energy.biz/api/media/file/Shell%20and%20Hornbeck%20Offshore%20seal%20multiple%20deals%20for%20deepwater%20services-1355x654.jpg?prefix=media",
-   "date": "2026-11-02T13:30:46+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Shell lifts first cargo as Venture Global’s US LNG project kicks off commercial ops",
-   "source": "Offshore Energy",
-   "summary": "Venture Global has achieved commercial operations at Phase 1 of its LNG project in Louisiana, with Shell lifting the facility's first cargo.",
-   "img": "https://offshore-energy.biz/api/media/file/an%20aerial%20rendering%20of%20Venture%20Global%20LNG's%20Plaquemines%20LNG%20export%20facility%20located%20in%20Plaquemines%20Parish%2C%20Louisiana%2C%20United%20States-600x437.jpg?prefix=media",
-   "date": "2026-11-02T13:02:05+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Gas flows from Southeast Asian offshore field 21 months after FID",
-   "source": "Offshore Energy",
-   "summary": "Eni and Petronas’ Searah has brought online an Asian gas field, flowing 250 million standard cubic feet per day (scfd) to domestic and export markets.",
-   "img": "https://offshore-energy.biz/api/media/file/Jangkrik%20FPU%20Source%20Eni-1246x702.png?prefix=media",
-   "date": "2026-11-02T11:55:48+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "UK's 2 GW subsea power cable gets government's approval",
-   "source": "Offshore Energy",
-   "summary": "The UK government has granted development consent for the 2 GW Sea Link subsea high-voltage direct current (HVDC) electricity connection between...",
-   "img": "https://offshore-energy.biz/api/media/file/uk-1053x698.jpg?prefix=media",
-   "date": "2026-11-02T10:22:54+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,44 +234,34 @@
    "date": "2026-10-09T13:35:54+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "Transocean’s latest contract haul boosts backlog to $8bn",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "ELPI nets double Middle East offshore vessel deal",
    "source": "Splash247",
-   "summary": "Offshore drilling giant Transocean has secured approximately $2bn in additional contract backlog following a string of new drilling awards and extensions across its global fleet, including fresh work for two drillships in the US Gulf of Mexico and Equatorial G",
-   "img": "https://splash247.com/wp-content/uploads/2026/08/MarineTraffic-Ned-OConnor-Deepwater-Conqueror-Transocean.jpg",
-   "date": "2026-11-03T02:40:00+00:00"
+   "summary": "Indonesian offshore vessel operator PT Pelayaran Nasional Ekalya Purnamasari (ELPI) has secured a three-year charter contract worth $12.04m with UAE-based Atlantic Maritime Group. The contract covers two crewboat vessels, Kazo Agility 2 and Kazo Agility 3, whi",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Kazo-Agility-ELPI.jpg",
+   "date": "2026-11-03T12:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Valaris keeps rigs busy with latest contracting spree",
+   "title": "Keppel secures $51m extension for Saudi jackup",
    "source": "Splash247",
-   "summary": "Offshore drilling company Valaris has racked up $600m in new contracts and extensions, led by a $290m deal with BP in the US Gulf of Mexico and a string of fresh drilling awards across its global fleet, pushing its total contracted backlog to around $4.8bn. Th",
-   "img": "https://splash247.com/wp-content/uploads/2022/05/valaris-ds-12.jpg",
-   "date": "2026-11-03T02:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Oceanity bags Petrobras charter for oil spill response vessel",
-   "source": "Splash247",
-   "summary": "Offshore vessel operator Oceanity, formerly known as CMM Offshore, has secured a four-year charter contract with Brazilian state-controlled oil major Petrobras for its fast oil spill response vessel CMM Purity. Oceanity subsidiary, CMM Offshore Brasil, signed ",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Purity-CMM.jpg",
-   "date": "2026-11-02T12:00:00+00:00"
+   "summary": "Singapore’s Keppel has secured a five-year bareboat charter extension worth approximately $51m for its AD110 jackup rig with Saudi drilling contractor Arabian Drilling Company. The agreement, signed through Keppel subsidiary RigCo Holding, will run from 2026 t",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/AD110-AD120-Arabian-Drilling-Keppel.jpg",
+   "date": "2026-11-03T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Norway hands out $430m for floating offshore wind projects",
+   "title": "BW Offshore gets Norwegian funding boost for floating wind ambitions",
    "source": "Splash247",
-   "summary": "Norway’s state-backed Enova has awarded NOK3.94bn ($430m) in funding to two floating offshore wind projects to install four next-generation turbines off Karmøy. Fortius Offshore Wind and Fram Wind Solutions have been selected to receive support for projects at",
-   "img": "https://splash247.com/wp-content/uploads/2024/10/Norwegian-Offshore-Wind-floating-wind.jpg",
-   "date": "2026-11-02T11:30:00+00:00"
+   "summary": "Norwegian floater specialist BW Offshore is planning to deploy two of the world’s largest floating wind turbines on its BW Ideol foundations after its Fram Wind Solutions joint venture secured NOK1.94bn ($210m) in state funding support. The 37 MW project will ",
+   "img": "https://splash247.com/wp-content/uploads/2023/02/RWE-floating-wind.jpg",
+   "date": "2026-11-03T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -297,16 +287,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
-   "source": "The Maritime Executive",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T22:27:07+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "First-of-its-kind marine robotics test and development center opens in Norway",
    "source": "Offshore Energy",
    "summary": "",
@@ -314,14 +294,24 @@
    "date": "2026-10-28T14:21:42+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Noble nets drilling contracts offshore Uruguay, Peru with Apache, Occidental",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-28T03:11:27+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies farms out 40% of OPL257 offshore Nigeria to SAPETRO",
-   "source": "World Oil",
+   "title": "TotalEnergies farms out partial interest in block offshore Nigeria ahead of appraisal",
+   "source": "Oil & Gas Journal",
    "summary": "",
    "img": "",
-   "date": "2026-10-30T14:56:41+00:00"
+   "date": "2026-10-30T19:49:57+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -357,6 +347,26 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Får første minnepris til ære for Utøya-offer",
+   "source": "NRK Trøndelag",
+   "summary": "Emil Okkenhaug ble drept på Utøya. Nå får Silje (25) den første minneprisen i hans navn.",
+   "img": "https://gfx.nrk.no/7jcVyZ_-hwlh_YOeiJXZ-wAwOrrPRf3fCV6nNB1IkOnw.jpg",
+   "date": "2026-11-03T15:30:12+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Chiakha etter rasismebråket: – Jeg er ikke i tvil om hva jeg hørte",
+   "source": "NRK Trøndelag",
+   "summary": "Amin Chiakha avviser at rasismeanklagene mot Fredrikstad-spilleren bygger på en språklig misforståelse. FFK sier spilleren har fått drapstrusler etter anklagen.",
+   "img": "https://gfx.nrk.no/qXbHUcIW2rQO-vS1q0DJtwxmCkmCKOb2j9araFlDP3_Q.jpg",
+   "date": "2026-11-03T12:46:37+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Slåssing utafor russearrangement i Trondheim",
    "source": "NRK Trøndelag",
    "summary": "Ingen ble skadet i hendelsen, men tre ungdommer ble bortvist",
@@ -374,64 +384,44 @@
    "date": "2026-11-02T18:24:48+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Rasisme-anklager i kamp: Spilleren får muligheten til å uttale seg til NFF",
-   "source": "NRK Trøndelag",
-   "summary": "Spilleren som i følge Amin Chiakha skal ha sagt noe rasistisk, får muligheten til å gi sin forklaring til Norges Fotballforbund.",
-   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAkM8q6kY8sDs26iU2HkDF1g.jpg",
-   "date": "2026-11-02T10:54:42+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Ansatt ved NTNU omkom i Rindal",
-   "source": "NRK Trøndelag",
-   "summary": "En mann i 30-årene omkom i Rindal lørdag ettermiddag.",
-   "img": "https://gfx.nrk.no/6AD59a2z9lhnyYgvKyeSQwq34XJk5OwTJ0ieqBB_L4Rw.jpg",
-   "date": "2026-11-01T19:32:14+00:00"
-  },
-  {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fagforbundet varsler politisk streik for Posten",
+   "title": "Tidligere NRK-journalist Audun Tjomsland er død",
    "source": "NRK",
-   "summary": "Fagforbundet varsler en tre timer lang politisk streik mandag 16. november når de samler Posten-ansatte foran Stortinget og i flere byer under parolen «Leve Posten!». Regjeringens forslag til statsbudsjett kan føre til at 2000 av 3000 postansatte mister jobben",
-   "img": "https://gfx.nrk.no/40QbjVdPu0h6EXfuXAJqZA1TzR0AhadbOEFv4gSpBOjw.jpg",
-   "date": "2026-11-03T06:39:43+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "NRK-kartlegging: To av tre barn i fengsel er født i Norge",
-   "source": "NRK",
-   "summary": "De fleste barn i norske ungdoms­fengsler er født her i landet og har hatt langvarig kontakt med hjelpeapparatet. – Vi kommer for sent inn, sier psykolog Zemir Popovac.",
-   "img": "https://gfx.nrk.no/UKLrTwJl5WAjQ2uZjBNyRA2j65qRR0wdGXRbDGY0Jffg.jpg",
-   "date": "2026-11-03T06:00:01+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Amerikanske medier: Nytt angrep mot Iran",
-   "source": "NRK",
-   "summary": "USA har angrepet den iranske øya Qeshm i Hormuzstredet, melder The Wall Street Journal og Fox News. Begge mediene viser til kilder i amerikanske myndigheter. Amerikanske tjenestepersoner opplyser til Fox News at angrepet var reaksjon på at Iran først skal ha s",
+   "summary": "Tidligere NRK-journalist og redaktør i Sandefjords Blad, Audun Tjomsland, er død. Han ble 83 år gammel. Det skriver Sandefjords Blad tirsdag. Tjomsland var først å se på Dagsrevyen på NRK i 1968. I tillegg var han utenrikskorrespondent i både London og New Yor",
    "img": "",
-   "date": "2026-11-03T01:56:35+00:00"
+   "date": "2026-11-03T15:48:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sjølv Norseman-vinnaren fekk det tøft: – Ikkje gjennomført nokon stader i verda",
+   "title": "NRK-funn: Blokkerte nettkasinoer hadde millioner besøk fra Norge",
    "source": "NRK",
-   "summary": "Først ein full Ironman. Deretter ein makstest. Laurdag stilte fleire av Noregs best trena menneske opp til eit krafttak av dei sjeldne.",
-   "img": "https://gfx.nrk.no/-rF_NCVHowz9CGnVJ7azKgKc8K6Pn89OVFJs3t6e9cyw.jpg",
-   "date": "2026-11-03T04:10:43+00:00"
+   "summary": "­",
+   "img": "https://gfx.nrk.no/sw5jGmlv8xOb8_5TxGmhogEH_ga3WTGtzcFho7OV6OKw.jpg",
+   "date": "2026-11-03T15:21:41+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Mulig hackerangrep mot norsk varehus: – Skade av betydelig omfang",
+   "source": "NRK",
+   "summary": "Natt til tirsdag ble temperaturen i et fryserom i varehuset Havaristen skrudd opp så høyt at sprinkleranlegget ble utløst. Ledelsen tror fryseren ble hacket.",
+   "img": "https://gfx.nrk.no/TlUmghV54zJRf0dDZfxNxQ3ZJz9RKXeuv6HUIxPZugTg.jpg",
+   "date": "2026-11-03T14:59:27+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
+   "source": "NRK",
+   "summary": "Israel vil fra nyåret av ikke lenger få støtte fra USA, sier president Donald Trump i et intervju med Fox News tirsdag. Han sier videre at Israels statsminister Benjamin Netanyahu har gått med på dette, og at israelerne mener de ikke trenger støtten. Israel vi",
+   "img": "https://gfx.nrk.no/RBXTfQnRSGyiTm4dGja2qAP5Lwts0cw4Tdz4Sng9gQNA.jpg",
+   "date": "2026-11-03T13:38:15+00:00"
   }
  ]
 }
