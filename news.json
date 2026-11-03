@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:37:15.165757+00:00",
+ "updated": "2026-11-03T01:15:26.303877+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -87,6 +87,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
+   "source": "Offshore Energy",
+   "summary": "This multimillion-dollar extension enables the 19-year-old jack-up rig to remain with Chevron’s subsidiary until February 2028.",
+   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894197908-768x432-384x216.png?prefix=media",
+   "date": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "TotalEnergies sheds partial stake ahead of appraisal ops at Nigerian block",
    "source": "Offshore Energy",
    "summary": "TotalEnergies has set the wheels in motion to sell a partial interest in an offshore block to SAPETRO to fast-track the appraisal of a Nigerian field.",
@@ -142,16 +152,6 @@
    "summary": "Serica Energy has booked an Odfjell Drilling-managed rig for a six-well drilling campaign on the UK Continental Shelf (UKCS).",
    "img": "https://offshore-energy.biz/api/media/file/Beacon%20Pacific%20rig%20Source%20CIMC%20Odfjell%20Drilling%20via%20LinkedIn-1-1280x960.jpg?prefix=media",
    "date": "2026-11-02T09:50:12+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Four fatalities as search for missing worker continues: Independent investigation into tragic rig incident underway",
-   "source": "Offshore Energy",
-   "summary": "Borr Drilling has confirmed the fourth fatality after the tragic rig incident offshore Gabon, with search efforts ongoing to find the missing worker.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FProspector_25205_2520Source_2520Borr_2520Drilling-1240x826-1-620x413.png?prefix=media",
-   "date": "2026-11-02T07:34:15+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -317,21 +317,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Laying on Thin Water: The Looming Danger of Sub-Saharan Africa’s Subsea Repair Vessel Deficit",
-   "source": "African Arguments",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-26T23:40:14+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "TotalEnergies farms out 40% of OPL257 offshore Nigeria to SAPETRO",
    "source": "World Oil",
    "summary": "",
    "img": "",
    "date": "2026-10-30T14:56:41+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-30T19:42:34+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,11 +347,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
-   "source": "Offshore Magazine",
+   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
+   "source": "Drilling Contractor",
    "summary": "",
    "img": "",
-   "date": "2026-10-30T19:42:34+00:00"
+   "date": "2026-10-28T16:23:03+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -397,41 +397,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Full jubel: FK Haugesund klare for Eliteserien",
+   "source": "NRK",
+   "summary": "Søndag kjempet de inn tre poeng i Bergen. Mandag kveld kom den endelige bekreftelsen. FK Haugesund er tilbake i det gode selskap.",
+   "img": "https://gfx.nrk.no/s3pQd3GUhLq_qfbG5YYxBQtseJTQoc7exThSUfm5Yw5g.jpg",
+   "date": "2026-11-02T20:52:20+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Langar ut etter kontroversiell avtale for «moteidrett»: – Noko drit",
+   "source": "NRK",
+   "summary": "Reaksjonane er sterke etter at Det internasjonale triatlonforbundet inngjekk ein samarbeidsavtale med Hyrox. NRKs kommentator forstår kvifor.",
+   "img": "https://gfx.nrk.no/Dq-mvsHEc0-lt2KfKX3lmAg-HHLvpCxBZeGew6bFIbTw.jpg",
+   "date": "2026-11-02T20:05:43+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Fikk monstergjedde – så beit det på nytt",
+   "source": "NRK",
+   "summary": "I et hemmelig vann svømmer det noen skikkelige kjemper. Det har 18 år gamle Glenn Evensen fått erfare – to ganger på én uke.",
+   "img": "https://gfx.nrk.no/sty6JmYmOFzP1X0mNGxA4QOjaQ3nylzkLFmdD-ehc_lw.jpg",
+   "date": "2026-11-02T20:00:15+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Pasient døde: Innrømmer dårlig vurdering",
    "source": "NRK",
    "summary": "Sykehuset ville ha en lungesyk pasient raskt ut, men hen ble flydd tilbake få timer senere. På nytt ville de skrive ut hen raskt, men så døde pasienten.",
    "img": "https://gfx.nrk.no/UthqzmO7Tl-wI9qG8sxpGQnmMH1oNdxvLpOr1PZWdJmg.jpg",
    "date": "2026-11-02T18:22:12+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Minst 24 drept i russiske angrep mot ukrainsk landsby",
-   "source": "NRK",
-   "summary": "Landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet med glidebomber gjentatte ganger siden i morges, ifølge Ukrainas president Volodymyr Zelenskyj. Ukrainske nødetater opplyser at 24 mennesker er drept, ifølge Reuters. Han hevder blant annet at an",
-   "img": "",
-   "date": "2026-11-02T17:19:22+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Øvrebø ut i bok – Røkke slår tilbake: – Ukultur",
-   "source": "NRK",
-   "summary": "Toppidrettssjef Tore Øvrebø tar et oppgjør med Kjell Inge Røkke i sin nye bok «Vinneroppskriften».",
-   "img": "https://gfx.nrk.no/cR2KHrtc-AHKnDQRcBhEzQidIEl5tF0A920c92V41H3w.jpg",
-   "date": "2026-11-02T17:08:05+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
-   "source": "NRK",
-   "summary": "Sykehusene har ingen sjanse til å ta imot 7000 skadde soldater, som regjeringen har bedt om. Det mener kirurg og overlege Kristina Stølen Ugelvik.",
-   "img": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclD21qp1WlPb1A.jpg",
-   "date": "2026-11-02T16:24:49+00:00"
   }
  ]
 }
