@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-04T08:00:28.958836+00:00",
+ "updated": "2026-11-04T16:14:51.385234+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea 7 - CADE Approves the Combination of Subsea7 and Saipem",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 4 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced that the tribunal of Brazil's Conselho Administrativo de Defesa Econômica (CADE) has approved the proposed combination of Subsea7 and Saipem to create Saipem7 subject …",
+   "img": "",
+   "date": "2026-11-04T15:16:30.560Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -54,14 +64,64 @@
    "date": "2026-11-03T04:58:16.076Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "BW Offshore: 50% owned joint venture awarded NOK 1.94 billion Enova grant for floating offshore wind project",
-   "source": "BW Offshore Limited",
-   "summary": "50% owned joint venture awarded NOK 1.94 billion Enova grant for floating offshore wind project BW Offshore is pleased to announce that Fram Wind Solutions AS, a joint venture between BW Offshore, Grieg Kapital and Fram Green Technology, has received formal …",
-   "img": "",
-   "date": "2026-11-02T15:00:01.207Z"
+   "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
+   "source": "Offshore Energy",
+   "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
+   "img": "https://offshore-energy.biz/api/media/file/totalenergies_transition-energetique_2026-1443x435-1443x435.png?prefix=media",
+   "date": "2026-11-04T10:10:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Fugro wins East Anglia Two post-installation survey contract",
+   "source": "Offshore Energy",
+   "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
+   "img": "https://offshore-energy.biz/api/media/file/An%20offshore%20wind%20farm%20in%20the%20North%20Sea_Image%20credit%20Fugro-1-1600x1200.webp?prefix=media",
+   "date": "2026-11-04T09:58:55+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Sea1's first methanol-ready offshore energy support vessel fitted with offshore crane and helideck",
+   "source": "Offshore Energy",
+   "summary": "Sea1 Offshore's first of four 120-meter-long offshore energy support vessels (OESVs) being built in China has been fitted with an offshore crane...",
+   "img": "https://offshore-energy.biz/api/media/file/First%20of%20four%20Sea1%20offshore%20energy%20support%20vessels%20fitted%20with%20offshore%20crane%20and%20helideck-1280x712.jpg?prefix=media",
+   "date": "2026-11-04T09:26:04+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Naftogaz and US sign off on oil & gas alliance",
+   "source": "Offshore Energy",
+   "summary": "Naftogaz and the U.S. State Department have sealed a strategic energy deal to drive growth in Ukraine's oil and gas sector.",
+   "img": "https://offshore-energy.biz/api/media/file/Naftogaz%20Group%20and%20US%20Department%20of%20State%20agree%20on%20partnership%20in%20oil%20and%20gas%20sector%20Source%20Naftogaz-800x533.jpg?prefix=media",
+   "date": "2026-11-04T09:20:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
+   "source": "Offshore Energy",
+   "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
+   "img": "https://offshore-energy.biz/api/media/file/Altamira%20Fast%20LNG%201%20Source%20New%20Fortress%20Energy-1600x849.png?prefix=media",
+   "date": "2026-11-04T07:45:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "MDL supports Oceaneering offshore Egypt",
+   "source": "Offshore Energy",
+   "summary": "UK-based Maritime Developments Limited (MDL) has completed a cable replacement and flowline installation scope for Oceaneering's subsea...",
+   "img": "https://offshore-energy.biz/api/media/file/MDL%20supports%20Oceaneering%20offshore%20Egypt-1140x760.jpg?prefix=media",
+   "date": "2026-11-04T07:38:07+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -71,7 +131,7 @@
    "source": "Offshore Energy",
    "summary": "SEFE and Trafigura have sealed a multi-year natural gas supply agreement, boosting annual volumes to 30 TWh through 2031.",
    "img": "https://offshore-energy.biz/api/media/file/2023-trafigura-sefe-900x675.png?prefix=media",
-   "date": "2026-11-04T08:00:00+00:00"
+   "date": "2026-11-04T07:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -82,66 +142,6 @@
    "summary": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
    "img": "https://offshore-energy.biz/api/media/file/LS%20Marine%20Solution-1-900x600.jpg?prefix=media",
    "date": "2026-11-03T13:20:22+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
-   "source": "Offshore Energy",
-   "summary": "As Shell heads for the exit, ADNOC’s XRG is buying a stake in a Woodside-operated LNG and gas development in Western Australia.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784740004007-1024x678-512x339.png?prefix=media",
-   "date": "2026-11-03T12:19:47+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DP crews are the new bottleneck: how OSV operators can staff vessels faster",
-   "source": "Offshore Energy",
-   "summary": "I spent my early career as a deck officer in the merchant fleet, and one lesson from those years has stayed with me through almost two decades of...",
-   "img": "https://offshore-energy.biz/api/media/file/Pavel-Manchenko-author-photo-16x9-OE-1600x900.png?prefix=media",
-   "date": "2026-11-03T12:12:59+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Rossi EP Winch: a new approach to winch gearbox design",
-   "source": "Offshore Energy",
-   "summary": "Developed for marine, construction and mining applications, EP Winch combines a rotating housing, advanced simulations and experimental...",
-   "img": "https://offshore-energy.biz/api/media/file/EP%20Winch%20a%20Bauma-1600x1184.jpg?prefix=media",
-   "date": "2026-11-03T11:15:16+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Taihan renames CLV recently acquired from DOF",
-   "source": "Offshore Energy",
-   "summary": "Taihan Cable & Solution has renamed the cable-laying vessel (CLV) that the South Korean cable supplier acquired from DOF Group earlier this year....",
-   "img": "https://offshore-energy.biz/api/media/file/Taihan%20Connector%20-%20Taihan%20Cable%20%26%20Solution-1-1600x1067.jpg?prefix=media",
-   "date": "2026-11-03T11:10:22+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DEME and Prysmian start cable installation for Dutch offshore grid connections",
-   "source": "Offshore Energy",
-   "summary": "DEME and Prysmian have started installing high-voltage cables for grid operator TenneT in the Veerse Meer in the Netherlands, as part of the...",
-   "img": "https://offshore-energy.biz/api/media/file/Screenshot_1-1056x702.jpg?prefix=media",
-   "date": "2026-11-03T09:10:22+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Vår Energi comes up dry in the North Sea",
-   "source": "Offshore Energy",
-   "summary": "Vår Energi’s drilling operations with COSL Drilling Europe’s rig in the Norwegian sector of the North Sea have not yielded hydrocarbons.",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729196195-1024x518-512x259.png?prefix=media",
-   "date": "2026-11-03T09:02:21+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -224,74 +224,14 @@
    "date": "2026-10-09T13:35:54+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "North Sea strikes escalate as Apache and Wood workers walk out",
-   "source": "Splash247",
-   "summary": "Industrial action in the UK North Sea has intensified, with around 170 Apache workers launching a fresh strike and Wood Group employees staging a separate walkout on Harbour Energy-operated platforms amid disputes over pay and working conditions. Unite said Ap",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Forties-Bravo-Apache.jpg",
-   "date": "2026-11-04T02:40:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Cadeler newbuild to debut on Dogger Bank turbine campaign",
-   "source": "Splash247",
-   "summary": "Danish offshore wind contractor Cadeler has secured the first assignment for its newbuild installation vessel, Wind Apex, signing a firm contract to transport and install turbines at the Dogger Bank C offshore wind farm in the UK North Sea. The vessel will joi",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Cadeler-Wind-Apex.jpg",
-   "date": "2026-11-04T02:30:00+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Aramco starts production from giant oilfield expansion project",
+   "title": "Vedanta taps Exceed for Indian deepwater drilling campaign",
    "source": "Splash247",
-   "summary": "Saudi state oil giant Aramco has started crude production from its major Zuluf offshore expansion project, bringing a development designed to process up to 600,000 barrels per day closer to full operations. Located in the Arabian Gulf, Zuluf is one of Aramco’s",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Aramco.jpg",
-   "date": "2026-11-04T02:10:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "ELPI nets double Middle East offshore vessel deal",
-   "source": "Splash247",
-   "summary": "Indonesian offshore vessel operator PT Pelayaran Nasional Ekalya Purnamasari (ELPI) has secured a three-year charter contract worth $12.04m with UAE-based Atlantic Maritime Group. The contract covers two crewboat vessels, Kazo Agility 2 and Kazo Agility 3, whi",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Kazo-Agility-ELPI.jpg",
-   "date": "2026-11-03T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Keppel secures $51m extension for Saudi jackup",
-   "source": "Splash247",
-   "summary": "Singapore’s Keppel has secured a five-year bareboat charter extension worth approximately $51m for its AD110 jackup rig with Saudi drilling contractor Arabian Drilling Company. The agreement, signed through Keppel subsidiary RigCo Holding, will run from 2026 t",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/AD110-AD120-Arabian-Drilling-Keppel.jpg",
-   "date": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "BW Offshore gets Norwegian funding boost for floating wind ambitions",
-   "source": "Splash247",
-   "summary": "Norwegian floater specialist BW Offshore is planning to deploy two of the world’s largest floating wind turbines on its BW Ideol foundations after its Fram Wind Solutions joint venture secured NOK1.94bn ($210m) in state funding support. The 37 MW project will ",
-   "img": "https://splash247.com/wp-content/uploads/2023/02/RWE-floating-wind.jpg",
-   "date": "2026-11-03T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-03T22:30:38+00:00"
+   "summary": "India’s Vedanta Oil and Gas has signed a partnership agreement with UK-based well management specialist Exceed for an exploration and appraisal campaign in the Krishna-Godavari Basin. The Kent-owned company will provide integrated support for drilling operatio",
+   "img": "https://splash247.com/wp-content/uploads/2025/01/Dorado-rig-sunset-Carnarvon.jpg",
+   "date": "2026-11-04T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -307,31 +247,31 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor says North Sea gas find bigger than expected",
-   "source": "Reuters",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-29T06:28:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor opens Kårstø Marine Robotics Centre",
-   "source": "Equinor",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T13:02:32+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
    "source": "The Maritime Executive",
    "summary": "",
    "img": "",
    "date": "2026-10-28T22:27:07+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor Unveils Karsto Robotics Centre to Target Offshore Savings",
+   "source": "Yahoo! Finance Canada",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-29T14:04:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "North Sea roundup: Serica drilling campaign, Lyra contract award lead latest activity",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-03T22:45:12+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -367,11 +307,41 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
+   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
+   "source": "Drilling Contractor",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T08:49:49+00:00"
+   "date": "2026-10-28T16:23:03+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Fant granat i hagen: – En skremmende opplevelse",
+   "source": "NRK Trøndelag",
+   "summary": "Det er funnet en øvingsgranat under gravearbeid på en privat adresse i Kroppanmarka i Trondheim.",
+   "img": "https://gfx.nrk.no/tImixriO6t8ysD5twwZWsAH84drJ4D39xIk3iqW4tZTw.jpg",
+   "date": "2026-11-04T12:27:50+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Felte elgokse med 24 spir: – Artig når det klaffer sånn",
+   "source": "NRK Trøndelag",
+   "summary": "Jegeren har jaktet storvilt i 26 år, men har aldri opplevd det han gjorde denne uka. Ifølge forsker kan man forvente å se flere store elgokser i årene som kommer.",
+   "img": "https://gfx.nrk.no/hVZQixyVRhQZeYRmaxdzhwPpSkBwEolcq7kdyY51WEGQ.jpg",
+   "date": "2026-11-04T12:08:49+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rykket ut til uhell med svovelsyre – 13 personer evakuert",
+   "source": "NRK Trøndelag",
+   "summary": "Nødetatene rykket ut etter melding om et uhell med svovelsyre i Høvringen renseanlegg i Trondheim.",
+   "img": "https://gfx.nrk.no/fDIDXP95uPsa3TtzbdEgPwzH3X81I1XynKJAnvkEhmdA.jpg",
+   "date": "2026-11-04T08:32:48+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,74 +354,44 @@
    "date": "2026-11-03T18:20:15+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Får første minnepris til ære for Utøya-offer",
-   "source": "NRK Trøndelag",
-   "summary": "Emil Okkenhaug ble drept på Utøya. Nå får Silje (25) den første minneprisen i hans navn.",
-   "img": "https://gfx.nrk.no/7jcVyZ_-hwlh_YOeiJXZ-wAwOrrPRf3fCV6nNB1IkOnw.jpg",
-   "date": "2026-11-03T15:30:12+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Chiakha etter rasismebråket: – Jeg er ikke i tvil om hva jeg hørte",
-   "source": "NRK Trøndelag",
-   "summary": "Amin Chiakha avviser at rasismeanklagene mot Fredrikstad-spilleren bygger på en språklig misforståelse. FFK sier spilleren har fått drapstrusler etter anklagen.",
-   "img": "https://gfx.nrk.no/qXbHUcIW2rQO-vS1q0DJtwxmCkmCKOb2j9araFlDP3_Q.jpg",
-   "date": "2026-11-03T12:46:37+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Slåssing utafor russearrangement i Trondheim",
-   "source": "NRK Trøndelag",
-   "summary": "Ingen ble skadet i hendelsen, men tre ungdommer ble bortvist",
-   "img": "https://gfx.nrk.no/mFE0OnvfcmT--LJ-Z_i-OA9QDy9aA5xkuOugUNpBKqgw.jpg",
-   "date": "2026-11-03T05:23:02+00:00"
-  },
-  {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Abdul El-Sayed vinner i Michigan",
+   "title": "JD Vance: Republikanerne tapte mellomvalget på grunn av Iran-krigen",
    "source": "NRK",
-   "summary": "The New York Times erklærer at demokraten Abdul El-Sayed vinner over republikaneren Mike Rogers i kampen om sentatssetet i Michigan. Det betyr at Demokratene går seirende ut av en av de mest profilerte valgene i dette mellomvalget. Michigan var den eneste dels",
-   "img": "https://gfx.nrk.no/W4Dwc43VuRWgUr_2a8kkHwwtnBGX_zraZW6N0sA53fmA.jpg",
-   "date": "2026-11-04T07:28:57+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Forsinkelser på alle T-baner",
-   "source": "NRK",
-   "summary": "Det er forsinkelser på alle linjer på T-banen i Oslo. Ifølge Ruters pressevakt skyldes dette en vekselfeil på Helsfyr. Feilen er nå rettet, opplyser Ruter kl. 07:35. Det vil fortsatt være følgeforsinkelser på opptil 20 minutter.",
+   "summary": "Det skriver visepresidenten i et langt innlegg på X. «Det kommer til å bli mye intern strid og krangling om hva som skjedde og hvorfor. En av meningsmålerne jeg virkelig respekterer, sa til meg at det økonomiske budskapet vårt ikke var spisset nok i innspurten",
    "img": "",
-   "date": "2026-11-04T06:30:19+00:00"
+   "date": "2026-11-04T15:53:59+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Advarer om svindel-kappløp: Den nye målskiva er bedriftsledere",
+   "title": "Senga som hindrer kriser",
    "source": "NRK",
-   "summary": "Svindlere er stadig mer målrettet med sine metoder, advarer bank. Nå øker svindelforsøkene mot de som sitter nærmest bedrifters pengesekk.",
-   "img": "https://gfx.nrk.no/Vewznz50vLuRGIjfcjOihAmOCryaVBpVHxlSL8l5WQQw.jpg",
-   "date": "2026-11-04T06:04:06+00:00"
+   "summary": "For tre år siden endte det i psykose, politiaksjon og voldsalarm for familien. Ei seng ved det distriktspsykiatriske senteret der han bor, ble redningen.",
+   "img": "https://gfx.nrk.no/JoF78jts43AtuBMG1NYUwg7Xgke_NdlIEpQsDDuqsd-g.jpg",
+   "date": "2026-11-04T16:03:48+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Én person til sykehus etter brann i Hamar",
+   "title": "Denne løsningen er uaktuell for Solbakken: – Krever at du legger vekk egoet",
    "source": "NRK",
-   "summary": "En firemannsbolig i Hamar er totalskadd etter en brann natt til onsdag. 13 personer blir nå ivaretatt på et hotell av kommunen, mens én person fortsatt er på sykehus, opplyser politiet i politiloggen. Totalt er 14 personer rammet – åtte voksne og seks barn i a",
-   "img": "https://gfx.nrk.no/nJIW0fr6KCqdmUabq8Scswsmm4MN9hjiob8qVt2hv-_Q.jpg",
-   "date": "2026-11-04T00:57:10+00:00"
+   "summary": "Ståle Solbakken sier han aldri ville gjort det selv, og nesten ingen i Europa gjør det. Men i Viking har det blitt en gullformel.",
+   "img": "https://gfx.nrk.no/VbVkPdJg4MpLYPX_eyfYigu8fOyWbj75a9bNp1_WWRQQ.jpg",
+   "date": "2026-11-04T15:40:55+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Paragliderulykke i Rogaland – én person er alvorlig skadet",
+   "source": "NRK",
+   "summary": "De to involverte sitter fast i en skråning, og det pågår nå pasientbehandling av begge to. Den ene skal ha skadet seg i forsøket på å hjelpe.",
+   "img": "https://gfx.nrk.no/u_n5OhdbqI81XAJkqQ9d1w88vC7LDcYG9483cyXgzPnw.jpg",
+   "date": "2026-11-04T15:01:42+00:00"
   }
  ]
 }
