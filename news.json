@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:45:02.607160+00:00",
+ "updated": "2026-11-04T01:41:49.669175+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -77,6 +77,16 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "Germany’s SEFE and Trafigura renew gas deal through 2031",
+   "source": "Offshore Energy",
+   "summary": "SEFE and Trafigura have sealed a multi-year natural gas supply agreement, boosting annual volumes to 30 TWh through 2031.",
+   "img": "https://offshore-energy.biz/api/media/file/2023-trafigura-sefe-900x675.png?prefix=media",
+   "date": "2026-11-04T08:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "LS Cable, LS Marine secure production and installation capacity for 504 MW South Korean offshore wind farm",
    "source": "Offshore Energy",
    "summary": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
@@ -142,16 +152,6 @@
    "summary": "Vår Energi’s drilling operations with COSL Drilling Europe’s rig in the Norwegian sector of the North Sea have not yielded hydrocarbons.",
    "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729196195-1024x518-512x259.png?prefix=media",
    "date": "2026-11-03T09:02:21+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Well-Safe Solutions’ 1982-built rig wraps up triple P&A campaign in UK waters",
-   "source": "Offshore Energy",
-   "summary": "This 44-year-old rig has crossed the finish line at a multi-well subsea decommissioning campaign on the UK Continental Shelf (UKCS).",
-   "img": "https://offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784752208422-1024x745-512x372.png?prefix=media",
-   "date": "2026-11-03T09:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -297,11 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor eyes major annual savings from underwater robots",
-   "source": "EnergyWatch",
+   "title": "North Sea roundup: Serica drilling campaign, Lyra contract award lead latest activity",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T12:40:49+00:00"
+   "date": "2026-11-03T22:45:12+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -327,21 +327,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
-   "source": "Offshore Energy",
+   "title": "Tullow Oil Taps DeepOcean for Subsea Riser Job off Ghana",
+   "source": "Marine News Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T08:49:49+00:00"
+   "date": "2026-10-29T13:50:04+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Eni awards Saipem drilling contracts for Cyprus and Ghana",
-   "source": "Drilling Contractor",
+   "title": "DeepOcean to employ recently upgraded subsea vessel offshore Ghana",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-10-28T16:23:03+00:00"
+   "date": "2026-10-28T08:49:49+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,10 +387,30 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Slakter Manchester United etter grusom start: – Utrolig hvor langt de har falt",
+   "title": "Brann i firemannsbolig i Hamar",
    "source": "NRK",
-   "summary": "Manchester United ble ydmyket av Como i forrige mesterligarunde. Mot Roma fortsatte marerittet på Old Trafford, der hjemmesupporterne begynte å kaste gjenstander på banen.",
-   "img": "https://gfx.nrk.no/a_4eV-AjmnJsxjm6t3oKdg_sipqkrOHd8PtmzYhsk8sQ.jpg",
+   "summary": "Det brenner natt til onsdag i andre etasje i en firemannsbolig i Hamar. Totalt 13 personer er registrert på adressen. Alle er gjort rede for. – Det pågår røykdykking og slukkearbeid. En person er kjørt til Hamar sykehus, opplyser operasjonsleder Haagen Løvseth",
+   "img": "",
+   "date": "2026-11-04T00:57:10+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Tafatt Bodø/Glimt: – De får ikke til noen ting",
+   "source": "NRK",
+   "summary": "Glimt var stort sett et par nummer for små mot Lille i førsteomgang. Litt flate batterier, tror kapteinen.",
+   "img": "https://gfx.nrk.no/f8SVzJvuRBzqzUYfGMeb-g0M0UO6snf2LrIECod5qs7Q.jpg",
+   "date": "2026-11-03T21:48:48+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Carrick hyllet fansen etter Mesterliga-drama: – De er desperate",
+   "source": "NRK",
+   "summary": "Matheus Cunha scoret to ganger og snudde kampen for Manchester United. Det ga fansen glimt av håp.",
+   "img": "https://gfx.nrk.no/d97sIGbu5fVcbabjyVbM0Qx3k60FFyZNr3ulMKTHJ1qw.jpg",
    "date": "2026-11-03T20:49:21+00:00"
   },
   {
@@ -402,26 +422,6 @@
    "summary": "Rundt 7500 høner på en gård i Klepp kommune, der viruset ble oppdaget, er avlivet for å hindre at sykdommen sprer seg videre i Rogalands store landbruksmiljø.",
    "img": "https://gfx.nrk.no/TWAdu_cmqgCCDxPFpwiSKA8U0XOGW_kdo756ooTEDdmA.jpg",
    "date": "2026-11-03T19:45:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Menneskehandelssak må gjennomføres på nytt etter at forsvarer ble pågrepet",
-   "source": "NRK",
-   "summary": "Da saken var inne i sin sjette uke i Nedre Telemark tingrett, ble en av forsvarerne siktet for bevispåvirkning. Nå er hele rettssaken kansellert.",
-   "img": "https://gfx.nrk.no/3oEaO5atCkWgezRRPMxCYwHv9fzu6CWQX5XdyzMiWHkg.jpg",
-   "date": "2026-11-03T17:21:15+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ut mot Listhaugs plan for integrering: – En motorvei til franske tilstander",
-   "source": "NRK",
-   "summary": "Tonje Brenna (Ap) mener Fremskrittspartiets politikk bare vil føre til de samme tilstandene de advarer mot.",
-   "img": "https://gfx.nrk.no/b8mq-JNYRXz78uiF0zURwAtTEJEj58lbZ8am1k7ysfGw.jpg",
-   "date": "2026-11-03T17:31:28+00:00"
   }
  ]
 }
