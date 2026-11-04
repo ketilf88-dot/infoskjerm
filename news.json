@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-04T01:41:49.669175+00:00",
+ "updated": "2026-11-04T08:00:28.958836+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Solstad Maritime ASA: Presentation of Third Quarter 2026 results",
+   "source": "Solstad Maritime ASA",
+   "summary": "Skudeneshavn, 04 November 2026 Solstad Maritime ASA (SOMA) is pleased to present its financial results for the third quarter 2026.",
+   "img": "",
+   "date": "2026-11-04T06:00:33.312Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Panoro Energy - Trading Statement and Operations Update",
+   "source": "Panoro Energy ASA",
+   "summary": "Oslo, 4 November 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") provides an update in advance of its Q3 2026 results which are scheduled for release on 18 November 2026.",
+   "img": "",
+   "date": "2026-11-04T06:00:12.705Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -27,16 +47,6 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "OKEA ASA - Third quarter 2026 financial results",
-   "source": "OKEA ASA",
-   "summary": "(Trondheim, 3 November 2026) - In the third quarter of 2026, OKEA ASA (OSE: OKEA) increased the cash balance to USD 476 (355) million, resulting in a net cash position of USD 180 (59) million.",
-   "img": "",
-   "date": "2026-11-03T05:00:37.142Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "OKEA ASA resume quarterly dividends payments in fourth quarter 2026",
    "source": "OKEA ASA",
    "summary": "(Trondheim, 3 November 2026) OKEA ASA (OSE: OKEA) On 11 May 2026 the annual general meeting of OKEA granted the board of directors an authorisation to approve distribution of dividends based on the company's annual accounts for 2025.",
@@ -52,26 +62,6 @@
    "summary": "50% owned joint venture awarded NOK 1.94 billion Enova grant for floating offshore wind project BW Offshore is pleased to announce that Fram Wind Solutions AS, a joint venture between BW Offshore, Grieg Kapital and Fram Green Technology, has received formal …",
    "img": "",
    "date": "2026-11-02T15:00:01.207Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Finansiell kalender",
-   "source": "Equinor ASA",
-   "summary": "Finansiell kalender for Equinor ASA REGNSKAPSÅR 2026 03.02.2027 - Kvartalsrapport - Q4 REGNSKAPSÅR 2027 21.07.2027 - Halvårsrapport 18.03.2027 - Årsrapport 13.05.2027 - Ordinær generalforsamling 28.04.2027 - Kvartalsrapport - Q1 27.10.2027 - Kvartalsrapport - …",
-   "img": "",
-   "date": "2026-11-02T13:04:09.982Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Subsea7 awarded contract offshore Norway",
-   "source": "Subsea 7 S.A.",
-   "summary": "Luxembourg - 2 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced the award of a substantial1 contract by Aker BP for the Lyra field development project, formerly known as Kjøttkake, located in the northern part of the North Sea, …",
-   "img": "",
-   "date": "2026-11-02T07:00:07.332Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,6 +224,36 @@
    "date": "2026-10-09T13:35:54+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "North Sea strikes escalate as Apache and Wood workers walk out",
+   "source": "Splash247",
+   "summary": "Industrial action in the UK North Sea has intensified, with around 170 Apache workers launching a fresh strike and Wood Group employees staging a separate walkout on Harbour Energy-operated platforms amid disputes over pay and working conditions. Unite said Ap",
+   "img": "https://splash247.com/wp-content/uploads/2026/07/Forties-Bravo-Apache.jpg",
+   "date": "2026-11-04T02:40:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Cadeler newbuild to debut on Dogger Bank turbine campaign",
+   "source": "Splash247",
+   "summary": "Danish offshore wind contractor Cadeler has secured the first assignment for its newbuild installation vessel, Wind Apex, signing a firm contract to transport and install turbines at the Dogger Bank C offshore wind farm in the UK North Sea. The vessel will joi",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Cadeler-Wind-Apex.jpg",
+   "date": "2026-11-04T02:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Aramco starts production from giant oilfield expansion project",
+   "source": "Splash247",
+   "summary": "Saudi state oil giant Aramco has started crude production from its major Zuluf offshore expansion project, bringing a development designed to process up to 600,000 barrels per day closer to full operations. Located in the Arabian Gulf, Zuluf is one of Aramco’s",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Aramco.jpg",
+   "date": "2026-11-04T02:10:00+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
@@ -267,6 +287,36 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-03T22:30:38+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Subsea7 wins Aker BP Lyra contract offshore Norway",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-02T16:03:47+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor says North Sea gas find bigger than expected",
+   "source": "Reuters",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-29T06:28:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Equinor opens Kårstø Marine Robotics Centre",
    "source": "Equinor",
    "summary": "",
@@ -277,31 +327,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Unveils Karsto Robotics Centre to Target Offshore Savings",
-   "source": "Yahoo! Finance Canada",
+   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
+   "source": "The Maritime Executive",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T14:04:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "First-of-its-kind marine robotics test and development center opens in Norway",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T14:21:42+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "North Sea roundup: Serica drilling campaign, Lyra contract award lead latest activity",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-03T22:45:12+00:00"
+   "date": "2026-10-28T22:27:07+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -387,41 +417,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Brann i firemannsbolig i Hamar",
+   "title": "Abdul El-Sayed vinner i Michigan",
    "source": "NRK",
-   "summary": "Det brenner natt til onsdag i andre etasje i en firemannsbolig i Hamar. Totalt 13 personer er registrert på adressen. Alle er gjort rede for. – Det pågår røykdykking og slukkearbeid. En person er kjørt til Hamar sykehus, opplyser operasjonsleder Haagen Løvseth",
+   "summary": "The New York Times erklærer at demokraten Abdul El-Sayed vinner over republikaneren Mike Rogers i kampen om sentatssetet i Michigan. Det betyr at Demokratene går seirende ut av en av de mest profilerte valgene i dette mellomvalget. Michigan var den eneste dels",
+   "img": "https://gfx.nrk.no/W4Dwc43VuRWgUr_2a8kkHwwtnBGX_zraZW6N0sA53fmA.jpg",
+   "date": "2026-11-04T07:28:57+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Forsinkelser på alle T-baner",
+   "source": "NRK",
+   "summary": "Det er forsinkelser på alle linjer på T-banen i Oslo. Ifølge Ruters pressevakt skyldes dette en vekselfeil på Helsfyr. Feilen er nå rettet, opplyser Ruter kl. 07:35. Det vil fortsatt være følgeforsinkelser på opptil 20 minutter.",
    "img": "",
+   "date": "2026-11-04T06:30:19+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Advarer om svindel-kappløp: Den nye målskiva er bedriftsledere",
+   "source": "NRK",
+   "summary": "Svindlere er stadig mer målrettet med sine metoder, advarer bank. Nå øker svindelforsøkene mot de som sitter nærmest bedrifters pengesekk.",
+   "img": "https://gfx.nrk.no/Vewznz50vLuRGIjfcjOihAmOCryaVBpVHxlSL8l5WQQw.jpg",
+   "date": "2026-11-04T06:04:06+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Én person til sykehus etter brann i Hamar",
+   "source": "NRK",
+   "summary": "En firemannsbolig i Hamar er totalskadd etter en brann natt til onsdag. 13 personer blir nå ivaretatt på et hotell av kommunen, mens én person fortsatt er på sykehus, opplyser politiet i politiloggen. Totalt er 14 personer rammet – åtte voksne og seks barn i a",
+   "img": "https://gfx.nrk.no/nJIW0fr6KCqdmUabq8Scswsmm4MN9hjiob8qVt2hv-_Q.jpg",
    "date": "2026-11-04T00:57:10+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Tafatt Bodø/Glimt: – De får ikke til noen ting",
-   "source": "NRK",
-   "summary": "Glimt var stort sett et par nummer for små mot Lille i førsteomgang. Litt flate batterier, tror kapteinen.",
-   "img": "https://gfx.nrk.no/f8SVzJvuRBzqzUYfGMeb-g0M0UO6snf2LrIECod5qs7Q.jpg",
-   "date": "2026-11-03T21:48:48+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Carrick hyllet fansen etter Mesterliga-drama: – De er desperate",
-   "source": "NRK",
-   "summary": "Matheus Cunha scoret to ganger og snudde kampen for Manchester United. Det ga fansen glimt av håp.",
-   "img": "https://gfx.nrk.no/d97sIGbu5fVcbabjyVbM0Qx3k60FFyZNr3ulMKTHJ1qw.jpg",
-   "date": "2026-11-03T20:49:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "7500 høner avlivet etter smitteutbrudd på Jæren: Innfører portforbud i stort område",
-   "source": "NRK",
-   "summary": "Rundt 7500 høner på en gård i Klepp kommune, der viruset ble oppdaget, er avlivet for å hindre at sykdommen sprer seg videre i Rogalands store landbruksmiljø.",
-   "img": "https://gfx.nrk.no/TWAdu_cmqgCCDxPFpwiSKA8U0XOGW_kdo756ooTEDdmA.jpg",
-   "date": "2026-11-03T19:45:21+00:00"
   }
  ]
 }
