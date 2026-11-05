@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:53:55.175255+00:00",
+ "updated": "2026-11-05T08:43:44.880560+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -7,11 +7,51 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Akastor ASA: HMH Holding Inc releases third quarter results",
-   "source": "Akastor ASA",
-   "summary": "HMH Holding Inc (Nasdaq ticker: HMH) has today released its financial results for third quarter 2026, which is attached hereto and also available on HMH's investor relations website: htttps://hmhw.com/investors. The corresponding filing to the U.S.",
+   "title": "Successful sale of existing shares in Aker BP ASA",
+   "source": "Aker BP ASA",
+   "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, AUSTRALIA, CANADA, HONG KONG, JAPAN OR ANY JURISDICTION IN WHICH SUCH RELEASE, PUBLICATION OR DISTRIBUTION WOULD BE UNLAWFUL.",
    "img": "",
-   "date": "2026-11-04T21:08:05.154Z"
+   "date": "2026-11-05T07:08:05.076Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker Solutions receives letter of award for engineering scope on the Maydan Mahzam project in Qatar",
+   "source": "Aker Solutions ASA",
+   "summary": "November 5, 2026 - Aker Solutions has received a letter of award (LOA) from PTSC Mechanical and Construction Limited Company (PTSC M&C) for a sizeable[1] contract for detail design work related to the redevelopment of the Maydan Mahzam oil field offshore …",
+   "img": "",
+   "date": "2026-11-05T07:00:20.196Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DOF Group ASA - Contract extension for Skandi Olinda",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") is pleased to announce one new long-term contract extension with Petrobras in Brazil.",
+   "img": "",
+   "date": "2026-11-05T06:11:02.995Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Moreld announces NOK 0.50 dividend distribution",
+   "source": "Moreld ASA",
+   "summary": "Stavanger, 5 November 2026: Reference is made to the stock exchange announcement made by Moreld ASA (\"Moreld\" or the \"Company\") on 14 February 2025, where Moreld announced its new dividend policy.",
+   "img": "",
+   "date": "2026-11-05T06:01:10.016Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Moreld ASA: Third quarter 2026 results",
+   "source": "Moreld ASA",
+   "summary": "Stavanger, 5 November 2026: Moreld delivered another strong quarter with revenues of NOK 2.2 billion and adjusted EBITDA of NOK 376 million, corresponding to an EBITDA margin of 17 per cent.",
+   "img": "",
+   "date": "2026-11-05T06:00:26.691Z"
   },
   {
    "tag": "Oslo Børs",
@@ -27,16 +67,6 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Potential block sale of existing shares in Aker BP ASA",
-   "source": "Aker BP ASA",
-   "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, AUSTRALIA, CANADA, HONG KONG, JAPAN OR ANY JURISDICTION IN WHICH SUCH RELEASE, PUBLICATION OR DISTRIBUTION WOULD BE UNLAWFUL.",
-   "img": "",
-   "date": "2026-11-04T17:03:25.756Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "Subsea 7 - CADE Approves the Combination of Subsea7 and Saipem",
    "source": "Subsea 7 S.A.",
    "summary": "Luxembourg - 4 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced that the tribunal of Brazil's Conselho Administrativo de Defesa Econômica (CADE) has approved the proposed combination of Subsea7 and Saipem to create Saipem7 subject …",
@@ -44,44 +74,24 @@
    "date": "2026-11-04T15:16:30.560Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Solstad Maritime ASA: Presentation of Third Quarter 2026 results",
-   "source": "Solstad Maritime ASA",
-   "summary": "Skudeneshavn, 04 November 2026 Solstad Maritime ASA (SOMA) is pleased to present its financial results for the third quarter 2026.",
-   "img": "",
-   "date": "2026-11-04T06:00:33.312Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
+   "source": "Offshore Energy",
+   "summary": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
+   "img": "https://www.offshore-energy.biz/api/media/file/PLSV%20owned%20by%20DOF%20and%20TechnipFMC%20to%20work%20longer%20for%20Petrobras-760x444.jpg?prefix=media",
+   "date": "2026-11-05T08:16:04+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Panoro Energy - Trading Statement and Operations Update",
-   "source": "Panoro Energy ASA",
-   "summary": "Oslo, 4 November 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") provides an update in advance of its Q3 2026 results which are scheduled for release on 18 November 2026.",
-   "img": "",
-   "date": "2026-11-04T06:00:12.705Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Subsea 7 S.A. Notification of major holding",
-   "source": "Subsea 7 S.A.",
-   "summary": "Subsea 7 S.A. has received notification of transactions in its shares by a major shareholder. Please see the attachment for details.",
-   "img": "",
-   "date": "2026-11-03T16:03:51.879Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "OTL - Odfjell Technology Ltd reports for the Third Quarter of 2026 ",
-   "source": "Odfjell Technology Ltd",
-   "summary": "Odfjell Technology Ltd reports third-quarter 2026 revenue of NOK 1,401 million and EBITDA of NOK 241 million. EBITDA increased 19 per cent from the third quarter of 2025, while the EBITDA margin improved to 17.2 per cent from 14.0 per cent.",
-   "img": "",
-   "date": "2026-11-03T06:05:15.338Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
+   "source": "Offshore Energy",
+   "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Saipem-800x534.jpg?prefix=media",
+   "date": "2026-11-05T07:39:59+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -90,7 +100,7 @@
    "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
    "source": "Offshore Energy",
    "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
-   "img": "https://offshore-energy.biz/api/media/file/totalenergies_transition-energetique_2026-1443x435-1443x435.png?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/totalenergies_transition-energetique_2026-1443x435-800x241.png?prefix=media",
    "date": "2026-11-04T10:10:00+00:00"
   },
   {
@@ -100,7 +110,7 @@
    "title": "Fugro wins East Anglia Two post-installation survey contract",
    "source": "Offshore Energy",
    "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
-   "img": "https://offshore-energy.biz/api/media/file/An%20offshore%20wind%20farm%20in%20the%20North%20Sea_Image%20credit%20Fugro-1-1600x1200.webp?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/An%20offshore%20wind%20farm%20in%20the%20North%20Sea_Image%20credit%20Fugro-1-800x600.webp?prefix=media",
    "date": "2026-11-04T09:58:55+00:00"
   },
   {
@@ -110,7 +120,7 @@
    "title": "Sea1's first methanol-ready offshore energy support vessel fitted with offshore crane and helideck",
    "source": "Offshore Energy",
    "summary": "Sea1 Offshore's first of four 120-meter-long offshore energy support vessels (OESVs) being built in China has been fitted with an offshore crane...",
-   "img": "https://offshore-energy.biz/api/media/file/First%20of%20four%20Sea1%20offshore%20energy%20support%20vessels%20fitted%20with%20offshore%20crane%20and%20helideck-1280x712.jpg?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/First%20of%20four%20Sea1%20offshore%20energy%20support%20vessels%20fitted%20with%20offshore%20crane%20and%20helideck-800x445.jpg?prefix=media",
    "date": "2026-11-04T09:26:04+00:00"
   },
   {
@@ -120,7 +130,7 @@
    "title": "Naftogaz and US sign off on oil & gas alliance",
    "source": "Offshore Energy",
    "summary": "Naftogaz and the U.S. State Department have sealed a strategic energy deal to drive growth in Ukraine's oil and gas sector.",
-   "img": "https://offshore-energy.biz/api/media/file/Naftogaz%20Group%20and%20US%20Department%20of%20State%20agree%20on%20partnership%20in%20oil%20and%20gas%20sector%20Source%20Naftogaz-800x533.jpg?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/Naftogaz%20Group%20and%20US%20Department%20of%20State%20agree%20on%20partnership%20in%20oil%20and%20gas%20sector%20Source%20Naftogaz-800x533.jpg?prefix=media",
    "date": "2026-11-04T09:20:00+00:00"
   },
   {
@@ -130,7 +140,7 @@
    "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
    "source": "Offshore Energy",
    "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
-   "img": "https://offshore-energy.biz/api/media/file/Altamira%20Fast%20LNG%201%20Source%20New%20Fortress%20Energy-1600x849.png?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/Altamira%20Fast%20LNG%201%20Source%20New%20Fortress%20Energy-800x424.png?prefix=media",
    "date": "2026-11-04T07:45:00+00:00"
   },
   {
@@ -140,28 +150,8 @@
    "title": "MDL supports Oceaneering offshore Egypt",
    "source": "Offshore Energy",
    "summary": "UK-based Maritime Developments Limited (MDL) has completed a cable replacement and flowline installation scope for Oceaneering's subsea...",
-   "img": "https://offshore-energy.biz/api/media/file/MDL%20supports%20Oceaneering%20offshore%20Egypt-1140x760.jpg?prefix=media",
+   "img": "https://www.offshore-energy.biz/api/media/file/MDL%20supports%20Oceaneering%20offshore%20Egypt-800x533.jpg?prefix=media",
    "date": "2026-11-04T07:38:07+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Germany’s SEFE and Trafigura renew gas deal through 2031",
-   "source": "Offshore Energy",
-   "summary": "SEFE and Trafigura have sealed a multi-year natural gas supply agreement, boosting annual volumes to 30 TWh through 2031.",
-   "img": "https://offshore-energy.biz/api/media/file/2023-trafigura-sefe-900x675.png?prefix=media",
-   "date": "2026-11-04T07:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "LS Cable, LS Marine secure production and installation capacity for 504 MW South Korean offshore wind farm",
-   "source": "Offshore Energy",
-   "summary": "LS Cable & System and LS Marine Solution have signed a capacity reservation agreement (CRA) with Taean Wind Power for the supply and installation...",
-   "img": "https://offshore-energy.biz/api/media/file/LS%20Marine%20Solution-1-900x600.jpg?prefix=media",
-   "date": "2026-11-03T13:20:22+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -242,6 +232,46 @@
    "summary": "SYDNEY, Oct 18 (Reuters) – Woodside WDS.AX said operations remained paused on Sunday at a floating production unit, part of its $12.5 ?billion Scarborough natural gas project off the coast ?of Western Australia, due...",
    "img": "",
    "date": "2026-10-18T14:36:05+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Brazil approves Saipem-Subsea 7 merger on condition of vessel sale",
+   "source": "Splash247",
+   "summary": "Brazil’s competition watchdog CADE has given conditional approval to the proposed merger between Italian offshore engineering giant Saipem and Norway’s Subsea 7, requiring the companies to sell a specialised pipelay vessel to address competition concerns. The ",
+   "img": "https://splash247.com/wp-content/uploads/2021/07/Seven-Borealis-Subsea-7.jpg",
+   "date": "2026-11-05T02:40:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Equinor shuts North Sea platform after fire",
+   "source": "Splash247",
+   "summary": "Norwegian energy giant Equinor has shut down production at its Visund oil and gas platform in the North Sea following a fire in an electrical switchboard room. The incident occurred shortly before 11 am local time on Wednesday, with reports of smoke followed b",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Visund-Norsk-Petroleum-Equinor.jpg",
+   "date": "2026-11-05T02:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "UK moves to end new North Sea oil and gas exploration licences",
+   "source": "Splash247",
+   "summary": "The UK government has introduced legislation that would end new oil and gas exploration licences in the North Sea while creating a mechanism to support continued production from existing offshore developments. The Energy Independence Bill would remove the Nort",
+   "img": "https://splash247.com/wp-content/uploads/2025/09/Offshore-platform-Unite.jpg",
+   "date": "2026-11-05T02:20:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-04T22:32:53+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -367,41 +397,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Ukjent drama: Norge-hjelper tatt av politiet – måtte møte i retten under VM",
+   "title": "Sivilombodet slår alarm: Psykisk sjuk vart liggande fastspent i over 18 døgn",
    "source": "NRK",
-   "summary": "Ny bok om herrelandslaget avslører at ikke alt gikk på skinner i USA. En biltur med støtteapparatet ble slått hardt ned på av ordensmakten.",
-   "img": "https://gfx.nrk.no/n_ayyQDiPnh766M4i9Ld0wxtXflAg6MWKxHOk5xWtl2g.jpg",
-   "date": "2026-11-04T23:01:02+00:00"
+   "summary": "Alle sjukehusa Sivilombodet har undersøkt har halde psykisk sjuke pasientar fastspent i belte ulovleg. Pasientar har vorte liggjande i over 18 døgn.",
+   "img": "https://gfx.nrk.no/m_gfg9khiNCyFL0WL7zqfgai4S3X_ikUJk2uj_ANnibA.jpg",
+   "date": "2026-11-05T07:20:35+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Nusa herjet mot City, men Haaland ble matchvinner",
+   "title": "Boikottnasjonen Norge",
    "source": "NRK",
-   "summary": "Først en Antonio Nusa spesial. Så avgjorde Erling Braut Haaland med sitt femte mesterligamål denne høsten.",
-   "img": "https://gfx.nrk.no/Dz-oDf2u_AG7o_pNNP6M_QwAkEtBjG82RF9DhT35JX9g.jpg",
-   "date": "2026-11-04T21:54:44+00:00"
+   "summary": "For første gang siden 1980 vil Norge boikotte en viktig idrettsbegivenhet. Den neste kampen mot russerne kommer i langrennssporet.",
+   "img": "https://gfx.nrk.no/r8dMI9Fxa_E1ZKjPLNjb7wUzTeY87iEfzs-0w19JJ01A.jpg",
+   "date": "2026-11-05T05:28:38+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Raste i historisk seier: – Ikke sånn spillet skal være",
+   "title": "Vannlekkasjen på Grønland: Slik ser det ut nå",
    "source": "NRK",
-   "summary": "Straffebom, fem mål, rødt kort og hissige scener. Det manglet ikke på dramatikk da Viking skrev klubbhistorie i Mesterligaen.",
-   "img": "https://gfx.nrk.no/YM_rfcIzILd6x1Wn04ncxQtasgPoRm9f35-_hVB23ugg.jpg",
-   "date": "2026-11-04T21:54:17+00:00"
+   "summary": "Kollektivtrafikken går stort sett som normalt, og beboerne har fått igjen varme og varmtvann etter vannlekkasjen på Grønland onsdag kveld.",
+   "img": "https://gfx.nrk.no/o62-GpxYpsN1f9NsrHQiFQCytTXULwBJog81h1OJyrpw.jpg",
+   "date": "2026-11-05T04:48:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
+   "title": "Vil gjøre fremmedspråk valgfritt: – Kan dø ut",
    "source": "NRK",
-   "summary": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG. Det totale taket for elektriske utleiekjøretøy forblir på 16.000, men ",
-   "img": "",
-   "date": "2026-11-04T20:58:18+00:00"
+   "summary": "Elever og lærere frykter færre vil velge fremmedspråk dersom det gjøres valgfritt på videregående skoler slik Utdanningsdirektoratet ønsker.",
+   "img": "https://gfx.nrk.no/f9CV9qlq4gK5_E0tiBC5JgkD-rH8WD87CXPJpHcaXK0Q.jpg",
+   "date": "2026-11-05T04:48:48+00:00"
   }
  ]
 }
