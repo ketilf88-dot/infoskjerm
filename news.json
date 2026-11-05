@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:53:56.162075+00:00",
+ "updated": "2026-11-05T01:53:55.175255+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -257,16 +257,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Blames US Shipbuilding Delays for Late Offshore Wind Installation",
-   "source": "The Maritime Executive",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-28T22:27:07+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Equinor Unveils Karsto Robotics Centre to Target Offshore Savings",
    "source": "Yahoo! Finance Canada",
    "summary": "",
@@ -302,6 +292,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-30T19:49:57+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-04T16:26:08+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -367,41 +367,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Ukjent drama: Norge-hjelper tatt av politiet – måtte møte i retten under VM",
+   "source": "NRK",
+   "summary": "Ny bok om herrelandslaget avslører at ikke alt gikk på skinner i USA. En biltur med støtteapparatet ble slått hardt ned på av ordensmakten.",
+   "img": "https://gfx.nrk.no/n_ayyQDiPnh766M4i9Ld0wxtXflAg6MWKxHOk5xWtl2g.jpg",
+   "date": "2026-11-04T23:01:02+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Nusa herjet mot City, men Haaland ble matchvinner",
+   "source": "NRK",
+   "summary": "Først en Antonio Nusa spesial. Så avgjorde Erling Braut Haaland med sitt femte mesterligamål denne høsten.",
+   "img": "https://gfx.nrk.no/Dz-oDf2u_AG7o_pNNP6M_QwAkEtBjG82RF9DhT35JX9g.jpg",
+   "date": "2026-11-04T21:54:44+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Raste i historisk seier: – Ikke sånn spillet skal være",
+   "source": "NRK",
+   "summary": "Straffebom, fem mål, rødt kort og hissige scener. Det manglet ikke på dramatikk da Viking skrev klubbhistorie i Mesterligaen.",
+   "img": "https://gfx.nrk.no/YM_rfcIzILd6x1Wn04ncxQtasgPoRm9f35-_hVB23ugg.jpg",
+   "date": "2026-11-04T21:54:17+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
    "source": "NRK",
    "summary": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG. Det totale taket for elektriske utleiekjøretøy forblir på 16.000, men ",
    "img": "",
    "date": "2026-11-04T20:58:18+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Aleksander (22) om den nye jobben: – Det gir livet mening",
-   "source": "NRK",
-   "summary": "I fire år satt Aleksander Piotr hjemme uten jobb. Takket være regjeringens nye Nav-satsing har han nå funnet drømmejobben.",
-   "img": "https://gfx.nrk.no/Kw9sgW6RHwara-tDs1p0zAI71fCauZSxq0SzHIxl05Ug.jpg",
-   "date": "2026-11-04T19:36:41+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "16-åring planla å sende terrorangrep mot barnehagar direkte på nett",
-   "source": "NRK",
-   "summary": "Frå guterommet i Vestfold skal guten ha førebudd eit terrorangrep mot ein namngitt barnehage i Oslo. Han skal ha filma moglege mål og planlagt direktesending av angrepet.",
-   "img": "https://gfx.nrk.no/S2uZYgOtvBqek-uyOqKNGgAtwrePgLxwiqzyC7PnaoEw.jpg",
-   "date": "2026-11-04T16:34:05+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Stor vannlekkasje – 1500 uten varmtvann og varme",
-   "source": "NRK",
-   "summary": "Vann og steiner sprutet opp fra asfalten på Grønland onsdag ettermiddag. Mange er uten varmtvann og varme.",
-   "img": "https://gfx.nrk.no/hed3kAS3dsfiHyi3by0JDgAzwNeMAW3QAGWoTzklva_w.jpg",
-   "date": "2026-11-04T16:21:07+00:00"
   }
  ]
 }
