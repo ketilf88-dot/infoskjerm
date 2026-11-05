@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-05T08:43:44.880560+00:00",
+ "updated": "2026-11-05T16:52:13.796682+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Archer awarded long-term drilling contract with Vista in Vaca Muerta",
+   "source": "Archer Limited",
+   "summary": "Neuquen, Argentina (November 5, 2026) Archer has further strengthened its position in the Vaca Muerta shale play through the award of a new 2-year drilling contract with Vista, with an additional 1-year option.",
+   "img": "",
+   "date": "2026-11-05T14:56:12.406Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "EIOF - Invitation to presentation of Q3 2026 results",
+   "source": "Eidesvik Offshore ASA",
+   "summary": "Eidesvik Offshore ASA will release its Q3 2026 report on 12 November 2026. The report will be available at www.eidesvik.no and www.newsweb.no.",
+   "img": "",
+   "date": "2026-11-05T13:00:00.000Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea7 - Sale of heavy transportation business",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 5 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced an agreement for the sale, by Seaway7, part of the Subsea7 Group, of its heavy transportation business(1) to HEA Energy.",
+   "img": "",
+   "date": "2026-11-05T11:04:49.537Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -54,104 +84,84 @@
    "date": "2026-11-05T06:00:26.691Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Odfjell SE 3Q26: Solid performance",
-   "source": "Odfjell SE",
-   "summary": "Odfjell SE today reported its results for the third quarter of 2026. The company delivered a solid performance in a volatile market and three new vessels were successfully deployed during the quarter.",
-   "img": "",
-   "date": "2026-11-04T19:00:35.968Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Subsea 7 - CADE Approves the Combination of Subsea7 and Saipem",
-   "source": "Subsea 7 S.A.",
-   "summary": "Luxembourg - 4 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced that the tribunal of Brazil's Conselho Administrativo de Defesa Econômica (CADE) has approved the proposed combination of Subsea7 and Saipem to create Saipem7 subject …",
-   "img": "",
-   "date": "2026-11-04T15:16:30.560Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Excelerate and AxDo strike multi-year Bahamas LNG deal for Caribbean’s new terminal",
+   "source": "Offshore Energy",
+   "summary": "Excelerate Energy and AxDo Bahamas have sealed an 11-year LNG supply agreement for a new offshore hub near Grand Bahama.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Background_Events_and_Preseentations-800x254.png?prefix=media",
+   "date": "2026-11-05T15:52:21+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "PLSV owned by DOF and TechnipFMC to work longer for Petrobras",
+   "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
    "source": "Offshore Energy",
-   "summary": "A pipe-laying support vessel (PLSV) owned by a joint venture between DOF Group and TechnipFMC has secured a new long-term contract extension with...",
-   "img": "https://www.offshore-energy.biz/api/media/file/PLSV%20owned%20by%20DOF%20and%20TechnipFMC%20to%20work%20longer%20for%20Petrobras-760x444.jpg?prefix=media",
-   "date": "2026-11-05T08:16:04+00:00"
+   "summary": "Velesto’s 16-year-old jack-up has landed a new offshore drilling assignment with Petronas off the coast of Malaysia.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729210539-697x1408-348x704.png?prefix=media",
+   "date": "2026-11-05T14:26:36+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
+   "source": "Offshore Energy",
+   "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
+   "img": "https://www.offshore-energy.biz/api/media/file/After%20Subsea7%2C%20Aker%20BP%20contracts%20OneSubsea%20for%20Norwegian%20fast-track%20oil%20project-800x644.jpg?prefix=media",
+   "date": "2026-11-05T14:23:30+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Saipem7 closing in on its debut as Brazil clears Saipem-Subsea7 merger",
+   "title": "RINA to mobilize up to 83 experts for €11 million contract with Petrobras",
    "source": "Offshore Energy",
-   "summary": "The multibillion-dollar merger between Saipem and Subsea7 has secured Brazil’s blessing, pending divestment of a vessel.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Saipem-800x534.jpg?prefix=media",
-   "date": "2026-11-05T07:39:59+00:00"
+   "summary": "Inspection, certification and consulting engineering group RINA has signed a three-year €11 million contract with Brazilian oil & gas giant...",
+   "img": "https://www.offshore-energy.biz/api/media/file/RINA%20to%20mobilize%20up%20to%2083%20experts%20for%20%E2%82%AC11%20million%20contract%20with%20Petrobras-800x439.jpg?prefix=media",
+   "date": "2026-11-05T13:33:57+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
+   "source": "Offshore Energy",
+   "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
+   "img": "https://www.offshore-energy.biz/api/media/file/minesto-800x537.jpg?prefix=media",
+   "date": "2026-11-05T11:38:55+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
+   "source": "Offshore Energy",
+   "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
+   "img": "https://www.offshore-energy.biz/api/media/file/oil2012%20IEA-800x400.png?prefix=media",
+   "date": "2026-11-05T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies forges pacts with Petronas, Sonangol, and Oil India to slash methane footprint",
+   "title": "Chevron contract takes EnerMech offshore Equatorial Guinea",
    "source": "Offshore Energy",
-   "summary": "TotalEnergies has deepened partnerships across Malaysia, Angola, and India to expand advanced methane detection and accelerate emissions cuts.",
-   "img": "https://www.offshore-energy.biz/api/media/file/totalenergies_transition-energetique_2026-1443x435-800x241.png?prefix=media",
-   "date": "2026-11-04T10:10:00+00:00"
+   "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has won a contract with U.S.-headquartered energy giant Chevron for specialist...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Chevron%20contract%20takes%20EnerMech%20offshore%20Equatorial%20Guinea-800x449.jpg?prefix=media",
+   "date": "2026-11-05T09:44:50+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Fugro wins East Anglia Two post-installation survey contract",
+   "title": "Aker Solutions scores multimillion-dollar job on oil field redevelopment offshore Qatar",
    "source": "Offshore Energy",
-   "summary": "Fugro has secured a contract from Cadeler to carry out post-installation seabed surveys at the 960 MW East Anglia Two offshore wind farm in the...",
-   "img": "https://www.offshore-energy.biz/api/media/file/An%20offshore%20wind%20farm%20in%20the%20North%20Sea_Image%20credit%20Fugro-1-800x600.webp?prefix=media",
-   "date": "2026-11-04T09:58:55+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Sea1's first methanol-ready offshore energy support vessel fitted with offshore crane and helideck",
-   "source": "Offshore Energy",
-   "summary": "Sea1 Offshore's first of four 120-meter-long offshore energy support vessels (OESVs) being built in China has been fitted with an offshore crane...",
-   "img": "https://www.offshore-energy.biz/api/media/file/First%20of%20four%20Sea1%20offshore%20energy%20support%20vessels%20fitted%20with%20offshore%20crane%20and%20helideck-800x445.jpg?prefix=media",
-   "date": "2026-11-04T09:26:04+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Naftogaz and US sign off on oil & gas alliance",
-   "source": "Offshore Energy",
-   "summary": "Naftogaz and the U.S. State Department have sealed a strategic energy deal to drive growth in Ukraine's oil and gas sector.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Naftogaz%20Group%20and%20US%20Department%20of%20State%20agree%20on%20partnership%20in%20oil%20and%20gas%20sector%20Source%20Naftogaz-800x533.jpg?prefix=media",
-   "date": "2026-11-04T09:20:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Multi-year US deal brings liquidity boost to New Fortress Energy as Mexican FLNG targets 4Q restart",
-   "source": "Offshore Energy",
-   "summary": "NFE has sealed a long-term lease for 300 MW of mobile turbines with a U.S. company, while its FLNG in Mexico edges closer to a Q4 resumption.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Altamira%20Fast%20LNG%201%20Source%20New%20Fortress%20Energy-800x424.png?prefix=media",
-   "date": "2026-11-04T07:45:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "MDL supports Oceaneering offshore Egypt",
-   "source": "Offshore Energy",
-   "summary": "UK-based Maritime Developments Limited (MDL) has completed a cable replacement and flowline installation scope for Oceaneering's subsea...",
-   "img": "https://www.offshore-energy.biz/api/media/file/MDL%20supports%20Oceaneering%20offshore%20Egypt-800x533.jpg?prefix=media",
-   "date": "2026-11-04T07:38:07+00:00"
+   "summary": "Aker Solutions has been booked to undertake an assignment to extend the life of a field that has been producing oil since the mid-1960s.",
+   "img": "https://www.offshore-energy.biz/api/media/file/offshore_maintenance_modifications_Aker%20Solutions-800x450.png?prefix=media",
+   "date": "2026-11-05T08:39:47+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -237,41 +247,51 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Brazil approves Saipem-Subsea 7 merger on condition of vessel sale",
+   "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
    "source": "Splash247",
-   "summary": "Brazil’s competition watchdog CADE has given conditional approval to the proposed merger between Italian offshore engineering giant Saipem and Norway’s Subsea 7, requiring the companies to sell a specialised pipelay vessel to address competition concerns. The ",
-   "img": "https://splash247.com/wp-content/uploads/2021/07/Seven-Borealis-Subsea-7.jpg",
-   "date": "2026-11-05T02:40:00+00:00"
+   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea. The contract will begin in January 2027 an",
+   "img": "https://splash247.com/wp-content/uploads/2025/11/Alpha-Ventus-offshore-wind.jpg",
+   "date": "2026-11-05T12:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Equinor shuts North Sea platform after fire",
+   "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
    "source": "Splash247",
-   "summary": "Norwegian energy giant Equinor has shut down production at its Visund oil and gas platform in the North Sea following a fire in an electrical switchboard room. The incident occurred shortly before 11 am local time on Wednesday, with reports of smoke followed b",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Visund-Norsk-Petroleum-Equinor.jpg",
-   "date": "2026-11-05T02:30:00+00:00"
+   "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project. The contract covers detailed engineering for three major to",
+   "img": "https://splash247.com/wp-content/uploads/2026/07/Aker-Solutions-worker.jpg",
+   "date": "2026-11-05T11:45:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "UK moves to end new North Sea oil and gas exploration licences",
+   "title": "Finland jails captain and crew member over Baltic cable sabotage",
    "source": "Splash247",
-   "summary": "The UK government has introduced legislation that would end new oil and gas exploration licences in the North Sea while creating a mechanism to support continued production from existing offshore developments. The Energy Independence Bill would remove the Nort",
-   "img": "https://splash247.com/wp-content/uploads/2025/09/Offshore-platform-Unite.jpg",
-   "date": "2026-11-05T02:20:00+00:00"
+   "summary": "A Finnish court has sentenced the captain and a crew member of the general cargo ship Fitburg to prison for deliberately damaging two subsea telecommunications cables in the Gulf of Finland on New Year’s Eve last year. Helsinki District Court handed Russian ca",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Fitburg-Finnish-Border-Guard.jpg",
+   "date": "2026-11-05T11:14:58+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-04T22:32:53+00:00"
+   "weight": 2,
+   "title": "Vattenfall signs final agreements for 1.8GW Danish offshore wind projects",
+   "source": "Splash247",
+   "summary": "Swedish energy group Vattenfall has signed final agreements with the Danish Energy Agency for two offshore wind developments with a combined capacity of at least 1.8GW. The agreements cover the 800 MW Hesselø project in the Kattegat and the 1 GW Holmsland deve",
+   "img": "https://splash247.com/wp-content/uploads/2023/07/Vattenfall.jpg",
+   "date": "2026-11-05T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "BP raises over $1bn from Aker BP stake sale",
+   "source": "Splash247",
+   "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares, representing around 5% of Aker BP’s total issued sha",
+   "img": "https://splash247.com/wp-content/uploads/2024/12/BP-logo-BP.jpg",
+   "date": "2026-11-05T10:45:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -287,11 +307,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Unveils Karsto Robotics Centre to Target Offshore Savings",
-   "source": "Yahoo! Finance Canada",
+   "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
+   "source": "AFP.com",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T14:04:00+00:00"
+   "date": "2026-11-05T12:49:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -307,11 +327,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor eyes major annual savings from underwater robots",
-   "source": "EnergyWatch",
+   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
+   "source": "Upstream Online",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T12:40:49+00:00"
+   "date": "2026-11-05T04:50:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -344,14 +364,34 @@
    "date": "2026-10-30T19:42:34+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Tullow Oil Taps DeepOcean for Subsea Riser Job off Ghana",
-   "source": "Marine News Magazine",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Oceaneering International Eyes New Opportunities in Offshore Markets",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-10-29T13:50:04+00:00"
+   "date": "2026-11-02T14:08:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Noble Globetrotter I to support subsea well intervention operations",
+   "source": "Ocean Energy Resources",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T10:39:40+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Oppdal videregående er evakuert etter funn av kjemisk stoff",
+   "source": "NRK Trøndelag",
+   "summary": "Oppdal videregående er evakuert på grunn av eksplosjonsfare fra et kjemisk stoff inne på skolen.",
+   "img": "https://gfx.nrk.no/mo9mOnK-C7nfBpZ3xIAQegPpbjFH1jgBYSE3L02YnwvQ.jpg",
+   "date": "2026-11-05T14:19:21+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,54 +424,44 @@
    "date": "2026-11-04T12:27:50+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Felte elgokse med 24 spir: – Artig når det klaffer sånn",
-   "source": "NRK Trøndelag",
-   "summary": "Jegeren har jaktet storvilt i 26 år, men har aldri opplevd det han gjorde denne uka. Ifølge forsker kan man forvente å se flere store elgokser i årene som kommer.",
-   "img": "https://gfx.nrk.no/hVZQixyVRhQZeYRmaxdzhwPpSkBwEolcq7kdyY51WEGQ.jpg",
-   "date": "2026-11-04T12:08:49+00:00"
+   "title": "Jessica (21) og Robin (20) får kjempehopp i kommunale avgifter",
+   "source": "NRK",
+   "summary": "Nå kjem rekninga for dei kostbare reinseanlegga kommunane rundt Oslofjorden er pålagde å bygge av staten. Det svir for innbyggarane.",
+   "img": "https://gfx.nrk.no/TekdwKwGV72fgQNSrfacZwhwcN64T8FNhIr4xImoH9Kg.jpg",
+   "date": "2026-11-05T15:36:56+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sivilombodet slår alarm: Psykisk sjuk vart liggande fastspent i over 18 døgn",
+   "title": "Kollegaer dømde til fengsel i ni og seks år etter grov vald og valdtekt på brakkerigg",
    "source": "NRK",
-   "summary": "Alle sjukehusa Sivilombodet har undersøkt har halde psykisk sjuke pasientar fastspent i belte ulovleg. Pasientar har vorte liggjande i over 18 døgn.",
-   "img": "https://gfx.nrk.no/m_gfg9khiNCyFL0WL7zqfgai4S3X_ikUJk2uj_ANnibA.jpg",
-   "date": "2026-11-05T07:20:35+00:00"
+   "summary": "På ein brakkerigg i Ulstein blei mannen påført skadar som kunne kosta han livet. No er to kollegaer dømde til lange fengselsstraffer.",
+   "img": "https://gfx.nrk.no/BG8w97ubaUlbQqIrsBbIgQHkJ8dY8XrqWIdRAZvLaESw.jpg",
+   "date": "2026-11-05T14:17:59+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Boikottnasjonen Norge",
+   "title": "Åpner for uvanlig kontraktsgrep: – Dette er nytt for oss",
    "source": "NRK",
-   "summary": "For første gang siden 1980 vil Norge boikotte en viktig idrettsbegivenhet. Den neste kampen mot russerne kommer i langrennssporet.",
-   "img": "https://gfx.nrk.no/r8dMI9Fxa_E1ZKjPLNjb7wUzTeY87iEfzs-0w19JJ01A.jpg",
-   "date": "2026-11-05T05:28:38+00:00"
+   "summary": "Nøkkelspillere er på vei bort fra Åråsen midt under europacupsesongen. Nå kan klubben gå for en nødløsning.",
+   "img": "https://gfx.nrk.no/EV9YFSd8jxA2Olj1K6fg-wKY63vUCCBkbq0r9cvdiqCg.jpg",
+   "date": "2026-11-05T14:09:40+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Vannlekkasjen på Grønland: Slik ser det ut nå",
+   "title": "Ber deg være kritisk til syklusapper: – Stol på kroppen",
    "source": "NRK",
-   "summary": "Kollektivtrafikken går stort sett som normalt, og beboerne har fått igjen varme og varmtvann etter vannlekkasjen på Grønland onsdag kveld.",
-   "img": "https://gfx.nrk.no/o62-GpxYpsN1f9NsrHQiFQCytTXULwBJog81h1OJyrpw.jpg",
-   "date": "2026-11-05T04:48:25+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Vil gjøre fremmedspråk valgfritt: – Kan dø ut",
-   "source": "NRK",
-   "summary": "Elever og lærere frykter færre vil velge fremmedspråk dersom det gjøres valgfritt på videregående skoler slik Utdanningsdirektoratet ønsker.",
-   "img": "https://gfx.nrk.no/f9CV9qlq4gK5_E0tiBC5JgkD-rH8WD87CXPJpHcaXK0Q.jpg",
-   "date": "2026-11-05T04:48:48+00:00"
+   "summary": "­",
+   "img": "https://gfx.nrk.no/WiwqTIAMDiHhHcoL7Uwjyw3bcZmoveePI6NEnFpK4WnQ.jpg",
+   "date": "2026-11-05T13:37:39+00:00"
   }
  ]
 }
