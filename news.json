@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:52:13.796682+00:00",
+ "updated": "2026-11-05T22:27:36.995151+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -164,6 +164,16 @@
    "date": "2026-11-05T08:39:47+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Ørsted’s Revolution Wind Reaches Full Operations After Trump Administration Shutdowns",
+   "source": "gCaptain Offshore",
+   "summary": "Danish offshore wind developer Ørsted has completed its 704-megawatt Revolution Wind project off the U.S. East Coast, marking a major milestone for a development that faced repeated shutdown orders from...",
+   "img": "",
+   "date": "2026-11-05T19:52:12+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -234,16 +244,6 @@
    "date": "2026-10-21T16:56:06+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Natural Gas Project Paused After Greenpeace Protest Off Western Australia",
-   "source": "gCaptain Offshore",
-   "summary": "SYDNEY, Oct 18 (Reuters) – Woodside WDS.AX said operations remained paused on Sunday at a floating production unit, part of its $12.5 ?billion Scarborough natural gas project off the coast ?of Western Australia, due...",
-   "img": "",
-   "date": "2026-10-18T14:36:05+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
@@ -308,7 +308,7 @@
    "cls": "t-norden",
    "weight": 3,
    "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "AFP.com",
+   "source": "Morningstar",
    "summary": "",
    "img": "",
    "date": "2026-11-05T12:49:00+00:00"
@@ -327,21 +327,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
-   "source": "Upstream Online",
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T04:50:30+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies farms out partial interest in block offshore Nigeria ahead of appraisal",
-   "source": "Oil & Gas Journal",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-30T19:49:57+00:00"
+   "date": "2026-11-05T13:56:53+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -362,6 +352,16 @@
    "summary": "",
    "img": "",
    "date": "2026-10-30T19:42:34+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "DeepOcean awarded Tullow Ghana subsea riser retermination contract",
+   "source": "Engineer Live",
+   "summary": "",
+   "img": "",
+   "date": "2026-10-30T10:18:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -387,11 +387,31 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Oppdal videregående er evakuert etter funn av kjemisk stoff",
+   "title": "Lagmannsretten vil behandle Jørn Andersen sin anke etter drapet på Marita",
    "source": "NRK Trøndelag",
-   "summary": "Oppdal videregående er evakuert på grunn av eksplosjonsfare fra et kjemisk stoff inne på skolen.",
+   "summary": "I tingretten blei han dømd til 21 år forvaring. No skal Frostating lagmannsrett behandle Jørn Andersen sin anke over straffeutmålinga.",
+   "img": "https://gfx.nrk.no/YJJvrnxjy-pnGAt14RKBsgoHp85AhLxxA-Pu9Julj2tQ.jpg",
+   "date": "2026-11-05T21:36:01+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Oppdal videregående ble evakuert etter funn av kjemisk stoff",
+   "source": "NRK Trøndelag",
+   "summary": "Oppdal videregående ble evakuert på grunn av eksplosjonsfare fra et kjemisk stoff inne på skolen.",
    "img": "https://gfx.nrk.no/mo9mOnK-C7nfBpZ3xIAQegPpbjFH1jgBYSE3L02YnwvQ.jpg",
    "date": "2026-11-05T14:19:21+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Varsler endringer i videregående skoler",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/ZjU7vRV9O0AVc5RP3iqD_QU_7T2sonT_GNnDlHNKNwCg.jpg",
+   "date": "2026-11-05T17:57:43+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -404,64 +424,44 @@
    "date": "2026-11-04T18:02:50+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt: Julehandelen er i gang",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/Q7ULZHbfLXQJ-mQeWDLCnwR-XJ9mZj0yDLlNlEsSDclg.jpg",
-   "date": "2026-11-04T18:24:54+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Fant granat i hagen: – En skremmende opplevelse",
-   "source": "NRK Trøndelag",
-   "summary": "Det er funnet en øvingsgranat under gravearbeid på en privat adresse i Kroppanmarka i Trondheim.",
-   "img": "https://gfx.nrk.no/tImixriO6t8ysD5twwZWsAH84drJ4D39xIk3iqW4tZTw.jpg",
-   "date": "2026-11-04T12:27:50+00:00"
+   "title": "Felishia (19) ber politikarane høyre på dei unge: – Føler utsegnene våre ikkje blir lesne",
+   "source": "NRK",
+   "summary": "Lova krev at alle kommunar og fylke skal ha eit ungdomsråd, men ny forsking viser at innspela deira sjeldan blir lytta til.",
+   "img": "https://gfx.nrk.no/YyxE5N5fPJm-pr3fxR7RCQGopr4Fjn5bRFfDOZdjNCxw.jpg",
+   "date": "2026-11-05T20:28:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Jessica (21) og Robin (20) får kjempehopp i kommunale avgifter",
+   "title": "Gift som 14-åring: Jeg gråter over den tapte barndommen min",
    "source": "NRK",
-   "summary": "Nå kjem rekninga for dei kostbare reinseanlegga kommunane rundt Oslofjorden er pålagde å bygge av staten. Det svir for innbyggarane.",
-   "img": "https://gfx.nrk.no/TekdwKwGV72fgQNSrfacZwhwcN64T8FNhIr4xImoH9Kg.jpg",
-   "date": "2026-11-05T15:36:56+00:00"
+   "summary": "I Gaza blir flere jenter giftet bort nå enn før krigen, ifølge FN. Manar sto brud da hun var 14 år.",
+   "img": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oGrj-SPCnxWUg.jpg",
+   "date": "2026-11-05T20:24:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kollegaer dømde til fengsel i ni og seks år etter grov vald og valdtekt på brakkerigg",
+   "title": "Advarer mot «frysetåke» på Østlandet: – Kan bli svært glatt",
    "source": "NRK",
-   "summary": "På ein brakkerigg i Ulstein blei mannen påført skadar som kunne kosta han livet. No er to kollegaer dømde til lange fengselsstraffer.",
-   "img": "https://gfx.nrk.no/BG8w97ubaUlbQqIrsBbIgQHkJ8dY8XrqWIdRAZvLaESw.jpg",
-   "date": "2026-11-05T14:17:59+00:00"
+   "summary": "Fredag rammes deler av Østlandet av et lumskt værfenomen som kan gjøre asfalten om til en skøytebane. – Kjør etter forholdene, råder meteorologene.",
+   "img": "https://gfx.nrk.no/UkVZNDvbYqWTLU5BrRsq0QfGQY9OISCmLuiHQd8eN25g.jpg",
+   "date": "2026-11-05T20:02:38+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Åpner for uvanlig kontraktsgrep: – Dette er nytt for oss",
+   "title": "Feilene florerte for Lillestrøm: – Må luke bort",
    "source": "NRK",
-   "summary": "Nøkkelspillere er på vei bort fra Åråsen midt under europacupsesongen. Nå kan klubben gå for en nødløsning.",
-   "img": "https://gfx.nrk.no/EV9YFSd8jxA2Olj1K6fg-wKY63vUCCBkbq0r9cvdiqCg.jpg",
-   "date": "2026-11-05T14:09:40+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ber deg være kritisk til syklusapper: – Stol på kroppen",
-   "source": "NRK",
-   "summary": "­",
-   "img": "https://gfx.nrk.no/WiwqTIAMDiHhHcoL7Uwjyw3bcZmoveePI6NEnFpK4WnQ.jpg",
-   "date": "2026-11-05T13:37:39+00:00"
+   "summary": "Lillestrøm jaktet sin første seier i Europaligaen. Det endte med bakrus mot Viktoria Plzen etter en fæl 1. omgang.",
+   "img": "https://gfx.nrk.no/VjYarBHfAKdxY8WBJScjnAW2XTf7CZygh6eRHJYSfbcg.jpg",
+   "date": "2026-11-05T19:38:11+00:00"
   }
  ]
 }
