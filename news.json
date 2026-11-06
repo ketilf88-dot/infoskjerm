@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:01:52.518246+00:00",
+ "updated": "2026-11-06T22:04:34.201591+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -314,16 +314,6 @@
    "date": "2026-11-04T16:26:08+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies makes deal to support fast development of block offshore Nigeria",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-30T19:42:34+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -334,14 +324,14 @@
    "date": "2026-11-02T14:08:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Noble Globetrotter I to support subsea well intervention operations",
-   "source": "Ocean Energy Resources",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Murphy takes operatorship of two offshore Mauritania PSCs",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T10:39:40+00:00"
+   "date": "2026-11-05T22:40:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -354,6 +344,16 @@
    "date": "2026-11-03T07:30:00+00:00"
   },
   {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "ADES Lands New Offshore Drilling Rig Deals in Angola and Indonesia",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-03T09:44:15+00:00"
+  },
+  {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
@@ -362,6 +362,16 @@
    "summary": "Norges institusjon for menneskerettigheter mener Norge risikerer å bryte internasjonale forpliktelser.",
    "img": "https://gfx.nrk.no/i67XLIEg267dSyjPUaEyYwxG91EY8sY5OqNA-_AixI9g.jpg",
    "date": "2026-11-06T16:58:26+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Tidligere MAGA-influenser til Demokratifestivalen",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/ZjU7vRV9O0AVc5RP3iqD_QU_7T2sonT_GNnDlHNKNwCg.jpg",
+   "date": "2026-11-06T18:05:11+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,54 +394,44 @@
    "date": "2026-11-06T08:00:53+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Ut mot lærarutdanninga for dårlege resultat i skulen",
-   "source": "NRK Trøndelag",
-   "summary": "Høgre-politikarane ber lærarutdanningane ta meir av ansvaret for at elevane gjer det stadig dårlegare i skulen.",
-   "img": "https://gfx.nrk.no/Zqcos8M3SB6hIbq7AbT0IAaZqaTDCAFhgiOSrvI88w5w.jpg",
-   "date": "2026-11-06T04:13:30+00:00"
+   "title": "Brann i historisk bygning i Kongsvinger",
+   "source": "NRK",
+   "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Nødetatene anbefaler naboer å holde vinduer stengt, og holde seg unna røyken i området, opplyser oppdragsleder Anna Boger i Innlandet politidistrikt. Hun opplyser at det brenn",
+   "img": "https://static.nrk.no/kartoteket/01M6SDP9FMSWDDAYABJZVFG1MH/F169/650w.png",
+   "date": "2026-11-06T21:44:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bjørn Terje Axelsen fra «Tangerud­bakken» er død",
+   "title": "Pornofilmer av kommunedirektør dukket opp – Trekker seg umiddelbart",
    "source": "NRK",
-   "summary": "Storesøster Kristin Axelsen skriver på Facebook at han sovnet inn med nærmeste familie og personalet på Tangerudbakken til stede. Familien sier til VG at Bjørn Terje Axelsen (47) døde etter noen få ukers alvorlig sykdom. Søsteren takker personalet på Tangerudb",
-   "img": "https://gfx.nrk.no/68323hemGJRreVIO26YFdAgxyblMXOHHUBGfArRFtY1g.jpg",
-   "date": "2026-11-06T16:05:05+00:00"
+   "summary": "Da Lars Erikssons hemmelige pornofortid ble kjent, gikk den svenske kommunedirektøren av på dagen. Men ifølge ordføreren i Jokkmokk fikk han ikke sparken, og kunne fint fortsatt å jobbe for kommunen.",
+   "img": "https://gfx.nrk.no/JUxo8qYV69IKa5dWHGi5dAU7HozE0limLZrWNnyra_7g.jpg",
+   "date": "2026-11-06T20:43:07+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Faren til hertuginne Meghan Markle pågrepet",
+   "title": "Gift som 14-åring: – Jeg gråter over den tapte barndommen min",
    "source": "NRK",
-   "summary": "Thomas Markle ble pågrepet av føderale agenter i nærheten av Tampa i Florida fredag morgen amerikansk tid. Han er siktet for forhold knyttet til overgrepsbilder av barn, opplyser kilder med kjennskap til saken til nyhetsbyrået AP. Tidligere i år ble det kjent ",
-   "img": "https://gfx.nrk.no/A6gSrEsJRFSbijrv7n63vAntVaKGmoxQRNaMQD0RyBeg.jpg",
-   "date": "2026-11-06T15:35:18+00:00"
+   "summary": "I Gaza blir flere jenter giftet bort nå enn før krigen, ifølge FN. Manar sto brud da hun var 14 år.",
+   "img": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oGrj-SPCnxWUg.jpg",
+   "date": "2026-11-05T20:24:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Dømt til 20 års fengsel i England: Norsk 19-åring anker ikke drapsforbund-dom",
+   "title": "Trump: Stephen Miller blir ny stabssjef",
    "source": "NRK",
-   "summary": "19-åringen ble pågrepet i mars i fjor på et hotellrom England med to skytevåpen og ammunisjon.",
-   "img": "https://gfx.nrk.no/_ImFtwvCIiR7288qAW7O2wPSPPuwhu1w57wlbaHusvMA.jpg",
-   "date": "2026-11-06T14:23:26+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Fostermor dømt for seksuell omgang med fostersønn",
-   "source": "NRK",
-   "summary": "En fostermor er dømt til fengsel i seks måneder for å ha hatt seksuell omgang med fostersønnen. Hun slipper likevel å sone i fengsel.",
-   "img": "https://gfx.nrk.no/2GnEmQvu_gat3M27Lm5bcg0VzFLsuPpf9GdycMepPJQA.jpg",
-   "date": "2026-11-06T14:06:23+00:00"
+   "summary": "President Donald Trump varsler på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Han er nå visestabssjef og overtar ansvaret etter Susie Wiles, som skal få en annen rolle i administrasjonene, ifølge Trump. Miller reg",
+   "img": "https://gfx.nrk.no/oPYgdE_cj8oRfoeKpusizAG-Feub2LEGix5mKQb_gbzQ.jpg",
+   "date": "2026-11-06T18:55:08+00:00"
   }
  ]
 }
