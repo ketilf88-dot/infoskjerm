@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-06T09:53:58.685363+00:00",
+ "updated": "2026-11-06T17:01:52.518246+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Havila Shipping ASA: Begjæring fra DNB, Swedbank og Danske Bank om utleggspant ",
+   "source": "Havila Shipping ASA",
+   "summary": "Det vises til børsmelding 19. oktober 2026 om at selskapet ikke fikk medhold i Borgarting Lagmannsrett mot DNB Bank ASA, Swedbank AB (publ) og Danske Bank A/S NUF. Det vises også til børsmelding 12.",
+   "img": "",
+   "date": "2026-11-06T11:55:36.815Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -74,104 +84,84 @@
    "date": "2026-11-05T06:11:02.995Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Moreld announces NOK 0.50 dividend distribution",
-   "source": "Moreld ASA",
-   "summary": "Stavanger, 5 November 2026: Reference is made to the stock exchange announcement made by Moreld ASA (\"Moreld\" or the \"Company\") on 14 February 2025, where Moreld announced its new dividend policy.",
-   "img": "",
-   "date": "2026-11-05T06:01:10.016Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Moreld ASA: Third quarter 2026 results",
-   "source": "Moreld ASA",
-   "summary": "Stavanger, 5 November 2026: Moreld delivered another strong quarter with revenues of NOK 2.2 billion and adjusted EBITDA of NOK 376 million, corresponding to an EBITDA margin of 17 per cent.",
-   "img": "",
-   "date": "2026-11-05T06:00:26.691Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "First gas gushes out of Southeast Asian deepwater project",
+   "source": "Offshore Energy",
+   "summary": "This nearly $1-billion development has unlocked new deepwater reserves to boost energy security and stabilize power costs.",
+   "img": "https://www.offshore-energy.biz/api/media/file/malampaya%20source%20Prime%20Energy-800x685.png?prefix=media",
+   "date": "2026-11-06T15:57:43+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Brazilian field revitalization inches closer with green light for Petrobras’ FPSO concept",
+   "title": "Oil & gas quartet partners up to unlock over 6.5 trillion cubic feet of Asian gas",
    "source": "Offshore Energy",
-   "summary": "Petrobras has received the go-ahead from Lloyd’s Register for the conceptual design of its proposed FPSO destined for a redevelopment project.",
-   "img": "https://www.offshore-energy.biz/api/media/file/P-68%20floating%20production%2C%20storage%20and%20offloading%20%28FPSO%29%20vessel%2C%20operating%20in%20the%20Berbig%C3%A3o%20and%20Sururu%20fields%20in%20the%20pre-salt%20layer%20of%20the%20Santos%20Basin.%20Source%20Petrobras-800x534.jpg?prefix=media",
-   "date": "2026-11-06T09:18:12+00:00"
+   "summary": "PTTEP, TotalEnergies, KUFPEC, and Petronas have sealed a deal to co-develop gas fields off the coast of Sarawak, Malaysia.",
+   "img": "https://www.offshore-energy.biz/api/media/file/PTTEP-800x533.png?prefix=media",
+   "date": "2026-11-06T14:30:17+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "New partnership looking to bring wave energy into AI data centers",
+   "title": "Tubular package provider selected for first commercial gas project off Cyprus",
    "source": "Offshore Energy",
-   "summary": "Eco Wave Power's wholly-owned U.S. subsidiary has entered into a three-year memorandum of understanding (MoU) with quantum cybersecurity and...",
-   "img": "https://www.offshore-energy.biz/api/media/file/eco%20wave-1-800x397.jpg?prefix=media",
-   "date": "2026-11-06T07:37:14+00:00"
+   "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Tubular%20package%20provider%20selected%20for%20first%20commercial%20gas%20project%20off%20Cyprus-800x422.jpg?prefix=media",
+   "date": "2026-11-06T13:49:39+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Excelerate and AxDo strike multi-year Bahamas LNG deal for Caribbean’s new terminal",
+   "title": "Nexans to deliver 420 kilometers of cable for Greek interconnection",
    "source": "Offshore Energy",
-   "summary": "Excelerate Energy and AxDo Bahamas have sealed an 11-year LNG supply agreement for a new offshore hub near Grand Bahama.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Background_Events_and_Preseentations-800x254.png?prefix=media",
-   "date": "2026-11-05T15:52:21+00:00"
+   "summary": "Nexans has signed a subcontract with Hellenic Cables, in consortium with Asso.subsea, to deliver the 110 kV cable system for the Corinth-Kos HVDC...",
+   "img": "https://www.offshore-energy.biz/api/media/file/nexans-1-800x448.jpg?prefix=media",
+   "date": "2026-11-06T12:45:03+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Velesto’s 2010-built rig finds drilling job with Petronas",
+   "title": "Worley on EPC duty at Venture Global's US LNG expansion project",
    "source": "Offshore Energy",
-   "summary": "Velesto’s 16-year-old jack-up has landed a new offshore drilling assignment with Petronas off the coast of Malaysia.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729210539-697x1408-348x704.png?prefix=media",
-   "date": "2026-11-05T14:26:36+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "After Subsea7, Aker BP contracts OneSubsea for Norwegian fast-track oil project",
-   "source": "Offshore Energy",
-   "summary": "Shortly after awarding Subsea7 a contract for the project, Aker BP has revealed that OneSubsea, a joint venture backed by SLB, Aker Solutions and...",
-   "img": "https://www.offshore-energy.biz/api/media/file/After%20Subsea7%2C%20Aker%20BP%20contracts%20OneSubsea%20for%20Norwegian%20fast-track%20oil%20project-800x644.jpg?prefix=media",
-   "date": "2026-11-05T14:23:30+00:00"
+   "summary": "This award comes ahead of a final investment decision (FID) for Venture Global's LNG expansion project in Louisiana, which is targeted for early 2027.",
+   "img": "https://www.offshore-energy.biz/api/media/file/CP2-regulatory-Cam_15-scaled-800x334.jpg?prefix=media",
+   "date": "2026-11-06T11:48:27+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "RINA to mobilize up to 83 experts for €11 million contract with Petrobras",
+   "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation program",
    "source": "Offshore Energy",
-   "summary": "Inspection, certification and consulting engineering group RINA has signed a three-year €11 million contract with Brazilian oil & gas giant...",
-   "img": "https://www.offshore-energy.biz/api/media/file/RINA%20to%20mobilize%20up%20to%2083%20experts%20for%20%E2%82%AC11%20million%20contract%20with%20Petrobras-800x439.jpg?prefix=media",
-   "date": "2026-11-05T13:33:57+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "10 MW tidal energy project gets EU seal for contribution to energy goals",
-   "source": "Offshore Energy",
-   "summary": "Swedish ocean energy developer Minesto has received the European Commission's Strategic Technologies for Europe Platform (STEP) Seal for its...",
-   "img": "https://www.offshore-energy.biz/api/media/file/minesto-800x537.jpg?prefix=media",
-   "date": "2026-11-05T11:38:55+00:00"
+   "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
+   "img": "https://www.offshore-energy.biz/api/media/file/DenAr%20Ocean%20Engineering%20Services%20-%20offshore%20wind%20sites-1-800x542.jpg?prefix=media",
+   "date": "2026-11-06T10:30:03+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Energy security to keep running the show into 2027 amid market shifts, IEA Chief warns",
+   "title": "TotalEnergies locks in LNG supply from ADNOC and offtake deal with Chinese firm",
    "source": "Offshore Energy",
-   "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
-   "img": "https://www.offshore-energy.biz/api/media/file/oil2012%20IEA-800x400.png?prefix=media",
-   "date": "2026-11-05T10:00:00+00:00"
+   "summary": "TotalEnergies is deepening its LNG footprint on both sides of its supply chain with new supply from the UAE and a long-term offtake deal in China.",
+   "img": "https://www.offshore-energy.biz/api/media/file/TotalEnergies-1500x640-800x341.jpg?prefix=media",
+   "date": "2026-11-06T09:59:40+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Fugro nets multi-year offshore wind contract in Germany",
+   "source": "Offshore Energy",
+   "summary": "Germany’s Federal Maritime and Hydrographic Agency (BSH) has awarded Fugro a multi-year framework agreement to carry out geotechnical site...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Geotechnical%20laboratory%20-%20Fugro-1-800x533.webp?prefix=media",
+   "date": "2026-11-06T09:35:22+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -254,6 +244,26 @@
    "date": "2026-10-21T16:56:06+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
+   "source": "Splash247",
+   "summary": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country’s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey’s first offshore wind development programme",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/DeMar-Surveyor.jpg",
+   "date": "2026-11-06T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 2,
+   "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+   "source": "Splash247",
+   "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation of approximately 19 km of rigid producti",
+   "img": "https://splash247.com/wp-content/uploads/2025/10/EnerMech.jpg",
+   "date": "2026-11-06T10:00:00+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -268,10 +278,20 @@
    "cls": "t-norden",
    "weight": 3,
    "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "AFP.com",
+   "source": "Morningstar",
    "summary": "",
    "img": "",
    "date": "2026-11-05T12:49:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T13:56:53+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -282,16 +302,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-03T22:45:12+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
-   "source": "Upstream Online",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T04:50:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -314,16 +324,6 @@
    "date": "2026-10-30T19:42:34+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "DeepOcean awarded Tullow Ghana subsea riser retermination contract",
-   "source": "Engineer Live",
-   "summary": "",
-   "img": "",
-   "date": "2026-10-30T10:18:00+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -342,6 +342,36 @@
    "summary": "",
    "img": "",
    "date": "2026-11-05T10:39:40+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Endringer i klimaloven: – Ikke nok til å oppfylle statens menneskerettslige prinsipper",
+   "source": "NRK Trøndelag",
+   "summary": "Norges institusjon for menneskerettigheter mener Norge risikerer å bryte internasjonale forpliktelser.",
+   "img": "https://gfx.nrk.no/i67XLIEg267dSyjPUaEyYwxG91EY8sY5OqNA-_AixI9g.jpg",
+   "date": "2026-11-06T16:58:26+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Henlegger rasismesak mot FFK-spiller",
+   "source": "NRK Trøndelag",
+   "summary": "FFK-spilleren som ble beskyldt for rasisme etter kampen mot RBK lørdag blir ikke straffet. FFK ledelsen er lettet.",
+   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAkM8q6kY8sDuAFLDKjsrbPQ.jpg",
+   "date": "2026-11-06T11:59:22+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -364,64 +394,44 @@
    "date": "2026-11-06T04:13:30+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Politiet brukte spikermatte for å stanse bil som stakk fra kontroll",
-   "source": "NRK Trøndelag",
-   "summary": "To menn ble pågrepet etter å ha kjørt fra politiet i nærmere seks mil.",
-   "img": "https://gfx.nrk.no/Vqopbi-8uPj_WWOrbSjyEwZNZp5nbcHlCwqKG0PRBsuw.jpg",
-   "date": "2026-11-06T04:53:50+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Lagmannsretten vil behandle Jørn Andersen sin anke etter drapet på Marita",
-   "source": "NRK Trøndelag",
-   "summary": "I tingretten blei han dømd til 21 år forvaring. No skal Frostating lagmannsrett behandle Jørn Andersen sin anke over straffeutmålinga.",
-   "img": "https://gfx.nrk.no/YJJvrnxjy-pnGAt14RKBsgoHp85AhLxxA-Pu9Julj2tQ.jpg",
-   "date": "2026-11-05T21:36:01+00:00"
+   "title": "Bjørn Terje Axelsen fra «Tangerud­bakken» er død",
+   "source": "NRK",
+   "summary": "Storesøster Kristin Axelsen skriver på Facebook at han sovnet inn med nærmeste familie og personalet på Tangerudbakken til stede. Familien sier til VG at Bjørn Terje Axelsen (47) døde etter noen få ukers alvorlig sykdom. Søsteren takker personalet på Tangerudb",
+   "img": "https://gfx.nrk.no/68323hemGJRreVIO26YFdAgxyblMXOHHUBGfArRFtY1g.jpg",
+   "date": "2026-11-06T16:05:05+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "To svenske gutter tiltalt i Sverige for drap på Økern i april",
+   "title": "Faren til hertuginne Meghan Markle pågrepet",
    "source": "NRK",
-   "summary": "Svensk påtalemyndighet har tiltalt to gutter for drapet ved Lørenbanen på Økern i Oslo i april. De er også tiltalt for et drap i Norrköping.",
-   "img": "https://gfx.nrk.no/0cmVivlydne5hn1MKcC11gah-d_W2bZ50cttV0rOM33Q.jpg",
-   "date": "2026-11-06T08:40:41+00:00"
+   "summary": "Thomas Markle ble pågrepet av føderale agenter i nærheten av Tampa i Florida fredag morgen amerikansk tid. Han er siktet for forhold knyttet til overgrepsbilder av barn, opplyser kilder med kjennskap til saken til nyhetsbyrået AP. Tidligere i år ble det kjent ",
+   "img": "https://gfx.nrk.no/A6gSrEsJRFSbijrv7n63vAntVaKGmoxQRNaMQD0RyBeg.jpg",
+   "date": "2026-11-06T15:35:18+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Britisk hangarskip på vei til Oslo",
+   "title": "Dømt til 20 års fengsel i England: Norsk 19-åring anker ikke drapsforbund-dom",
    "source": "NRK",
-   "summary": "Hangarskipet HMS «Prince of Wales» med et mannskap på rundt 700 skal delta på en sikkerhetskonferanse.",
-   "img": "https://gfx.nrk.no/Llk-tUYDHR2FfnoIITRefQTr5i-58ZxP7DKkSXGA51bg.jpg",
-   "date": "2026-11-06T07:56:46+00:00"
+   "summary": "19-åringen ble pågrepet i mars i fjor på et hotellrom England med to skytevåpen og ammunisjon.",
+   "img": "https://gfx.nrk.no/_ImFtwvCIiR7288qAW7O2wPSPPuwhu1w57wlbaHusvMA.jpg",
+   "date": "2026-11-06T14:23:26+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Miika (20) la egen bedrift på is – vil ryste verdenseliten",
+   "title": "Fostermor dømt for seksuell omgang med fostersønn",
    "source": "NRK",
-   "summary": "18 år gammel startet Miika Klevstuen sin egen bedrift for å finansiere idrettskarrieren. Nå må 20-åringen sette jobben sin på pause etter å ha sjokkert Skøyte-Norge.",
-   "img": "https://gfx.nrk.no/L-zsFPOk6tqAthdQIC2cDQNWiMB_x0D7BBKTpAicBCVA.jpg",
-   "date": "2026-11-06T07:43:45+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Fjordar og bergartar kåra til geologi i verdsklasse",
-   "source": "NRK",
-   "summary": "Spektakulære vestlandsfjordar, vestlandske bergartar og sølvgruvene på Kongsberg har alle fått plass på geologiverdas svar på verdsarvlista.",
-   "img": "https://gfx.nrk.no/05WUddB5Y_BNvJ-2ZklpjQeQbdaVfvplLFr06zeu4qjQ.jpg",
-   "date": "2026-11-06T06:00:02+00:00"
+   "summary": "En fostermor er dømt til fengsel i seks måneder for å ha hatt seksuell omgang med fostersønnen. Hun slipper likevel å sone i fengsel.",
+   "img": "https://gfx.nrk.no/2GnEmQvu_gat3M27Lm5bcg0VzFLsuPpf9GdycMepPJQA.jpg",
+   "date": "2026-11-06T14:06:23+00:00"
   }
  ]
 }
