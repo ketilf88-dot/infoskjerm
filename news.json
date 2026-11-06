@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-06T02:42:27.026032+00:00",
+ "updated": "2026-11-06T09:53:58.685363+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Moreld ASA: Ocean Installer receives significant commitment for expanded scope on existing project",
+   "source": "Moreld ASA",
+   "summary": "Stavanger, 6 November: Ocean Installer AS, a wholly owned subsidiary of Moreld ASA, has received a new significant* commitment expanding the scope on an existing project.",
+   "img": "",
+   "date": "2026-11-06T07:00:09.485Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -87,6 +97,26 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "Brazilian field revitalization inches closer with green light for Petrobras’ FPSO concept",
+   "source": "Offshore Energy",
+   "summary": "Petrobras has received the go-ahead from Lloyd’s Register for the conceptual design of its proposed FPSO destined for a redevelopment project.",
+   "img": "https://www.offshore-energy.biz/api/media/file/P-68%20floating%20production%2C%20storage%20and%20offloading%20%28FPSO%29%20vessel%2C%20operating%20in%20the%20Berbig%C3%A3o%20and%20Sururu%20fields%20in%20the%20pre-salt%20layer%20of%20the%20Santos%20Basin.%20Source%20Petrobras-800x534.jpg?prefix=media",
+   "date": "2026-11-06T09:18:12+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "New partnership looking to bring wave energy into AI data centers",
+   "source": "Offshore Energy",
+   "summary": "Eco Wave Power's wholly-owned U.S. subsidiary has entered into a three-year memorandum of understanding (MoU) with quantum cybersecurity and...",
+   "img": "https://www.offshore-energy.biz/api/media/file/eco%20wave-1-800x397.jpg?prefix=media",
+   "date": "2026-11-06T07:37:14+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "Excelerate and AxDo strike multi-year Bahamas LNG deal for Caribbean’s new terminal",
    "source": "Offshore Energy",
    "summary": "Excelerate Energy and AxDo Bahamas have sealed an 11-year LNG supply agreement for a new offshore hub near Grand Bahama.",
@@ -142,26 +172,6 @@
    "summary": "$3.4 trillion global energy spend: Clean tech outpaces fossil fuels nearly 2-to-1 in 2026. IEA Chief says energy markets will not normalize in 2027.",
    "img": "https://www.offshore-energy.biz/api/media/file/oil2012%20IEA-800x400.png?prefix=media",
    "date": "2026-11-05T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Chevron contract takes EnerMech offshore Equatorial Guinea",
-   "source": "Offshore Energy",
-   "summary": "Aberdeen-headquartered integrated solutions specialist EnerMech has won a contract with U.S.-headquartered energy giant Chevron for specialist...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Chevron%20contract%20takes%20EnerMech%20offshore%20Equatorial%20Guinea-800x449.jpg?prefix=media",
-   "date": "2026-11-05T09:44:50+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Aker Solutions scores multimillion-dollar job on oil field redevelopment offshore Qatar",
-   "source": "Offshore Energy",
-   "summary": "Aker Solutions has been booked to undertake an assignment to extend the life of a field that has been producing oil since the mid-1960s.",
-   "img": "https://www.offshore-energy.biz/api/media/file/offshore_maintenance_modifications_Aker%20Solutions-800x450.png?prefix=media",
-   "date": "2026-11-05T08:39:47+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -246,56 +256,6 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 2,
-   "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
-   "source": "Splash247",
-   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a comprehensive maintenance contract from Ocean Breeze Energy covering all 12 turbines at the Alpha Ventus offshore wind farm in the North Sea. The contract will begin in January 2027 an",
-   "img": "https://splash247.com/wp-content/uploads/2025/11/Alpha-Ventus-offshore-wind.jpg",
-   "date": "2026-11-05T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Aker Solutions bags engineering deal for Qatar oilfield redevelopment",
-   "source": "Splash247",
-   "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of award from Vietnam’s PTSC Mechanical & Construction for work on QatarEnergy’s Maydan Mahzam oilfield redevelopment project. The contract covers detailed engineering for three major to",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Aker-Solutions-worker.jpg",
-   "date": "2026-11-05T11:45:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Finland jails captain and crew member over Baltic cable sabotage",
-   "source": "Splash247",
-   "summary": "A Finnish court has sentenced the captain and a crew member of the general cargo ship Fitburg to prison for deliberately damaging two subsea telecommunications cables in the Gulf of Finland on New Year’s Eve last year. Helsinki District Court handed Russian ca",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Fitburg-Finnish-Border-Guard.jpg",
-   "date": "2026-11-05T11:14:58+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Vattenfall signs final agreements for 1.8GW Danish offshore wind projects",
-   "source": "Splash247",
-   "summary": "Swedish energy group Vattenfall has signed final agreements with the Danish Energy Agency for two offshore wind developments with a combined capacity of at least 1.8GW. The agreements cover the 800 MW Hesselø project in the Kattegat and the 1 GW Holmsland deve",
-   "img": "https://splash247.com/wp-content/uploads/2023/07/Vattenfall.jpg",
-   "date": "2026-11-05T11:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "BP raises over $1bn from Aker BP stake sale",
-   "source": "Splash247",
-   "summary": "British energy major BP has raised about $1.06bn by selling part of its stake in Norwegian oil and gas producer Aker BP as it continues efforts to strengthen its balance sheet. The company sold 31.6m shares, representing around 5% of Aker BP’s total issued sha",
-   "img": "https://splash247.com/wp-content/uploads/2024/12/BP-logo-BP.jpg",
-   "date": "2026-11-05T10:45:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
    "weight": 3,
    "title": "Subsea7 wins Aker BP Lyra contract offshore Norway",
    "source": "World Oil",
@@ -322,6 +282,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-03T22:45:12+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
+   "source": "Upstream Online",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T04:50:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -377,6 +347,36 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Lekkasje fra fraukjeller – 130.000 liter gjødsel har rent ut",
+   "source": "NRK Trøndelag",
+   "summary": "Brannvesenet har jobbet for å hindre at gjødselen renner ned i ei elv og Namsenfjorden.",
+   "img": "https://gfx.nrk.no/YSgTIzczvMa26UAfzrSvdw3mSaYweg2HUY5KUBbvfYbg.jpg",
+   "date": "2026-11-06T08:00:53+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Ut mot lærarutdanninga for dårlege resultat i skulen",
+   "source": "NRK Trøndelag",
+   "summary": "Høgre-politikarane ber lærarutdanningane ta meir av ansvaret for at elevane gjer det stadig dårlegare i skulen.",
+   "img": "https://gfx.nrk.no/Zqcos8M3SB6hIbq7AbT0IAaZqaTDCAFhgiOSrvI88w5w.jpg",
+   "date": "2026-11-06T04:13:30+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Politiet brukte spikermatte for å stanse bil som stakk fra kontroll",
+   "source": "NRK Trøndelag",
+   "summary": "To menn ble pågrepet etter å ha kjørt fra politiet i nærmere seks mil.",
+   "img": "https://gfx.nrk.no/Vqopbi-8uPj_WWOrbSjyEwZNZp5nbcHlCwqKG0PRBsuw.jpg",
+   "date": "2026-11-06T04:53:50+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Lagmannsretten vil behandle Jørn Andersen sin anke etter drapet på Marita",
    "source": "NRK Trøndelag",
    "summary": "I tingretten blei han dømd til 21 år forvaring. No skal Frostating lagmannsrett behandle Jørn Andersen sin anke over straffeutmålinga.",
@@ -384,74 +384,44 @@
    "date": "2026-11-05T21:36:01+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Oppdal videregående ble evakuert etter funn av kjemisk stoff",
-   "source": "NRK Trøndelag",
-   "summary": "Oppdal videregående ble evakuert på grunn av eksplosjonsfare fra et kjemisk stoff inne på skolen.",
-   "img": "https://gfx.nrk.no/mo9mOnK-C7nfBpZ3xIAQegPpbjFH1jgBYSE3L02YnwvQ.jpg",
-   "date": "2026-11-05T14:19:21+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Varsler endringer i videregående skoler",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/ZjU7vRV9O0AVc5RP3iqD_QU_7T2sonT_GNnDlHNKNwCg.jpg",
-   "date": "2026-11-05T17:57:43+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Widerøe-fly til Mo i Rana fikk ikke ut landingshjul – måtte lande i Bodø",
-   "source": "NRK Trøndelag",
-   "summary": "Bodø lufthavn satte full beredskap. Flyet klarte likevel å lande som normalt onsdag kveld.",
-   "img": "https://gfx.nrk.no/c3fG5JlNNCQXEIylBdq53wV5XgGjWoyJn1hERNK42nlg.jpg",
-   "date": "2026-11-04T18:02:50+00:00"
+   "title": "To svenske gutter tiltalt i Sverige for drap på Økern i april",
+   "source": "NRK",
+   "summary": "Svensk påtalemyndighet har tiltalt to gutter for drapet ved Lørenbanen på Økern i Oslo i april. De er også tiltalt for et drap i Norrköping.",
+   "img": "https://gfx.nrk.no/0cmVivlydne5hn1MKcC11gah-d_W2bZ50cttV0rOM33Q.jpg",
+   "date": "2026-11-06T08:40:41+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Felishia (19) ber politikarane høyre på dei unge: – Føler utsegnene våre ikkje blir lesne",
+   "title": "Britisk hangarskip på vei til Oslo",
    "source": "NRK",
-   "summary": "Lova krev at alle kommunar og fylke skal ha eit ungdomsråd, men ny forsking viser at innspela deira sjeldan blir lytta til.",
-   "img": "https://gfx.nrk.no/YyxE5N5fPJm-pr3fxR7RCQGopr4Fjn5bRFfDOZdjNCxw.jpg",
-   "date": "2026-11-05T20:28:43+00:00"
+   "summary": "Hangarskipet HMS «Prince of Wales» med et mannskap på rundt 700 skal delta på en sikkerhetskonferanse.",
+   "img": "https://gfx.nrk.no/Llk-tUYDHR2FfnoIITRefQTr5i-58ZxP7DKkSXGA51bg.jpg",
+   "date": "2026-11-06T07:56:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Gift som 14-åring: Jeg gråter over den tapte barndommen min",
+   "title": "Miika (20) la egen bedrift på is – vil ryste verdenseliten",
    "source": "NRK",
-   "summary": "I Gaza blir flere jenter giftet bort nå enn før krigen, ifølge FN. Manar sto brud da hun var 14 år.",
-   "img": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oGrj-SPCnxWUg.jpg",
-   "date": "2026-11-05T20:24:43+00:00"
+   "summary": "18 år gammel startet Miika Klevstuen sin egen bedrift for å finansiere idrettskarrieren. Nå må 20-åringen sette jobben sin på pause etter å ha sjokkert Skøyte-Norge.",
+   "img": "https://gfx.nrk.no/L-zsFPOk6tqAthdQIC2cDQNWiMB_x0D7BBKTpAicBCVA.jpg",
+   "date": "2026-11-06T07:43:45+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Advarer mot «frysetåke» på Østlandet: – Kan bli svært glatt",
+   "title": "Fjordar og bergartar kåra til geologi i verdsklasse",
    "source": "NRK",
-   "summary": "Fredag rammes deler av Østlandet av et lumskt værfenomen som kan gjøre asfalten om til en skøytebane. – Kjør etter forholdene, råder meteorologene.",
-   "img": "https://gfx.nrk.no/UkVZNDvbYqWTLU5BrRsq0QfGQY9OISCmLuiHQd8eN25g.jpg",
-   "date": "2026-11-05T20:02:38+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Feilene florerte for Lillestrøm: – Må luke bort",
-   "source": "NRK",
-   "summary": "Lillestrøm jaktet sin første seier i Europaligaen. Det endte med bakrus mot Viktoria Plzen etter en fæl 1. omgang.",
-   "img": "https://gfx.nrk.no/VjYarBHfAKdxY8WBJScjnAW2XTf7CZygh6eRHJYSfbcg.jpg",
-   "date": "2026-11-05T19:38:11+00:00"
+   "summary": "Spektakulære vestlandsfjordar, vestlandske bergartar og sølvgruvene på Kongsberg har alle fått plass på geologiverdas svar på verdsarvlista.",
+   "img": "https://gfx.nrk.no/05WUddB5Y_BNvJ-2ZklpjQeQbdaVfvplLFr06zeu4qjQ.jpg",
+   "date": "2026-11-06T06:00:02+00:00"
   }
  ]
 }
