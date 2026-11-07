@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:04:34.201591+00:00",
+ "updated": "2026-11-07T01:53:05.158929+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -297,11 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "North Sea roundup: Serica drilling campaign, Lyra contract award lead latest activity",
-   "source": "Offshore Magazine",
+   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-11-03T22:45:12+00:00"
+   "date": "2026-11-07T00:11:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -334,6 +334,16 @@
    "date": "2026-11-05T22:40:30+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Global Exploration and Production Roundup: FIDs, Discoveries, and New Frontiers—November 2026",
+   "source": "JPT Homepage",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-01T05:05:09+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -342,16 +352,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "ADES Lands New Offshore Drilling Rig Deals in Angola and Indonesia",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-03T09:44:15+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -397,10 +397,20 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
+   "source": "NRK",
+   "summary": "Casper Ruud har storspilt i Paris denne uken. Nå er han klar for semifinale etter seier over Nuno Borges. Ruuds oppgjør mot portugiseren endte med 7-6 (7-5), 6-4. De to møttes for bare ni dager siden i Basel, og da snudde Borges kampen til seier. Ruud og Borge",
+   "img": "https://gfx.nrk.no/AwcO-HXvKYAOLjXKwO_piwxURQ_vx5kGb8UdMBF_nOPA.jpg",
+   "date": "2026-11-06T23:57:07+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Brann i historisk bygning i Kongsvinger",
    "source": "NRK",
-   "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Nødetatene anbefaler naboer å holde vinduer stengt, og holde seg unna røyken i området, opplyser oppdragsleder Anna Boger i Innlandet politidistrikt. Hun opplyser at det brenn",
-   "img": "https://static.nrk.no/kartoteket/01M6SDP9FMSWDDAYABJZVFG1MH/F169/650w.png",
+   "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Vi har vært i kontakt med eier som bekrefter at huset er tomt, sier operasjonsleder Vidar Flokenes i Innlandet politidistrikt til NRK. E16 er stengt som følge av brannen.",
+   "img": "https://gfx.nrk.no/4u_ZFUU3kvGGvPMXTexPUgQYaTExQ2DuE4g-BBapFFcg.jpg",
    "date": "2026-11-06T21:44:24+00:00"
   },
   {
@@ -422,16 +432,6 @@
    "summary": "I Gaza blir flere jenter giftet bort nå enn før krigen, ifølge FN. Manar sto brud da hun var 14 år.",
    "img": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oGrj-SPCnxWUg.jpg",
    "date": "2026-11-05T20:24:43+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Trump: Stephen Miller blir ny stabssjef",
-   "source": "NRK",
-   "summary": "President Donald Trump varsler på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Han er nå visestabssjef og overtar ansvaret etter Susie Wiles, som skal få en annen rolle i administrasjonene, ifølge Trump. Miller reg",
-   "img": "https://gfx.nrk.no/oPYgdE_cj8oRfoeKpusizAG-Feub2LEGix5mKQb_gbzQ.jpg",
-   "date": "2026-11-06T18:55:08+00:00"
   }
  ]
 }
