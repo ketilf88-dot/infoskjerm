@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:59:36.671729+00:00",
+ "updated": "2026-11-07T14:44:47.586086+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -297,6 +297,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Equinor unleashes second wave of subsea projects",
+   "source": "Upstream Online",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-06T10:06:08+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
    "source": "Yahoo Finance",
    "summary": "",
@@ -397,41 +407,31 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Får og framsteg",
+   "title": "En alvorlig skadd i ulykke på E6 i Lillehammer",
    "source": "NRK",
-   "summary": "FpU-leiar Sebastian Ytrevik hadde forlate ungdomspartiet. Så måtte nokon ta styringa.",
-   "img": "https://gfx.nrk.no/fG3Z-LOpWxAxhBNXmtw9Rg8x7W1hLmDokS97t1ILrQSA.jpg",
-   "date": "2026-11-07T06:47:57+00:00"
+   "summary": "En person skal være alvorlig skadd i en trafikkulykke på E6 i Lillehammer i ettermiddag.",
+   "img": "https://gfx.nrk.no/Mcr7htWX8zWd92DF3nifNQkgsQsx5DzuAnkOUxSh_dlg.jpg",
+   "date": "2026-11-07T14:15:36+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Måpar av «Helt Ramme sporter»-bragd: – Køddar du?",
+   "title": "Kinesarane sperrar opp auga når dei ser Ragnar (25): – Eg blir tatt bilde av",
    "source": "NRK",
-   "summary": "Tonje Frigstad og Nicolay Ramm kjempa mot både tårer og frykt under VM i fridykking. No blir prestasjonen hylla.",
-   "img": "https://gfx.nrk.no/3r3Vw0fppcgm5GtJL8h1Swf1kNGzE_dDirWBx_iEWJVg.jpg",
-   "date": "2026-11-07T06:37:33+00:00"
+   "summary": "Ragnar Holme har reist til andre sida av jordkloden for å jakte rekordar, men blir stoppa på gata av nysgjerrige kinesarar av heilt andre grunnar.",
+   "img": "https://gfx.nrk.no/0kx_UTVYJYR9FB81rKndaAoNivl60TSvesVhRZKR9HZg.jpg",
+   "date": "2026-11-07T11:48:53+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Paraguays president avsatt og pågrepet",
+   "title": "Macklemore: USA-arenaer sa nei til Fri Palestina-turné",
    "source": "NRK",
-   "summary": "Paraguays president Santiago Peña er avsatt etter en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er nå pågrepet og satt i husarrest, ifølge lokale medier. Bakgrunnen for avsettelsen er kollapsen i en stor digitalbank som den tidliger",
-   "img": "https://gfx.nrk.no/RzfE1NHD9FkhPsU-11pESg_K6yK1M1oWIdjRw1UoPm5Q.jpg",
-   "date": "2026-11-06T23:27:30+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
-   "source": "NRK",
-   "summary": "Casper Ruud har storspilt i Paris denne uken. Nå er han klar for semifinale etter seier over Nuno Borges. Ruuds oppgjør mot portugiseren endte med 7-6 (7-5), 6-4. De to møttes for bare ni dager siden i Basel, og da snudde Borges kampen til seier. Ruud og Borge",
-   "img": "https://gfx.nrk.no/AwcO-HXvKYAOLjXKwO_piwxURQ_vx5kGb8UdMBF_nOPA.jpg",
-   "date": "2026-11-06T23:57:07+00:00"
+   "summary": "Det blir foreløpig ikke noe av den planlagte USA-turnéen til rapperen Macklemore til støtte for Palestina. Årsaken er at en rekke arenaer har avvist ham på grunn av koblinga til Palestina, ifølge et Instagram-innlegg fra rapperen selv. Blant arenaene som har a",
+   "img": "https://gfx.nrk.no/rKykzjEy3sbF02JGs7iUOwGFqdXhHIjT_LN66Llz2etA.jpg",
+   "date": "2026-11-07T09:22:39+00:00"
   }
  ]
 }
