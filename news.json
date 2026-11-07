@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:44:47.586086+00:00",
+ "updated": "2026-11-07T19:04:13.622584+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -407,31 +407,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "En alvorlig skadd i ulykke på E6 i Lillehammer",
+   "title": "Trump tilbyr Dana White jobben som pressetalsperson",
    "source": "NRK",
-   "summary": "En person skal være alvorlig skadd i en trafikkulykke på E6 i Lillehammer i ettermiddag.",
-   "img": "https://gfx.nrk.no/Mcr7htWX8zWd92DF3nifNQkgsQsx5DzuAnkOUxSh_dlg.jpg",
-   "date": "2026-11-07T14:15:36+00:00"
+   "summary": "President Donald Trump har tilbudt jobben som pressetalsperson for Det hvite hus til president i kampsportforbundet UFC, Dana White. Det skriver Trump på Truth Social. Jobben som pressetalsperson har vært ledig siden Katie Zacharia ble sagt opp 16. oktober ett",
+   "img": "https://gfx.nrk.no/QjfvndBr-6-I1SCXFRon-gMXCkXlUvrH7ZHXQHgU8ebQ.jpg",
+   "date": "2026-11-07T18:46:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kinesarane sperrar opp auga når dei ser Ragnar (25): – Eg blir tatt bilde av",
+   "title": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
    "source": "NRK",
-   "summary": "Ragnar Holme har reist til andre sida av jordkloden for å jakte rekordar, men blir stoppa på gata av nysgjerrige kinesarar av heilt andre grunnar.",
-   "img": "https://gfx.nrk.no/0kx_UTVYJYR9FB81rKndaAoNivl60TSvesVhRZKR9HZg.jpg",
-   "date": "2026-11-07T11:48:53+00:00"
+   "summary": "Vanlegvis har året 52 veker, men ikkje i år. Det kan gje uante utfordringar for fleire.",
+   "img": "https://gfx.nrk.no/WtFLpQCdPGRvbSuO1iZnIgFd2xSyO3QWTHVHNBi5KdRw.jpg",
+   "date": "2026-11-07T18:42:52+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Macklemore: USA-arenaer sa nei til Fri Palestina-turné",
+   "title": "Søreide møtt med kraftig diesel-kritikk i nord: – Folk melder seg ut i protest",
    "source": "NRK",
-   "summary": "Det blir foreløpig ikke noe av den planlagte USA-turnéen til rapperen Macklemore til støtte for Palestina. Årsaken er at en rekke arenaer har avvist ham på grunn av koblinga til Palestina, ifølge et Instagram-innlegg fra rapperen selv. Blant arenaene som har a",
-   "img": "https://gfx.nrk.no/rKykzjEy3sbF02JGs7iUOwGFqdXhHIjT_LN66Llz2etA.jpg",
-   "date": "2026-11-07T09:22:39+00:00"
+   "summary": "Helt som forventet, svarer Høyre-lederen på kritikken, som ikke kunne gi noen drivstoff-lovnader til partifellene.",
+   "img": "https://gfx.nrk.no/zi_XXO_WNZFVjB0UwxDQPwqkIYHw8XuW-u8F0V7hBUYA.jpg",
+   "date": "2026-11-07T17:20:10+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Roser Ødegaard-manøver: – Som en spiss",
+   "source": "NRK",
+   "summary": "Titteljagende Arsenal fikk det tøft hjemme mot Hull. Til slutt var det Martin Ødegaard som ble Arsenals reddende engel.",
+   "img": "https://gfx.nrk.no/LZjL5sEruYeG-bJAA9VE-gqNH6dtqEMv5Jtgq9MDSjvw.jpg",
+   "date": "2026-11-07T16:54:54+00:00"
   }
  ]
 }
