@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:53:05.158929+00:00",
+ "updated": "2026-11-07T07:59:36.671729+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -334,6 +334,16 @@
    "date": "2026-11-05T22:40:30+00:00"
   },
   {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "ADES Lands New Offshore Drilling Rig Deals in Angola and Indonesia",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-03T09:44:15+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -344,14 +354,14 @@
    "date": "2026-11-01T05:05:09+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-03T07:30:00+00:00"
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Fleire menn skal ha tatt på kvinne på utestad i Trondheim",
+   "source": "NRK Trøndelag",
+   "summary": "Ein mann i 30-åra blei tatt med i arresten etter hendinga.",
+   "img": "https://gfx.nrk.no/OIEuMyrtaRsoraFaU2JRmgoCGRN-vwCJjHWzb-78EGRw.jpg",
+   "date": "2026-11-07T07:27:17+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,14 +394,34 @@
    "date": "2026-11-06T11:59:22+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Lekkasje fra fraukjeller – 130.000 liter gjødsel har rent ut",
-   "source": "NRK Trøndelag",
-   "summary": "Brannvesenet har jobbet for å hindre at gjødselen renner ned i ei elv og Namsenfjorden.",
-   "img": "https://gfx.nrk.no/YSgTIzczvMa26UAfzrSvdw3mSaYweg2HUY5KUBbvfYbg.jpg",
-   "date": "2026-11-06T08:00:53+00:00"
+   "title": "Får og framsteg",
+   "source": "NRK",
+   "summary": "FpU-leiar Sebastian Ytrevik hadde forlate ungdomspartiet. Så måtte nokon ta styringa.",
+   "img": "https://gfx.nrk.no/fG3Z-LOpWxAxhBNXmtw9Rg8x7W1hLmDokS97t1ILrQSA.jpg",
+   "date": "2026-11-07T06:47:57+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Måpar av «Helt Ramme sporter»-bragd: – Køddar du?",
+   "source": "NRK",
+   "summary": "Tonje Frigstad og Nicolay Ramm kjempa mot både tårer og frykt under VM i fridykking. No blir prestasjonen hylla.",
+   "img": "https://gfx.nrk.no/3r3Vw0fppcgm5GtJL8h1Swf1kNGzE_dDirWBx_iEWJVg.jpg",
+   "date": "2026-11-07T06:37:33+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Paraguays president avsatt og pågrepet",
+   "source": "NRK",
+   "summary": "Paraguays president Santiago Peña er avsatt etter en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er nå pågrepet og satt i husarrest, ifølge lokale medier. Bakgrunnen for avsettelsen er kollapsen i en stor digitalbank som den tidliger",
+   "img": "https://gfx.nrk.no/RzfE1NHD9FkhPsU-11pESg_K6yK1M1oWIdjRw1UoPm5Q.jpg",
+   "date": "2026-11-06T23:27:30+00:00"
   },
   {
    "tag": "Norge",
@@ -402,36 +432,6 @@
    "summary": "Casper Ruud har storspilt i Paris denne uken. Nå er han klar for semifinale etter seier over Nuno Borges. Ruuds oppgjør mot portugiseren endte med 7-6 (7-5), 6-4. De to møttes for bare ni dager siden i Basel, og da snudde Borges kampen til seier. Ruud og Borge",
    "img": "https://gfx.nrk.no/AwcO-HXvKYAOLjXKwO_piwxURQ_vx5kGb8UdMBF_nOPA.jpg",
    "date": "2026-11-06T23:57:07+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Brann i historisk bygning i Kongsvinger",
-   "source": "NRK",
-   "summary": "Det brenner i den historiske bygningen Lunderbye Nor fra 1850-årene i Kongsvinger. – Vi har vært i kontakt med eier som bekrefter at huset er tomt, sier operasjonsleder Vidar Flokenes i Innlandet politidistrikt til NRK. E16 er stengt som følge av brannen.",
-   "img": "https://gfx.nrk.no/4u_ZFUU3kvGGvPMXTexPUgQYaTExQ2DuE4g-BBapFFcg.jpg",
-   "date": "2026-11-06T21:44:24+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Pornofilmer av kommunedirektør dukket opp – Trekker seg umiddelbart",
-   "source": "NRK",
-   "summary": "Da Lars Erikssons hemmelige pornofortid ble kjent, gikk den svenske kommunedirektøren av på dagen. Men ifølge ordføreren i Jokkmokk fikk han ikke sparken, og kunne fint fortsatt å jobbe for kommunen.",
-   "img": "https://gfx.nrk.no/JUxo8qYV69IKa5dWHGi5dAU7HozE0limLZrWNnyra_7g.jpg",
-   "date": "2026-11-06T20:43:07+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Gift som 14-åring: – Jeg gråter over den tapte barndommen min",
-   "source": "NRK",
-   "summary": "I Gaza blir flere jenter giftet bort nå enn før krigen, ifølge FN. Manar sto brud da hun var 14 år.",
-   "img": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oGrj-SPCnxWUg.jpg",
-   "date": "2026-11-05T20:24:43+00:00"
   }
  ]
 }
