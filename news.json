@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:04:13.622584+00:00",
+ "updated": "2026-11-07T22:42:00.921543+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -367,6 +367,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Nytt luftvern på plass i Norge",
+   "source": "NRK Trøndelag",
+   "summary": "Det har mulighet til å skyte ut tre ulike typer missiler samtidig, og skal gi bedre beskyttelse av landet.",
+   "img": "https://gfx.nrk.no/P-7h1-IqHJZFKt6IU4ApRAJ8akI9HwdPjSsgrS1UUOnQ.jpg",
+   "date": "2026-11-07T19:25:07+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Fleire menn skal ha tatt på kvinne på utestad i Trondheim",
    "source": "NRK Trøndelag",
    "summary": "Ein mann i 30-åra blei tatt med i arresten etter hendinga.",
@@ -394,54 +404,44 @@
    "date": "2026-11-06T18:05:11+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Henlegger rasismesak mot FFK-spiller",
-   "source": "NRK Trøndelag",
-   "summary": "FFK-spilleren som ble beskyldt for rasisme etter kampen mot RBK lørdag blir ikke straffet. FFK ledelsen er lettet.",
-   "img": "https://gfx.nrk.no/mAQg-4ktK78P8kLbWRRBCAkM8q6kY8sDuAFLDKjsrbPQ.jpg",
-   "date": "2026-11-06T11:59:22+00:00"
-  },
-  {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Trump tilbyr Dana White jobben som pressetalsperson",
+   "title": "Dana White takker nei til å bli Trumps pressesekretær",
    "source": "NRK",
-   "summary": "President Donald Trump har tilbudt jobben som pressetalsperson for Det hvite hus til president i kampsportforbundet UFC, Dana White. Det skriver Trump på Truth Social. Jobben som pressetalsperson har vært ledig siden Katie Zacharia ble sagt opp 16. oktober ett",
+   "summary": "President i kampsportforbundet UFC, Dana White, takker nei til tilbudet fra Donald Trump om å bli ny pressesekretær i Det hvite hus, melder Reuters. Jobben som pressetalsperson har vært ledig siden Katie Zacharia sa opp 16. oktober etter bare fem dager i jobbe",
    "img": "https://gfx.nrk.no/QjfvndBr-6-I1SCXFRon-gMXCkXlUvrH7ZHXQHgU8ebQ.jpg",
-   "date": "2026-11-07T18:46:46+00:00"
+   "date": "2026-11-07T21:42:17+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
+   "title": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
    "source": "NRK",
-   "summary": "Vanlegvis har året 52 veker, men ikkje i år. Det kan gje uante utfordringar for fleire.",
-   "img": "https://gfx.nrk.no/WtFLpQCdPGRvbSuO1iZnIgFd2xSyO3QWTHVHNBi5KdRw.jpg",
-   "date": "2026-11-07T18:42:52+00:00"
+   "summary": "Den norske tannlegeforening sier dette er en utfordring de tar på alvor.",
+   "img": "https://gfx.nrk.no/UHqUcB5S97u-e0-Ht--WNQlQKd-fdnRv6TQNu-ELSVgw.jpg",
+   "date": "2026-11-07T20:45:20+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Søreide møtt med kraftig diesel-kritikk i nord: – Folk melder seg ut i protest",
+   "title": "Eisenkot får i oppdrag å danne regjering i Israel",
    "source": "NRK",
-   "summary": "Helt som forventet, svarer Høyre-lederen på kritikken, som ikke kunne gi noen drivstoff-lovnader til partifellene.",
-   "img": "https://gfx.nrk.no/zi_XXO_WNZFVjB0UwxDQPwqkIYHw8XuW-u8F0V7hBUYA.jpg",
-   "date": "2026-11-07T17:20:10+00:00"
+   "summary": "Israels president har gitt opposisjonsleder Gadi Eisenkot i oppdrag å prøve danne regjering. Hverken partiene som støtter statsminister Benjamin Netanyahu eller partiene som støtter Eisenkot fikk flertall ved valget 27. november. Netanyahus blokk fikk 53 plass",
+   "img": "",
+   "date": "2026-11-07T20:03:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Roser Ødegaard-manøver: – Som en spiss",
+   "title": "Haaland-sjef i villrede: – Har aldri skjedd før",
    "source": "NRK",
-   "summary": "Titteljagende Arsenal fikk det tøft hjemme mot Hull. Til slutt var det Martin Ødegaard som ble Arsenals reddende engel.",
-   "img": "https://gfx.nrk.no/LZjL5sEruYeG-bJAA9VE-gqNH6dtqEMv5Jtgq9MDSjvw.jpg",
-   "date": "2026-11-07T16:54:54+00:00"
+   "summary": "Erling Braut Haalands sjef har mye å finne ut av etter å ha sett laget sitt slite mot Nottingham Forest.",
+   "img": "https://gfx.nrk.no/OEGXmRxMV3uKmAtpEEbaJgifXhdsPOgOqInKRso6_fsQ.jpg",
+   "date": "2026-11-07T19:25:54+00:00"
   }
  ]
 }
