@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:50:12.409692+00:00",
+ "updated": "2026-11-08T08:18:29.552366+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -354,14 +354,34 @@
    "date": "2026-11-03T09:44:15+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Global Exploration and Production Roundup: FIDs, Discoveries, and New Frontiers—November 2026",
-   "source": "JPT Homepage",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-01T05:05:09+00:00"
+   "date": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Vil tappe ned elv for å lage kunstsnø: – Sjokkert over at det i det heile tatt går an å foreslå",
+   "source": "NRK Trøndelag",
+   "summary": "Trondheim kommune brukte millionar på å restaurere Leirelva. No søker kommunen sjølv om å få redusere vassføringa med meir enn 85 prosent.",
+   "img": "https://gfx.nrk.no/ItagZY6pox8j7PXrOvg23AfyegN5YjavqyZQodNVqrbA.jpg",
+   "date": "2026-11-08T07:36:52+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Utelivsbråk i Trøndelag i natt: Ti personar innbrakt til arresten",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet fortel om fleire ordensforstyrringar natt til søndag.",
+   "img": "https://gfx.nrk.no/Abjtc8e1TkCC66lHRuKnwwWhsmy3aBLX1hgrA8pwjT0Q.jpg",
+   "date": "2026-11-08T07:49:41+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,64 +404,34 @@
    "date": "2026-11-07T07:27:17+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Endringer i klimaloven: – Ikke nok til å oppfylle statens menneskerettslige forpliktelser",
-   "source": "NRK Trøndelag",
-   "summary": "Norges institusjon for menneskerettigheter mener Norge risikerer å bryte internasjonale forpliktelser.",
-   "img": "https://gfx.nrk.no/i67XLIEg267dSyjPUaEyYwxG91EY8sY5OqNA-_AixI9g.jpg",
-   "date": "2026-11-06T16:58:26+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Tidligere MAGA-influenser til Demokratifestivalen",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/ZjU7vRV9O0AVc5RP3iqD_QU_7T2sonT_GNnDlHNKNwCg.jpg",
-   "date": "2026-11-06T18:05:11+00:00"
+   "title": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
+   "source": "NRK",
+   "summary": "I årevis har Bjørn Magnussen betalt av egen lomme for å kunne drive med idretten han elsker. Nå får han endelig lønn for strevet.",
+   "img": "https://gfx.nrk.no/wnvcwXprxMF6VgloJcxSBQEAIAM6DPZyIJ4LujhDjyQw.jpg",
+   "date": "2026-11-08T06:54:07+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Dana White takker nei til å bli Trumps pressesekretær",
+   "title": "Heidra av Versace og A$AP Rocky: Slik blei Haaland popkulturen sin yndling",
    "source": "NRK",
-   "summary": "President i kampsportforbundet UFC, Dana White, takker nei til tilbudet fra Donald Trump om å bli ny pressesekretær i Det hvite hus, melder Reuters. Jobben som pressetalsperson har vært ledig siden Katie Zacharia sa opp 16. oktober etter bare fem dager i jobbe",
-   "img": "https://gfx.nrk.no/QjfvndBr-6-I1SCXFRon-gMXCkXlUvrH7ZHXQHgU8ebQ.jpg",
-   "date": "2026-11-07T21:42:17+00:00"
+   "summary": "Han har allereie erobra fotballverda. No blir han heidra av nokre av dei fremste mote- og kulturikona i verda.",
+   "img": "https://gfx.nrk.no/drdZw5BhrBCKcrb2kLKk-wAOUx07xLwaMES9is6llEyg.jpg",
+   "date": "2026-11-08T06:37:18+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
+   "title": "Reagerer på hijab i lærebok for seksåringer",
    "source": "NRK",
-   "summary": "Den norske tannlegeforening sier dette er en utfordring de tar på alvor.",
-   "img": "https://gfx.nrk.no/UHqUcB5S97u-e0-Ht--WNQlQKd-fdnRv6TQNu-ELSVgw.jpg",
-   "date": "2026-11-07T20:45:20+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Eisenkot får i oppdrag å danne regjering i Israel",
-   "source": "NRK",
-   "summary": "Israels president har gitt opposisjonsleder Gadi Eisenkot i oppdrag å prøve danne regjering. Hverken partiene som støtter statsminister Benjamin Netanyahu eller partiene som støtter Eisenkot fikk flertall ved valget 27. november. Netanyahus blokk fikk 53 plass",
-   "img": "",
-   "date": "2026-11-07T20:03:24+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Haaland-sjef i villrede: – Har aldri skjedd før",
-   "source": "NRK",
-   "summary": "Erling Braut Haalands sjef har mye å finne ut av etter å ha sett laget sitt slite mot Nottingham Forest.",
-   "img": "https://gfx.nrk.no/OEGXmRxMV3uKmAtpEEbaJgifXhdsPOgOqInKRso6_fsQ.jpg",
-   "date": "2026-11-07T19:25:54+00:00"
+   "summary": "En ny lærebok skal lære seksåringer om islam og respekt. Men illustrasjonene av jenter med hijab vekker reaksjoner.",
+   "img": "https://gfx.nrk.no/glL3AsLt_PK_IVtDH_h0Vw2BRRuyPHJMdGOJZDMMa_3w.jpg",
+   "date": "2026-11-08T06:37:15+00:00"
   }
  ]
 }
