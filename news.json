@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:18:29.552366+00:00",
+ "updated": "2026-11-08T15:26:22.724295+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -251,7 +251,7 @@
    "source": "Splash247",
    "summary": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country’s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey’s first offshore wind development programme",
    "img": "https://splash247.com/wp-content/uploads/2026/11/DeMar-Surveyor.jpg",
-   "date": "2026-11-06T12:00:00+00:00"
+   "date": "2026-11-06T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -297,11 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor unleashes second wave of subsea projects",
+   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
    "source": "Upstream Online",
    "summary": "",
    "img": "",
-   "date": "2026-11-06T10:06:08+00:00"
+   "date": "2026-11-05T04:50:30+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -407,31 +407,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
+   "title": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
    "source": "NRK",
-   "summary": "I årevis har Bjørn Magnussen betalt av egen lomme for å kunne drive med idretten han elsker. Nå får han endelig lønn for strevet.",
-   "img": "https://gfx.nrk.no/wnvcwXprxMF6VgloJcxSBQEAIAM6DPZyIJ4LujhDjyQw.jpg",
-   "date": "2026-11-08T06:54:07+00:00"
+   "summary": "– Det vil bli opprettet en straffesak, sier politiadvokat Erlend Bakke til NRK. Han er mistenkt for kroppskrenkelse og uberettiget adgang, sier han. Den mistenkte har ikke fått oppnevnt noen forsvarer i saken. – Det vil bli gjennomført avhør med partene, sier ",
+   "img": "",
+   "date": "2026-11-08T14:33:37+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Heidra av Versace og A$AP Rocky: Slik blei Haaland popkulturen sin yndling",
+   "title": "Marerittet fortsetter: Sogndal må ut i kvalifiseringsrunde",
    "source": "NRK",
-   "summary": "Han har allereie erobra fotballverda. No blir han heidra av nokre av dei fremste mote- og kulturikona i verda.",
-   "img": "https://gfx.nrk.no/drdZw5BhrBCKcrb2kLKk-wAOUx07xLwaMES9is6llEyg.jpg",
-   "date": "2026-11-08T06:37:18+00:00"
+   "summary": "Åsane og Raufoss rykker direkte ned til nivå tre i norsk fotball, mens Sogndal må ut i kvalifisering for å beholde plassen i Obos-ligaen, etter dramatiske sluttminutter.",
+   "img": "https://gfx.nrk.no/Y0a8hb2WOu4q3-zEbZNkXAXxAlyXZE3CbHnsKyv5I-jQ.jpg",
+   "date": "2026-11-08T13:55:42+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Reagerer på hijab i lærebok for seksåringer",
+   "title": "Kamp stoppet etter dramatikk på tribunen – én til sykehus",
    "source": "NRK",
-   "summary": "En ny lærebok skal lære seksåringer om islam og respekt. Men illustrasjonene av jenter med hijab vekker reaksjoner.",
-   "img": "https://gfx.nrk.no/glL3AsLt_PK_IVtDH_h0Vw2BRRuyPHJMdGOJZDMMa_3w.jpg",
-   "date": "2026-11-08T06:37:15+00:00"
+   "summary": "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser.",
+   "img": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6AhwXeTaktUvG7BlmSHsnkeg5Q.jpg",
+   "date": "2026-11-08T14:21:30+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Kongen fullførte maraton på tiden 4.43.01",
+   "source": "NRK",
+   "summary": "Kongen og kronprinsessen er deltakere i French Riviera Marathon, i Nice sør i Frankrike. Kong Haakon løp i mål på tiden 4.43.01, ifølge sporingstjenesten Trackanza. Det var TV 2 som meldte saken først. Et bilde viser kongen og kronprinsessen løpende ved siden ",
+   "img": "https://gfx.nrk.no/xGIqSPM_xvosBCR0gMcGagEUohUHlKyqzTIVLRcDBcgw.jpg",
+   "date": "2026-11-08T11:18:42+00:00"
   }
  ]
 }
