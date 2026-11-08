@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:26:22.724295+00:00",
+ "updated": "2026-11-08T19:51:15.702290+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -367,6 +367,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Skal sortere 360 tonn klær i året",
+   "source": "NRK Trøndelag",
+   "summary": "Nordmenn kaster tusenvis av tonn med klær hvert år. Nå skal et nytt sorteringsanlegg i Trondheim gi både tekstiler og mennesker en ny sjanse.",
+   "img": "https://gfx.nrk.no/PiPVxrt-jD8k7Mbl-B-xYQIYFI4weE0J-LUNXU_Nw7UQ.jpg",
+   "date": "2026-11-08T16:11:57+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Vil tappe ned elv for å lage kunstsnø: – Sjokkert over at det i det heile tatt går an å foreslå",
    "source": "NRK Trøndelag",
    "summary": "Trondheim kommune brukte millionar på å restaurere Leirelva. No søker kommunen sjølv om å få redusere vassføringa med meir enn 85 prosent.",
@@ -387,21 +397,41 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Nytt luftvern på plass i Norge",
+   "title": "Avslørte hemmeligheten til Europas minste sjøfugl: – Kunnskapen er svært begrenset",
    "source": "NRK Trøndelag",
-   "summary": "Det har mulighet til å skyte ut tre ulike typer missiler samtidig, og skal gi bedre beskyttelse av landet.",
-   "img": "https://gfx.nrk.no/P-7h1-IqHJZFKt6IU4ApRAJ8akI9HwdPjSsgrS1UUOnQ.jpg",
-   "date": "2026-11-07T19:25:07+00:00"
+   "summary": "Forskere har i flere år forsøkt å finne ut mer om den litt mystiske havsvalen, som hekker på kysten seint om høsten.",
+   "img": "https://gfx.nrk.no/INiPWjsEcynOiu9e07R_nwUxv8MloDHp17tY8JSif5Xg.jpg",
+   "date": "2026-11-07T08:40:46+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Fleire menn skal ha tatt på kvinne på utestad i Trondheim",
-   "source": "NRK Trøndelag",
-   "summary": "Ein mann i 30-åra blei tatt med i arresten etter hendinga.",
-   "img": "https://gfx.nrk.no/OIEuMyrtaRsoraFaU2JRmgoCGRN-vwCJjHWzb-78EGRw.jpg",
-   "date": "2026-11-07T07:27:17+00:00"
+   "title": "Mener spinnvill United-kamp ikke gir håp: – De er ikke i nærheten",
+   "source": "NRK",
+   "summary": "Det så lenge ut til at Manchester United skulle gå på nok et tap, men to mål på overtid reddet de fra en ny smell. Ekspertene lar seg likevel ikke overbevise.",
+   "img": "https://gfx.nrk.no/YNImXMlkEeeYdoWRSaY0Fw83sTDjaw5EmG3v71KqfWKg.jpg",
+   "date": "2026-11-08T18:30:21+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
+   "source": "NRK",
+   "summary": "­",
+   "img": "https://gfx.nrk.no/H9BqIzo5PXj7YVYzU9929wpg_pB5seFV8dqF4q3Spbug.jpg",
+   "date": "2026-11-08T18:21:25+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
+   "source": "NRK",
+   "summary": "Sigurd Støver falt gjennom tribunen på Romssa Arena.",
+   "img": "https://gfx.nrk.no/7yH2m4olExjhR982JMgGWgNC8aFDY2PF1azeh_yfkSpw.jpg",
+   "date": "2026-11-08T17:20:08+00:00"
   },
   {
    "tag": "Norge",
@@ -412,36 +442,6 @@
    "summary": "– Det vil bli opprettet en straffesak, sier politiadvokat Erlend Bakke til NRK. Han er mistenkt for kroppskrenkelse og uberettiget adgang, sier han. Den mistenkte har ikke fått oppnevnt noen forsvarer i saken. – Det vil bli gjennomført avhør med partene, sier ",
    "img": "",
    "date": "2026-11-08T14:33:37+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Marerittet fortsetter: Sogndal må ut i kvalifiseringsrunde",
-   "source": "NRK",
-   "summary": "Åsane og Raufoss rykker direkte ned til nivå tre i norsk fotball, mens Sogndal må ut i kvalifisering for å beholde plassen i Obos-ligaen, etter dramatiske sluttminutter.",
-   "img": "https://gfx.nrk.no/Y0a8hb2WOu4q3-zEbZNkXAXxAlyXZE3CbHnsKyv5I-jQ.jpg",
-   "date": "2026-11-08T13:55:42+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Kamp stoppet etter dramatikk på tribunen – én til sykehus",
-   "source": "NRK",
-   "summary": "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser.",
-   "img": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6AhwXeTaktUvG7BlmSHsnkeg5Q.jpg",
-   "date": "2026-11-08T14:21:30+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Kongen fullførte maraton på tiden 4.43.01",
-   "source": "NRK",
-   "summary": "Kongen og kronprinsessen er deltakere i French Riviera Marathon, i Nice sør i Frankrike. Kong Haakon løp i mål på tiden 4.43.01, ifølge sporingstjenesten Trackanza. Det var TV 2 som meldte saken først. Et bilde viser kongen og kronprinsessen løpende ved siden ",
-   "img": "https://gfx.nrk.no/xGIqSPM_xvosBCR0gMcGagEUohUHlKyqzTIVLRcDBcgw.jpg",
-   "date": "2026-11-08T11:18:42+00:00"
   }
  ]
 }
