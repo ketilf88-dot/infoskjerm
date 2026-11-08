@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:51:15.702290+00:00",
+ "updated": "2026-11-08T23:17:42.758367+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -407,10 +407,30 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mener spinnvill United-kamp ikke gir håp: – De er ikke i nærheten",
+   "title": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
    "source": "NRK",
-   "summary": "Det så lenge ut til at Manchester United skulle gå på nok et tap, men to mål på overtid reddet de fra en ny smell. Ekspertene lar seg likevel ikke overbevise.",
-   "img": "https://gfx.nrk.no/YNImXMlkEeeYdoWRSaY0Fw83sTDjaw5EmG3v71KqfWKg.jpg",
+   "summary": "I forrige uke krevde Norges Fotballforbund (NFF) en kontroll av tribunene i Norge. Tromsø gjorde rutinesjekk og sier at tribunen har vært godkjent for bruk.",
+   "img": "https://gfx.nrk.no/qujfU2_Xpg9A4Nr6OBOAQwbzsRA4gzahaPXexa_AxzVw.jpg",
+   "date": "2026-11-08T21:39:26+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Aursnes melder forfall til landslagssamlingen",
+   "source": "NRK",
+   "summary": "Det bekrefter fotballandslaget på X. «Fredrik Aursnes må melde forfall til kommende landslagssamling på grunn av lyskestrekk», skriver de. Inn i troppen kommer Hugo Vetlesen. Norge møter Wales og Danmark i Nasjonsligaen 14. og 17. november.",
+   "img": "https://gfx.nrk.no/6IW479TPVIrqXyKs1JzW6AWuC5odINlk-CF4kV5wtmIw.jpg",
+   "date": "2026-11-08T20:02:25+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Fikk nedrykksspørsmål: – Jeg liker ikke situasjonen",
+   "source": "NRK",
+   "summary": "To mål på overtid reddet Manchester United fra en ny smell. Etter kampslutt fikk Michael Carrick spørsmål om den dystre tabellsituasjonen.",
+   "img": "https://gfx.nrk.no/sbkDSiClI3TtCa4fg1iOSQbV7WQUIt3wq-xsgZIsceLA.jpg",
    "date": "2026-11-08T18:30:21+00:00"
   },
   {
@@ -422,26 +442,6 @@
    "summary": "­",
    "img": "https://gfx.nrk.no/H9BqIzo5PXj7YVYzU9929wpg_pB5seFV8dqF4q3Spbug.jpg",
    "date": "2026-11-08T18:21:25+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
-   "source": "NRK",
-   "summary": "Sigurd Støver falt gjennom tribunen på Romssa Arena.",
-   "img": "https://gfx.nrk.no/7yH2m4olExjhR982JMgGWgNC8aFDY2PF1azeh_yfkSpw.jpg",
-   "date": "2026-11-08T17:20:08+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
-   "source": "NRK",
-   "summary": "– Det vil bli opprettet en straffesak, sier politiadvokat Erlend Bakke til NRK. Han er mistenkt for kroppskrenkelse og uberettiget adgang, sier han. Den mistenkte har ikke fått oppnevnt noen forsvarer i saken. – Det vil bli gjennomført avhør med partene, sier ",
-   "img": "",
-   "date": "2026-11-08T14:33:37+00:00"
   }
  ]
 }
