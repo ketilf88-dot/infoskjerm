@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-09T02:49:15.782044+00:00",
+ "updated": "2026-11-09T10:37:20.431265+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "MORLD: EX. DIVIDEND NOK 0.50 TODAY",
+   "source": "Moreld ASA",
+   "summary": "Reference is made to the stock exchange announcements made by Moreld ASA on 5 November 2026 regarding the board of directors' resolution to distribute a cash dividend of NOK 0.50 per share for Q4 2026 and key information relating to the cash dividend.",
+   "img": "",
+   "date": "2026-11-09T07:30:06.832Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Lapse of Offer for Capricorn Energy plc",
+   "source": "DNO ASA",
+   "summary": "Not for release, publication or distribution, in whole or in part, directly or indirectly in, into or from any jurisdiction where to do so would constitute a violation of the relevant laws of such jurisdiction Please find attached the DNO ASA Announcement …",
+   "img": "",
+   "date": "2026-11-09T07:00:03.546Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DOF Group ASA - Contract extension for Skandi Mariner",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") is pleased to announce that the AHTS Skandi Mariner has had an option relating to its current contract declared. The contract was previously set to end in Q2 2027, and is now firm until Q3 2028.",
+   "img": "",
+   "date": "2026-11-09T06:17:03.246Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -54,34 +84,34 @@
    "date": "2026-11-05T11:04:49.537Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Successful sale of existing shares in Aker BP ASA",
-   "source": "Aker BP ASA",
-   "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, AUSTRALIA, CANADA, HONG KONG, JAPAN OR ANY JURISDICTION IN WHICH SUCH RELEASE, PUBLICATION OR DISTRIBUTION WOULD BE UNLAWFUL.",
-   "img": "",
-   "date": "2026-11-05T07:08:05.076Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DOF's 2017-built AHTS vessel lands contract extension through Q3 2028",
+   "source": "Offshore Energy",
+   "summary": "DOF Group has secured a contract extension for its 2017-built anchor handling tug supply (AHTS) vessel that will keep the vessel busy until the...",
+   "img": "https://www.offshore-energy.biz/api/media/file/skandi%20mariner-800x495.jpg?prefix=media",
+   "date": "2026-11-09T09:14:31+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Aker Solutions receives letter of award for engineering scope on the Maydan Mahzam project in Qatar",
-   "source": "Aker Solutions ASA",
-   "summary": "November 5, 2026 - Aker Solutions has received a letter of award (LOA) from PTSC Mechanical and Construction Limited Company (PTSC M&C) for a sizeable[1] contract for detail design work related to the redevelopment of the Maydan Mahzam oil field offshore …",
-   "img": "",
-   "date": "2026-11-05T07:00:20.196Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "SSE secures grid connection consent for third phase of 4.1 GW offshore wind project",
+   "source": "Offshore Energy",
+   "summary": "SSE Renewables has secured a marine licence from the UK’s Marine Management Organisation (MMO) for the export cable infrastructure of its Berwick...",
+   "img": "https://www.offshore-energy.biz/api/media/file/SSE-1-800x599.jpg?prefix=media",
+   "date": "2026-11-09T08:38:43+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Group ASA - Contract extension for Skandi Olinda",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") is pleased to announce one new long-term contract extension with Petrobras in Brazil.",
-   "img": "",
-   "date": "2026-11-05T06:11:02.995Z"
+   "title": "QatarEnergy buying 25% interest in Namibian offshore exploration license from Chevron",
+   "source": "Offshore Energy",
+   "summary": "Qatar’s state-owned oil & gas firm QatarEnergy has entered into an agreement with Chevron's Namibian subsidiary for the acquisition of a...",
+   "img": "https://www.offshore-energy.biz/api/media/file/qataren-692x800.jpg?prefix=media",
+   "date": "2026-11-09T08:21:12+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -132,36 +162,6 @@
    "summary": "This award comes ahead of a final investment decision (FID) for Venture Global's LNG expansion project in Louisiana, which is targeted for early 2027.",
    "img": "https://www.offshore-energy.biz/api/media/file/CP2-regulatory-Cam_15-scaled-800x334.jpg?prefix=media",
    "date": "2026-11-06T11:48:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Turkish marine survey specialist secures work on country’s first offshore wind site investigation program",
-   "source": "Offshore Energy",
-   "summary": "DenAr Ocean Engineering Services has been awarded a contract by Türkiye’s Ministry of Energy and Natural Resources (MENR) to carry out...",
-   "img": "https://www.offshore-energy.biz/api/media/file/DenAr%20Ocean%20Engineering%20Services%20-%20offshore%20wind%20sites-1-800x542.jpg?prefix=media",
-   "date": "2026-11-06T10:30:03+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "TotalEnergies locks in LNG supply from ADNOC and offtake deal with Chinese firm",
-   "source": "Offshore Energy",
-   "summary": "TotalEnergies is deepening its LNG footprint on both sides of its supply chain with new supply from the UAE and a long-term offtake deal in China.",
-   "img": "https://www.offshore-energy.biz/api/media/file/TotalEnergies-1500x640-800x341.jpg?prefix=media",
-   "date": "2026-11-06T09:59:40+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Fugro nets multi-year offshore wind contract in Germany",
-   "source": "Offshore Energy",
-   "summary": "Germany’s Federal Maritime and Hydrographic Agency (BSH) has awarded Fugro a multi-year framework agreement to carry out geotechnical site...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Geotechnical%20laboratory%20-%20Fugro-1-800x533.webp?prefix=media",
-   "date": "2026-11-06T09:35:22+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -247,21 +247,21 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "DenAr takes on Turkey’s first offshore wind seabed survey campaign",
+   "title": "Tende Energy hires rig for drilling work offshore Tunisia",
    "source": "Splash247",
-   "summary": "Turkish marine survey specialist DenAr Ocean Engineering Services has been selected by the country’s Ministry of Energy and Natural Resources to carry out geophysical and geotechnical seabed investigations for Turkey’s first offshore wind development programme",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/DeMar-Surveyor.jpg",
-   "date": "2026-11-06T11:00:00+00:00"
+   "summary": "Offshore drilling contractor Ocean Oilfield has secured a contract from Tende Energy to deploy its Ocean MVM jackup rig for a drilling campaign offshore Tunisia. The rig will be used for the Abiod well programme on the Maâmoura concession in the Gulf of Hammam",
+   "img": "https://splash247.com/wp-content/uploads/2024/07/Noble-Resolve.jpg",
+   "date": "2026-11-09T10:20:00+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "EnerMech picks up Chevron pipeline work off Equatorial Guinea",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Boluda buys Dutch offshore towage specialist",
    "source": "Splash247",
-   "summary": "UK-headquartered oilfield services specialist EnerMech has secured a contract from Chevron for pipeline pre-commissioning services on the Aseng gas development offshore Equatorial Guinea. The contract covers preparation of approximately 19 km of rigid producti",
-   "img": "https://splash247.com/wp-content/uploads/2025/10/EnerMech.jpg",
-   "date": "2026-11-06T10:00:00+00:00"
+   "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of the century-old family business, whose flee",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Muller-Dordrecht.jpg",
+   "date": "2026-11-09T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -324,16 +324,6 @@
    "date": "2026-11-04T16:26:08+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Oceaneering International Eyes New Opportunities in Offshore Markets",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-02T14:08:00+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -342,6 +332,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-05T22:40:30+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Oceaneering International Eyes New Opportunities in Offshore Markets",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-02T14:08:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -367,6 +367,26 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Tenåring til sykehus etter ATV-ulykke",
+   "source": "NRK Trøndelag",
+   "summary": "ATV-en skal ha rullet rundt på fylkesveien.",
+   "img": "https://gfx.nrk.no/Ymlf8N3MYKUBU4twnQpLHwGWxdNlW57L8wGNqltOvMKg.jpg",
+   "date": "2026-11-09T08:32:05+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
+   "source": "NRK Trøndelag",
+   "summary": "I årevis har Bjørn Magnussen betalt av egen lomme for å kunne drive med idretten han elsker. Nå får han endelig lønn for strevet.",
+   "img": "https://gfx.nrk.no/wnvcwXprxMF6VgloJcxSBQEAIAM6DPZyIJ4LujhDjyQw.jpg",
+   "date": "2026-11-08T06:54:07+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Skal sortere 360 tonn klær i året",
    "source": "NRK Trøndelag",
    "summary": "Nordmenn kaster tusenvis av tonn med klær hvert år. Nå skal et nytt sorteringsanlegg i Trondheim gi både tekstiler og mennesker en ny sjanse.",
@@ -384,64 +404,34 @@
    "date": "2026-11-08T07:36:52+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Utelivsbråk i Trøndelag i natt: Ti personar innbrakt til arresten",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet fortel om fleire ordensforstyrringar natt til søndag.",
-   "img": "https://gfx.nrk.no/Abjtc8e1TkCC66lHRuKnwwWhsmy3aBLX1hgrA8pwjT0Q.jpg",
-   "date": "2026-11-08T07:49:41+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Avslørte hemmeligheten til Europas minste sjøfugl: – Kunnskapen er svært begrenset",
-   "source": "NRK Trøndelag",
-   "summary": "Forskere har i flere år forsøkt å finne ut mer om den litt mystiske havsvalen, som hekker på kysten seint om høsten.",
-   "img": "https://gfx.nrk.no/INiPWjsEcynOiu9e07R_nwUxv8MloDHp17tY8JSif5Xg.jpg",
-   "date": "2026-11-07T08:40:46+00:00"
+   "title": "Haalands millionbok er på plass i hjembyen: – Jeg og sønnen min er litt impulsive",
+   "source": "NRK",
+   "summary": "Erling Braut Haaland setter nok en gang sitt preg på Bryne ved å gi bort norgeshistoriens dyreste bok. Superstjernen var med digitalt og oppfordret elevene til å lese alt de kan.",
+   "img": "https://gfx.nrk.no/958HAHj0jN4mUuwAwNjpLgWlgQJE8LTP59kPZcSdOCaQ.jpg",
+   "date": "2026-11-09T08:35:53+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
+   "title": "Statnett setter bremsene på for nye datasentre frem til sommeren 2027",
    "source": "NRK",
-   "summary": "I forrige uke krevde Norges Fotballforbund (NFF) en kontroll av tribunene i Norge. Tromsø gjorde rutinesjekk og sier at tribunen har vært godkjent for bruk.",
-   "img": "https://gfx.nrk.no/qujfU2_Xpg9A4Nr6OBOAQwbzsRA4gzahaPXexa_AxzVw.jpg",
-   "date": "2026-11-08T21:39:26+00:00"
+   "summary": "Statnett innfører en midlertidig stans av ytterligere reservasjon av nettkapasitet til datasentre. Pausen gjelder nye søknader, slik at Statnett og myndighetene rekker å lage klare tekniske krav før flere slipper til. Den midlertidige stansen vil vare til sene",
+   "img": "https://gfx.nrk.no/OFVxdtUtMYV01_bG1jyjEQw6Vnho6O7kXQ8kjL6KOEmA.jpg",
+   "date": "2026-11-09T07:49:10+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Aursnes melder forfall til landslagssamlingen",
+   "title": "Tribunekollapser skaper bekymring i norsk fotball: – Kan få alvorlige konsekvenser",
    "source": "NRK",
-   "summary": "Det bekrefter fotballandslaget på X. «Fredrik Aursnes må melde forfall til kommende landslagssamling på grunn av lyskestrekk», skriver de. Inn i troppen kommer Hugo Vetlesen. Norge møter Wales og Danmark i Nasjonsligaen 14. og 17. november.",
-   "img": "https://gfx.nrk.no/6IW479TPVIrqXyKs1JzW6AWuC5odINlk-CF4kV5wtmIw.jpg",
-   "date": "2026-11-08T20:02:25+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Fikk nedrykksspørsmål: – Jeg liker ikke situasjonen",
-   "source": "NRK",
-   "summary": "To mål på overtid reddet Manchester United fra en ny smell. Etter kampslutt fikk Michael Carrick spørsmål om den dystre tabellsituasjonen.",
-   "img": "https://gfx.nrk.no/sbkDSiClI3TtCa4fg1iOSQbV7WQUIt3wq-xsgZIsceLA.jpg",
-   "date": "2026-11-08T18:30:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
-   "source": "NRK",
-   "summary": "­",
-   "img": "https://gfx.nrk.no/H9BqIzo5PXj7YVYzU9929wpg_pB5seFV8dqF4q3Spbug.jpg",
-   "date": "2026-11-08T18:21:25+00:00"
+   "summary": "Den alvorlige hendelsen på tribunen i Tromsø var foreløpig siste tilfelle. Men det er slett ikke første gang ting kollapser på norske tribuner denne sesongen.",
+   "img": "https://gfx.nrk.no/htiemylC-22Pt8dxfZIASgB1P8z2JEzG5_tcn2kpcgpA.jpg",
+   "date": "2026-11-09T07:03:43+00:00"
   }
  ]
 }
