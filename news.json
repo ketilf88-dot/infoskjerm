@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-09T10:37:20.431265+00:00",
+ "updated": "2026-11-09T21:04:06.012578+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Notification of claim received in connection with tender for contract",
+   "source": "Reach Subsea ASA",
+   "summary": "Haugesund, 9 November 2026 - Reach Subsea AS, a wholly owned subsidiary of Reach Subsea ASA, has been served with a statement of claim from Statnett SF. Statnett claims damages of up to NOK 158.5 million plus interest.",
+   "img": "",
+   "date": "2026-11-09T19:15:38.255Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Reach Subsea ASA - Invitation to presentation of the third quarter results 2026 ",
+   "source": "Reach Subsea ASA",
+   "summary": "Haugesund, 09 November 2026 - Reach Subsea ASA will publish its financial results for the third quarter 2026 on Tuesday 17 November 2026 at 07:00 CET.",
+   "img": "",
+   "date": "2026-11-09T12:05:56.272Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,24 +84,34 @@
    "date": "2026-11-05T14:56:12.406Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "EIOF - Invitation to presentation of Q3 2026 results",
-   "source": "Eidesvik Offshore ASA",
-   "summary": "Eidesvik Offshore ASA will release its Q3 2026 report on 12 November 2026. The report will be available at www.eidesvik.no and www.newsweb.no.",
-   "img": "",
-   "date": "2026-11-05T13:00:00.000Z"
+   "title": "Wavepiston inks new deals in Barbados and Martinique for wave energy",
+   "source": "Offshore Energy",
+   "summary": "Danish wave energy firm Wavepiston has signed new deals in Barbados and Martinique related to the development of its projects in these two...",
+   "img": "https://www.offshore-energy.biz/api/media/file/wavepiston-800x469.jpg?prefix=media",
+   "date": "2026-11-09T13:32:00+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Heerema renews Fugro deal for offshore survey and positioning services",
+   "source": "Offshore Energy",
+   "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Fugro-1-800x450.webp?prefix=media",
+   "date": "2026-11-09T12:05:08+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Subsea7 - Sale of heavy transportation business",
-   "source": "Subsea 7 S.A.",
-   "summary": "Luxembourg - 5 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced an agreement for the sale, by Seaway7, part of the Subsea7 Group, of its heavy transportation business(1) to HEA Energy.",
-   "img": "",
-   "date": "2026-11-05T11:04:49.537Z"
+   "title": "Thanks to good results, Vaalco proceeds to second exploration phase at block off Côte d'Ivoire",
+   "source": "Offshore Energy",
+   "summary": "Houston-based Vaalco Energy has completed the first exploration phase at its block offshore Côte d'Ivoire and is now proceeding to the second...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Thanks%20to%20good%20results%2C%20Vaalco%20proceeds%20to%20second%20exploration%20phase%20at%20block%20off%20C%C3%B4te%20d%27Ivoire-800x534.png?prefix=media",
+   "date": "2026-11-09T10:58:19+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -132,36 +162,6 @@
    "summary": "PTTEP, TotalEnergies, KUFPEC, and Petronas have sealed a deal to co-develop gas fields off the coast of Sarawak, Malaysia.",
    "img": "https://www.offshore-energy.biz/api/media/file/PTTEP-800x533.png?prefix=media",
    "date": "2026-11-06T14:30:17+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Tubular package provider selected for first commercial gas project off Cyprus",
-   "source": "Offshore Energy",
-   "summary": "Luxembourg-headquartered Tenaris has secured contracts to supply oil country tubular goods (OCTG), line pipe and coating services for Cyprus's...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Tubular%20package%20provider%20selected%20for%20first%20commercial%20gas%20project%20off%20Cyprus-800x422.jpg?prefix=media",
-   "date": "2026-11-06T13:49:39+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Nexans to deliver 420 kilometers of cable for Greek interconnection",
-   "source": "Offshore Energy",
-   "summary": "Nexans has signed a subcontract with Hellenic Cables, in consortium with Asso.subsea, to deliver the 110 kV cable system for the Corinth-Kos HVDC...",
-   "img": "https://www.offshore-energy.biz/api/media/file/nexans-1-800x448.jpg?prefix=media",
-   "date": "2026-11-06T12:45:03+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Worley on EPC duty at Venture Global's US LNG expansion project",
-   "source": "Offshore Energy",
-   "summary": "This award comes ahead of a final investment decision (FID) for Venture Global's LNG expansion project in Louisiana, which is targeted for early 2027.",
-   "img": "https://www.offshore-energy.biz/api/media/file/CP2-regulatory-Cam_15-scaled-800x334.jpg?prefix=media",
-   "date": "2026-11-06T11:48:27+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -247,6 +247,46 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
+   "title": "Splash Crew launches to put seafarers at the heart of maritime news",
+   "source": "Splash247",
+   "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime technology companies worldwide. The new publi",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Splash-Crew-Homepage.jpg",
+   "date": "2026-11-09T20:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "PowerChina picks up trio of offshore wind contracts",
+   "source": "Splash247",
+   "summary": "PowerChina’s East China Engineering Institute has secured three offshore wind survey and engineering design contracts in China worth a combined RMB124.23m ($17.5m). The awards cover the 308MW China Resources Xiangshui H3-2 project in Jiangsu province, the 302.",
+   "img": "https://splash247.com/wp-content/uploads/2020/12/China-Offshore-Wind-CTG.jpg",
+   "date": "2026-11-09T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Sinopec awards offshore platform and pipeline contract in China",
+   "source": "Splash247",
+   "summary": "Chinese energy giant Sinopec has awarded an engineering, procurement and construction contract for the Weizhou oilfield expansion in the Beibu Gulf, involving a new offshore processing platform, subsea pipelines, and fibre-optic cables. The contract was awarde",
+   "img": "https://splash247.com/wp-content/uploads/2024/06/AI-offshore-platform.jpg",
+   "date": "2026-11-09T11:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "DOF wins more AHTS work offshore Canada",
+   "source": "Splash247",
+   "summary": "Norwegian offshore vessel owner DOF has secured a contract extension for its anchor handling tug supply (AHTS) vessel Skandi Mariner, which is working offshore Canada. The company said an option under the vessel’s existing charter had been exercised, extending",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/MarineTraffic-Leo-Lohofener-Skandi-Mariner-DOF.jpg",
+   "date": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
    "title": "Tende Energy hires rig for drilling work offshore Tunisia",
    "source": "Splash247",
    "summary": "Offshore drilling contractor Ocean Oilfield has secured a contract from Tende Energy to deploy its Ocean MVM jackup rig for a drilling campaign offshore Tunisia. The rig will be used for the Abiod well programme on the Maâmoura concession in the Gulf of Hammam",
@@ -262,16 +302,6 @@
    "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of the century-old family business, whose flee",
    "img": "https://splash247.com/wp-content/uploads/2026/11/Muller-Dordrecht.jpg",
    "date": "2026-11-09T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Subsea7 wins Aker BP Lyra contract offshore Norway",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-02T16:03:47+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,31 +357,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Murphy takes operatorship of two offshore Mauritania PSCs",
-   "source": "Offshore Magazine",
+   "title": "QatarEnergy, Chevron Expand Exploration Partnership offshore Namibia",
+   "source": "Rigzone",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T22:40:30+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Oceaneering International Eyes New Opportunities in Offshore Markets",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-02T14:08:00+00:00"
+   "date": "2026-11-09T12:51:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "ADES Lands New Offshore Drilling Rig Deals in Angola and Indonesia",
-   "source": "Offshore Engineer Magazine",
+   "title": "Murphy takes operatorship of two offshore Mauritania PSCs",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-03T09:44:15+00:00"
+   "date": "2026-11-05T22:40:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -362,6 +382,36 @@
    "summary": "",
    "img": "",
    "date": "2026-11-03T07:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "CM Energy to Supply Cable Lay Equipment for Asso.subsea Vessel",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-06T13:00:50+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Gir seg som dirigent for det suksessfulle koret etter 40 år",
+   "source": "NRK Trøndelag",
+   "summary": "Fra å bli latterliggjort som damekor til å synge i Disneys verdenssuksess. Lørdag ble 40 år med Cantus feiret i Nidarosdomen.",
+   "img": "https://gfx.nrk.no/UUj6kFBDD16WXx7m16Di1g6di_ooU7Ry7OV65qS4T7DA.jpg",
+   "date": "2026-11-09T12:27:48+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Krystallnatta markert i Trondheim",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
+   "date": "2026-11-09T18:01:03+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,54 +434,44 @@
    "date": "2026-11-08T06:54:07+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Skal sortere 360 tonn klær i året",
-   "source": "NRK Trøndelag",
-   "summary": "Nordmenn kaster tusenvis av tonn med klær hvert år. Nå skal et nytt sorteringsanlegg i Trondheim gi både tekstiler og mennesker en ny sjanse.",
-   "img": "https://gfx.nrk.no/PiPVxrt-jD8k7Mbl-B-xYQIYFI4weE0J-LUNXU_Nw7UQ.jpg",
-   "date": "2026-11-08T16:11:57+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Vil tappe ned elv for å lage kunstsnø: – Sjokkert over at det i det heile tatt går an å foreslå",
-   "source": "NRK Trøndelag",
-   "summary": "Trondheim kommune brukte millionar på å restaurere Leirelva. No søker kommunen sjølv om å få redusere vassføringa med meir enn 85 prosent.",
-   "img": "https://gfx.nrk.no/ItagZY6pox8j7PXrOvg23AfyegN5YjavqyZQodNVqrbA.jpg",
-   "date": "2026-11-08T07:36:52+00:00"
+   "title": "Ble nabolagets helt: Eliah (19) reddet både hund og hus fra brann",
+   "source": "NRK",
+   "summary": "Hele to ganger måtte Eliah Biering-Strand (19) løpe inn i det røykfylte nabohuset: – Hero, sier naboen.",
+   "img": "https://gfx.nrk.no/So1yzSvox0m1K2ER_AMI8AkWBlcewygnh9rJ2EK2GF8g.jpg",
+   "date": "2026-11-09T20:39:16+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Haalands millionbok er på plass i hjembyen: – Jeg og sønnen min er litt impulsive",
+   "title": "Moesgaard med tirade etter Vålerenga-tap: – Sjokkerende lite beskyttende overfor spillerne",
    "source": "NRK",
-   "summary": "Erling Braut Haaland setter nok en gang sitt preg på Bryne ved å gi bort norgeshistoriens dyreste bok. Superstjernen var med digitalt og oppfordret elevene til å lese alt de kan.",
-   "img": "https://gfx.nrk.no/958HAHj0jN4mUuwAwNjpLgWlgQJE8LTP59kPZcSdOCaQ.jpg",
-   "date": "2026-11-09T08:35:53+00:00"
+   "summary": "For bare tre dager siden måtte flere Vålerenga-spillere få intravenøs behandling, ifølge Johannes Moesgaard. Etter tapet mot Kristiansund raste VIF-treneren mot at kampen i det hele tatt ble spilt.",
+   "img": "https://gfx.nrk.no/evGnXuRFNhpZz3vLWwJ09wCVegf9tf_qLFrytHXpZUZQ.jpg",
+   "date": "2026-11-09T20:13:32+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Statnett setter bremsene på for nye datasentre frem til sommeren 2027",
+   "title": "Republikaner fremmer riksrettsforslag mot forsvarsminister Pete Hegseth",
    "source": "NRK",
-   "summary": "Statnett innfører en midlertidig stans av ytterligere reservasjon av nettkapasitet til datasentre. Pausen gjelder nye søknader, slik at Statnett og myndighetene rekker å lage klare tekniske krav før flere slipper til. Den midlertidige stansen vil vare til sene",
-   "img": "https://gfx.nrk.no/OFVxdtUtMYV01_bG1jyjEQw6Vnho6O7kXQ8kjL6KOEmA.jpg",
-   "date": "2026-11-09T07:49:10+00:00"
+   "summary": "Republikaneren Thomas Massie har levert et riksrettsforslag mot forsvarsminister Pete Hegseth i Representantenes hus. Han varslet i september at han vil fremme riksrettsforslag mot Hegseth for maktmisbruk da Iran-krigen startet. Massie er den republikaneren i ",
+   "img": "",
+   "date": "2026-11-09T19:34:03+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tribunekollapser skaper bekymring i norsk fotball: – Kan få alvorlige konsekvenser",
+   "title": "Vil ha forbud i norsk fotball etter tribunekollaps: – En stor skandale",
    "source": "NRK",
-   "summary": "Den alvorlige hendelsen på tribunen i Tromsø var foreløpig siste tilfelle. Men det er slett ikke første gang ting kollapser på norske tribuner denne sesongen.",
-   "img": "https://gfx.nrk.no/htiemylC-22Pt8dxfZIASgB1P8z2JEzG5_tcn2kpcgpA.jpg",
-   "date": "2026-11-09T07:03:43+00:00"
+   "summary": "Norsk Supporterallianse reagerer kraftig på forholdene de møter på norske fotballtribuner. Nå vil de ha stillasene vekk.",
+   "img": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6Ahw0uDFQZFH2ZI2xUWqzFCSgg.jpg",
+   "date": "2026-11-09T19:32:34+00:00"
   }
  ]
 }
