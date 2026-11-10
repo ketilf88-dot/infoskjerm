@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:51:38.711698+00:00",
+ "updated": "2026-11-10T23:49:26.580290+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -174,6 +174,16 @@
    "date": "2026-11-10T09:06:27+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "U.S. Closes First Oil and Gas Production Loan Under Revamped Energy Financing Program",
+   "source": "gCaptain Offshore",
+   "summary": "The U.S. Department of Energy has closed a $480 million loan to modernize 22 offshore platforms in the Gulf of Mexico, marking the department’s first completed loan financing domestic oil...",
+   "img": "",
+   "date": "2026-11-10T19:46:23+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -244,14 +254,14 @@
    "date": "2026-10-26T16:17:46+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "UK Approves Long-delayed Jackdaw Gas Field on Energy Security Grounds",
-   "source": "gCaptain Offshore",
-   "summary": "LONDON, Oct 21 (Reuters) – Britain on Wednesday approved the Jackdaw North Sea gas field, ending years of legal and political wrangling as the Labour government seeks to balance its climate goals...",
-   "img": "",
-   "date": "2026-10-21T16:56:06+00:00"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "MSM: Shipmanagement’s next advantage will be trust not size",
+   "source": "Splash247",
+   "summary": "Consolidation is reshaping shipmanagement, but Faouzi Fradi, chief executive of MSM, does not believe getting bigger has to mean becoming more distant from owners, vessels or seafarers. MSM, formerly known as Maryam Shipmanagement, recently rebranded as part o",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Fradi-MSM.jpg",
+   "date": "2026-11-10T20:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -291,17 +301,7 @@
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:09+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T13:56:53+00:00"
+   "date": "2026-11-10T06:00:52+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -322,6 +322,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-07T00:11:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T13:56:53+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -367,21 +377,21 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Midtnytt: Det blir signing i Trondheim neste sommer",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-10T18:16:39+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
    "title": "Innfører Boligmerket i Trondheim: – Ønsker at leigemarknaden skal bli tryggare",
    "source": "NRK Trøndelag",
    "summary": "Ei merkeordning for trygge og gode utleigarar blir tatt i bruk i Trondheim i dag.",
    "img": "https://gfx.nrk.no/qaqOlA1aBdVGbIbbhsJd8wWy35s_lvR8R18b_zDDD3_A.jpg",
    "date": "2026-11-10T18:13:31+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Det blir signing i Trondheim neste sommer",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
+   "date": "2026-11-10T18:16:39+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -407,41 +417,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Strømsmell på årets dyreste dag: – Det er spinnvilt. Det er koko",
+   "title": "Latvias hær: Ber folk søke tilfluktsrom etter luftromstrussel",
    "source": "NRK",
-   "summary": "Strømprisen i Sør-Norge når tirsdag sitt høyeste nivå på ett år. For Aasmundsen bakeri i Telemark har strømregningen nesten doblet seg.",
-   "img": "https://gfx.nrk.no/Lg2S0NBL_5ogpmZOvKWxYgP3FQGjaWOi2sAvPv1GC9Ew.jpg",
-   "date": "2026-11-10T16:39:51+00:00"
+   "summary": "Folk i Ludza-regionen i Latvia, langs grensen til Belarus, bes om å gå i tilfluktsrom på grunn av luftromstrussel, opplyser Latvias hær. Det melder Reuters. Nato-kampfly på luftforsvarsoppdrag i Baltikum har rykket ut som respons på et objekt i Belarus som fly",
+   "img": "",
+   "date": "2026-11-10T22:05:14+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Komiker David Walliams anklaget for grooming",
+   "title": "Fortviler over støy fra basskasser: – Føles som hjertet stopper",
    "source": "NRK",
-   "summary": "Den britiske komikeren og skuespilleren David Walliams anklages av ei rekke kvinner for å ha brukt kjendisstatusen sin for å tilnærme seg unge kvinner seksuelt. Det skriver The Guardian og ITV News, som sammen har jobbet med saken. Minst to kvinner framholder ",
-   "img": "https://gfx.nrk.no/SHrcOihMRRwgOnTV2VdeVAFH1j9Re34ZGUqSHRuLt88Q.jpg",
-   "date": "2026-11-10T15:40:05+00:00"
+   "summary": "Naboer til Norges kanskje mest kjente rånerstripe forteller om årevis med forstyrret nattesøvn. Nå slår en ny støymåling fast at lyden naboene opplever kan være helseskadelig.",
+   "img": "https://gfx.nrk.no/DjUWfgXzM-3tyRueobqzIwXHJA1WMkMxaHVNXaezVUKg.jpg",
+   "date": "2026-11-10T21:00:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tok ordet foran Infantino: «Solbakken forsto kjapt at han hadde dummet seg ut»",
+   "title": "Bodø/Glimt truer egne supportere med advokat",
    "source": "NRK",
-   "summary": "Ståle Solbakken følte han måtte si klart ifra om VAR-bruken i VM. Det hele førte til at FIFA-presidenten forlot rommet, mener Norge-sjefen i dag.",
-   "img": "https://gfx.nrk.no/xM_9fDeIrhE-JhpstTYxzAJP4NhCfyGJwMO4sjkq4-8w.jpg",
-   "date": "2026-11-10T15:17:46+00:00"
+   "summary": "En logo-krangel mellom Bodø/Glimt og en supporterpodkast kan ende opp med å bli advokatmat.",
+   "img": "https://gfx.nrk.no/MD5f9h6SAJG1nAM_1B214w0n1j1H4IxUSIJN97KNuSMw.jpg",
+   "date": "2026-11-10T20:29:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Evakuerer folk etter kvikkleireskred – to kommuner isolert",
+   "title": "Fisk kjempet for livet i fire døgn: Anmeldt for dyremishandling",
    "source": "NRK",
-   "summary": "Et stort kvikkleireskred har kuttet veiforbindelsen til Båtsfjord, Berlevåg og deler av Tana. Bøndene må helle ut melk, og fiskeindustrien får ikke kjørt ut varer.",
-   "img": "https://gfx.nrk.no/Mlvahb9jMaBsUSuEVWVfMQ4h6TlDstZVaYBeTG9rd95g.jpg",
-   "date": "2026-11-10T08:41:10+00:00"
+   "summary": "Både kritisk truet ål og uønsket akvariefisk måtte lide da Veterinærinstituttets giftbehandling gikk galt.",
+   "img": "https://gfx.nrk.no/Vk4g6BRNEztmAVK7tunXZggDNFPsezrzUFcmhfVK2YKg.jpg",
+   "date": "2026-11-10T19:01:20+00:00"
   }
  ]
 }
