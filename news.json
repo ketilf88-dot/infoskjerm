@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:45:03.434574+00:00",
+ "updated": "2026-11-10T18:51:38.711698+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -94,6 +94,56 @@
    "date": "2026-11-06T07:00:09.485Z"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "North Sea quintet P&A ops done as Mermaid Subsea checks off decom mission",
+   "source": "Offshore Energy",
+   "summary": "Mermaid Subsea has wrapped up a plug and abandonment (P&A) campaign with an undisclosed North Sea operator in UK waters.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Island%20Valiant%20Source%20Mermaid%20Subsea-718x375.jpg?prefix=media",
+   "date": "2026-11-10T15:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
+   "source": "Offshore Energy",
+   "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784765647582-920x550-800x478.png?prefix=media",
+   "date": "2026-11-10T14:07:49+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "From basic wave data to trusted predictive decision support",
+   "source": "Offshore Energy",
+   "summary": "What turns a wave measurement into a prediction your crew can trust?",
+   "img": "https://www.offshore-energy.biz/api/media/file/miros-800x448.jpg?prefix=media",
+   "date": "2026-11-10T14:01:06+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "First oil from Southeast Asian offshore project flows sooner than expected",
+   "source": "Offshore Energy",
+   "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Petrovietnam-800x600.jpg?prefix=media",
+   "date": "2026-11-10T13:15:27+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
+   "source": "Offshore Energy",
+   "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Dogger%20Bank%20B%20substation%20installation%20-%20source%20Dogger%20Bank%20Wind%20Farm-1-800x450.webp?prefix=media",
+   "date": "2026-11-10T12:30:24+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -122,56 +172,6 @@
    "summary": "Swedish offshore survey company Njord Survey has won a contract with UK-based oil & gas player Energean for the provision of post-decommissioning...",
    "img": "https://www.offshore-energy.biz/api/media/file/Energean%20selects%20Swedish%20firm%20for%20post-decommissioning%20surveys%20in%20UK-800x537.jpg?prefix=media",
    "date": "2026-11-10T09:06:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Flexible room solutions for rent and sale for offshore and nearshore use — fast, safe, plug-and-play: Presenting ELA Container Offshore GmbH",
-   "source": "Offshore Energy",
-   "summary": "The global expansion of offshore wind energy continues unabated. New wind farms are being built at ever greater distances from the coast and...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Picture1-800x534.png?prefix=media",
-   "date": "2026-11-10T09:05:52+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Odfjell Drilling firms up multi-year rig deal with Vår Energi",
-   "source": "Offshore Energy",
-   "summary": "This secures firm work for the seven-year-old semi-submersible rig through 2031, with options extending to 2035.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1789077818271-1536x1150-800x599.png?prefix=media",
-   "date": "2026-11-10T08:06:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Wavepiston inks new deals in Barbados and Martinique for wave energy",
-   "source": "Offshore Energy",
-   "summary": "Danish wave energy firm Wavepiston has signed new deals in Barbados and Martinique related to the development of its projects in these two...",
-   "img": "https://www.offshore-energy.biz/api/media/file/wavepiston-800x469.jpg?prefix=media",
-   "date": "2026-11-09T13:32:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Heerema renews Fugro deal for offshore survey and positioning services",
-   "source": "Offshore Energy",
-   "summary": "Heerema Marine Contractors has extended its global framework agreement with Fugro for another four years. The agreement covers the provision of...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Fugro-1-800x450.webp?prefix=media",
-   "date": "2026-11-09T12:05:08+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Thanks to good results, Vaalco proceeds to second exploration phase at block off Côte d'Ivoire",
-   "source": "Offshore Energy",
-   "summary": "Houston-based Vaalco Energy has completed the first exploration phase at its block offshore Côte d'Ivoire and is now proceeding to the second...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Thanks%20to%20good%20results%2C%20Vaalco%20proceeds%20to%20second%20exploration%20phase%20at%20block%20off%20C%C3%B4te%20d%27Ivoire-800x534.png?prefix=media",
-   "date": "2026-11-09T10:58:19+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -254,6 +254,16 @@
    "date": "2026-10-21T16:56:06+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "UK offshore supply chain looks overseas for growth",
+   "source": "Splash247",
+   "summary": "The UK’s offshore energy supply chain is increasingly looking overseas for new business as uncertainty surrounding domestic projects threatens investment, jobs and specialist engineering capacity, according to a new industry report. Offshore Energies UK (OEUK)",
+   "img": "https://splash247.com/wp-content/uploads/2023/07/OEUK.jpg",
+   "date": "2026-11-10T12:00:00+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
@@ -264,34 +274,14 @@
    "date": "2026-11-10T11:00:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "China Energy Engineering wins offshore wind EPC contract",
-   "source": "Splash247",
-   "summary": "China Energy Engineering’s Guangdong Electric Power Design Institute has won an engineering, procurement, and construction (EPC) contract to deliver offshore electrical infrastructure for two wind farms totalling 800MW off China’s Guangdong province. The award",
-   "img": "https://splash247.com/wp-content/uploads/2024/11/Bureau-Veritas-offshore-wind-1.jpg",
-   "date": "2026-11-10T10:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Splash Crew launches to put seafarers at the heart of maritime news",
-   "source": "Splash247",
-   "summary": "Splash Maritime Group has unveiled Splash Crew, its latest specialist news platform, with the ambition of becoming essential daily reading for seafarers, crewing professionals, shipmanagers, regulators and maritime technology companies worldwide. The new publi",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Splash-Crew-Homepage.jpg",
-   "date": "2026-11-10T08:00:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
    "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "Morningstar",
+   "source": "SLB",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T12:49:00+00:00"
+   "date": "2026-11-05T13:44:47+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -301,7 +291,7 @@
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:02:59+00:00"
+   "date": "2026-11-10T06:00:09+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -377,81 +367,81 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Gir seg som dirigent for det suksessfulle koret etter 40 år",
-   "source": "NRK Trøndelag",
-   "summary": "Fra å bli latterliggjort som damekor til å synge i Disneys verdenssuksess. Lørdag ble 40 år med Cantus feiret i Nidarosdomen.",
-   "img": "https://gfx.nrk.no/UUj6kFBDD16WXx7m16Di1g6di_ooU7Ry7OV65qS4T7DA.jpg",
-   "date": "2026-11-09T12:27:48+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Krystallnatta markert i Trondheim",
+   "title": "Midtnytt: Det blir signing i Trondheim neste sommer",
    "source": "NRK Trøndelag",
    "summary": "",
    "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-09T18:01:03+00:00"
+   "date": "2026-11-10T18:16:39+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Tenåring til sykehus etter ATV-ulykke",
+   "title": "Innfører Boligmerket i Trondheim: – Ønsker at leigemarknaden skal bli tryggare",
    "source": "NRK Trøndelag",
-   "summary": "ATV-en skal ha rullet rundt på fylkesveien.",
-   "img": "https://gfx.nrk.no/Ymlf8N3MYKUBU4twnQpLHwGWxdNlW57L8wGNqltOvMKg.jpg",
-   "date": "2026-11-09T08:32:05+00:00"
+   "summary": "Ei merkeordning for trygge og gode utleigarar blir tatt i bruk i Trondheim i dag.",
+   "img": "https://gfx.nrk.no/qaqOlA1aBdVGbIbbhsJd8wWy35s_lvR8R18b_zDDD3_A.jpg",
+   "date": "2026-11-10T18:13:31+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
+   "title": "Bekrefter: Kongeparet skal signes i Nidarosdomen neste år",
    "source": "NRK Trøndelag",
-   "summary": "I årevis har Bjørn Magnussen betalt av egen lomme for å kunne drive med idretten han elsker. Nå får han endelig lønn for strevet.",
-   "img": "https://gfx.nrk.no/wnvcwXprxMF6VgloJcxSBQEAIAM6DPZyIJ4LujhDjyQw.jpg",
-   "date": "2026-11-08T06:54:07+00:00"
+   "summary": "Det nye kongeparet følger tradisjonen og gjør som sine forgjengere når de nå har valgt å signes i Nidarosdomen til sommeren.",
+   "img": "https://gfx.nrk.no/jNs2iH4sSEaGOquZrF-YnAYr1-hJnR1KGM88i6XsHPZA.jpg",
+   "date": "2026-11-10T15:01:24+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Lagar fiskemerdar av resirkulert plast: – Eit kinderegg",
+   "source": "NRK Trøndelag",
+   "summary": "Kvart år blir det sett ut 29.000 tonn plast i havet frå oppdrettsnæringa. Gjenbruk av plasten skal gi både klima- og beredskapsgevinst.",
+   "img": "https://gfx.nrk.no/u80H4zBpIWgXhaBukL1oOwpGj3uNTfuXbFd0LjD8sgnw.jpg",
+   "date": "2026-11-10T13:34:16+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "TV 2: Høibys anke forkastet",
+   "title": "Strømsmell på årets dyreste dag: – Det er spinnvilt. Det er koko",
    "source": "NRK",
-   "summary": "Marius Borg Høiby blir ikke løslatt fra varetekt. Høyesterett har forkastet anken hans, skriver TV 2. – Vi tar Høyesteretts beslutning til etterretning. Vi har ingen ytterligere kommentarer på nåværende tidspunkt, sier Høibys forsvarer Alexander Greaker til NR",
-   "img": "",
-   "date": "2026-11-10T11:16:13+00:00"
+   "summary": "Strømprisen i Sør-Norge når tirsdag sitt høyeste nivå på ett år. For Aasmundsen bakeri i Telemark har strømregningen nesten doblet seg.",
+   "img": "https://gfx.nrk.no/Lg2S0NBL_5ogpmZOvKWxYgP3FQGjaWOi2sAvPv1GC9Ew.jpg",
+   "date": "2026-11-10T16:39:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sykehusdrapet i Drammen: Erkjenner ikke straffskyld",
+   "title": "Komiker David Walliams anklaget for grooming",
    "source": "NRK",
-   "summary": "Mannen som er siktet etter knivdrapet på Drammen sykehus, mener han var utilregnelig.",
-   "img": "https://gfx.nrk.no/MqBhqPKCJe_rxttXKj14pAfG1R_hlxEJ8WIopULYAbXg.jpg",
-   "date": "2026-11-10T11:14:02+00:00"
+   "summary": "Den britiske komikeren og skuespilleren David Walliams anklages av ei rekke kvinner for å ha brukt kjendisstatusen sin for å tilnærme seg unge kvinner seksuelt. Det skriver The Guardian og ITV News, som sammen har jobbet med saken. Minst to kvinner framholder ",
+   "img": "https://gfx.nrk.no/SHrcOihMRRwgOnTV2VdeVAFH1j9Re34ZGUqSHRuLt88Q.jpg",
+   "date": "2026-11-10T15:40:05+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Prisene steg med 3,6 prosent i oktober",
+   "title": "Tok ordet foran Infantino: «Solbakken forsto kjapt at han hadde dummet seg ut»",
    "source": "NRK",
-   "summary": "Prisene steg med 3,6 prosent siste tolv måneder, viser tall fra SSB. Prisen på matvarer steg med 1,6 prosent i samme periode. Matvareprisene sank 0,4 prosent fra september til oktober. Kjerneinflasjonen siste 12 måneder var 2,7 prosent.",
-   "img": "",
-   "date": "2026-11-10T07:00:33+00:00"
+   "summary": "Ståle Solbakken følte han måtte si klart ifra om VAR-bruken i VM. Det hele førte til at FIFA-presidenten forlot rommet, mener Norge-sjefen i dag.",
+   "img": "https://gfx.nrk.no/xM_9fDeIrhE-JhpstTYxzAJP4NhCfyGJwMO4sjkq4-8w.jpg",
+   "date": "2026-11-10T15:17:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Flere offentlige nettsider sliter med innlogging",
+   "title": "Evakuerer folk etter kvikkleireskred – to kommuner isolert",
    "source": "NRK",
-   "summary": "Det er problemer ID-porten som brukes til innlogging på offentlige digitale tjenester er også nede. Feilen rammer blant annet Helsenorge og Altinn. Brukere som forsøker å logge inn får feilmelding.",
-   "img": "",
-   "date": "2026-11-10T06:16:46+00:00"
+   "summary": "Et stort kvikkleireskred har kuttet veiforbindelsen til Båtsfjord, Berlevåg og deler av Tana. Bøndene må helle ut melk, og fiskeindustrien får ikke kjørt ut varer.",
+   "img": "https://gfx.nrk.no/Mlvahb9jMaBsUSuEVWVfMQ4h6TlDstZVaYBeTG9rd95g.jpg",
+   "date": "2026-11-10T08:41:10+00:00"
   }
  ]
 }
