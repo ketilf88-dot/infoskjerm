@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:04:06.012578+00:00",
+ "updated": "2026-11-10T03:30:37.634094+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -357,6 +357,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Offshore drilling gains momentum as operators advance projects from Mozambique to India",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-10T01:09:48+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "QatarEnergy, Chevron Expand Exploration Partnership offshore Namibia",
    "source": "Rigzone",
    "summary": "",
@@ -367,31 +377,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Murphy takes operatorship of two offshore Mauritania PSCs",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T22:40:30+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Chevron keeps ADES’ 2007-built jack-up rig busy in Angolan waters for another year",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
    "date": "2026-11-03T07:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "CM Energy to Supply Cable Lay Equipment for Asso.subsea Vessel",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-06T13:00:50+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -437,6 +427,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Mangel på fisk i Vest-Afrika - blir mat for norsk laks",
+   "source": "NRK",
+   "summary": "Garnet er nesten tomt. Langvarig overfiske øydelegg for småfiskarar i Vest-Afrika. Kvifor skjer det? Jakta på svar tek oss til Noreg.",
+   "img": "https://gfx.nrk.no/QB51b6HH65kDGbPcFj4bqQAUgch90VsDZN9FEt7NmxwQ.jpg",
+   "date": "2026-11-09T21:06:07+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Ble nabolagets helt: Eliah (19) reddet både hund og hus fra brann",
    "source": "NRK",
    "summary": "Hele to ganger måtte Eliah Biering-Strand (19) løpe inn i det røykfylte nabohuset: – Hero, sier naboen.",
@@ -462,16 +462,6 @@
    "summary": "Republikaneren Thomas Massie har levert et riksrettsforslag mot forsvarsminister Pete Hegseth i Representantenes hus. Han varslet i september at han vil fremme riksrettsforslag mot Hegseth for maktmisbruk da Iran-krigen startet. Massie er den republikaneren i ",
    "img": "",
    "date": "2026-11-09T19:34:03+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Vil ha forbud i norsk fotball etter tribunekollaps: – En stor skandale",
-   "source": "NRK",
-   "summary": "Norsk Supporterallianse reagerer kraftig på forholdene de møter på norske fotballtribuner. Nå vil de ha stillasene vekk.",
-   "img": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6Ahw0uDFQZFH2ZI2xUWqzFCSgg.jpg",
-   "date": "2026-11-09T19:32:34+00:00"
   }
  ]
 }
