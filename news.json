@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:49:26.580290+00:00",
+ "updated": "2026-11-11T03:45:17.247679+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -297,11 +297,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T13:56:53+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Britain throws weight behind idea for new subsea data link to Norway",
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:52+00:00"
+   "date": "2026-11-10T06:00:09+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -317,21 +327,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
-   "source": "Yahoo Finance",
+   "title": "Equinor opens marine robotics center to advance autonomous offshore inspection technologies",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-07T00:11:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T13:56:53+00:00"
+   "date": "2026-11-11T02:14:37+00:00"
   },
   {
    "tag": "Offshore · Afrika",
