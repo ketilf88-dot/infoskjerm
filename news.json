@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-11T03:45:17.247679+00:00",
+ "updated": "2026-11-11T11:34:11.985355+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Panoro Energy - Invitation to Third Quarter 2026 Results Presentation",
+   "source": "Panoro Energy ASA",
+   "summary": "Oslo, 11 November 2026 - The third quarter 2026 trading and financial update to be announced on Wednesday 18 November will be available on our website http://www.panoroenergy.com at 07:00 a.m. CET.",
+   "img": "",
+   "date": "2026-11-11T06:30:06.644Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Akastor ASA: Resultat for tredje kvartal 2026",
+   "source": "Akastor ASA",
+   "summary": "Høydepunkter fra tredje kvartal * Utbytte på NOK 2,50 per aksje vedtatt, basert på kontantutbetaling fra NES Fircroft og salget av Skandi Peregrino i oktober.",
+   "img": "",
+   "date": "2026-11-11T06:00:31.661Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Akastor ASA: Declaration of cash dividend",
+   "source": "Akastor ASA",
+   "summary": "Fornebu, 11 November 2026 - Akastor ASA's (OSE: AKAST) board of directors has today, based on the authorisation granted by the General Meeting on 14 April 2026, decided to pay a cash dividend to Akastor ASA's shareholders of NOK 2.50 per share (in total about …",
+   "img": "",
+   "date": "2026-11-11T06:00:07.358Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -37,16 +67,6 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Reach Subsea ASA - Invitation to presentation of the third quarter results 2026 ",
-   "source": "Reach Subsea ASA",
-   "summary": "Haugesund, 09 November 2026 - Reach Subsea ASA will publish its financial results for the third quarter 2026 on Tuesday 17 November 2026 at 07:00 CET.",
-   "img": "",
-   "date": "2026-11-09T12:05:56.272Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "MORLD: EX. DIVIDEND NOK 0.50 TODAY",
    "source": "Moreld ASA",
    "summary": "Reference is made to the stock exchange announcements made by Moreld ASA on 5 November 2026 regarding the board of directors' resolution to distribute a cash dividend of NOK 0.50 per share for Q4 2026 and key information relating to the cash dividend.",
@@ -64,34 +84,44 @@
    "date": "2026-11-09T07:00:03.546Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "DOF Group ASA - Contract extension for Skandi Mariner",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") is pleased to announce that the AHTS Skandi Mariner has had an option relating to its current contract declared. The contract was previously set to end in Q2 2027, and is now firm until Q3 2028.",
-   "img": "",
-   "date": "2026-11-09T06:17:03.246Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
+   "source": "Offshore Energy",
+   "summary": "This ten-year agreement will enable ADNOC to supply up to 4 million tonnes of liquefied natural gas (LNG) to India's Gujarat Energy.",
+   "img": "https://www.offshore-energy.biz/api/media/file/wp-import-1784737767893-1536x829-800x432.jpg?prefix=media",
+   "date": "2026-11-11T11:09:55+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Havila Shipping ASA: Begjæring fra DNB, Swedbank og Danske Bank om utleggspant ",
-   "source": "Havila Shipping ASA",
-   "summary": "Det vises til børsmelding 19. oktober 2026 om at selskapet ikke fikk medhold i Borgarting Lagmannsrett mot DNB Bank ASA, Swedbank AB (publ) og Danske Bank A/S NUF. Det vises også til børsmelding 12.",
-   "img": "",
-   "date": "2026-11-06T11:55:36.815Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Main construction starts on central part of interconnection between Western Isles and UK",
+   "source": "Offshore Energy",
+   "summary": "SSEN Transmission has started main construction of the Lewis Hub project, a central part of the interconnector that will link the Scottish...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Main%20construction%20starts%20on%20key%20part%20of%20interconnection%20between%20Western%20Isles%20and%20UK-800x533.jpg?prefix=media",
+   "date": "2026-11-11T10:25:12+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "ADES rig duo picks up multimillion-dollar assignments offshore India",
+   "source": "Offshore Energy",
+   "summary": "Two of ADES’ jack-up rigs have secured multi-year contracts with Oil and Natural Gas Corporation (ONGC).",
+   "img": "https://www.offshore-energy.biz/api/media/file/ades-800x533.png?prefix=media",
+   "date": "2026-11-11T10:17:59+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Moreld ASA: Ocean Installer receives significant commitment for expanded scope on existing project",
-   "source": "Moreld ASA",
-   "summary": "Stavanger, 6 November: Ocean Installer AS, a wholly owned subsidiary of Moreld ASA, has received a new significant* commitment expanding the scope on an existing project.",
-   "img": "",
-   "date": "2026-11-06T07:00:09.485Z"
+   "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
+   "source": "Offshore Energy",
+   "summary": "This hydrocarbon discovery in a carbonate reservoir off Ghana's coast is unlocking new potential for the country’s upstream sector.",
+   "img": "https://www.offshore-energy.biz/api/media/file/GWP-Source%20Ghana%20National%20Petroleum%20Corporation-800x512.png?prefix=media",
+   "date": "2026-11-11T08:16:26+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -132,46 +162,6 @@
    "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
    "img": "https://www.offshore-energy.biz/api/media/file/Petrovietnam-800x600.jpg?prefix=media",
    "date": "2026-11-10T13:15:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Ofgem names preferred bidder for Dogger Bank B offshore transmission assets",
-   "source": "Offshore Energy",
-   "summary": "A consortium of Diamond Transmission UK (DTUK) and Japan’s Chubu Electric Power has been selected as the preferred bidder to acquire and operate...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Dogger%20Bank%20B%20substation%20installation%20-%20source%20Dogger%20Bank%20Wind%20Farm-1-800x450.webp?prefix=media",
-   "date": "2026-11-10T12:30:24+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Seabed monitoring starts at UK CCS project to prepare for CO2 injection",
-   "source": "Offshore Energy",
-   "summary": "Six lander systems have been installed at the Northern Endurance Partnership (NEP) project, the UK's first commercial-scale offshore carbon...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Seabed%20monitoring%20starts%20at%20UK%20CCS%20project%20to%20prepare%20for%20CO2%20injection-800x603.jpg?prefix=media",
-   "date": "2026-11-10T10:22:55+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "$313.6 million deal takes ADNOC Drilling’s rig duo beyond UAE waters to Kuwait",
-   "source": "Offshore Energy",
-   "summary": "ADNOC Drilling has lined up multimillion-dollar jobs for two jack-ups, marking its first offshore rig operations outside the UAE.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Jack%20up%20-%20KOC-800x463.png?prefix=media",
-   "date": "2026-11-10T09:32:05+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Energean selects Swedish firm for post-decommissioning surveys in UK",
-   "source": "Offshore Energy",
-   "summary": "Swedish offshore survey company Njord Survey has won a contract with UK-based oil & gas player Energean for the provision of post-decommissioning...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Energean%20selects%20Swedish%20firm%20for%20post-decommissioning%20surveys%20in%20UK-800x537.jpg?prefix=media",
-   "date": "2026-11-10T09:06:27+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -257,31 +247,21 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "MSM: Shipmanagement’s next advantage will be trust not size",
+   "title": "UK taps Ocean Infinity for subsea security push",
    "source": "Splash247",
-   "summary": "Consolidation is reshaping shipmanagement, but Faouzi Fradi, chief executive of MSM, does not believe getting bigger has to mean becoming more distant from owners, vessels or seafarers. MSM, formerly known as Maryam Shipmanagement, recently rebranded as part o",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Fradi-MSM.jpg",
-   "date": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "UK offshore supply chain looks overseas for growth",
-   "source": "Splash247",
-   "summary": "The UK’s offshore energy supply chain is increasingly looking overseas for new business as uncertainty surrounding domestic projects threatens investment, jobs and specialist engineering capacity, according to a new industry report. Offshore Energies UK (OEUK)",
-   "img": "https://splash247.com/wp-content/uploads/2023/07/OEUK.jpg",
-   "date": "2026-11-10T12:00:00+00:00"
+   "summary": "UK-based marine robotics specialist Ocean Infinity has been selected as the Royal Navy’s commercial mission partner for a new underwater surveillance programme backed by an initial £90m ($120m) investment. The company will work with the Royal Navy to develop A",
+   "img": "https://splash247.com/wp-content/uploads/2024/05/Armada-Ocean-Infinity.jpg",
+   "date": "2026-11-11T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Energean taps Njord Survey for North Sea decom work",
+   "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
    "source": "Splash247",
-   "summary": "Swedish marine survey specialist Njord Survey has secured a contract from Energean to undertake post-decommissioning seabed surveys at three gas fields in the southern North Sea. The contract covers Wenlock, Garrow, and Kilmar, where survey work will assess th",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Wenlock-Energean-ODE-Asset-Management.jpg",
-   "date": "2026-11-10T11:00:00+00:00"
+   "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North Sea. The contract covers integrated subsu",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Jasmine-platform-Viking-CCS.jpg",
+   "date": "2026-11-11T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -297,21 +277,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
-   "source": "Offshore Engineer Magazine",
+   "title": "Britain throws weight behind idea for new subsea data link to Norway",
+   "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T13:56:53+00:00"
+   "date": "2026-11-10T06:00:52+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Britain throws weight behind idea for new subsea data link to Norway",
-   "source": "Financial Times",
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:09+00:00"
+   "date": "2026-11-05T13:56:53+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,11 +307,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor opens marine robotics center to advance autonomous offshore inspection technologies",
-   "source": "Offshore Magazine",
+   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-11-11T02:14:37+00:00"
+   "date": "2026-11-07T00:11:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -362,16 +342,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-09T12:51:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "QatarEnergy acquires 25pc stake in offshore Namibia exploration block",
-   "source": "TradeArabia",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-09T07:09:02+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -417,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Latvias hær: Ber folk søke tilfluktsrom etter luftromstrussel",
+   "title": "Oppretter sak mot Drammen sykehus etter drap",
    "source": "NRK",
-   "summary": "Folk i Ludza-regionen i Latvia, langs grensen til Belarus, bes om å gå i tilfluktsrom på grunn av luftromstrussel, opplyser Latvias hær. Det melder Reuters. Nato-kampfly på luftforsvarsoppdrag i Baltikum har rykket ut som respons på et objekt i Belarus som fly",
-   "img": "",
-   "date": "2026-11-10T22:05:14+00:00"
+   "summary": "Politiet ønsker å finne ut om sykehuset har gjort noe straffbart i forbindelse med at en mann ble drept på Drammen sykehus.",
+   "img": "https://gfx.nrk.no/MqBhqPKCJe_rxttXKj14pAfG1R_hlxEJ8WIopULYAbXg.jpg",
+   "date": "2026-11-11T11:25:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fortviler over støy fra basskasser: – Føles som hjertet stopper",
+   "title": "Landslagsprofilen om nedturen: – Går ut over hun hjemme",
    "source": "NRK",
-   "summary": "Naboer til Norges kanskje mest kjente rånerstripe forteller om årevis med forstyrret nattesøvn. Nå slår en ny støymåling fast at lyden naboene opplever kan være helseskadelig.",
-   "img": "https://gfx.nrk.no/DjUWfgXzM-3tyRueobqzIwXHJA1WMkMxaHVNXaezVUKg.jpg",
-   "date": "2026-11-10T21:00:00+00:00"
+   "summary": "Etter et strålende VM har Torbjørn Heggem møtt motgang på klubblaget, det har også samboeren hans fått kjenne på. NRK-ekspert mener at nordmannen kan være på utkikk etter ny klubb.",
+   "img": "https://gfx.nrk.no/-VfKXoL9PrrGDYYCuWMTng_wUyEZY8RVNApB-QSwLt6Q.jpg",
+   "date": "2026-11-11T09:53:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bodø/Glimt truer egne supportere med advokat",
+   "title": "Overgrepssiktet lokalpolitiker løslatt etter 42 uker",
    "source": "NRK",
-   "summary": "En logo-krangel mellom Bodø/Glimt og en supporterpodkast kan ende opp med å bli advokatmat.",
-   "img": "https://gfx.nrk.no/MD5f9h6SAJG1nAM_1B214w0n1j1H4IxUSIJN97KNuSMw.jpg",
-   "date": "2026-11-10T20:29:24+00:00"
+   "summary": "Politiet mener politikeren har utnyttet 49 barn, og mener det er fare for nye seksuelle overgrep. Retten er uenig.",
+   "img": "https://gfx.nrk.no/nwsVKFNSpmDpoWUxjMf-rAUCx39SJlk0RjJ2Zd99WrLw.jpg",
+   "date": "2026-11-11T09:10:32+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fisk kjempet for livet i fire døgn: Anmeldt for dyremishandling",
+   "title": "Sykehus må kutte: Punger ut så topp­­sjefene kan pendle til jobb",
    "source": "NRK",
-   "summary": "Både kritisk truet ål og uønsket akvariefisk måtte lide da Veterinærinstituttets giftbehandling gikk galt.",
-   "img": "https://gfx.nrk.no/Vk4g6BRNEztmAVK7tunXZggDNFPsezrzUFcmhfVK2YKg.jpg",
-   "date": "2026-11-10T19:01:20+00:00"
+   "summary": "Mens sykehuset i Finnmark kutter stillinger og sengeplasser for å spare penger, får toppsjefene gratis flypendling, bolig og hotellopphold.",
+   "img": "https://gfx.nrk.no/z1jGOIPnFDBuBsLsBymcagCWyJB83NkR1XevFSvfrOug.jpg",
+   "date": "2026-11-11T04:18:25+00:00"
   }
  ]
 }
