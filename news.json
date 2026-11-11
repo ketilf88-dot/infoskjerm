@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-11T11:34:11.985355+00:00",
+ "updated": "2026-11-11T18:52:00.047154+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DOF Group ASA - Contract award and extension",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") is pleased to announce a 7-year contract for one of its smaller construction support vessels (CSV) including ROV services. The contract adds approximately USD 110 million to DOF's backlog.",
+   "img": "",
+   "date": "2026-11-11T15:47:15.437Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Vår Energi ASA: Extraordinary general meeting held",
+   "source": "Vår Energi ASA",
+   "summary": "Sandnes, Norway, 11 November 2026: The extraordinary general meeting of Vår Energi ASA (the \"Company\", OSE: VAR) was held today, 11 November 2026, at 15:00 CET. The meeting was held as a digital event.",
+   "img": "",
+   "date": "2026-11-11T14:32:56.828Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,24 +84,34 @@
    "date": "2026-11-09T19:15:38.255Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "MORLD: EX. DIVIDEND NOK 0.50 TODAY",
-   "source": "Moreld ASA",
-   "summary": "Reference is made to the stock exchange announcements made by Moreld ASA on 5 November 2026 regarding the board of directors' resolution to distribute a cash dividend of NOK 0.50 per share for Q4 2026 and key information relating to the cash dividend.",
-   "img": "",
-   "date": "2026-11-09T07:30:06.832Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Reservoir upside ups Amplitude Energy’s East Coast gas ante",
+   "source": "Offshore Energy",
+   "summary": "Amplitude Energy’s drilling activities have confirmed high-quality gas and strong resource potential, strengthening its Australian project.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1788820174563-1024x683-800x534.png?prefix=media",
+   "date": "2026-11-11T14:30:00+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Lapse of Offer for Capricorn Energy plc",
-   "source": "DNO ASA",
-   "summary": "Not for release, publication or distribution, in whole or in part, directly or indirectly in, into or from any jurisdiction where to do so would constitute a violation of the relevant laws of such jurisdiction Please find attached the DNO ASA Announcement …",
-   "img": "",
-   "date": "2026-11-09T07:00:03.546Z"
+   "title": "Murphy Oil gains stronger foothold offshore Cameroon with block quartet",
+   "source": "Offshore Energy",
+   "summary": "Murphy Oil has signed four production sharing contracts (PSCs) for more offshore acreage in Cameroon.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729985694-754x490-800x520.png?prefix=media",
+   "date": "2026-11-11T13:08:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "WATCH: CETO parts start arriving at Port of Bilbao ahead of first stage water deployment",
+   "source": "Offshore Energy",
+   "summary": "Carnegie Clean Energy has assembled the buoyant actuator, the prime mover of the CETO wave energy system, at the Port of Bilbao, as part of the...",
+   "img": "https://www.offshore-energy.biz/api/media/file/carnegie-791x645.jpg?prefix=media",
+   "date": "2026-11-11T12:05:27+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -132,36 +162,6 @@
    "summary": "Mermaid Subsea has wrapped up a plug and abandonment (P&A) campaign with an undisclosed North Sea operator in UK waters.",
    "img": "https://www.offshore-energy.biz/api/media/file/Island%20Valiant%20Source%20Mermaid%20Subsea-718x375.jpg?prefix=media",
    "date": "2026-11-10T15:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Multi-license awards open Eastern Mediterranean doors for Murphy Oil",
-   "source": "Offshore Energy",
-   "summary": "Murphy Oil has made its first foray into the Eastern Mediterranean by securing six offshore exploration licenses close to a giant gas field.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784765647582-920x550-800x478.png?prefix=media",
-   "date": "2026-11-10T14:07:49+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "From basic wave data to trusted predictive decision support",
-   "source": "Offshore Energy",
-   "summary": "What turns a wave measurement into a prediction your crew can trust?",
-   "img": "https://www.offshore-energy.biz/api/media/file/miros-800x448.jpg?prefix=media",
-   "date": "2026-11-10T14:01:06+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "First oil from Southeast Asian offshore project flows sooner than expected",
-   "source": "Offshore Energy",
-   "summary": "The start of production from an offshore platform at an oil field in Vietnamese waters comes 36 days ahead of schedule.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Petrovietnam-800x600.jpg?prefix=media",
-   "date": "2026-11-10T13:15:27+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -268,10 +268,10 @@
    "cls": "t-norden",
    "weight": 3,
    "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "SLB",
+   "source": "Morningstar",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T13:44:47+00:00"
+   "date": "2026-11-05T12:49:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -287,16 +287,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
-   "source": "Offshore Engineer Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T13:56:53+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
    "source": "Upstream Online",
    "summary": "",
@@ -307,21 +297,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
-   "source": "Yahoo Finance",
+   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
+   "source": "Offshore Engineer Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-07T00:11:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-04T16:26:08+00:00"
+   "date": "2026-11-05T13:56:53+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -337,91 +317,91 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "QatarEnergy, Chevron Expand Exploration Partnership offshore Namibia",
-   "source": "Rigzone",
+   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-11-09T12:51:00+00:00"
+   "date": "2026-11-10T14:43:01+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Innfører Boligmerket i Trondheim: – Ønsker at leigemarknaden skal bli tryggare",
-   "source": "NRK Trøndelag",
-   "summary": "Ei merkeordning for trygge og gode utleigarar blir tatt i bruk i Trondheim i dag.",
-   "img": "https://gfx.nrk.no/qaqOlA1aBdVGbIbbhsJd8wWy35s_lvR8R18b_zDDD3_A.jpg",
-   "date": "2026-11-10T18:13:31+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Det blir signing i Trondheim neste sommer",
+   "title": "Midtnytt: Stor interesse rundt sommerens signing",
    "source": "NRK Trøndelag",
    "summary": "",
    "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-10T18:16:39+00:00"
+   "date": "2026-11-11T18:17:46+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Bekrefter: Kongeparet skal signes i Nidarosdomen neste år",
+   "title": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
    "source": "NRK Trøndelag",
-   "summary": "Det nye kongeparet følger tradisjonen og gjør som sine forgjengere når de nå har valgt å signes i Nidarosdomen til sommeren.",
-   "img": "https://gfx.nrk.no/jNs2iH4sSEaGOquZrF-YnAYr1-hJnR1KGM88i6XsHPZA.jpg",
-   "date": "2026-11-10T15:01:24+00:00"
+   "summary": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Kuttet bekymrer Helse Nord.",
+   "img": "https://gfx.nrk.no/pJ4LEN0jgacHP-scNyxHqQnNlwPpMj6lpk-hKELo8uhw.jpg",
+   "date": "2026-11-11T13:46:56+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Lagar fiskemerdar av resirkulert plast: – Eit kinderegg",
+   "title": "Trondheim gjør seg klar for kongelig storbesøk",
    "source": "NRK Trøndelag",
-   "summary": "Kvart år blir det sett ut 29.000 tonn plast i havet frå oppdrettsnæringa. Gjenbruk av plasten skal gi både klima- og beredskapsgevinst.",
-   "img": "https://gfx.nrk.no/u80H4zBpIWgXhaBukL1oOwpGj3uNTfuXbFd0LjD8sgnw.jpg",
-   "date": "2026-11-10T13:34:16+00:00"
+   "summary": "– Det kommer jo til å bli kjempegøy, midt i fadderuka også, sier studentene Ronja Aglen Stikbakke og Selmer Dahl.",
+   "img": "https://gfx.nrk.no/1BVp2KfjeY1Erw59X49ZbQDdprx_FB0fQvivmVv3pqlA.jpg",
+   "date": "2026-11-11T13:47:02+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Tangvik åpner for Rosenborg retur",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/SkTgs0xr7RqSUkWJCRJ69A42VcqtH9L590h-MzuNzR5A.jpg",
+   "date": "2026-11-11T11:36:06+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Oppretter sak mot Drammen sykehus etter drap",
+   "title": "Talte over 70 båtar: – Vanskeleg å halde seg roleg",
    "source": "NRK",
-   "summary": "Politiet ønsker å finne ut om sykehuset har gjort noe straffbart i forbindelse med at en mann ble drept på Drammen sykehus.",
-   "img": "https://gfx.nrk.no/MqBhqPKCJe_rxttXKj14pAfG1R_hlxEJ8WIopULYAbXg.jpg",
-   "date": "2026-11-11T11:25:25+00:00"
+   "summary": "Forskarane drog til Kvænangen for å studere spekkhoggarar, men enda i staden opp med å kartleggje menneskeleg åtferd.",
+   "img": "https://gfx.nrk.no/F5zJc1UyenAGjZizY_rjqAxEIAUryuPLStsjbJyW_X7A.jpg",
+   "date": "2026-11-11T18:48:10+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Landslagsprofilen om nedturen: – Går ut over hun hjemme",
+   "title": "Mann siktet etter Skaugum-hendelse nekter straffskyld",
    "source": "NRK",
-   "summary": "Etter et strålende VM har Torbjørn Heggem møtt motgang på klubblaget, det har også samboeren hans fått kjenne på. NRK-ekspert mener at nordmannen kan være på utkikk etter ny klubb.",
-   "img": "https://gfx.nrk.no/-VfKXoL9PrrGDYYCuWMTng_wUyEZY8RVNApB-QSwLt6Q.jpg",
-   "date": "2026-11-11T09:53:46+00:00"
+   "summary": "Mannen i 30-årene avviser å ha gjort noe ulovlig i boligen til Marius Borg Høiby. Nå har politiet i Finnmark overlevert et formelt besøksforbud på vegne av Oslo-politiet.",
+   "img": "https://gfx.nrk.no/NPvLlauuBZYyk6ZBBdpeegnMfcTOAVjJ5YgasgSoLXng.jpg",
+   "date": "2026-11-11T18:14:10+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Overgrepssiktet lokalpolitiker løslatt etter 42 uker",
+   "title": "Brann filleristet Czarni – klare for kvartfinale",
    "source": "NRK",
-   "summary": "Politiet mener politikeren har utnyttet 49 barn, og mener det er fare for nye seksuelle overgrep. Retten er uenig.",
-   "img": "https://gfx.nrk.no/nwsVKFNSpmDpoWUxjMf-rAUCx39SJlk0RjJ2Zd99WrLw.jpg",
-   "date": "2026-11-11T09:10:32+00:00"
+   "summary": "Brann leverte en monsteromgang og fikk det lekende lett i åttedelsfinalen av Europacupen.",
+   "img": "https://gfx.nrk.no/I0vS8qqqzXmP9P1ooYWJOwhow4xicIe3xuHWneu6sn1Q.jpg",
+   "date": "2026-11-11T17:51:03+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sykehus må kutte: Punger ut så topp­­sjefene kan pendle til jobb",
+   "title": "Profilen samler inn penger: – Å kjenne noen som har kreft er helt forferdelig",
    "source": "NRK",
-   "summary": "Mens sykehuset i Finnmark kutter stillinger og sengeplasser for å spare penger, får toppsjefene gratis flypendling, bolig og hotellopphold.",
-   "img": "https://gfx.nrk.no/z1jGOIPnFDBuBsLsBymcagCWyJB83NkR1XevFSvfrOug.jpg",
-   "date": "2026-11-11T04:18:25+00:00"
+   "summary": "Jørgen Strand Larsen har fått med seg flere kjente fotballprofiler i kampen mot kreft. Bak innsamlingsaksjonen ligger en personlig historie.",
+   "img": "https://gfx.nrk.no/DTpWk8G0g2QiaS9WbFsohwTwjIaQoICDFr3cWj7mXDzw.jpg",
+   "date": "2026-11-11T17:22:52+00:00"
   }
  ]
 }
