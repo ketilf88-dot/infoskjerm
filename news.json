@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-12T01:09:39.016593+00:00",
+ "updated": "2026-11-12T08:16:54.936609+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Archer Limited - Q3 2026 Financial Report",
+   "source": "Archer Limited",
+   "summary": "Hamilton, Bermuda (November 12, 2026) Archer Limited (\"Archer\") today published its financial report for the third quarter 2026.",
+   "img": "",
+   "date": "2026-11-12T06:30:36.387Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 4,
+   "title": "TGS Awarded OBN Contract offshore Namibia ",
+   "source": "TGS ASA",
+   "summary": "OSLO, Norway (12 November 2026) - TGS, a leading global provider of energy data and intelligence, is pleased to announce the award of an OBN contract offshore Namibia.",
+   "img": "",
+   "date": "2026-11-12T06:00:02.071Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -52,36 +72,6 @@
    "summary": "Fornebu, 11 November 2026 - Akastor ASA's (OSE: AKAST) board of directors has today, based on the authorisation granted by the General Meeting on 14 April 2026, decided to pay a cash dividend to Akastor ASA's shareholders of NOK 2.50 per share (in total about …",
    "img": "",
    "date": "2026-11-11T06:00:07.358Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Odfjell Drilling Ltd. Contract Signed for Deepsea Bergen",
-   "source": "Odfjell Drilling Ltd",
-   "summary": "Odfjell Drilling Ltd is pleased to announce that further to the announcement made 10 September 2026, regarding a Letter of Award with Vår Energi for use of the Deepsea Bergen, that the Company has now formally signed a contract agreement.",
-   "img": "",
-   "date": "2026-11-10T06:06:57.164Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 4,
-   "title": "Panoro Energy - Material Helium and Natural Gas Potential Confirmed at ER 376 Onshore South Africa",
-   "source": "Panoro Energy ASA",
-   "summary": "Oslo, 10 November 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") is pleased to announce that following an independent assessment by Sproule ERCE, material prospective helium and natural gas resource potential has been confirmed at Exploration Right 376 …",
-   "img": "",
-   "date": "2026-11-10T06:00:13.624Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Notification of claim received in connection with tender for contract",
-   "source": "Reach Subsea ASA",
-   "summary": "Haugesund, 9 November 2026 - Reach Subsea AS, a wholly owned subsidiary of Reach Subsea ASA, has been served with a statement of claim from Statnett SF. Statnett claims damages of up to NOK 158.5 million plus interest.",
-   "img": "",
-   "date": "2026-11-09T19:15:38.255Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -247,21 +237,31 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "UK taps Ocean Infinity for subsea security push",
+   "title": "Falklands oil dispute heads for international tribunal ruling",
    "source": "Splash247",
-   "summary": "UK-based marine robotics specialist Ocean Infinity has been selected as the Royal Navy’s commercial mission partner for a new underwater surveillance programme backed by an initial £90m ($120m) investment. The company will work with the Royal Navy to develop A",
-   "img": "https://splash247.com/wp-content/uploads/2024/05/Armada-Ocean-Infinity.jpg",
-   "date": "2026-11-11T11:00:00+00:00"
+   "summary": "The international legal battle over the Sea Lion offshore oil development near the Falkland Islands has moved a step closer to a decision, with the International Tribunal for the Law of the Sea (ITLOS) concluding two days of hearings between Argentina and the ",
+   "img": "https://splash247.com/wp-content/uploads/2026/09/falklandsfinal.jpg",
+   "date": "2026-11-12T02:40:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Elemental Energies wins offshore CCS deal from Harbour Energy",
+   "title": "DOF adds up to $160m in offshore vessel work",
    "source": "Splash247",
-   "summary": "Aberdeen-based well engineering specialist Elemental Energies has secured a two-year contract from Harbour Energy to support the expansion of the Viking carbon capture and storage (CCS) project in the UK southern North Sea. The contract covers integrated subsu",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Jasmine-platform-Viking-CCS.jpg",
-   "date": "2026-11-11T10:00:00+00:00"
+   "summary": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract value. The Oslo-listed company said the new ",
+   "img": "https://splash247.com/wp-content/uploads/2025/10/MarineTraffic-Ulf-Kornfeld-Skandi-Constructor.jpg",
+   "date": "2026-11-12T02:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "EU clears $2.2bn support to revive Belgian offshore wind tender",
+   "source": "Splash247",
+   "summary": "The European Commission has approved a €2.04bn ($2.26bn) state aid scheme for Belgium’s first offshore wind farm in the Princess Elisabeth Zone, clearing the way for a new tender after the original process was cancelled last year. The support package will cove",
+   "img": "https://splash247.com/wp-content/uploads/2025/03/Ocean-Winds-offshore-wind.jpg",
+   "date": "2026-11-12T02:20:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -272,26 +272,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-10T06:00:52+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T12:49:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Fire breaks out on Equinor's Visund platform offshore Norway, production shut in",
-   "source": "Upstream Online",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T04:50:30+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -324,6 +304,26 @@
    "date": "2026-11-10T02:04:23+00:00"
   },
   {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Ghana discovers hydrocarbons in new type of offshore reservoir",
+   "source": "CNBC Africa",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-11T16:58:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
+   "source": "NRK Trøndelag",
+   "summary": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
+   "img": "https://gfx.nrk.no/A-T1y1nVBeCVn4QP9tPWIQp6ZKznSaP0pocVXL0BDHQw.jpg",
+   "date": "2026-11-11T22:45:12+00:00"
+  },
+  {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
@@ -354,14 +354,24 @@
    "date": "2026-11-11T13:46:56+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Trondheim gjør seg klar for kongelig storbesøk",
-   "source": "NRK Trøndelag",
-   "summary": "– Det kommer jo til å bli kjempegøy, midt i fadderuka også, sier studentene Ronja Aglen Stikbakke og Selmer Dahl.",
-   "img": "https://gfx.nrk.no/1BVp2KfjeY1Erw59X49ZbQDdprx_FB0fQvivmVv3pqlA.jpg",
-   "date": "2026-11-11T13:47:02+00:00"
+   "title": "Skolebuss skled av veien - ett barn til sykehus",
+   "source": "NRK",
+   "summary": "En buss kjørte i dag tidlig av veien i Røn i Vestre Slidre. Politiet opplyser at bussen skal ha sklidd av veien i lav hastighet, men at den ligger på siden. Det var tre passasjerer i bussen, alle skolebarn. Ett barn er kjørt til Gjøvik sykehus for videre kontr",
+   "img": "",
+   "date": "2026-11-12T07:41:54+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Norske elevar framleis ikkje betre i lesing og rekning",
+   "source": "NRK",
+   "summary": "Årets nasjonale prøver viser små framsteg på 8. trinn, men resultata ligg framleis under nivået frå 2022.",
+   "img": "https://gfx.nrk.no/6iRnawsCxuXAclkdzzCBawwZhO-_Vkz-KAclPk-K__Pw.jpg",
+   "date": "2026-11-12T07:01:57+00:00"
   },
   {
    "tag": "Norge",
@@ -372,36 +382,6 @@
    "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld. Han blir den første demokraten som re",
    "img": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45AM5ScNmyf7QxWVnwAYQVyYg.jpg",
    "date": "2026-11-11T22:46:27+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
-   "source": "NRK",
-   "summary": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
-   "img": "https://gfx.nrk.no/A-T1y1nVBeCVn4QP9tPWIQp6ZKznSaP0pocVXL0BDHQw.jpg",
-   "date": "2026-11-11T22:45:12+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "MDG: Vil fremme hasteforslag for å pause gruvesalg",
-   "source": "NRK",
-   "summary": "Miljøpartiet de grønne (MDG) vil fremme et hasteforslag for å få satt kjøpet av Nussir-gruva på vent fram til nødvendige sikkerhetsvurderinger er gjennomført. Det opplyser partiet til NRK. De reagerer på salget av gruva til et selskap der sjefen hadde tette bå",
-   "img": "",
-   "date": "2026-11-11T21:12:44+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Hevdar Ødegaard gav klar tromme-beskjed til kong Haakon",
-   "source": "NRK",
-   "summary": "Daverande kronprins Haakon fekk «ordre» om å stå for tromminga da landslaget skulle ro på Slottsplassen i sommar, hevdar Jan Åge Fjørtoft i ferskt seminar.",
-   "img": "https://gfx.nrk.no/tlzm2Y-_bfyP_l9ugO20NAMMhFf-m_g4FvKJpI9nj4pQ.jpg",
-   "date": "2026-11-11T21:10:52+00:00"
   }
  ]
 }
