@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:56:24.841099+00:00",
+ "updated": "2026-11-12T22:31:58.250980+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -257,6 +257,16 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
+   "source": "Oil & Gas Journal",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T17:36:54+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
    "source": "EnergyNow.com",
    "summary": "",
@@ -271,17 +281,7 @@
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:52+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
-   "source": "Oil & Gas Journal",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-12T15:56:54+00:00"
+   "date": "2026-11-10T06:00:09+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -317,11 +317,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Offshore drilling gains momentum as operators advance projects from Mozambique to India",
+   "title": "TotalEnergies, Chevron finalizing targets for multi-well campaigns offshore Nigeria",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T02:04:23+00:00"
+   "date": "2026-11-12T19:48:10+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,11 +347,31 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Årets trønder-juryen er samlet: – Vil skape håp i Trøndelag",
+   "source": "NRK Trøndelag",
+   "summary": "Nesten 400 nominasjoner er sendt inn til kåringen Årets trønder og Årets hverdagshelt. Torsdag skal juryen bestemme finalistene.",
+   "img": "https://gfx.nrk.no/N0VIIdDgOyiC-msBNiOcsQ746OgQz8jjtYJpVv9PlRgA.jpg",
+   "date": "2026-11-12T17:23:40+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Åge Aleksandersen blir kommandør av St. Olavs Orden",
    "source": "NRK Trøndelag",
    "summary": "Åge Aleksandersen får utmerkinga for den framifrå innsatsen sin for norsk musikkliv, skriv kongehuset.",
    "img": "https://gfx.nrk.no/yU9tjZRWZwYZjAMqLL5F0ABeuWi7cFyJ6r5bLqUWGHoQ.jpg",
    "date": "2026-11-12T11:40:23+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt - Bli med på åpning av ny E6",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
+   "date": "2026-11-12T18:29:08+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -364,64 +384,44 @@
    "date": "2026-11-12T10:57:37+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
-   "source": "NRK Trøndelag",
-   "summary": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
-   "img": "https://gfx.nrk.no/A-T1y1nVBeCVn4QP9tPWIQp6ZKznSaP0pocVXL0BDHQw.jpg",
-   "date": "2026-11-11T22:45:12+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Sørloth fikk vonde tanker etter VM: «Er alle mot meg?»",
-   "source": "NRK Trøndelag",
-   "summary": "Alexander Sørloth (30) fikk vonde tanker av hetsen på nettet etter England-tapet. Men ute i virkeligheten møtte han noe helt annet.",
-   "img": "https://gfx.nrk.no/fNhhD6hupcAdRvCv71Xp_QdAFrZu9KuKoI0mBXtWYPqQ.jpg",
-   "date": "2026-11-12T10:21:12+00:00"
+   "title": "Tog sporet av ved Oslo S",
+   "source": "NRK",
+   "summary": "Det er forsinkelser og innstillinger på grunn av en avsporing ved Oslo S torsdag kveld. – Dette tar tid, skriver Bane Nor på sine nettsider. Fem spor er sperret og det skal være et godstog som har sporet av, skriver VG.",
+   "img": "",
+   "date": "2026-11-12T22:19:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Norges største tømmerterminal må fjernes",
+   "title": "United klarte ikke engang å sparke treneren skikkelig",
    "source": "NRK",
-   "summary": "Ordningen i Lier har vært basert på gjentatte dispansasjoner til Viken Skog. Men nå forlanger kommunen at tømmeret skal bort.",
-   "img": "https://gfx.nrk.no/thkr_YGHildHYR6bfanaNwbL9H-GINlC8Vb7E7lJ4Flw.jpg",
-   "date": "2026-11-12T16:16:38+00:00"
+   "summary": "Bare måten Manchester United har håndtert trenerbyttet på, har svekket tilliten til ledelsen enda mer.",
+   "img": "https://gfx.nrk.no/IsIAim1pFY225XvYWFAykwfXQIAseH2j1lJjhepo9FMQ.jpg",
+   "date": "2026-11-12T20:36:42+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Trappar opp kampen mot ulovleg droneflyging",
+   "title": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
    "source": "NRK",
-   "summary": "Pilotar, politi og ordførar møtest i dag for å finne ut korleis fleire kan bli tatt for ulovleg droneflyging og kven som eigentleg har ansvaret.",
-   "img": "https://gfx.nrk.no/IJ6j35E0HaAPyZr26WHluA7VRqt4GNdM1wlwHZfcvwOQ.jpg",
-   "date": "2026-11-12T15:51:58+00:00"
+   "summary": "SAS spår krevende måneder, og kutter direkteruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord ber politikerne om hjelp.",
+   "img": "https://gfx.nrk.no/83UKOdpw6G-D2NSJ7D5j1w5d3dH0HUFXMZmu6KT79buw.jpg",
+   "date": "2026-11-12T18:45:28+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mann i 50-årene omkom i trefellingsulykke",
+   "title": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
    "source": "NRK",
-   "summary": "En person er bekreftet død i forbindelse med en trefellingsulykke i Grimstad.",
-   "img": "https://gfx.nrk.no/PM4fep-FwmZkahD112DecQRiSr8_hhCO8D_Ncr49bggA.jpg",
-   "date": "2026-11-12T14:14:27+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Økende smitte: – Det begynner å haste",
-   "source": "NRK",
-   "summary": "Stadig flere blir smittet av influensa og koronaviruset. Nå mener FHI det haster å ta vaksinen.",
-   "img": "https://gfx.nrk.no/TOnDxVO2uLwnaHhmjZtLUwepHAoyQrghOgbZa0StgG7g.jpg",
-   "date": "2026-11-12T13:20:06+00:00"
+   "summary": "Informasjon om 144.249 passasjerer hos Norwegian og Widerøe er lekket i forbindelse med datainnbruddet hos den spanske IT-leverandøren Amadeus. Det kommer fram i et brev Norwegian har sendt til Datatilsynet. Fra før har SAS opplyst om at 350.000 av deres passa",
+   "img": "",
+   "date": "2026-11-12T18:19:28+00:00"
   }
  ]
 }
