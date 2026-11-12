@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:52:00.047154+00:00",
+ "updated": "2026-11-12T01:09:39.016593+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -267,21 +267,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
-   "source": "Morningstar",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-05T12:49:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Britain throws weight behind idea for new subsea data link to Norway",
    "source": "Financial Times",
    "summary": "",
    "img": "",
    "date": "2026-11-10T06:00:52+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "SLB OneSubsea Awarded Contract for Lyra Field Development Offshore Norway",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-05T12:49:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -297,11 +297,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Aker BP Picks OneSubsea for Subsea Tieback Scheme off Norway",
-   "source": "Offshore Engineer Magazine",
+   "title": "Equinor opens marine robotics center to advance autonomous offshore inspection technologies",
+   "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-05T13:56:53+00:00"
+   "date": "2026-11-11T02:14:37+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-10T14:43:01+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -314,14 +324,14 @@
    "date": "2026-11-10T02:04:23+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T14:43:01+00:00"
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Trondheim har fått minnested etter tsjekkisk folkehelt",
+   "source": "NRK Trøndelag",
+   "summary": "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel.",
+   "img": "https://gfx.nrk.no/KQMGiNfFqzG6Qr-dTqc-7w9jUWVvLf755HP0ONdlBzxg.jpg",
+   "date": "2026-11-11T21:41:50+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -339,7 +349,7 @@
    "weight": 1,
    "title": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
    "source": "NRK Trøndelag",
-   "summary": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Kuttet bekymrer Helse Nord.",
+   "summary": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Helse- og omsorgsdepartementet var ikke kjent med rutekuttene.",
    "img": "https://gfx.nrk.no/pJ4LEN0jgacHP-scNyxHqQnNlwPpMj6lpk-hKELo8uhw.jpg",
    "date": "2026-11-11T13:46:56+00:00"
   },
@@ -354,54 +364,44 @@
    "date": "2026-11-11T13:47:02+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Tangvik åpner for Rosenborg retur",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/SkTgs0xr7RqSUkWJCRJ69A42VcqtH9L590h-MzuNzR5A.jpg",
-   "date": "2026-11-11T11:36:06+00:00"
+   "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
+   "source": "NRK",
+   "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld. Han blir den første demokraten som re",
+   "img": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45AM5ScNmyf7QxWVnwAYQVyYg.jpg",
+   "date": "2026-11-11T22:46:27+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Talte over 70 båtar: – Vanskeleg å halde seg roleg",
+   "title": "Sykdomsutbrudd på villaks: – En internasjonal katastrofe",
    "source": "NRK",
-   "summary": "Forskarane drog til Kvænangen for å studere spekkhoggarar, men enda i staden opp med å kartleggje menneskeleg åtferd.",
-   "img": "https://gfx.nrk.no/F5zJc1UyenAGjZizY_rjqAxEIAUryuPLStsjbJyW_X7A.jpg",
-   "date": "2026-11-11T18:48:10+00:00"
+   "summary": "Fem lakseelver er rammet av et større utbrudd av sykdom.",
+   "img": "https://gfx.nrk.no/A-T1y1nVBeCVn4QP9tPWIQp6ZKznSaP0pocVXL0BDHQw.jpg",
+   "date": "2026-11-11T22:45:12+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mann siktet etter Skaugum-hendelse nekter straffskyld",
+   "title": "MDG: Vil fremme hasteforslag for å pause gruvesalg",
    "source": "NRK",
-   "summary": "Mannen i 30-årene avviser å ha gjort noe ulovlig i boligen til Marius Borg Høiby. Nå har politiet i Finnmark overlevert et formelt besøksforbud på vegne av Oslo-politiet.",
-   "img": "https://gfx.nrk.no/NPvLlauuBZYyk6ZBBdpeegnMfcTOAVjJ5YgasgSoLXng.jpg",
-   "date": "2026-11-11T18:14:10+00:00"
+   "summary": "Miljøpartiet de grønne (MDG) vil fremme et hasteforslag for å få satt kjøpet av Nussir-gruva på vent fram til nødvendige sikkerhetsvurderinger er gjennomført. Det opplyser partiet til NRK. De reagerer på salget av gruva til et selskap der sjefen hadde tette bå",
+   "img": "",
+   "date": "2026-11-11T21:12:44+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Brann filleristet Czarni – klare for kvartfinale",
+   "title": "Hevdar Ødegaard gav klar tromme-beskjed til kong Haakon",
    "source": "NRK",
-   "summary": "Brann leverte en monsteromgang og fikk det lekende lett i åttedelsfinalen av Europacupen.",
-   "img": "https://gfx.nrk.no/I0vS8qqqzXmP9P1ooYWJOwhow4xicIe3xuHWneu6sn1Q.jpg",
-   "date": "2026-11-11T17:51:03+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Profilen samler inn penger: – Å kjenne noen som har kreft er helt forferdelig",
-   "source": "NRK",
-   "summary": "Jørgen Strand Larsen har fått med seg flere kjente fotballprofiler i kampen mot kreft. Bak innsamlingsaksjonen ligger en personlig historie.",
-   "img": "https://gfx.nrk.no/DTpWk8G0g2QiaS9WbFsohwTwjIaQoICDFr3cWj7mXDzw.jpg",
-   "date": "2026-11-11T17:22:52+00:00"
+   "summary": "Daverande kronprins Haakon fekk «ordre» om å stå for tromminga da landslaget skulle ro på Slottsplassen i sommar, hevdar Jan Åge Fjørtoft i ferskt seminar.",
+   "img": "https://gfx.nrk.no/tlzm2Y-_bfyP_l9ugO20NAMMhFf-m_g4FvKJpI9nj4pQ.jpg",
+   "date": "2026-11-11T21:10:52+00:00"
   }
  ]
 }
