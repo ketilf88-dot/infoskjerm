@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:16:54.936609+00:00",
+ "updated": "2026-11-12T16:56:24.841099+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -77,81 +77,81 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Reservoir upside ups Amplitude Energy’s East Coast gas ante",
+   "title": "New ultra-deep oil & gas discovery marks ‘major breakthrough’ in Bohai Sea",
    "source": "Offshore Energy",
-   "summary": "Amplitude Energy’s drilling activities have confirmed high-quality gas and strong resource potential, strengthening its Australian project.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1788820174563-1024x683-800x534.png?prefix=media",
-   "date": "2026-11-11T14:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Murphy Oil gains stronger foothold offshore Cameroon with block quartet",
-   "source": "Offshore Energy",
-   "summary": "Murphy Oil has signed four production sharing contracts (PSCs) for more offshore acreage in Cameroon.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784729985694-754x490-800x520.png?prefix=media",
-   "date": "2026-11-11T13:08:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "WATCH: CETO parts start arriving at Port of Bilbao ahead of first stage water deployment",
-   "source": "Offshore Energy",
-   "summary": "Carnegie Clean Energy has assembled the buoyant actuator, the prime mover of the CETO wave energy system, at the Port of Bilbao, as part of the...",
-   "img": "https://www.offshore-energy.biz/api/media/file/carnegie-791x645.jpg?prefix=media",
-   "date": "2026-11-11T12:05:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "ADNOC widens its Asian footprint with decade-long LNG offtake deal",
-   "source": "Offshore Energy",
-   "summary": "This ten-year agreement will enable ADNOC to supply up to 4 million tonnes of liquefied natural gas (LNG) to India's Gujarat Energy.",
-   "img": "https://www.offshore-energy.biz/api/media/file/wp-import-1784737767893-1536x829-800x432.jpg?prefix=media",
-   "date": "2026-11-11T11:09:55+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Main construction starts on central part of interconnection between Western Isles and UK",
-   "source": "Offshore Energy",
-   "summary": "SSEN Transmission has started main construction of the Lewis Hub project, a central part of the interconnector that will link the Scottish...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Main%20construction%20starts%20on%20key%20part%20of%20interconnection%20between%20Western%20Isles%20and%20UK-800x533.jpg?prefix=media",
-   "date": "2026-11-11T10:25:12+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "ADES rig duo picks up multimillion-dollar assignments offshore India",
-   "source": "Offshore Energy",
-   "summary": "Two of ADES’ jack-up rigs have secured multi-year contracts with Oil and Natural Gas Corporation (ONGC).",
-   "img": "https://www.offshore-energy.biz/api/media/file/ades-800x533.png?prefix=media",
-   "date": "2026-11-11T10:17:59+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
-   "source": "Offshore Energy",
-   "summary": "This hydrocarbon discovery in a carbonate reservoir off Ghana's coast is unlocking new potential for the country’s upstream sector.",
-   "img": "https://www.offshore-energy.biz/api/media/file/GWP-Source%20Ghana%20National%20Petroleum%20Corporation-800x512.png?prefix=media",
-   "date": "2026-11-11T08:16:26+00:00"
+   "summary": "CNOOC has revealed an ultra-deep natural gas find in the central Bohai Sea, with a high-yield volcanic well testing at 800,000 cubic meters per day.",
+   "img": "https://www.offshore-energy.biz/api/media/file/CNOOC-1-800x190.png?prefix=media",
+   "date": "2026-11-12T15:51:13+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "North Sea quintet P&A ops done as Mermaid Subsea checks off decom mission",
+   "title": "SLB on multi-year integrated drilling quest with European oil & gas operator",
    "source": "Offshore Energy",
-   "summary": "Mermaid Subsea has wrapped up a plug and abandonment (P&A) campaign with an undisclosed North Sea operator in UK waters.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Island%20Valiant%20Source%20Mermaid%20Subsea-718x375.jpg?prefix=media",
-   "date": "2026-11-10T15:30:00+00:00"
+   "summary": "SLB’s new assignment with Vår Energi aims to drive efficiency and performance across two rigs owned by Transocean and Odfjell Drilling.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Deepsea%20Bergen%20Source%20SLB-800x644.png?prefix=media",
+   "date": "2026-11-12T14:22:03+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Port of Gothenburg eyes large-scale biogas bunkering in 2027",
+   "source": "Offshore Energy",
+   "summary": "Sweden’s Port of Gothenburg is gearing up to launch a new LBG liquefaction plant next year to enable large-scale liquefied biogas bunkering.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Artist%E2%80%99s%20impression%20of%20Nordion%20Energi%E2%80%99s%20biogas%20liquefaction%20plant%20at%20the%20Port%20of%20Gothenburg.%20The%20storage%20tank%20is%20now%20in%20place%2C%20bringing%20the%20facility%20one%20step%20closer%20to%20completion%20Port%20of%20Gothenburg-800x450.png?prefix=media",
+   "date": "2026-11-12T13:12:27+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
+   "source": "Offshore Energy",
+   "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Gulf-800x450.jpg?prefix=media",
+   "date": "2026-11-12T11:48:55+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "2009-built seismic vessel lands ocean bottom node job offshore West Africa",
+   "source": "Offshore Energy",
+   "summary": "SeaBird Exploration has lined up a multi-month ocean bottom node (OBN) source assignment off the coast of West Africa.",
+   "img": "https://www.offshore-energy.biz/api/media/file/wp-import-1784733666123-768x478-768x478.webp?prefix=media",
+   "date": "2026-11-12T10:38:48+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "With restructuring done, Impact Oil & Gas turns into pure-play Namibia explorer",
+   "source": "Offshore Energy",
+   "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Meren-800x600.png?prefix=media",
+   "date": "2026-11-12T09:33:07+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DOF rakes in up to $160 million for new vessel deal and 2009-built CSV’s job extension",
+   "source": "Offshore Energy",
+   "summary": "DOF has secured a seven-year assignment for a construction support vessel (CSV) and an extension of the charter for its 2009-built vessel.",
+   "img": "https://www.offshore-energy.biz/api/media/file/6363b31005536873e016dd31_Skandi_Constructur_web04-557x346.jpg?prefix=media",
+   "date": "2026-11-12T07:53:39+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Reservoir upside ups Amplitude Energy’s East Coast gas ante",
+   "source": "Offshore Energy",
+   "summary": "Amplitude Energy’s drilling activities have confirmed high-quality gas and strong resource potential, strengthening its Australian project.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1788820174563-1024x683-800x534.png?prefix=media",
+   "date": "2026-11-11T14:30:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -237,31 +237,31 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Falklands oil dispute heads for international tribunal ruling",
+   "title": "Chinese shipbuilder wins AHTS order from South American owner",
    "source": "Splash247",
-   "summary": "The international legal battle over the Sea Lion offshore oil development near the Falkland Islands has moved a step closer to a decision, with the International Tribunal for the Law of the Sea (ITLOS) concluding two days of hearings between Argentina and the ",
-   "img": "https://splash247.com/wp-content/uploads/2026/09/falklandsfinal.jpg",
-   "date": "2026-11-12T02:40:00+00:00"
+   "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South American owner. The vessel will measure 71.95",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Rainbow-vessel.jpg",
+   "date": "2026-11-12T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 2,
+   "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
+   "source": "Splash247",
+   "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a 51% interest in the vessel in 2025, with Ch",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Global-1200-Ulstein.jpg",
+   "date": "2026-11-12T11:38:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 2,
-   "title": "DOF adds up to $160m in offshore vessel work",
-   "source": "Splash247",
-   "summary": "Norwegian offshore vessel owner DOF has secured a seven-year contract for an unnamed construction support vessel and an extension for the Skandi Constructor, adding between $135m and $160m in potential firm contract value. The Oslo-listed company said the new ",
-   "img": "https://splash247.com/wp-content/uploads/2025/10/MarineTraffic-Ulf-Kornfeld-Skandi-Constructor.jpg",
-   "date": "2026-11-12T02:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "EU clears $2.2bn support to revive Belgian offshore wind tender",
-   "source": "Splash247",
-   "summary": "The European Commission has approved a €2.04bn ($2.26bn) state aid scheme for Belgium’s first offshore wind farm in the Princess Elisabeth Zone, clearing the way for a new tender after the original process was cancelled last year. The support package will cove",
-   "img": "https://splash247.com/wp-content/uploads/2025/03/Ocean-Winds-offshore-wind.jpg",
-   "date": "2026-11-12T02:20:00+00:00"
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-11T20:00:16+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -277,11 +277,31 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
+   "source": "Oil & Gas Journal",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T15:56:54+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Equinor opens marine robotics center to advance autonomous offshore inspection technologies",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
    "date": "2026-11-11T02:14:37+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-07T00:11:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -307,11 +327,41 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Ghana discovers hydrocarbons in new type of offshore reservoir",
-   "source": "CNBC Africa",
+   "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-11T16:58:00+00:00"
+   "date": "2026-11-11T08:16:26+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Planet One encounters hydrocarbons at Nya Gyidie-1X offshore Ghana",
+   "source": "Oil & Gas Journal",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-11T13:13:27+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Åge Aleksandersen blir kommandør av St. Olavs Orden",
+   "source": "NRK Trøndelag",
+   "summary": "Åge Aleksandersen får utmerkinga for den framifrå innsatsen sin for norsk musikkliv, skriv kongehuset.",
+   "img": "https://gfx.nrk.no/yU9tjZRWZwYZjAMqLL5F0ABeuWi7cFyJ6r5bLqUWGHoQ.jpg",
+   "date": "2026-11-12T11:40:23+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Ny E6 åpnet sju måneder før tiden: – En historisk dag",
+   "source": "NRK Trøndelag",
+   "summary": "En ny firefelts motorvei mellom Levanger og Stjørdal skal kutte kjøretiden med nesten ti minutter.",
+   "img": "https://gfx.nrk.no/2SB-05wJSv0u-26BakaQBQFQckaJ86hfacRmQdR1Xc3g.jpg",
+   "date": "2026-11-12T10:57:37+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -327,61 +377,51 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Trondheim har fått minnested etter tsjekkisk folkehelt",
+   "title": "Sørloth fikk vonde tanker etter VM: «Er alle mot meg?»",
    "source": "NRK Trøndelag",
-   "summary": "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel.",
-   "img": "https://gfx.nrk.no/KQMGiNfFqzG6Qr-dTqc-7w9jUWVvLf755HP0ONdlBzxg.jpg",
-   "date": "2026-11-11T21:41:50+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Stor interesse rundt sommerens signing",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-11T18:17:46+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
-   "source": "NRK Trøndelag",
-   "summary": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Helse- og omsorgsdepartementet var ikke kjent med rutekuttene.",
-   "img": "https://gfx.nrk.no/pJ4LEN0jgacHP-scNyxHqQnNlwPpMj6lpk-hKELo8uhw.jpg",
-   "date": "2026-11-11T13:46:56+00:00"
+   "summary": "Alexander Sørloth (30) fikk vonde tanker av hetsen på nettet etter England-tapet. Men ute i virkeligheten møtte han noe helt annet.",
+   "img": "https://gfx.nrk.no/fNhhD6hupcAdRvCv71Xp_QdAFrZu9KuKoI0mBXtWYPqQ.jpg",
+   "date": "2026-11-12T10:21:12+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Skolebuss skled av veien - ett barn til sykehus",
+   "title": "Norges største tømmerterminal må fjernes",
    "source": "NRK",
-   "summary": "En buss kjørte i dag tidlig av veien i Røn i Vestre Slidre. Politiet opplyser at bussen skal ha sklidd av veien i lav hastighet, men at den ligger på siden. Det var tre passasjerer i bussen, alle skolebarn. Ett barn er kjørt til Gjøvik sykehus for videre kontr",
-   "img": "",
-   "date": "2026-11-12T07:41:54+00:00"
+   "summary": "Ordningen i Lier har vært basert på gjentatte dispansasjoner til Viken Skog. Men nå forlanger kommunen at tømmeret skal bort.",
+   "img": "https://gfx.nrk.no/thkr_YGHildHYR6bfanaNwbL9H-GINlC8Vb7E7lJ4Flw.jpg",
+   "date": "2026-11-12T16:16:38+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Norske elevar framleis ikkje betre i lesing og rekning",
+   "title": "Trappar opp kampen mot ulovleg droneflyging",
    "source": "NRK",
-   "summary": "Årets nasjonale prøver viser små framsteg på 8. trinn, men resultata ligg framleis under nivået frå 2022.",
-   "img": "https://gfx.nrk.no/6iRnawsCxuXAclkdzzCBawwZhO-_Vkz-KAclPk-K__Pw.jpg",
-   "date": "2026-11-12T07:01:57+00:00"
+   "summary": "Pilotar, politi og ordførar møtest i dag for å finne ut korleis fleire kan bli tatt for ulovleg droneflyging og kven som eigentleg har ansvaret.",
+   "img": "https://gfx.nrk.no/IJ6j35E0HaAPyZr26WHluA7VRqt4GNdM1wlwHZfcvwOQ.jpg",
+   "date": "2026-11-12T15:51:58+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
+   "title": "Mann i 50-årene omkom i trefellingsulykke",
    "source": "NRK",
-   "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld. Han blir den første demokraten som re",
-   "img": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45AM5ScNmyf7QxWVnwAYQVyYg.jpg",
-   "date": "2026-11-11T22:46:27+00:00"
+   "summary": "En person er bekreftet død i forbindelse med en trefellingsulykke i Grimstad.",
+   "img": "https://gfx.nrk.no/PM4fep-FwmZkahD112DecQRiSr8_hhCO8D_Ncr49bggA.jpg",
+   "date": "2026-11-12T14:14:27+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Økende smitte: – Det begynner å haste",
+   "source": "NRK",
+   "summary": "Stadig flere blir smittet av influensa og koronaviruset. Nå mener FHI det haster å ta vaksinen.",
+   "img": "https://gfx.nrk.no/TOnDxVO2uLwnaHhmjZtLUwepHAoyQrghOgbZa0StgG7g.jpg",
+   "date": "2026-11-12T13:20:06+00:00"
   }
  ]
 }
