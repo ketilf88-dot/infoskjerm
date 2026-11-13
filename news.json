@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:31:58.250980+00:00",
+ "updated": "2026-11-13T02:53:55.387549+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -307,21 +307,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T14:43:01+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "TotalEnergies, Chevron finalizing targets for multi-well campaigns offshore Nigeria",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
    "date": "2026-11-12T19:48:10+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-10T14:43:01+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -342,6 +342,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-11T13:13:27+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TGS Secures Deep-Water OBN Contract Off Namibia For Repeat Client",
+   "source": "Ocean News & Technology",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T14:15:54+00:00"
   },
   {
    "tag": "Trøndelag",
