@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-13T10:20:18.262386+00:00",
+ "updated": "2026-11-13T17:55:55.539500+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Invitation to Webcast and Conference Call for Q3 2026 Results",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 13, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") plans to release its financial results for the three and nine months ended September 30, 2026 after the close of NYSE trading on Wednesday, November 18, 2026.",
+   "img": "",
+   "date": "2026-11-13T16:04:45.648Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -74,14 +84,44 @@
    "date": "2026-11-11T06:30:06.644Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Akastor ASA: Resultat for tredje kvartal 2026",
-   "source": "Akastor ASA",
-   "summary": "Høydepunkter fra tredje kvartal * Utbytte på NOK 2,50 per aksje vedtatt, basert på kontantutbetaling fra NES Fircroft og salget av Skandi Peregrino i oktober.",
-   "img": "",
-   "date": "2026-11-11T06:00:31.661Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "South American shipowner orders AHTS vessel from China",
+   "source": "Offshore Energy",
+   "summary": "Chinese shipbuilder Nantong Rainbow Offshore & Engineering Equipment (ROC) has received an order from a South American shipowner for the...",
+   "img": "https://www.offshore-energy.biz/api/media/file/South%20American%20shipowner%20orders%20AHTS%20vessel%20from%20China-800x388.jpg?prefix=media",
+   "date": "2026-11-13T13:11:31+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Orkney Islands’ first link to UK mainland nears offshore installation",
+   "source": "Offshore Energy",
+   "summary": "Nexans has completed the factory acceptance test (FAT) of the 220 kV subsea cable that will connect the Orkney Islands to the UK mainland for the...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Orkney%20Islands%E2%80%99%20first%20link%20to%20UK%20mainland%20nears%20offshore%20installation-800x533.jpg?prefix=media",
+   "date": "2026-11-13T12:04:13+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Seaway7 kicks off cable installation work at Ørsted's Hornsea 3 offshore wind farm",
+   "source": "Offshore Energy",
+   "summary": "Seaway7 has begun installing inter-array cables at Ørsted's Hornsea 3 offshore wind farm site in the UK. The company will install 500 kilometers...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Seaway%20Phoenix%20cable-laying%20vessel-800x533.webp?prefix=media",
+   "date": "2026-11-13T10:54:38+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Three bidders in the run for seismic surveys offshore Greece",
+   "source": "Offshore Energy",
+   "summary": "Three companies have submitted bids to perform the acquisition and processing of non-exclusive seismic data offshore Greece that will help assess...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Three%20bidders%20in%20the%20run%20for%20seismic%20surveys%20offshore%20Greece-800x382.jpg?prefix=media",
+   "date": "2026-11-13T10:18:52+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -122,46 +162,6 @@
    "summary": "SLB’s new assignment with Vår Energi aims to drive efficiency and performance across two rigs owned by Transocean and Odfjell Drilling.",
    "img": "https://www.offshore-energy.biz/api/media/file/Deepsea%20Bergen%20Source%20SLB-800x644.png?prefix=media",
    "date": "2026-11-12T14:22:03+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Port of Gothenburg eyes large-scale biogas bunkering in 2027",
-   "source": "Offshore Energy",
-   "summary": "Sweden’s Port of Gothenburg is gearing up to launch a new LBG liquefaction plant next year to enable large-scale liquefied biogas bunkering.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Artist%E2%80%99s%20impression%20of%20Nordion%20Energi%E2%80%99s%20biogas%20liquefaction%20plant%20at%20the%20Port%20of%20Gothenburg.%20The%20storage%20tank%20is%20now%20in%20place%2C%20bringing%20the%20facility%20one%20step%20closer%20to%20completion%20Port%20of%20Gothenburg-800x450.png?prefix=media",
-   "date": "2026-11-12T13:12:27+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "GULF broadens LNG trading horizons beyond Thailand with PetroChina deal",
-   "source": "Offshore Energy",
-   "summary": "This deal enables GULF to supply 0.3 million tonnes of LNG to PetroChina in 2027, marking its strategic expansion into international trading.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Gulf-800x450.jpg?prefix=media",
-   "date": "2026-11-12T11:48:55+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "2009-built seismic vessel lands ocean bottom node job offshore West Africa",
-   "source": "Offshore Energy",
-   "summary": "SeaBird Exploration has lined up a multi-month ocean bottom node (OBN) source assignment off the coast of West Africa.",
-   "img": "https://www.offshore-energy.biz/api/media/file/wp-import-1784733666123-768x478-768x478.webp?prefix=media",
-   "date": "2026-11-12T10:38:48+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "With restructuring done, Impact Oil & Gas turns into pure-play Namibia explorer",
-   "source": "Offshore Energy",
-   "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Meren-800x600.png?prefix=media",
-   "date": "2026-11-12T09:33:07+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -284,14 +284,14 @@
    "date": "2026-11-10T06:00:52+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor opens marine robotics center to advance autonomous offshore inspection technologies",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Harbour Energy contracts Elemental for Viking CCS expansion studies",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-11T02:14:37+00:00"
+   "date": "2026-11-12T19:23:46+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +347,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Frykter at sykdommen sprer seg blant villaksen",
+   "source": "NRK Trøndelag",
+   "summary": "Klima- og miljøministeren kaller situasjonen svært alvorlig.",
+   "img": "https://gfx.nrk.no/YwrwArHRAIWX7uFox0tq_AA2NSmdAfHekHHnkySJ23jA.jpg",
+   "date": "2026-11-13T16:41:20+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Politiet løslater Krogstad",
    "source": "NRK Trøndelag",
    "summary": "Politiet mener de har sikret de nødvendige bevisene i halliksaken mot Tom Ketil Krogstad og en annen mann i 60-årene.",
@@ -374,54 +384,44 @@
    "date": "2026-11-12T11:40:23+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt - Bli med på åpning av ny E6",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-12T18:29:08+00:00"
+   "title": "Britisk politi starter etterforskning av David Walliams",
+   "source": "NRK",
+   "summary": "Britisk politi bekrefter overfor BBC at de har innledet en etterforskning mot komikeren David Walliams for alvorlige seksuelle forbrytelser. Det skjer etter at flere kvinner har stått frem med anklager om at Walliams skal ha brukt kjendisstatusen sin for å til",
+   "img": "https://gfx.nrk.no/Mu7_gosjphrtuEnXsGyMdgMGaZj6WUZ44PvQgDqtvehQ.jpg",
+   "date": "2026-11-13T16:20:41+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Miljøorganisasjonene vant fram i klimasøksmål i Høyesterett",
+   "title": "Grotesk overraskelse på skogstur: – Helt forferdelig",
    "source": "NRK",
-   "summary": "Statens vedtak om tre oljefelt var ugyldige på grunn av saksbehandlingsfeil, slår Høyesterett fast. – Nå har vi endret norsk oljepolitikk for alltid, sier lederen i Natur og Ungdom.",
-   "img": "https://gfx.nrk.no/pcPipQuYL6SXt2I1pJFFnAOh6yfoTnQX9ROcNMPM6iTA.jpg",
-   "date": "2026-11-13T09:15:49+00:00"
+   "summary": "Svein Grindahl trodde nesten ikke sine egne øyne da en haug med grisehoder, innvoller og søppel dukket opp i skogen.",
+   "img": "https://gfx.nrk.no/kBODGfJQh5-VI4vaZe7eBQE0FWGwGtlOCynsH9IL4nAA.jpg",
+   "date": "2026-11-13T16:10:17+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Etterforskar ulovleg graving i freda kulturminne",
+   "title": "Sykehusdrapet: Kameraer kan gi politiet viktige bevis",
    "source": "NRK",
-   "summary": "Politiet har funne 49 spor etter graving i og ved eit freda gravfelt i Åndalsnes. Dei omtalar saka som eit alvorleg lovbrot.",
-   "img": "https://gfx.nrk.no/ZYVxeh-NzqorW-2_b1jwXwbh8rXD4UlbtsQsxG37ZbGQ.jpg",
-   "date": "2026-11-13T08:55:14+00:00"
+   "summary": "Politiet har nå informasjon om hvor kniven ble kjøpt og hva den siktede gjorde i den timen han hadde permisjon utenfor sykehuset.",
+   "img": "https://gfx.nrk.no/-GLvKPU9BdsjOWZRN8CpUgfHk9EbKJHC5BWVx2UIfy7Q.jpg",
+   "date": "2026-11-13T14:31:12+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Simon har 18 mann i arbeid og frykter stans i gruva",
+   "title": "Slanka seg for å behalda oljejobben: No kan vektkravet komma til Noreg",
    "source": "NRK",
-   "summary": "Kobbergruva Nussir gir nye jobber og tilflytting i Kvalsund. Nå frykter lokalbefolkningen at bråket om den nye eierens bånd til Russland kan gi forsinkelser.",
-   "img": "https://gfx.nrk.no/D491nchYGhf2KozmhnghggagadhLNB4rESWXW0p_A1PQ.jpg",
-   "date": "2026-11-13T06:22:06+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Noreg-profil har fått nok av TV-grep: – Det er tullete",
-   "source": "NRK",
-   "summary": "Julian Ryerson (28) blei «offer» for kroppskameraa til dommarane i VM. No vil han rett og slett avskaffe Fifas nyvinning.",
-   "img": "https://gfx.nrk.no/wbjd0hUwXKFWbsIkx4rNfw4oJpjQ7uiRZ_alzwo3BGuA.jpg",
-   "date": "2026-11-13T04:35:16+00:00"
+   "summary": "Offshore-arbeidarar i Storbritannia får ikkje vege meir enn 124 kilo. Viss kravet kjem til Noreg, kan enkelte miste jobben, åtvarar fagforbund.",
+   "img": "https://gfx.nrk.no/mdTHhqXMDVGWMo02biO09Ae9aS_UFJRksW7sJTAotecQ.jpg",
+   "date": "2026-11-13T13:59:28+00:00"
   }
  ]
 }
