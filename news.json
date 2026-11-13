@@ -1,8 +1,18 @@
 {
- "updated": "2026-11-13T17:55:55.539500+00:00",
+ "updated": "2026-11-13T23:04:20.168353+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea 7 - awarded contract offshore US",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 13 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced a sizeable(1) contract award from Kosmos Energy Gulf of Mexico Operations, LLC, for the Tiberius Project(2) in the US Gulf.",
+   "img": "",
+   "date": "2026-11-13T18:35:52.705Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -46,16 +56,6 @@
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
-   "weight": 4,
-   "title": "TGS Awarded OBN Contract offshore Namibia ",
-   "source": "TGS ASA",
-   "summary": "OSLO, Norway (12 November 2026) - TGS, a leading global provider of energy data and intelligence, is pleased to announce the award of an OBN contract offshore Namibia.",
-   "img": "",
-   "date": "2026-11-12T06:00:02.071Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
    "weight": 3,
    "title": "DOF Group ASA - Contract award and extension",
    "source": "DOF Group ASA",
@@ -72,16 +72,6 @@
    "summary": "Sandnes, Norway, 11 November 2026: The extraordinary general meeting of Vår Energi ASA (the \"Company\", OSE: VAR) was held today, 11 November 2026, at 15:00 CET. The meeting was held as a digital event.",
    "img": "",
    "date": "2026-11-11T14:32:56.828Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Panoro Energy - Invitation to Third Quarter 2026 Results Presentation",
-   "source": "Panoro Energy ASA",
-   "summary": "Oslo, 11 November 2026 - The third quarter 2026 trading and financial update to be announced on Wednesday 18 November will be available on our website http://www.panoroenergy.com at 07:00 a.m. CET.",
-   "img": "",
-   "date": "2026-11-11T06:30:06.644Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -284,14 +274,14 @@
    "date": "2026-11-10T06:00:52+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Harbour Energy contracts Elemental for Viking CCS expansion studies",
-   "source": "Offshore Magazine",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
+   "source": "Data Center Dynamics",
    "summary": "",
    "img": "",
-   "date": "2026-11-12T19:23:46+00:00"
+   "date": "2026-11-13T12:36:07+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -347,6 +337,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Midtnytt - Laksesykdom i trønderske elver",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
+   "date": "2026-11-13T18:03:43+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Frykter at sykdommen sprer seg blant villaksen",
    "source": "NRK Trøndelag",
    "summary": "Klima- og miljøministeren kaller situasjonen svært alvorlig.",
@@ -374,54 +374,34 @@
    "date": "2026-11-12T17:23:40+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Åge Aleksandersen blir kommandør av St. Olavs Orden",
-   "source": "NRK Trøndelag",
-   "summary": "Åge Aleksandersen får utmerkinga for den framifrå innsatsen sin for norsk musikkliv, skriv kongehuset.",
-   "img": "https://gfx.nrk.no/yU9tjZRWZwYZjAMqLL5F0ABeuWi7cFyJ6r5bLqUWGHoQ.jpg",
-   "date": "2026-11-12T11:40:23+00:00"
+   "title": "Snudd opp ned på regimet i klubben: – Hadde blitt ledd av",
+   "source": "NRK",
+   "summary": "I snart to tiår har klubben lengta etter kongepokalen. No har ei gruppe svoltne menn tatt nye grep for å bli best.",
+   "img": "https://gfx.nrk.no/5FwBGHutT8N8Llvkbp0GCQl-qXRGf_BaQE1ggx0Z1mRQ.jpg",
+   "date": "2026-11-13T20:11:26+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Britisk politi starter etterforskning av David Walliams",
+   "title": "Kvinne i 80-årene kjørte ned tre personer",
    "source": "NRK",
-   "summary": "Britisk politi bekrefter overfor BBC at de har innledet en etterforskning mot komikeren David Walliams for alvorlige seksuelle forbrytelser. Det skjer etter at flere kvinner har stått frem med anklager om at Walliams skal ha brukt kjendisstatusen sin for å til",
-   "img": "https://gfx.nrk.no/Mu7_gosjphrtuEnXsGyMdgMGaZj6WUZ44PvQgDqtvehQ.jpg",
-   "date": "2026-11-13T16:20:41+00:00"
+   "summary": "En eldre kvinnelig bilfører kjørte opp på fortauet og traff tre personer. En person ble hentet av ambulanse med mindre skader.",
+   "img": "https://gfx.nrk.no/cC5mxK__Z8AhSVh6BbKfJQjJz7Vxq3hk9cMCEKNgEY_g.jpg",
+   "date": "2026-11-13T19:33:49+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Grotesk overraskelse på skogstur: – Helt forferdelig",
+   "title": "Høyre-rådgiver (24) utsatt for hets: – Er det verdt det?",
    "source": "NRK",
-   "summary": "Svein Grindahl trodde nesten ikke sine egne øyne da en haug med grisehoder, innvoller og søppel dukket opp i skogen.",
-   "img": "https://gfx.nrk.no/kBODGfJQh5-VI4vaZe7eBQE0FWGwGtlOCynsH9IL4nAA.jpg",
-   "date": "2026-11-13T16:10:17+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Sykehusdrapet: Kameraer kan gi politiet viktige bevis",
-   "source": "NRK",
-   "summary": "Politiet har nå informasjon om hvor kniven ble kjøpt og hva den siktede gjorde i den timen han hadde permisjon utenfor sykehuset.",
-   "img": "https://gfx.nrk.no/-GLvKPU9BdsjOWZRN8CpUgfHk9EbKJHC5BWVx2UIfy7Q.jpg",
-   "date": "2026-11-13T14:31:12+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Slanka seg for å behalda oljejobben: No kan vektkravet komma til Noreg",
-   "source": "NRK",
-   "summary": "Offshore-arbeidarar i Storbritannia får ikkje vege meir enn 124 kilo. Viss kravet kjem til Noreg, kan enkelte miste jobben, åtvarar fagforbund.",
-   "img": "https://gfx.nrk.no/mdTHhqXMDVGWMo02biO09Ae9aS_UFJRksW7sJTAotecQ.jpg",
-   "date": "2026-11-13T13:59:28+00:00"
+   "summary": "Politisk rådgiver Oda Oline Omdal (24) anmelder netthets etter at en mann delte et bilde av henne og insinuerte at hun fikk jobben fordi hun er ung og pen.",
+   "img": "https://gfx.nrk.no/70C1bhbSNnNCGVgAAkt5hAN2pw2jRW_wTot9aFo4TNwQ.jpg",
+   "date": "2026-11-13T17:53:56+00:00"
   }
  ]
 }
