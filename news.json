@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-13T02:53:55.387549+00:00",
+ "updated": "2026-11-13T10:20:18.262386+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Ex. utbytte andre kvartal 2026 i dag - OSE",
+   "source": "Equinor ASA",
+   "summary": "Aksjene i Equinor ASA (OSE: EQNR; NYSE: EQNR) vil fra og med i dag handles på Oslo Børs eksklusiv kontantutbytte for andre kvartal 2026 slik det fremgår under. Ex-dato: 13.",
+   "img": "",
+   "date": "2026-11-13T09:49:17.623Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Ex. dividend second quarter 2026 today - OSE",
+   "source": "Equinor ASA",
+   "summary": "The shares in Equinor ASA (OSE: EQNR; NYSE: EQNR) will as from today be traded on the Oslo Stock Exchange exclusive the second quarter 2026 cash dividend as detailed below. Ex.",
+   "img": "",
+   "date": "2026-11-13T09:49:17.253Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -64,14 +84,24 @@
    "date": "2026-11-11T06:00:31.661Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Akastor ASA: Declaration of cash dividend",
-   "source": "Akastor ASA",
-   "summary": "Fornebu, 11 November 2026 - Akastor ASA's (OSE: AKAST) board of directors has today, based on the authorisation granted by the General Meeting on 14 April 2026, decided to pay a cash dividend to Akastor ASA's shareholders of NOK 2.50 per share (in total about …",
-   "img": "",
-   "date": "2026-11-11T06:00:07.358Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Marine license granted for one of UK’s largest power projects",
+   "source": "Offshore Energy",
+   "summary": "SSEN Transmission has secured the marine license for subsea cable infrastructure in Scottish waters for the 2 GW Eastern Green Link 3 (EGL3)...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Marine%20license%20granted%20for%20one%20of%20UK%E2%80%99s%20largest%20power%20projects-800x435.jpg?prefix=media",
+   "date": "2026-11-13T08:41:56+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
+   "source": "Offshore Energy",
+   "summary": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
+   "img": "https://www.offshore-energy.biz/api/media/file/exxon-800x449.jpg?prefix=media",
+   "date": "2026-11-13T08:06:59+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -132,26 +162,6 @@
    "summary": "The corporate restructuring has established a pure-play Namibia-focused development and exploration business, anchored by the Venus project.",
    "img": "https://www.offshore-energy.biz/api/media/file/Meren-800x600.png?prefix=media",
    "date": "2026-11-12T09:33:07+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DOF rakes in up to $160 million for new vessel deal and 2009-built CSV’s job extension",
-   "source": "Offshore Energy",
-   "summary": "DOF has secured a seven-year assignment for a construction support vessel (CSV) and an extension of the charter for its 2009-built vessel.",
-   "img": "https://www.offshore-energy.biz/api/media/file/6363b31005536873e016dd31_Skandi_Constructur_web04-557x346.jpg?prefix=media",
-   "date": "2026-11-12T07:53:39+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Reservoir upside ups Amplitude Energy’s East Coast gas ante",
-   "source": "Offshore Energy",
-   "summary": "Amplitude Energy’s drilling activities have confirmed high-quality gas and strong resource potential, strengthening its Australian project.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1788820174563-1024x683-800x534.png?prefix=media",
-   "date": "2026-11-11T14:30:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -237,21 +247,11 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Chinese shipbuilder wins AHTS order from South American owner",
+   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
    "source": "Splash247",
-   "summary": "Chinese shipbuilder Rainbow Offshore Engineering (ROC), part of Shenzhen-listed Jiangsu Rainbow Heavy Industries, has secured a contract to build an anchor-handling tug supply (AHTS) vessel for an undisclosed South American owner. The vessel will measure 71.95",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Rainbow-vessel.jpg",
-   "date": "2026-11-12T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "Marine Platforms plans full takeover of former Technip pipelay vessel",
-   "source": "Splash247",
-   "summary": "Nigerian offshore services contractor Marine Platforms is moving towards full ownership of the pipelay and heavy-lift construction vessel Zhong Fei Huan Qiu 1200, formerly known as Global 1200. The company acquired a 51% interest in the vessel in 2025, with Ch",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Global-1200-Ulstein.jpg",
-   "date": "2026-11-12T11:38:00+00:00"
+   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers the Lynn and Inner Dowsing wind farms of",
+   "img": "https://splash247.com/wp-content/uploads/2023/08/UK-Government-offshore-wind.jpg",
+   "date": "2026-11-13T09:30:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -281,7 +281,7 @@
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:09+00:00"
+   "date": "2026-11-10T06:00:52+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -292,16 +292,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-11T02:14:37+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-07T00:11:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -357,6 +347,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Politiet løslater Krogstad",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet mener de har sikret de nødvendige bevisene i halliksaken mot Tom Ketil Krogstad og en annen mann i 60-årene.",
+   "img": "https://gfx.nrk.no/h4VZrqRlfc-mtehHmF_TowfUgjafScoM8tDQn8pdo0YA.jpg",
+   "date": "2026-11-13T07:33:41+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Årets trønder-juryen er samlet: – Vil skape håp i Trøndelag",
    "source": "NRK Trøndelag",
    "summary": "Nesten 400 nominasjoner er sendt inn til kåringen Årets trønder og Årets hverdagshelt. Torsdag skal juryen bestemme finalistene.",
@@ -384,54 +384,44 @@
    "date": "2026-11-12T18:29:08+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Ny E6 åpnet sju måneder før tiden: – En historisk dag",
-   "source": "NRK Trøndelag",
-   "summary": "En ny firefelts motorvei mellom Levanger og Stjørdal skal kutte kjøretiden med nesten ti minutter.",
-   "img": "https://gfx.nrk.no/2SB-05wJSv0u-26BakaQBQFQckaJ86hfacRmQdR1Xc3g.jpg",
-   "date": "2026-11-12T10:57:37+00:00"
+   "title": "Miljøorganisasjonene vant fram i klimasøksmål i Høyesterett",
+   "source": "NRK",
+   "summary": "Statens vedtak om tre oljefelt var ugyldige på grunn av saksbehandlingsfeil, slår Høyesterett fast. – Nå har vi endret norsk oljepolitikk for alltid, sier lederen i Natur og Ungdom.",
+   "img": "https://gfx.nrk.no/pcPipQuYL6SXt2I1pJFFnAOh6yfoTnQX9ROcNMPM6iTA.jpg",
+   "date": "2026-11-13T09:15:49+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tog sporet av ved Oslo S",
+   "title": "Etterforskar ulovleg graving i freda kulturminne",
    "source": "NRK",
-   "summary": "Det er forsinkelser og innstillinger på grunn av en avsporing ved Oslo S torsdag kveld. – Dette tar tid, skriver Bane Nor på sine nettsider. Fem spor er sperret og det skal være et godstog som har sporet av, skriver VG.",
-   "img": "",
-   "date": "2026-11-12T22:19:00+00:00"
+   "summary": "Politiet har funne 49 spor etter graving i og ved eit freda gravfelt i Åndalsnes. Dei omtalar saka som eit alvorleg lovbrot.",
+   "img": "https://gfx.nrk.no/ZYVxeh-NzqorW-2_b1jwXwbh8rXD4UlbtsQsxG37ZbGQ.jpg",
+   "date": "2026-11-13T08:55:14+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "United klarte ikke engang å sparke treneren skikkelig",
+   "title": "Simon har 18 mann i arbeid og frykter stans i gruva",
    "source": "NRK",
-   "summary": "Bare måten Manchester United har håndtert trenerbyttet på, har svekket tilliten til ledelsen enda mer.",
-   "img": "https://gfx.nrk.no/IsIAim1pFY225XvYWFAykwfXQIAseH2j1lJjhepo9FMQ.jpg",
-   "date": "2026-11-12T20:36:42+00:00"
+   "summary": "Kobbergruva Nussir gir nye jobber og tilflytting i Kvalsund. Nå frykter lokalbefolkningen at bråket om den nye eierens bånd til Russland kan gi forsinkelser.",
+   "img": "https://gfx.nrk.no/D491nchYGhf2KozmhnghggagadhLNB4rESWXW0p_A1PQ.jpg",
+   "date": "2026-11-13T06:22:06+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
+   "title": "Noreg-profil har fått nok av TV-grep: – Det er tullete",
    "source": "NRK",
-   "summary": "SAS spår krevende måneder, og kutter direkteruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord ber politikerne om hjelp.",
-   "img": "https://gfx.nrk.no/83UKOdpw6G-D2NSJ7D5j1w5d3dH0HUFXMZmu6KT79buw.jpg",
-   "date": "2026-11-12T18:45:28+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
-   "source": "NRK",
-   "summary": "Informasjon om 144.249 passasjerer hos Norwegian og Widerøe er lekket i forbindelse med datainnbruddet hos den spanske IT-leverandøren Amadeus. Det kommer fram i et brev Norwegian har sendt til Datatilsynet. Fra før har SAS opplyst om at 350.000 av deres passa",
-   "img": "",
-   "date": "2026-11-12T18:19:28+00:00"
+   "summary": "Julian Ryerson (28) blei «offer» for kroppskameraa til dommarane i VM. No vil han rett og slett avskaffe Fifas nyvinning.",
+   "img": "https://gfx.nrk.no/wbjd0hUwXKFWbsIkx4rNfw4oJpjQ7uiRZ_alzwo3BGuA.jpg",
+   "date": "2026-11-13T04:35:16+00:00"
   }
  ]
 }
