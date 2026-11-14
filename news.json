@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:10:05.591202+00:00",
+ "updated": "2026-11-14T10:15:38.634335+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -271,7 +271,7 @@
    "source": "Financial Times",
    "summary": "",
    "img": "",
-   "date": "2026-11-10T06:00:52+00:00"
+   "date": "2026-11-10T06:00:09+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -337,6 +337,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Rykket ut med flere patruljer: – Folk prøvde å løse opp slåsskampen selv",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet i Trøndelag mener det var relativt rolig natt til lørdag 14. november, til tross for en god mengde ordensforstyrrelser i Trondheim.",
+   "img": "https://gfx.nrk.no/OIEuMyrtaRsoraFaU2JRmgoCGRN-vwCJjHWzb-78EGRw.jpg",
+   "date": "2026-11-14T07:53:51+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Midtnytt - Laksesykdom i trønderske elver",
    "source": "NRK Trøndelag",
    "summary": "",
@@ -364,44 +374,44 @@
    "date": "2026-11-13T07:33:41+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Årets trønder-juryen er samlet: – Vil skape håp i Trøndelag",
-   "source": "NRK Trøndelag",
-   "summary": "Nesten 400 nominasjoner er sendt inn til kåringen Årets trønder og Årets hverdagshelt. Torsdag skal juryen bestemme finalistene.",
-   "img": "https://gfx.nrk.no/N0VIIdDgOyiC-msBNiOcsQ746OgQz8jjtYJpVv9PlRgA.jpg",
-   "date": "2026-11-12T17:23:40+00:00"
+   "title": "Herja med Real Madrid-kapteinen: – Ville ikkje snakke med meg",
+   "source": "NRK",
+   "summary": "Det har løsna for fullt for Antonio Nusa (21) også på klubblaget. Nå viser «alle» testar at noko har skjedd med Noreg-yndlingen.",
+   "img": "https://gfx.nrk.no/N4l1QBte9N3Dbhua5rNM0gf02oVw24zvTXDBFj515VzA.jpg",
+   "date": "2026-11-14T09:47:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Snudd opp ned på regimet i klubben: – Hadde blitt ledd av",
+   "title": "Nær 450.000 flyseter borte på 15 år – mener taxfree er en del av løsningen",
    "source": "NRK",
-   "summary": "I snart to tiår har klubben lengta etter kongepokalen. No har ei gruppe svoltne menn tatt nye grep for å bli best.",
-   "img": "https://gfx.nrk.no/5FwBGHutT8N8Llvkbp0GCQl-qXRGf_BaQE1ggx0Z1mRQ.jpg",
-   "date": "2026-11-13T20:11:26+00:00"
+   "summary": "Nær en halv million flyseter har forsvunnet mellom Bodø og Tromsø, og Bodø og Trondheim på 15 år. Forslagene for å snu utviklingen er mange.",
+   "img": "https://gfx.nrk.no/9guZ-4sHg3itxmPD_OTH5wBh6AAwupQnoNHn3uzR_dPQ.jpg",
+   "date": "2026-11-14T09:58:39+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kvinne i 80-årene kjørte ned tre personer",
+   "title": "Påvist fugleinfluensa i Akershus: Må avlive 13.000 dyr",
    "source": "NRK",
-   "summary": "En eldre kvinnelig bilfører kjørte opp på fortauet og traff tre personer. En person ble hentet av ambulanse med mindre skader.",
-   "img": "https://gfx.nrk.no/cC5mxK__Z8AhSVh6BbKfJQjJz7Vxq3hk9cMCEKNgEY_g.jpg",
-   "date": "2026-11-13T19:33:49+00:00"
+   "summary": "Mattilsynet jobber med å kartlegge om smitten kan ha spredt seg til flere gårder. Alvorlig, mener forsker.",
+   "img": "https://gfx.nrk.no/05ZgC0zRwa-evm9RX-z_YQSd7uFurmLMrmUwzUPnfbHg.jpg",
+   "date": "2026-11-14T09:29:04+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Høyre-rådgiver (24) utsatt for hets: – Er det verdt det?",
+   "title": "13.000 fjørfe må avlives i Akershus",
    "source": "NRK",
-   "summary": "Politisk rådgiver Oda Oline Omdal (24) anmelder netthets etter at en mann delte et bilde av henne og insinuerte at hun fikk jobben fordi hun er ung og pen.",
-   "img": "https://gfx.nrk.no/70C1bhbSNnNCGVgAAkt5hAN2pw2jRW_wTot9aFo4TNwQ.jpg",
-   "date": "2026-11-13T17:53:56+00:00"
+   "summary": "Det bekrefter Mattilsynet til VG, i forbindelse med en pressemelding lørdag formiddag om flere tilfeller av fugleinfluensa. Fredag kveld ble det bekreftet et tilfelle av fugleinfluensa i et kommersielt fjørfehold i Akershus. Forrige uke ble det samme påvist i ",
+   "img": "https://gfx.nrk.no/05ZgC0zRwa-evm9RX-z_YQSd7uFurmLMrmUwzUPnfbHg.jpg",
+   "date": "2026-11-14T09:19:41+00:00"
   }
  ]
 }
