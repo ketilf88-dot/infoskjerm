@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:15:38.634335+00:00",
+ "updated": "2026-11-14T16:39:29.920393+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -257,21 +257,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-11T20:00:16+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Britain throws weight behind idea for new subsea data link to Norway",
    "source": "Financial Times",
    "summary": "",
    "img": "",
    "date": "2026-11-10T06:00:09+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-13T22:31:11+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -317,6 +317,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "TGS Secures Deep-Water OBN Contract Off Namibia For Repeat Client",
+   "source": "Ocean News & Technology",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T14:15:54+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "Planet One encounters hydrocarbons at Nya Gyidie-1X offshore Ghana",
    "source": "Oil & Gas Journal",
    "summary": "",
@@ -324,14 +334,14 @@
    "date": "2026-11-11T13:13:27+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TGS Secures Deep-Water OBN Contract Off Namibia For Repeat Client",
-   "source": "Ocean News & Technology",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-12T14:15:54+00:00"
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Bransjekrise tvang Silje til å tenke nytt",
+   "source": "NRK Trøndelag",
+   "summary": "Nesten hver tredje nyutdanna arkitekt går ut i arbeidsledighet. Det tøffe jobbmarkedet tvinger flere til å starte opp for seg selv.",
+   "img": "https://gfx.nrk.no/2scyP0gbTkzYz4deTU4e3g73irAGslh2CLXe9KKOvhCg.jpg",
+   "date": "2026-11-14T11:39:40+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -364,54 +374,44 @@
    "date": "2026-11-13T16:41:20+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Politiet løslater Krogstad",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet mener de har sikret de nødvendige bevisene i halliksaken mot Tom Ketil Krogstad og en annen mann i 60-årene.",
-   "img": "https://gfx.nrk.no/h4VZrqRlfc-mtehHmF_TowfUgjafScoM8tDQn8pdo0YA.jpg",
-   "date": "2026-11-13T07:33:41+00:00"
+   "title": "Kraftig brann i Lillestrøm",
+   "source": "NRK",
+   "summary": "Det brenner kraftig i en enebolig på en gård i Trondheimsveien i Lillestrøm. – Det er full fyr i hele bygningen, opplyser oppdragsleder i politiet, Ronny Mangseth. – Brannvesenet er fremme og er i gang med slukking. Det er kontroll på alle fire beboere på sted",
+   "img": "https://gfx.nrk.no/JQpEIoHnn-AIw7BU1AJ7vgyEEZeGLz2pkek_L_jD_B4A.jpg",
+   "date": "2026-11-14T15:58:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Herja med Real Madrid-kapteinen: – Ville ikkje snakke med meg",
+   "title": "Solbakken overrasker – Aasgaard inn i startelleveren",
    "source": "NRK",
-   "summary": "Det har løsna for fullt for Antonio Nusa (21) også på klubblaget. Nå viser «alle» testar at noko har skjedd med Noreg-yndlingen.",
-   "img": "https://gfx.nrk.no/N4l1QBte9N3Dbhua5rNM0gf02oVw24zvTXDBFj515VzA.jpg",
-   "date": "2026-11-14T09:47:51+00:00"
+   "summary": "Ståle Solbakken har valgt ut følgende ellever til kampen mot Wales på Ullevaal: Egil Selvik – Julian Ryerson, Kristoffer Ajer, Torbjørn Heggem, David Møller Wolfe – Sander Berge, Martin Ødegaard, Thelo Aasgaard – Antonio Nusa, Erling Braut Haaland, Oscar Bobb.",
+   "img": "https://gfx.nrk.no/J8GrcoOR4impKmlMsx8QZQxOtbf_U5FkU_ezXNXMITIA.jpg",
+   "date": "2026-11-14T15:40:52+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Nær 450.000 flyseter borte på 15 år – mener taxfree er en del av løsningen",
+   "title": "Emma (22) savner folk, men trenger å være alene",
    "source": "NRK",
-   "summary": "Nær en halv million flyseter har forsvunnet mellom Bodø og Tromsø, og Bodø og Trondheim på 15 år. Forslagene for å snu utviklingen er mange.",
-   "img": "https://gfx.nrk.no/9guZ-4sHg3itxmPD_OTH5wBh6AAwupQnoNHn3uzR_dPQ.jpg",
-   "date": "2026-11-14T09:58:39+00:00"
+   "summary": "Å være sammen med andre er ikke nødvendigvis det første du bør gjøre hvis du har vært ensom lenge, ifølge forskere.",
+   "img": "https://gfx.nrk.no/DNk8IrYjaHsJlByg3fHQ3g8zjl51eOjzFPHIgDPhHbzg.jpg",
+   "date": "2026-11-13T15:04:26+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Påvist fugleinfluensa i Akershus: Må avlive 13.000 dyr",
+   "title": "Grøssar av bilda av Noreg-motstandaren – synest synd på fotografane",
    "source": "NRK",
-   "summary": "Mattilsynet jobber med å kartlegge om smitten kan ha spredt seg til flere gårder. Alvorlig, mener forsker.",
-   "img": "https://gfx.nrk.no/05ZgC0zRwa-evm9RX-z_YQSd7uFurmLMrmUwzUPnfbHg.jpg",
-   "date": "2026-11-14T09:29:04+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "13.000 fjørfe må avlives i Akershus",
-   "source": "NRK",
-   "summary": "Det bekrefter Mattilsynet til VG, i forbindelse med en pressemelding lørdag formiddag om flere tilfeller av fugleinfluensa. Fredag kveld ble det bekreftet et tilfelle av fugleinfluensa i et kommersielt fjørfehold i Akershus. Forrige uke ble det samme påvist i ",
-   "img": "https://gfx.nrk.no/05ZgC0zRwa-evm9RX-z_YQSd7uFurmLMrmUwzUPnfbHg.jpg",
-   "date": "2026-11-14T09:19:41+00:00"
+   "summary": "Ta ein ekstra titt på Wales-spelarane før det viktige Nasjonsliga-oppgjeret mot Noreg laurdag. No avslører ei av stjernene sanninga bak tradisjonen.",
+   "img": "https://gfx.nrk.no/cPrubDX-KQ3q-R3jCgeoPQttOf-SwSj4QPf4Nk5fb-rA.jpg",
+   "date": "2026-11-14T13:53:25+00:00"
   }
  ]
 }
