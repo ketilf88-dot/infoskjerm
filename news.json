@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:43:39.979528+00:00",
+ "updated": "2026-11-15T19:57:44.895320+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -257,21 +257,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Britain throws weight behind idea for new subsea data link to Norway",
-   "source": "Financial Times",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T06:00:52+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
    "source": "EnergyNow.com",
    "summary": "",
    "img": "",
    "date": "2026-11-13T22:31:11+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Britain throws weight behind idea for new subsea data link to Norway",
+   "source": "Financial Times",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-10T06:00:52+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -337,9 +337,9 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Geolog sendt for å undersøke løse jordmasser – ett hus evakuert",
+   "title": "Undersøker løse jordmasser i Trondheim – ett hus evakuert",
    "source": "NRK Trøndelag",
-   "summary": "Litt etter kl. 13 søndag ettermiddag dro nødetatene for å undersøke jordmasser som har sunket ved Hallset i Trondheim",
+   "summary": "Litt etter klokken 13 søndag ettermiddag dro nødetatene for å undersøke sunkne jordmasser ved Hallset i Trondheim.",
    "img": "https://gfx.nrk.no/mDEocWXsbwXvkglh7B54UwwXwj_pvuWLlKjQmKaf7wSQ.jpg",
    "date": "2026-11-15T13:12:26+00:00"
   },
@@ -377,41 +377,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Daniel (49) vandrer gjennom natta når han ikke har et sted å sove",
+   "title": "Gliste etter stikk frå kometen: – Har han ikkje alltid vore sånn då?",
    "source": "NRK",
-   "summary": "I fjor fikk myndighetene Riksrevisjonens sterkeste kritikk. Kirkens Bymisjon mener mennesker med rusproblemer og psykiske lidelser fortsatt blir sviktet.",
-   "img": "https://gfx.nrk.no/Ft6EEui9Dvbb-bWlz0iGEQjYpBP6-Ozj87ITkL5j8PiQ.jpg",
-   "date": "2026-11-15T12:46:55+00:00"
+   "summary": "Med OL-gull i langrenn kom ein storkjefta Einar Hedegart (25) til skiskyttaropninga. Men Johan-Olav Botn (27) slo hardt tilbake.",
+   "img": "https://gfx.nrk.no/myvVDFh6BcEHyVx2N5JLWgHHWD3Psfgli24YgAejyElg.jpg",
+   "date": "2026-11-15T19:08:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Braathen med ny maktdemonstrasjon: – Jeg er så full av følelser",
+   "title": "Fugleinfluensa påvist i Rogaland og Agder",
    "source": "NRK",
-   "summary": "Norsk-brasilianske Lucas Pinheiro Braathen (26) fortsetter å ydmyke konkurrentene. Etter seier i storslalåm-starten i Sölden, fortsatte han med seier i slalåm i finske Levi søndag. – Det er så godt å være her i Levi. Jeg er så full av følelser nå. Jeg skal prø",
-   "img": "https://gfx.nrk.no/wyKK9Fa7azRoqhkuw5hSRgPVX3actOTmRSHCpLNT5Wfg.jpg",
-   "date": "2026-11-15T12:48:18+00:00"
+   "summary": "Til sammen syv fjørfehold har nå fått påvist smitte av fugleinfluensa, skriver Mattilsynet søndag kveld. Dette er Norges største utbrudd noensinne i kommersiell fjørfehold. Rundt 100.000 fugler må nå avlives. FHI understreker at risikoen for mennesker er svært",
+   "img": "",
+   "date": "2026-11-15T17:42:55+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Vind og kaos-skyting: Kirkeeide vant fellesstarten etter åtte (!) bom",
+   "title": "Denne russeren melder seg klar overfor NRK: – Skal gå på Beitostølen",
    "source": "NRK",
-   "summary": "Maren Kirkeeide stakk av med seieren på kvinnenes fellesstart i skiskyting på Geilo søndag. Lørdagens sprintsensasjon Guro Ytterhus imponerte igjen og tok andreplass 14,4 sekunder bak Kirkeeide. Juni Arnekleiv ledet etter to fulle hus, men på tredje skyting bl",
-   "img": "https://gfx.nrk.no/wDNFG_tGdtywbhwsVpGmUAXtDxQj3tyKJBxkVEZiH0HQ.jpg",
-   "date": "2026-11-15T12:25:04+00:00"
+   "summary": "Denne russiske skiløperen er innbygger i Slovenia. Kan han da delta i skirenn i Norge?",
+   "img": "https://gfx.nrk.no/A7MJxUQY7WUQ9aNgcMg3-w18ULnkfKDx2ObRg3QFun_A.jpg",
+   "date": "2026-11-15T16:50:06+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Haaland sliter med motivasjonen: – Jeg ville ha startet med Sørloth",
+   "title": "Loven hindrer Mai-Liss i å dra på tur: – En form for diskriminering",
    "source": "NRK",
-   "summary": "NRK-ekspert mener at Erling Braut Haaland bør hviles mot Danmark. Ståle Solbakken tror Haaland er klar.",
-   "img": "https://gfx.nrk.no/xLscCXI4ifTXRma80YJjqACeXb4urONOy4q04QU18MTw.jpg",
-   "date": "2026-11-15T11:05:25+00:00"
+   "summary": "Med den elektriske firehjulingen fikk kronisk syke Mai-Liss turlivet tilbake. Men kommunen gir henne kun lov til et begrenset antall turer i året, og krever at hun fører loggbok.",
+   "img": "https://gfx.nrk.no/cEubM-gUBEzxGGT-vG3QogXq3FFcZe6vICz1xv0VrWXQ.jpg",
+   "date": "2026-11-15T16:25:15+00:00"
   }
  ]
 }
