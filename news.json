@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:57:44.895320+00:00",
+ "updated": "2026-11-15T23:44:43.280236+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -234,16 +234,6 @@
    "date": "2026-10-26T16:17:46+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
-   "source": "Splash247",
-   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers the Lynn and Inner Dowsing wind farms of",
-   "img": "https://splash247.com/wp-content/uploads/2023/08/UK-Government-offshore-wind.jpg",
-   "date": "2026-11-13T09:30:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -377,6 +367,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Nå kommer «MGP» for KI-musikk: – Ingen hører forskjell",
+   "source": "NRK",
+   "summary": "Artist Lars Kilevold arrangerer nå den aller første låtkonkurransen for KI-musikk. Musikkprofiler er skeptiske: – Skaper usikkerhet og debatt.",
+   "img": "https://gfx.nrk.no/xIn_LWhndNooQUiPEjQdwAS6iVo-9SGESpGX0zTlL8UA.jpg",
+   "date": "2026-11-15T21:16:33+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Gliste etter stikk frå kometen: – Har han ikkje alltid vore sånn då?",
    "source": "NRK",
    "summary": "Med OL-gull i langrenn kom ein storkjefta Einar Hedegart (25) til skiskyttaropninga. Men Johan-Olav Botn (27) slo hardt tilbake.",
@@ -402,16 +402,6 @@
    "summary": "Denne russiske skiløperen er innbygger i Slovenia. Kan han da delta i skirenn i Norge?",
    "img": "https://gfx.nrk.no/A7MJxUQY7WUQ9aNgcMg3-w18ULnkfKDx2ObRg3QFun_A.jpg",
    "date": "2026-11-15T16:50:06+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Loven hindrer Mai-Liss i å dra på tur: – En form for diskriminering",
-   "source": "NRK",
-   "summary": "Med den elektriske firehjulingen fikk kronisk syke Mai-Liss turlivet tilbake. Men kommunen gir henne kun lov til et begrenset antall turer i året, og krever at hun fører loggbok.",
-   "img": "https://gfx.nrk.no/cEubM-gUBEzxGGT-vG3QogXq3FFcZe6vICz1xv0VrWXQ.jpg",
-   "date": "2026-11-15T16:25:15+00:00"
   }
  ]
 }
