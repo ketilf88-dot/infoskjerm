@@ -1,9 +1,7 @@
 {
- "updated": "2026-11-15T07:10:49.682079+00:00",
+ "updated": "2026-11-15T14:43:39.979528+00:00",
  "sources": 8,
- "failed": [
-  "Splash247"
- ],
+ "failed": [],
  "items": [
   {
    "tag": "Oslo Børs",
@@ -236,6 +234,16 @@
    "date": "2026-10-26T16:17:46+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
+   "source": "Splash247",
+   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers the Lynn and Inner Dowsing wind farms of",
+   "img": "https://splash247.com/wp-content/uploads/2023/08/UK-Government-offshore-wind.jpg",
+   "date": "2026-11-13T09:30:00+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -249,21 +257,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-13T22:31:11+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Britain throws weight behind idea for new subsea data link to Norway",
    "source": "Financial Times",
    "summary": "",
    "img": "",
    "date": "2026-11-10T06:00:52+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-13T22:31:11+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -329,6 +337,36 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Geolog sendt for å undersøke løse jordmasser – ett hus evakuert",
+   "source": "NRK Trøndelag",
+   "summary": "Litt etter kl. 13 søndag ettermiddag dro nødetatene for å undersøke jordmasser som har sunket ved Hallset i Trondheim",
+   "img": "https://gfx.nrk.no/mDEocWXsbwXvkglh7B54UwwXwj_pvuWLlKjQmKaf7wSQ.jpg",
+   "date": "2026-11-15T13:12:26+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Studenter spiller i «Rinnan»: – Vil vise fram motstandskvinnene",
+   "source": "NRK Trøndelag",
+   "summary": "Tre unge trønderske skuespillere har hovedroller i den nye TV-serien om Henry Rinnan.",
+   "img": "https://gfx.nrk.no/rI1kMWmiNH3GqL6i6qtFMQIqUs1VEMBT4HrI4HxfYa8g.jpg",
+   "date": "2026-11-15T09:59:13+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Tok kvelertak på vektere – ble bortvist fra bysentrum",
+   "source": "NRK Trøndelag",
+   "summary": "Natt til søndag har vært preget av glatte veier, utrygg trafikk og amper stemning på flere av utestedene i Trøndelag.",
+   "img": "https://gfx.nrk.no/A3GfyjNbNJXyn-BIxU_1hgFlHQFDCP7ddZYBfnVqrvdw.jpg",
+   "date": "2026-11-15T08:43:31+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Bransjekrise tvang Silje til å tenke nytt",
    "source": "NRK Trøndelag",
    "summary": "Nesten hver tredje nyutdanna arkitekt går ut i arbeidsledighet. Det tøffe jobbmarkedet tvinger flere til å starte opp for seg selv.",
@@ -336,74 +374,44 @@
    "date": "2026-11-14T11:39:40+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Rykket ut med flere patruljer: – Folk prøvde å løse opp slåsskampen selv",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet i Trøndelag mener det var relativt rolig natt til lørdag 14. november, til tross for en god mengde ordensforstyrrelser i Trondheim.",
-   "img": "https://gfx.nrk.no/OIEuMyrtaRsoraFaU2JRmgoCGRN-vwCJjHWzb-78EGRw.jpg",
-   "date": "2026-11-14T07:53:51+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt - Laksesykdom i trønderske elver",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/4kJi9Ebd3vrAmsXKJ-JbaQA67d1D9OKVICCFqy17KcSg.jpg",
-   "date": "2026-11-13T18:03:43+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Frykter at sykdommen sprer seg blant villaksen",
-   "source": "NRK Trøndelag",
-   "summary": "Klima- og miljøministeren kaller situasjonen svært alvorlig.",
-   "img": "https://gfx.nrk.no/YwrwArHRAIWX7uFox0tq_AA2NSmdAfHekHHnkySJ23jA.jpg",
-   "date": "2026-11-13T16:41:20+00:00"
+   "title": "Daniel (49) vandrer gjennom natta når han ikke har et sted å sove",
+   "source": "NRK",
+   "summary": "I fjor fikk myndighetene Riksrevisjonens sterkeste kritikk. Kirkens Bymisjon mener mennesker med rusproblemer og psykiske lidelser fortsatt blir sviktet.",
+   "img": "https://gfx.nrk.no/Ft6EEui9Dvbb-bWlz0iGEQjYpBP6-Ozj87ITkL5j8PiQ.jpg",
+   "date": "2026-11-15T12:46:55+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Wales-sjefen falt pladask for Nusa – gir klar beskjed til storklubbene",
+   "title": "Braathen med ny maktdemonstrasjon: – Jeg er så full av følelser",
    "source": "NRK",
-   "summary": "Wales-trener Craig Bellamy har sett nok. Han stempler Antonio Nusa (21) som en av verdens beste vinger.",
-   "img": "https://gfx.nrk.no/Ta_D3lX9hsc0_kZnjaqyzguY92CVH-VKEVxupKXvbGzw.jpg",
-   "date": "2026-11-14T22:42:53+00:00"
+   "summary": "Norsk-brasilianske Lucas Pinheiro Braathen (26) fortsetter å ydmyke konkurrentene. Etter seier i storslalåm-starten i Sölden, fortsatte han med seier i slalåm i finske Levi søndag. – Det er så godt å være her i Levi. Jeg er så full av følelser nå. Jeg skal prø",
+   "img": "https://gfx.nrk.no/wyKK9Fa7azRoqhkuw5hSRgPVX3actOTmRSHCpLNT5Wfg.jpg",
+   "date": "2026-11-15T12:48:18+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Flystansen i USA: Bytting av kabel mulig årsak",
+   "title": "Vind og kaos-skyting: Kirkeeide vant fellesstarten etter åtte (!) bom",
    "source": "NRK",
-   "summary": "USAs transportminister Sean Duffy sier utskiftning av en kobbertråd kan være årsaken til den omfattende flystansen fredag. Flere enn 15.000 flygninger ble forsinket eller innstilt da amerikanske luftfartsmyndigheter FAA i fire timer nektet alle fly å ta av på ",
-   "img": "https://gfx.nrk.no/mA-zZq6otthkbNZQDnKcMgU4FMfmYRkrfN4dSucBrBzQ.jpg",
-   "date": "2026-11-14T18:33:24+00:00"
+   "summary": "Maren Kirkeeide stakk av med seieren på kvinnenes fellesstart i skiskyting på Geilo søndag. Lørdagens sprintsensasjon Guro Ytterhus imponerte igjen og tok andreplass 14,4 sekunder bak Kirkeeide. Juni Arnekleiv ledet etter to fulle hus, men på tredje skyting bl",
+   "img": "https://gfx.nrk.no/wDNFG_tGdtywbhwsVpGmUAXtDxQj3tyKJBxkVEZiH0HQ.jpg",
+   "date": "2026-11-15T12:25:04+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Solbakken reagerer på «urettferdig» Haaland-dekning: – Det er galimatias",
+   "title": "Haaland sliter med motivasjonen: – Jeg ville ha startet med Sørloth",
    "source": "NRK",
-   "summary": "Erling Braut Haaland brukes for mye i dekningen av City-skandalen, mener Ståle Solbakken. Lørdag uttalte spissen seg om saken for første gang.",
-   "img": "https://gfx.nrk.no/K0bqvbrZ1KS2d6vyoLY6MgCRS2PYSh3s5IlEjS4rFv1Q.jpg",
-   "date": "2026-11-14T19:15:26+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nusa herjet for Norge: «Driblet bort halve Wales»",
-   "source": "NRK",
-   "summary": "Norge tok en livsviktig seier mot Wales på Ullevaal. Her er NRKs vurdering av de norske spillerne.",
-   "img": "https://gfx.nrk.no/5rQbVeDaWiErGSohxDYV1Q1ZE970QvhILabbwGeCS_-w.jpg",
-   "date": "2026-11-14T18:55:30+00:00"
+   "summary": "NRK-ekspert mener at Erling Braut Haaland bør hviles mot Danmark. Ståle Solbakken tror Haaland er klar.",
+   "img": "https://gfx.nrk.no/xLscCXI4ifTXRma80YJjqACeXb4urONOy4q04QU18MTw.jpg",
+   "date": "2026-11-15T11:05:25+00:00"
   }
  ]
 }
