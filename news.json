@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:55:37.450791+00:00",
+ "updated": "2026-11-15T00:33:30.496270+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -377,6 +377,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Wales-sjefen falt pladask for Nusa – gir klar beskjed til storklubbene",
+   "source": "NRK",
+   "summary": "Wales-trener Craig Bellamy har sett nok. Han stempler Antonio Nusa (21) som en av verdens beste vinger.",
+   "img": "https://gfx.nrk.no/Ta_D3lX9hsc0_kZnjaqyzguY92CVH-VKEVxupKXvbGzw.jpg",
+   "date": "2026-11-14T22:42:53+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Flystansen i USA: Bytting av kabel mulig årsak",
    "source": "NRK",
    "summary": "USAs transportminister Sean Duffy sier utskiftning av en kobbertråd kan være årsaken til den omfattende flystansen fredag. Flere enn 15.000 flygninger ble forsinket eller innstilt da amerikanske luftfartsmyndigheter FAA i fire timer nektet alle fly å ta av på ",
@@ -402,16 +412,6 @@
    "summary": "Norge tok en livsviktig seier mot Wales på Ullevaal. Her er NRKs vurdering av de norske spillerne.",
    "img": "https://gfx.nrk.no/5rQbVeDaWiErGSohxDYV1Q1ZE970QvhILabbwGeCS_-w.jpg",
    "date": "2026-11-14T18:55:30+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Avslørte Ødegaard-drama: - Har spydd i hele natt",
-   "source": "NRK",
-   "summary": "Nusa, Schjelderup og Haaland sendte Ullevaal til himmels, men natten før kamp slet kapteinen med sykdom.",
-   "img": "https://gfx.nrk.no/7orSozWMvs3Q_Sm8tXkXew95_p_oVHnjMyVgrguikxQg.jpg",
-   "date": "2026-11-14T17:56:36+00:00"
   }
  ]
 }
