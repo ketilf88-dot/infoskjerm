@@ -1,7 +1,9 @@
 {
- "updated": "2026-11-15T00:33:30.496270+00:00",
+ "updated": "2026-11-15T07:10:49.682079+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Splash247"
+ ],
  "items": [
   {
    "tag": "Oslo Børs",
@@ -234,16 +236,6 @@
    "date": "2026-10-26T16:17:46+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Deutsche Windtechnik picked for UK offshore wind maintenance job",
-   "source": "Splash247",
-   "summary": "German offshore wind services specialist Deutsche Windtechnik has secured a five-year operations and maintenance contract covering two offshore wind farms in the UK. The agreement, awarded by asset manager XceCo, covers the Lynn and Inner Dowsing wind farms of",
-   "img": "https://splash247.com/wp-content/uploads/2023/08/UK-Government-offshore-wind.jpg",
-   "date": "2026-11-13T09:30:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -257,21 +249,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Britain throws weight behind idea for new subsea data link to Norway",
-   "source": "Financial Times",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T06:00:09+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
    "source": "EnergyNow.com",
    "summary": "",
    "img": "",
    "date": "2026-11-13T22:31:11+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Britain throws weight behind idea for new subsea data link to Norway",
+   "source": "Financial Times",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-10T06:00:52+00:00"
   },
   {
    "tag": "Offshore · Norden",
