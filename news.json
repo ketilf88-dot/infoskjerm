@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:10:40.588189+00:00",
+ "updated": "2026-11-16T11:05:06.109037+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -7,11 +7,11 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Subsea 7 - awarded contract offshore US",
-   "source": "Subsea 7 S.A.",
-   "summary": "Luxembourg - 13 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced a sizeable(1) contract award from Kosmos Energy Gulf of Mexico Operations, LLC, for the Tiberius Project(2) in the US Gulf.",
+   "title": "DOF Group ASA - Awarded subsea SURF services contract in the APAC region by Amplitude Energy Limited",
+   "source": "DOF Group ASA",
+   "summary": "Reference is made to the stocke exchange notice by DOF Group ASA (\"DOF\") on 2 October 2026 regarding a letter of intent for a contract.",
    "img": "",
-   "date": "2026-11-13T18:35:52.705Z"
+   "date": "2026-11-16T08:39:49.271Z"
   },
   {
    "tag": "Oslo Børs",
@@ -56,6 +56,16 @@
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
+   "weight": 4,
+   "title": "TGS Awarded OBN Contract offshore Namibia ",
+   "source": "TGS ASA",
+   "summary": "OSLO, Norway (12 November 2026) - TGS, a leading global provider of energy data and intelligence, is pleased to announce the award of an OBN contract offshore Namibia.",
+   "img": "",
+   "date": "2026-11-12T06:00:02.071Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
    "weight": 3,
    "title": "DOF Group ASA - Contract award and extension",
    "source": "DOF Group ASA",
@@ -64,14 +74,54 @@
    "date": "2026-11-11T15:47:15.437Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "CETO wave energy unit makes a splash at BiMEP",
+   "source": "Offshore Energy",
+   "summary": "Carnegie Clean Energy has deployed CETO wave energy system's buoyant actuator, the unit's prime mover, at the Biscay Marine Energy Platform...",
+   "img": "https://www.offshore-energy.biz/api/media/file/CETO%20wave%20energy%20unit%20makes%20a%20splash%20at%20BiMEP-800x465.jpg?prefix=media",
+   "date": "2026-11-16T10:45:42+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DOF starts activities as part of 'large' contract in APAC",
+   "source": "Offshore Energy",
+   "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
+   "img": "https://www.offshore-energy.biz/api/media/file/DOF%20starts%20activities%20for%20%27large%27%20contract%20in%20APAC-800x497.jpg?prefix=media",
+   "date": "2026-11-16T09:29:54+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Vår Energi ASA: Extraordinary general meeting held",
-   "source": "Vår Energi ASA",
-   "summary": "Sandnes, Norway, 11 November 2026: The extraordinary general meeting of Vår Energi ASA (the \"Company\", OSE: VAR) was held today, 11 November 2026, at 15:00 CET. The meeting was held as a digital event.",
-   "img": "",
-   "date": "2026-11-11T14:32:56.828Z"
+   "title": "North Sea strike action escalates as offshore workers intensify pressure on Apache in pay and conditions dispute",
+   "source": "Offshore Energy",
+   "summary": "Apache offshore workers have stepped up industrial action over pay and working conditions, bringing North Sea platforms to a standstill.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784732924728-1600x1067-800x533.png?prefix=media",
+   "date": "2026-11-16T09:06:48+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Subsea7 selected for deepwater tieback offshore US",
+   "source": "Offshore Energy",
+   "summary": "Subsea7 has won a contract worth between $50 million and $150 million for a project located at a water depth of around 2,200 meters in the Gulf...",
+   "img": "https://www.offshore-energy.biz/api/media/file/subsea7-800x578.jpg?prefix=media",
+   "date": "2026-11-16T08:12:58+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Energos puts Hanwha Power in charge of FSRU conversion with another on the cards",
+   "source": "Offshore Energy",
+   "summary": "This deal with Energos Infrastructure to transform an LNG carrier into an FSRU is Hanwha Power’s second turnkey FSRU conversion contract.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Image%20for%20the%20conversion%20of%20a%20LNG%20carrier%20into%20an%20FSRU%20Source%20Hanwha%20Power-500x318.jpg?prefix=media",
+   "date": "2026-11-16T07:57:41+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -102,56 +152,6 @@
    "summary": "Seaway7 has begun installing inter-array cables at Ørsted's Hornsea 3 offshore wind farm site in the UK. The company will install 500 kilometers...",
    "img": "https://www.offshore-energy.biz/api/media/file/Seaway%20Phoenix%20cable-laying%20vessel-800x533.webp?prefix=media",
    "date": "2026-11-13T10:54:38+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Three bidders in the run for seismic surveys offshore Greece",
-   "source": "Offshore Energy",
-   "summary": "Three companies have submitted bids to perform the acquisition and processing of non-exclusive seismic data offshore Greece that will help assess...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Three%20bidders%20in%20the%20run%20for%20seismic%20surveys%20offshore%20Greece-800x382.jpg?prefix=media",
-   "date": "2026-11-13T10:18:52+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Marine license granted for one of UK’s largest power projects",
-   "source": "Offshore Energy",
-   "summary": "SSEN Transmission has secured the marine license for subsea cable infrastructure in Scottish waters for the 2 GW Eastern Green Link 3 (EGL3)...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Marine%20license%20granted%20for%20one%20of%20UK%E2%80%99s%20largest%20power%20projects-800x435.jpg?prefix=media",
-   "date": "2026-11-13T08:41:56+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "ExxonMobil reaches FID on eighth project offshore Guyana",
-   "source": "Offshore Energy",
-   "summary": "U.S.-headquartered oil & gas company ExxonMobil has made the final investment decision (FID) for its Longtail development offshore Guyana after...",
-   "img": "https://www.offshore-energy.biz/api/media/file/exxon-800x449.jpg?prefix=media",
-   "date": "2026-11-13T08:06:59+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "New ultra-deep oil & gas discovery marks ‘major breakthrough’ in Bohai Sea",
-   "source": "Offshore Energy",
-   "summary": "CNOOC has revealed an ultra-deep natural gas find in the central Bohai Sea, with a high-yield volcanic well testing at 800,000 cubic meters per day.",
-   "img": "https://www.offshore-energy.biz/api/media/file/CNOOC-1-800x190.png?prefix=media",
-   "date": "2026-11-12T15:51:13+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "SLB on multi-year integrated drilling quest with European oil & gas operator",
-   "source": "Offshore Energy",
-   "summary": "SLB’s new assignment with Vår Energi aims to drive efficiency and performance across two rigs owned by Transocean and Odfjell Drilling.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Deepsea%20Bergen%20Source%20SLB-800x644.png?prefix=media",
-   "date": "2026-11-12T14:22:03+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -232,6 +232,46 @@
    "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
    "img": "",
    "date": "2026-10-26T16:17:46+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "JFE Engineering wins offshore wind maintenance contract",
+   "source": "Splash247",
+   "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide inspection and maintenance services for ",
+   "img": "https://splash247.com/wp-content/uploads/2020/11/Japan-Offshore-Wind-Shizen-Energy.jpg",
+   "date": "2026-11-16T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Seatrium adds another Guyana FPSO to its books",
+   "source": "Splash247",
+   "summary": "Singapore offshore engineering group Seatrium has secured another FPSO integration contract from Japan’s Modec, this time for a floating production unit destined for ExxonMobil’s $6.8bn Hammerhead development offshore Guyana. The contract covers topside module",
+   "img": "https://splash247.com/wp-content/uploads/2024/11/Seatrium-yard-Seatrium.jpg",
+   "date": "2026-11-16T09:55:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "KBR wraps up hull design for Equinor’s Wisting FPSO",
+   "source": "Splash247",
+   "summary": "US engineering group KBR has completed the hull and marine systems design for the proposed Wisting FPSO in Norway’s Barents Sea, delivering a design package ready for handover to shipyards. The work was carried out in cooperation with Norwegian engineering con",
+   "img": "https://splash247.com/wp-content/uploads/2026/10/Wisting-FPSO-Aibel.jpg",
+   "date": "2026-11-16T09:50:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "DOF lands up to $100m Australian subsea contract",
+   "source": "Splash247",
+   "summary": "Norwegian offshore vessel owner DOF has secured a subsea installation contract worth between $50m and $100m from Australia’s Amplitude Energy, lining up its construction vessel Skandi Inventor for work in the Otway Basin. The Oslo-listed group has firmed up an",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Skandi-Inventor.jpg",
+   "date": "2026-11-16T09:26:57+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -327,6 +367,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Full fyr i bolig på Jøa i Namsos",
+   "source": "NRK Trøndelag",
+   "summary": "To tenåringer som lufta hunden oppdaga at det brant i huset.",
+   "img": "https://static.nrk.no/kartoteket/01M7HAW8PM9X9ES6G8WEVFN3F7/F169/650w.png",
+   "date": "2026-11-16T04:49:36+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Undersøker løse jordmasser i Trondheim – ett hus evakuert",
    "source": "NRK Trøndelag",
    "summary": "Litt etter klokken 13 søndag ettermiddag dro nødetatene for å undersøke sunkne jordmasser ved Hallset i Trondheim.",
@@ -354,54 +404,44 @@
    "date": "2026-11-15T08:43:31+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Bransjekrise tvang Silje til å tenke nytt",
-   "source": "NRK Trøndelag",
-   "summary": "Nesten hver tredje nyutdanna arkitekt går ut i arbeidsledighet. Det tøffe jobbmarkedet tvinger flere til å starte opp for seg selv.",
-   "img": "https://gfx.nrk.no/2scyP0gbTkzYz4deTU4e3g73irAGslh2CLXe9KKOvhCg.jpg",
-   "date": "2026-11-14T11:39:40+00:00"
+   "title": "Narkodømt mann pågrepet etter lang tid på rømmen",
+   "source": "NRK",
+   "summary": "Han rømte fra en dom på ni års fengsel i en av Nord-Norges største narkosaker. Nå er hasjsmugleren pågrepet i utlandet etter at politiet bevisst strupte økonomien hans.",
+   "img": "https://gfx.nrk.no/Ilf3UkD3X0zyb7ZcbsxsxgO7Z44vzXi6Cse5G_b8FUVA.jpg",
+   "date": "2026-11-16T10:19:30+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Nå kommer «MGP» for KI-musikk: – Ingen hører forskjell",
+   "title": "Betaler nær en halv milliard i renter: – Hvem vil være om bord på et synkende skip?",
    "source": "NRK",
-   "summary": "Artist Lars Kilevold arrangerer nå den aller første låtkonkurransen for KI-musikk. Musikkprofiler er skeptiske: – Skaper usikkerhet og debatt.",
-   "img": "https://gfx.nrk.no/xIn_LWhndNooQUiPEjQdwAS6iVo-9SGESpGX0zTlL8UA.jpg",
-   "date": "2026-11-15T21:16:33+00:00"
+   "summary": "Det kriserammede sykehuset i Stavanger må betale 485 millioner kroner i renter til staten hvert år. Forslag om kutt i bemanning ryster nå de ansatte.",
+   "img": "https://gfx.nrk.no/oFyWO2IYyV1K-bfwfOrzSgp0BEhOzso2y5LKALDmxI5A.jpg",
+   "date": "2026-11-16T09:54:31+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Gliste etter stikk frå kometen: – Har han ikkje alltid vore sånn då?",
+   "title": "Staten kravde 200 millionar i klimaavgift – betalte 400 millionar tilbake",
    "source": "NRK",
-   "summary": "Med OL-gull i langrenn kom ein storkjefta Einar Hedegart (25) til skiskyttaropninga. Men Johan-Olav Botn (27) slo hardt tilbake.",
-   "img": "https://gfx.nrk.no/myvVDFh6BcEHyVx2N5JLWgHHWD3Psfgli24YgAejyElg.jpg",
-   "date": "2026-11-15T19:08:46+00:00"
+   "summary": "Staten skulle presse fram klimakutt med ei ny avgift. Dei enda med å betale det dobbelte tilbake til fiskarane.",
+   "img": "https://gfx.nrk.no/o-9CD42o54NnIVNFR8NdgQzilzjL3_WbAY5SI99_ClsQ.jpg",
+   "date": "2026-11-16T05:33:08+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fugleinfluensa påvist i Rogaland og Agder",
+   "title": "Dramaserie tok plutseleg av: – Kona kommenterer det kvar gong",
    "source": "NRK",
-   "summary": "Til sammen syv fjørfehold har nå fått påvist smitte av fugleinfluensa, skriver Mattilsynet søndag kveld. Dette er Norges største utbrudd noensinne i kommersiell fjørfehold. Rundt 100.000 fugler må nå avlives. FHI understreker at risikoen for mennesker er svært",
-   "img": "",
-   "date": "2026-11-15T17:42:55+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Denne russeren melder seg klar overfor NRK: – Skal gå på Beitostølen",
-   "source": "NRK",
-   "summary": "Denne russiske skiløperen er innbygger i Slovenia. Kan han da delta i skirenn i Norge?",
-   "img": "https://gfx.nrk.no/A7MJxUQY7WUQ9aNgcMg3-w18ULnkfKDx2ObRg3QFun_A.jpg",
-   "date": "2026-11-15T16:50:06+00:00"
+   "summary": "I sommar blei plutseleg ein serie frå 2008 ein av dei mest sette på Netflix i Noreg. Truleg skal Patrick Berg ha noko av æra for det.",
+   "img": "https://gfx.nrk.no/u2jYsgGuIfke36UQRErImApF_wH5pYy8FzhYta5zabUw.jpg",
+   "date": "2026-11-16T04:38:03+00:00"
   }
  ]
 }
