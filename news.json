@@ -1,8 +1,48 @@
 {
- "updated": "2026-11-16T11:05:06.109037+00:00",
+ "updated": "2026-11-16T20:59:20.564601+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "NOL: Changes to the Board composition",
+   "source": "Northern Ocean Ltd.",
+   "summary": "16 November 2026 - Hamilton, Bermuda Northern Ocean Ltd. (\"NOL\" or the \"Company\") announces that James Ayers has informed the Company of his resignation from the Board of Directors with immediate effect. The Board of Directors would like to thank Mr.",
+   "img": "",
+   "date": "2026-11-16T19:11:51.554Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Vår Energi ASA's share saving plan allocates shares",
+   "source": "Vår Energi ASA",
+   "summary": "Sandnes, Norway, 16 November 2026: A total of 137 263 shares were purchased on behalf of employees in Vår Energi ASA (OSE: VAR) participating in the company's employee share saving programme. The average purchase price was NOK 50.1883 per share.",
+   "img": "",
+   "date": "2026-11-16T15:56:44.247Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 4,
+   "title": "DOF Group ASA - Awarded long-term contract in Africa",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") has been awarded a Very Large* integrated Field Support Vessel (FSV) contract with an international oil company in Africa. The project will utilise Skandi Seven for a firm period of three years.",
+   "img": "",
+   "date": "2026-11-16T13:21:32.119Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "LTIP share awards completed and new grants issued",
+   "source": "Aker BP ASA",
+   "summary": "Aker BP has finalised share awards under its 2023-2026 Long-Term Incentive Programme (LTIP) and initiated new grants for the 2026-2029 cycle. The LTIP is designed to align executive performance with long-term shareholder value creation.",
+   "img": "",
+   "date": "2026-11-16T12:05:17.619Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -44,34 +84,74 @@
    "date": "2026-11-13T09:49:17.253Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Archer Limited - Q3 2026 Financial Report",
-   "source": "Archer Limited",
-   "summary": "Hamilton, Bermuda (November 12, 2026) Archer Limited (\"Archer\") today published its financial report for the third quarter 2026.",
-   "img": "",
-   "date": "2026-11-12T06:30:36.387Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "ExxonMobil brings online its fifth oil project offshore Guyana",
+   "source": "Offshore Energy",
+   "summary": "The start-up of production at Uaru raises Guyana’s installed capacity to 1.1 million barrels per day.",
+   "img": "https://www.offshore-energy.biz/api/media/file/20260824_ErreaWittu-800x564.jpg?prefix=media",
+   "date": "2026-11-16T16:02:14+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 4,
-   "title": "TGS Awarded OBN Contract offshore Namibia ",
-   "source": "TGS ASA",
-   "summary": "OSLO, Norway (12 November 2026) - TGS, a leading global provider of energy data and intelligence, is pleased to announce the award of an OBN contract offshore Namibia.",
-   "img": "",
-   "date": "2026-11-12T06:00:02.071Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Seatrium on FPSO duty for ExxonMobil’s seventh oil project in Guyanese waters",
+   "source": "Offshore Energy",
+   "summary": "MODEC has hired Seatrium for work on an FPSO bound for ExxonMobil’s $6.8 billion oil development offshore Guyana.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784739181456-1024x796-800x622.png?prefix=media",
+   "date": "2026-11-16T15:21:13+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Group ASA - Contract award and extension",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") is pleased to announce a 7-year contract for one of its smaller construction support vessels (CSV) including ROV services. The contract adds approximately USD 110 million to DOF's backlog.",
-   "img": "",
-   "date": "2026-11-11T15:47:15.437Z"
+   "title": "TotalEnergies spuds Nigeria's first deepwater exploration well in a decade",
+   "source": "Offshore Energy",
+   "summary": "Noble Corporation’s 2014-built high-specification drillship is carrying out drilling activities offshore Nigeria.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Noble%20BlackRhino%20drillship%20Source%20Meren-800x588.jpg?prefix=media",
+   "date": "2026-11-16T14:33:52+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Shortly after contract in APAC, DOF reports 'very large' one in Africa",
+   "source": "Offshore Energy",
+   "summary": "DOF Group has won a contract described as very large for the provision of a field support vessel (FSV) in Africa. The contract was awarded by an...",
+   "img": "https://www.offshore-energy.biz/api/media/file/skandi%20seven-667x448.jpg?prefix=media",
+   "date": "2026-11-16T13:42:26+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
+   "source": "Offshore Energy",
+   "summary": "KKR-led consortium has now upped its stake to 65% in Sempra Infrastructure Partners, as Sempra optimizes its portfolio.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784740616186-1024x576-800x450.png?prefix=media",
+   "date": "2026-11-16T13:36:09+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Aberdeen subsea robotics firm secures first offshore wind contract in Taiwan",
+   "source": "Offshore Energy",
+   "summary": "Aberdeen-based High Performance Robotics (HPR) has been awarded its first commercial contract in Taiwan, where it will provide subsea inspection...",
+   "img": "https://www.offshore-energy.biz/api/media/file/HPR%20ROV%20KIT-1-800x533.webp?prefix=media",
+   "date": "2026-11-16T12:40:24+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "UK operator turns production taps on as first gas flows from $2.8 billion North Sea field",
+   "source": "Offshore Energy",
+   "summary": "First gas has started flowing from a field in the North Sea, bringing what Adura describes as vital UK energy resources ashore in time for winter.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Jackdaw-Adura-534x800.jpg?prefix=media",
+   "date": "2026-11-16T11:10:07+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -82,76 +162,6 @@
    "summary": "Carnegie Clean Energy has deployed CETO wave energy system's buoyant actuator, the unit's prime mover, at the Biscay Marine Energy Platform...",
    "img": "https://www.offshore-energy.biz/api/media/file/CETO%20wave%20energy%20unit%20makes%20a%20splash%20at%20BiMEP-800x465.jpg?prefix=media",
    "date": "2026-11-16T10:45:42+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DOF starts activities as part of 'large' contract in APAC",
-   "source": "Offshore Energy",
-   "summary": "DOF Group has secured a subsea umbilicals, risers and flowlines (SURF) services contract with Amplitude Energy Limited (AEL) for a project in the...",
-   "img": "https://www.offshore-energy.biz/api/media/file/DOF%20starts%20activities%20for%20%27large%27%20contract%20in%20APAC-800x497.jpg?prefix=media",
-   "date": "2026-11-16T09:29:54+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "North Sea strike action escalates as offshore workers intensify pressure on Apache in pay and conditions dispute",
-   "source": "Offshore Energy",
-   "summary": "Apache offshore workers have stepped up industrial action over pay and working conditions, bringing North Sea platforms to a standstill.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784732924728-1600x1067-800x533.png?prefix=media",
-   "date": "2026-11-16T09:06:48+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Subsea7 selected for deepwater tieback offshore US",
-   "source": "Offshore Energy",
-   "summary": "Subsea7 has won a contract worth between $50 million and $150 million for a project located at a water depth of around 2,200 meters in the Gulf...",
-   "img": "https://www.offshore-energy.biz/api/media/file/subsea7-800x578.jpg?prefix=media",
-   "date": "2026-11-16T08:12:58+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Energos puts Hanwha Power in charge of FSRU conversion with another on the cards",
-   "source": "Offshore Energy",
-   "summary": "This deal with Energos Infrastructure to transform an LNG carrier into an FSRU is Hanwha Power’s second turnkey FSRU conversion contract.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Image%20for%20the%20conversion%20of%20a%20LNG%20carrier%20into%20an%20FSRU%20Source%20Hanwha%20Power-500x318.jpg?prefix=media",
-   "date": "2026-11-16T07:57:41+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "South American shipowner orders AHTS vessel from China",
-   "source": "Offshore Energy",
-   "summary": "Chinese shipbuilder Nantong Rainbow Offshore & Engineering Equipment (ROC) has received an order from a South American shipowner for the...",
-   "img": "https://www.offshore-energy.biz/api/media/file/South%20American%20shipowner%20orders%20AHTS%20vessel%20from%20China-800x388.jpg?prefix=media",
-   "date": "2026-11-13T13:11:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Orkney Islands’ first link to UK mainland nears offshore installation",
-   "source": "Offshore Energy",
-   "summary": "Nexans has completed the factory acceptance test (FAT) of the 220 kV subsea cable that will connect the Orkney Islands to the UK mainland for the...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Orkney%20Islands%E2%80%99%20first%20link%20to%20UK%20mainland%20nears%20offshore%20installation-800x533.jpg?prefix=media",
-   "date": "2026-11-13T12:04:13+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Seaway7 kicks off cable installation work at Ørsted's Hornsea 3 offshore wind farm",
-   "source": "Offshore Energy",
-   "summary": "Seaway7 has begun installing inter-array cables at Ørsted's Hornsea 3 offshore wind farm site in the UK. The company will install 500 kilometers...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Seaway%20Phoenix%20cable-laying%20vessel-800x533.webp?prefix=media",
-   "date": "2026-11-13T10:54:38+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -266,16 +276,6 @@
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
-   "weight": 2,
-   "title": "DOF lands up to $100m Australian subsea contract",
-   "source": "Splash247",
-   "summary": "Norwegian offshore vessel owner DOF has secured a subsea installation contract worth between $50m and $100m from Australia’s Amplitude Energy, lining up its construction vessel Skandi Inventor for work in the Otway Basin. The Oslo-listed group has firmed up an",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Skandi-Inventor.jpg",
-   "date": "2026-11-16T09:26:57+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
    "weight": 3,
    "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
    "source": "Oil & Gas Journal",
@@ -291,7 +291,7 @@
    "source": "EnergyNow.com",
    "summary": "",
    "img": "",
-   "date": "2026-11-13T22:31:11+00:00"
+   "date": "2026-11-16T16:25:03+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -367,6 +367,26 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Utdanningsforbundet frykter skolekutt på 11 milliarder kroner",
+   "source": "NRK Trøndelag",
+   "summary": "Synkende elevtall i grunnskolen gjør at norske kommuner får langt mindre penger fra staten de neste åra.",
+   "img": "https://gfx.nrk.no/t1DX36MYs2aWKw6LHtGADwuz6eJ9dATWFZinAyX6DF8w.jpg",
+   "date": "2026-11-16T15:11:40+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Kjører feil på nye E6",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/sVPRhYydTuZvKRYBCmR1owZPVuk_NfE6uzfAZAIGt3WQ.jpg",
+   "date": "2026-11-16T18:12:25+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Full fyr i bolig på Jøa i Namsos",
    "source": "NRK Trøndelag",
    "summary": "To tenåringer som lufta hunden oppdaga at det brant i huset.",
@@ -384,64 +404,44 @@
    "date": "2026-11-15T13:12:26+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Studenter spiller i «Rinnan»: – Vil vise fram motstandskvinnene",
-   "source": "NRK Trøndelag",
-   "summary": "Tre unge trønderske skuespillere har hovedroller i den nye TV-serien om Henry Rinnan.",
-   "img": "https://gfx.nrk.no/rI1kMWmiNH3GqL6i6qtFMQIqUs1VEMBT4HrI4HxfYa8g.jpg",
-   "date": "2026-11-15T09:59:13+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Tok kvelertak på vektere – ble bortvist fra bysentrum",
-   "source": "NRK Trøndelag",
-   "summary": "Natt til søndag har vært preget av glatte veier, utrygg trafikk og amper stemning på flere av utestedene i Trøndelag.",
-   "img": "https://gfx.nrk.no/A3GfyjNbNJXyn-BIxU_1hgFlHQFDCP7ddZYBfnVqrvdw.jpg",
-   "date": "2026-11-15T08:43:31+00:00"
+   "title": "Gjev seg etter 20 år – fekk klar beskjed i Ødegaard-debut",
+   "source": "NRK",
+   "summary": "Etter drøssevis av nedturar med det norske herrelandslaget kan «lyden av Ullevaal» gje seg på ein opptur.",
+   "img": "https://gfx.nrk.no/_ii8D000vr7m2ksWAiEpqQa0de00NVyqZVk6mdE4tjBQ.jpg",
+   "date": "2026-11-16T20:35:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Narkodømt mann pågrepet etter lang tid på rømmen",
+   "title": "Russer kjøper Nussir-gruven: – Døm oss på fakta, ikke fordommer",
    "source": "NRK",
-   "summary": "Han rømte fra en dom på ni års fengsel i en av Nord-Norges største narkosaker. Nå er hasjsmugleren pågrepet i utlandet etter at politiet bevisst strupte økonomien hans.",
-   "img": "https://gfx.nrk.no/Ilf3UkD3X0zyb7ZcbsxsxgO7Z44vzXi6Cse5G_b8FUVA.jpg",
-   "date": "2026-11-16T10:19:30+00:00"
+   "summary": "Nussirs kommende styreleder holdt allmøte med de ansatte i Hammerfest og står på sitt om at han ikke har hatt en rolle i russisk næringsliv siden 2013.",
+   "img": "https://gfx.nrk.no/xCcJQjt2XjmLvmIBcD-d0AVXhD8fCKbS9bfhV1Npr7zg.jpg",
+   "date": "2026-11-16T20:19:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Betaler nær en halv milliard i renter: – Hvem vil være om bord på et synkende skip?",
+   "title": "Her kommer bilen over i motsatt kjørefelt",
    "source": "NRK",
-   "summary": "Det kriserammede sykehuset i Stavanger må betale 485 millioner kroner i renter til staten hvert år. Forslag om kutt i bemanning ryster nå de ansatte.",
-   "img": "https://gfx.nrk.no/oFyWO2IYyV1K-bfwfOrzSgp0BEhOzso2y5LKALDmxI5A.jpg",
-   "date": "2026-11-16T09:54:31+00:00"
+   "summary": "En observant taxisjåfør klarte å forhindre det som kunne blitt en alvorlig møteulykke inne i tunellen langs E6 mellom Kvithammar og Åsen.",
+   "img": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfga64AqkC421Dd_B31UvD5aQ.jpg",
+   "date": "2026-11-16T19:31:47+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Staten kravde 200 millionar i klimaavgift – betalte 400 millionar tilbake",
+   "title": "Nå blir det sol, sol, sol: – Kom dere ut, oppfordrer professor",
    "source": "NRK",
-   "summary": "Staten skulle presse fram klimakutt med ei ny avgift. Dei enda med å betale det dobbelte tilbake til fiskarane.",
-   "img": "https://gfx.nrk.no/o-9CD42o54NnIVNFR8NdgQzilzjL3_WbAY5SI99_ClsQ.jpg",
-   "date": "2026-11-16T05:33:08+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Dramaserie tok plutseleg av: – Kona kommenterer det kvar gong",
-   "source": "NRK",
-   "summary": "I sommar blei plutseleg ein serie frå 2008 ein av dei mest sette på Netflix i Noreg. Truleg skal Patrick Berg ha noko av æra for det.",
-   "img": "https://gfx.nrk.no/u2jYsgGuIfke36UQRErImApF_wH5pYy8FzhYta5zabUw.jpg",
-   "date": "2026-11-16T04:38:03+00:00"
+   "summary": "De neste dagene er det meldt mye sol i store deler av landet. Bergen ligger an til sol hver dag i over en uke.",
+   "img": "https://gfx.nrk.no/clDinfMFbBQ_cBrcc4Qdowe38DlQFPG1CTHgtD2Zes3w.jpg",
+   "date": "2026-11-16T18:18:34+00:00"
   }
  ]
 }
