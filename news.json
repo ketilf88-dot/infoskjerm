@@ -1,10 +1,48 @@
 {
- "updated": "2026-11-17T03:27:26.179650+00:00",
+ "updated": "2026-11-17T12:15:16.511819+00:00",
  "sources": 8,
- "failed": [
-  "Subsea Norden"
- ],
+ "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker Solutions receives letter of intent for Statfjord A recycling",
+   "source": "Aker Solutions ASA",
+   "summary": "November 17, 2026 - Aker Solutions has received a letter of intent (LOI) from Allseas for the reception, dismantling and recycling of the topside from Equinor's Statfjord A platform in the North Sea.",
+   "img": "",
+   "date": "2026-11-17T07:00:37.242Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 4,
+   "title": "DOF Group ASA - Contract award for Skandi Africa",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") is pleased to announce a Very Large* contract award for the vessel Skandi Africa by TechnipFMC. The new contract will commence in direct continuation with the current contract.",
+   "img": "",
+   "date": "2026-11-17T06:13:05.070Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Reach Subsea ASA - 3Q 2026: Svak lønnsomhet; posisjonerer for bedre inntjening ",
+   "source": "Reach Subsea ASA",
+   "summary": "Haugesund, 17. november 2026 - Reach Subsea ASA kunngjorde i dag sine resultater for tredje kvartal 2026.",
+   "img": "",
+   "date": "2026-11-17T06:00:00.000Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Reach Subsea ASA - 3Q 2026: Weak Profitability; Positioning for Improved Earnings ",
+   "source": "Reach Subsea ASA",
+   "summary": "Haugesund, 17 November 2026 - Reach Subsea ASA today announced its third-quarter 2026 results.",
+   "img": "",
+   "date": "2026-11-17T06:00:00.000Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -28,16 +66,6 @@
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
-   "weight": 4,
-   "title": "DOF Group ASA - Awarded long-term contract in Africa",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") has been awarded a Very Large* integrated Field Support Vessel (FSV) contract with an international oil company in Africa. The project will utilise Skandi Seven for a firm period of three years.",
-   "img": "",
-   "date": "2026-11-16T13:21:32.119Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
    "weight": 3,
    "title": "LTIP share awards completed and new grants issued",
    "source": "Aker BP ASA",
@@ -56,34 +84,64 @@
    "date": "2026-11-16T08:39:49.271Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Borr Drilling Limited - Invitation to Webcast and Conference Call for Q3 2026 Results",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 13, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") plans to release its financial results for the three and nine months ended September 30, 2026 after the close of NYSE trading on Wednesday, November 18, 2026.",
-   "img": "",
-   "date": "2026-11-13T16:04:45.648Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DEMCON building two unmanned surface vessels for DEME",
+   "source": "Offshore Energy",
+   "summary": "DEMCON unmanned systems is constructing two offshore unmanned surface vessels (USVs) for DEME, with delivery next year. Based on the DUS OV...",
+   "img": "https://www.offshore-energy.biz/api/media/file/DEMCON%20building%20two%20unmanned%20surface%20vessels%20for%20DEME-800x569.jpg?prefix=media",
+   "date": "2026-11-17T11:28:16+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Equinor ASA: Ex. utbytte andre kvartal 2026 i dag - OSE",
-   "source": "Equinor ASA",
-   "summary": "Aksjene i Equinor ASA (OSE: EQNR; NYSE: EQNR) vil fra og med i dag handles på Oslo Børs eksklusiv kontantutbytte for andre kvartal 2026 slik det fremgår under. Ex-dato: 13.",
-   "img": "",
-   "date": "2026-11-13T09:49:17.623Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Fourth floating LNG terminal put into operation mode to fuel Germany’s energy security",
+   "source": "Offshore Energy",
+   "summary": "Germany’s federally commissioned LNG terminal program is now complete, with four floating LNG terminals delivered in just four years.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Energos%20Force%20Source%20DET-800x533.png?prefix=media",
+   "date": "2026-11-17T10:41:15+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "Equinor ASA: Ex. dividend second quarter 2026 today - OSE",
-   "source": "Equinor ASA",
-   "summary": "The shares in Equinor ASA (OSE: EQNR; NYSE: EQNR) will as from today be traded on the Oslo Stock Exchange exclusive the second quarter 2026 cash dividend as detailed below. Ex.",
-   "img": "",
-   "date": "2026-11-13T09:49:17.253Z"
+   "title": "Fugro completes ultra-deepwater survey offshore Angola",
+   "source": "Offshore Energy",
+   "summary": "Fugro has completed the survey phase of a geophysical program for an ultra-deepwater development offshore Angola, developed by Azule Energy, a...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Fugro%20completes%20ultra-deepwater%20survey%20offshore%20Angola-800x447.jpg?prefix=media",
+   "date": "2026-11-17T10:03:59+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "DOF's largest vessel nets contract with TechnipFMC",
+   "source": "Offshore Energy",
+   "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
+   "img": "https://www.offshore-energy.biz/api/media/file/DOF%27s%20largest%20vessel%20nets%20contract%20with%20TechnipFMC-710x477.jpg?prefix=media",
+   "date": "2026-11-17T08:58:26+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Shell kicks off gas production from its deepwater project in Southeast Asia",
+   "source": "Offshore Energy",
+   "summary": "Shell has brought online a natural gas development off the coast of Malaysia, which is home to an offshore platform designed to run on solar energy.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Rosmari-Topside-Sailaway-Rosmari-Marjoram%20Source%20MHB-800x533.jpg?prefix=media",
+   "date": "2026-11-17T08:53:26+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "ExxonMobil pushes ahead with Guyana’s eighth oil project as Saipem gets the all-clear and SBM Offshore bags FPSO job",
+   "source": "Offshore Energy",
+   "summary": "Guyana’s deepwater expansion is gaining momentum as ExxonMobil moves to the execution phase of its recently sanctioned offshore oil development.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Constellation%20Source%20Saipem-800x533.png?prefix=media",
+   "date": "2026-11-17T08:00:08+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -104,66 +162,6 @@
    "summary": "MODEC has hired Seatrium for work on an FPSO bound for ExxonMobil’s $6.8 billion oil development offshore Guyana.",
    "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784739181456-1024x796-800x622.png?prefix=media",
    "date": "2026-11-16T15:21:13+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies spuds Nigeria's first deepwater exploration well in a decade",
-   "source": "Offshore Energy",
-   "summary": "Noble Corporation’s 2014-built high-specification drillship is carrying out drilling activities offshore Nigeria.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Noble%20BlackRhino%20drillship%20Source%20Meren-800x588.jpg?prefix=media",
-   "date": "2026-11-16T14:33:52+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Shortly after contract in APAC, DOF reports 'very large' one in Africa",
-   "source": "Offshore Energy",
-   "summary": "DOF Group has won a contract described as very large for the provision of a field support vessel (FSV) in Africa. The contract was awarded by an...",
-   "img": "https://www.offshore-energy.biz/api/media/file/skandi%20seven-667x448.jpg?prefix=media",
-   "date": "2026-11-16T13:42:26+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Sempra divest majority stake in its LNG and energy infrastructure business",
-   "source": "Offshore Energy",
-   "summary": "KKR-led consortium has now upped its stake to 65% in Sempra Infrastructure Partners, as Sempra optimizes its portfolio.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784740616186-1024x576-800x450.png?prefix=media",
-   "date": "2026-11-16T13:36:09+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Aberdeen subsea robotics firm secures first offshore wind contract in Taiwan",
-   "source": "Offshore Energy",
-   "summary": "Aberdeen-based High Performance Robotics (HPR) has been awarded its first commercial contract in Taiwan, where it will provide subsea inspection...",
-   "img": "https://www.offshore-energy.biz/api/media/file/HPR%20ROV%20KIT-1-800x533.webp?prefix=media",
-   "date": "2026-11-16T12:40:24+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "UK operator turns production taps on as first gas flows from $2.8 billion North Sea field",
-   "source": "Offshore Energy",
-   "summary": "First gas has started flowing from a field in the North Sea, bringing what Adura describes as vital UK energy resources ashore in time for winter.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Jackdaw-Adura-534x800.jpg?prefix=media",
-   "date": "2026-11-16T11:10:07+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "CETO wave energy unit makes a splash at BiMEP",
-   "source": "Offshore Energy",
-   "summary": "Carnegie Clean Energy has deployed CETO wave energy system's buoyant actuator, the unit's prime mover, at the Biscay Marine Energy Platform...",
-   "img": "https://www.offshore-energy.biz/api/media/file/CETO%20wave%20energy%20unit%20makes%20a%20splash%20at%20BiMEP-800x465.jpg?prefix=media",
-   "date": "2026-11-16T10:45:42+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -246,34 +244,64 @@
    "date": "2026-10-26T16:17:46+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "JFE Engineering wins offshore wind maintenance contract",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 2,
+   "title": "TechnipFMC extends charter of DOF CSV",
    "source": "Splash247",
-   "summary": "Japanese engineering company JFE Engineering and local partner Akita Maritime Service have secured a five-year maintenance contract for Japan’s 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will provide inspection and maintenance services for ",
-   "img": "https://splash247.com/wp-content/uploads/2020/11/Japan-Offshore-Wind-Shizen-Energy.jpg",
-   "date": "2026-11-16T11:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Seatrium adds another Guyana FPSO to its books",
-   "source": "Splash247",
-   "summary": "Singapore offshore engineering group Seatrium has secured another FPSO integration contract from Japan’s Modec, this time for a floating production unit destined for ExxonMobil’s $6.8bn Hammerhead development offshore Guyana. The contract covers topside module",
-   "img": "https://splash247.com/wp-content/uploads/2024/11/Seatrium-yard-Seatrium.jpg",
-   "date": "2026-11-16T09:55:00+00:00"
+   "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the agreement as very large, valued at between",
+   "img": "https://splash247.com/wp-content/uploads/2022/05/Skandi-Africa-TechnipFMC.jpg",
+   "date": "2026-11-17T12:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "KBR wraps up hull design for Equinor’s Wisting FPSO",
+   "title": "Allseas taps Aker Solutions for massive topside dismantling job",
    "source": "Splash247",
-   "summary": "US engineering group KBR has completed the hull and marine systems design for the proposed Wisting FPSO in Norway’s Barents Sea, delivering a design package ready for handover to shipyards. The work was carried out in cooperation with Norwegian engineering con",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Wisting-FPSO-Aibel.jpg",
-   "date": "2026-11-16T09:50:00+00:00"
+   "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of intent from Allseas to dismantle and recycle Equinor’s Statfjord A platform topside in the North Sea. The agreement covers preparatory work, reception, dismantling and recycling of th",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/Statfjord-A-Equinor.jpg",
+   "date": "2026-11-17T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Apache keeps North Sea assets producing despite worker walkouts",
+   "source": "Splash247",
+   "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of rolling strikes across seven Apache-operated",
+   "img": "https://splash247.com/wp-content/uploads/2026/07/Forties-Bravo-Apache.jpg",
+   "date": "2026-11-17T10:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
+   "source": "Oil & Gas Journal",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T17:36:54+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-16T16:25:03+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
+   "source": "Data Center Dynamics",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-13T12:36:07+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -309,21 +337,41 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Planet One encounters hydrocarbons at Nya Gyidie-1X offshore Ghana",
-   "source": "Oil & Gas Journal",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-11T13:13:27+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "TGS Secures Deep-Water OBN Contract Off Namibia For Repeat Client",
    "source": "Ocean News & Technology",
    "summary": "",
    "img": "",
    "date": "2026-11-12T14:15:54+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TotalEnergies set to spud Akpo Far East exploration well offshore Nigeria",
+   "source": "Drilling Contractor",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-16T17:11:11+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Vil opne nye havområde for oppdrett: – Sentral milepæl",
+   "source": "NRK Trøndelag",
+   "summary": "Regjeringa foreslår no kva havområde som skal lysast ut for oppdrett til havs, og korleis selskapa skal konkurrere om å få ta dei i bruk.",
+   "img": "https://gfx.nrk.no/2BfmUiUZ2zj62uj9u5mjQQLkbUKCX0GnHrg-nx2UECGg.jpg",
+   "date": "2026-11-17T08:38:55+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Her kommer bilen over i motsatt kjørefelt",
+   "source": "NRK Trøndelag",
+   "summary": "En observant taxisjåfør klarte å forhindre det som kunne blitt en alvorlig møteulykke inne i tunellen langs E6 mellom Kvithammar og Åsen.",
+   "img": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfga64AqkC421Dd_B31UvD5aQ.jpg",
+   "date": "2026-11-16T19:31:47+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -346,64 +394,34 @@
    "date": "2026-11-16T18:12:25+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Full fyr i bolig på Jøa i Namsos",
-   "source": "NRK Trøndelag",
-   "summary": "To tenåringer som lufta hunden oppdaga at det brant i huset.",
-   "img": "https://static.nrk.no/kartoteket/01M7HAW8PM9X9ES6G8WEVFN3F7/F169/650w.png",
-   "date": "2026-11-16T04:49:36+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Undersøker løse jordmasser i Trondheim – ett hus evakuert",
-   "source": "NRK Trøndelag",
-   "summary": "Litt etter klokken 13 søndag ettermiddag dro nødetatene for å undersøke sunkne jordmasser ved Hallset i Trondheim.",
-   "img": "https://gfx.nrk.no/mDEocWXsbwXvkglh7B54UwwXwj_pvuWLlKjQmKaf7wSQ.jpg",
-   "date": "2026-11-15T13:12:26+00:00"
+   "title": "Den trojanske langrennshest",
+   "source": "NRK",
+   "summary": "Sergej Volkov heter han – og kommer denne uka til å bli mer kjent i Norge enn han nok trodde var mulig.",
+   "img": "https://gfx.nrk.no/UcGnnBAQ-h4riMkSWuiJFAO2nok7KbqY0m9TgNPdfXqw.jpg",
+   "date": "2026-11-17T11:59:32+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Russisk leder: Bro til Krym angrepet",
+   "title": "Blei kjent over natta: – Skjønte jo ingenting",
    "source": "NRK",
-   "summary": "Det ukrainske militæret har angrepet en viktig bro mellom den russisk-okkuperte ukrainske halvøya Krym og Russland. Det sier den russisk-innsatte guvernøren på Krym, Sergej ​Aksyonov. ​Han skriver om angrepet på meldingstjenesten Telegram natt til tirsdag, mel",
-   "img": "",
-   "date": "2026-11-16T23:20:36+00:00"
+   "summary": "Ida Solbakken (22) har lagt bak seg nokre uforgløymelege månader. No ventar ein spesiell kveld i det som var hennar «andre heim» i oppveksten.",
+   "img": "https://gfx.nrk.no/HFp9exIRqm6nmMqiSZyBnQ7IqRffIlWd39vOu8D6tSYQ.jpg",
+   "date": "2026-11-17T11:06:39+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Gjev seg etter 20 år – fekk klar beskjed i Ødegaard-debut",
+   "title": "Kongeparet er på besøk i Trondheim",
    "source": "NRK",
-   "summary": "Etter drøssevis av nedturar med det norske herrelandslaget kan «lyden av Ullevaal» gje seg på ein opptur.",
-   "img": "https://gfx.nrk.no/_ii8D000vr7m2ksWAiEpqQa0de00NVyqZVk6mdE4tjBQ.jpg",
-   "date": "2026-11-16T20:35:43+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Russer kjøper Nussir-gruven: – Døm oss på fakta, ikke fordommer",
-   "source": "NRK",
-   "summary": "Nussirs kommende styreleder holdt allmøte med de ansatte i Hammerfest og står på sitt om at han ikke har hatt en rolle i russisk næringsliv siden 2013.",
-   "img": "https://gfx.nrk.no/xCcJQjt2XjmLvmIBcD-d0AVXhD8fCKbS9bfhV1Npr7zg.jpg",
-   "date": "2026-11-16T20:19:24+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Her kommer bilen over i motsatt kjørefelt",
-   "source": "NRK",
-   "summary": "En observant taxisjåfør klarte å forhindre det som kunne blitt en alvorlig møteulykke inne i tunellen langs E6 mellom Kvithammar og Åsen.",
-   "img": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfga64AqkC421Dd_B31UvD5aQ.jpg",
-   "date": "2026-11-16T19:31:47+00:00"
+   "summary": "– Kongeparet er på besøk til Trondheim og er på Stiftsgården deler av dagen i dag, opplyser Slottet overfor NRK. Det var NTB som først meldte om det kongelige besøket. Slottet opplyser ikke om turen er del av forberedelsene til den planlagte signingen i byen i",
+   "img": "https://gfx.nrk.no/2QcLiEWgGeAE4PuFWiUDVAo_P3tIUX4Oi5GWNpCTJwKA.jpg",
+   "date": "2026-11-17T07:02:21+00:00"
   }
  ]
 }
