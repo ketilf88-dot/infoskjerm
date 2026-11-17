@@ -1,7 +1,9 @@
 {
- "updated": "2026-11-16T20:59:20.564601+00:00",
+ "updated": "2026-11-17T03:27:26.179650+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Subsea Norden"
+ ],
  "items": [
   {
    "tag": "Oslo Børs",
@@ -274,46 +276,6 @@
    "date": "2026-11-16T09:50:00+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Vår Energi selects SLB for integrated drilling services offshore Norway",
-   "source": "Oil & Gas Journal",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-12T17:36:54+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-16T16:25:03+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Britain throws weight behind idea for new subsea data link to Norway",
-   "source": "Financial Times",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T06:00:52+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
-   "source": "Data Center Dynamics",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-13T12:36:07+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -407,6 +369,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Russisk leder: Bro til Krym angrepet",
+   "source": "NRK",
+   "summary": "Det ukrainske militæret har angrepet en viktig bro mellom den russisk-okkuperte ukrainske halvøya Krym og Russland. Det sier den russisk-innsatte guvernøren på Krym, Sergej ​Aksyonov. ​Han skriver om angrepet på meldingstjenesten Telegram natt til tirsdag, mel",
+   "img": "",
+   "date": "2026-11-16T23:20:36+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Gjev seg etter 20 år – fekk klar beskjed i Ødegaard-debut",
    "source": "NRK",
    "summary": "Etter drøssevis av nedturar med det norske herrelandslaget kan «lyden av Ullevaal» gje seg på ein opptur.",
@@ -432,16 +404,6 @@
    "summary": "En observant taxisjåfør klarte å forhindre det som kunne blitt en alvorlig møteulykke inne i tunellen langs E6 mellom Kvithammar og Åsen.",
    "img": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfga64AqkC421Dd_B31UvD5aQ.jpg",
    "date": "2026-11-16T19:31:47+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nå blir det sol, sol, sol: – Kom dere ut, oppfordrer professor",
-   "source": "NRK",
-   "summary": "De neste dagene er det meldt mye sol i store deler av landet. Bergen ligger an til sol hver dag i over en uke.",
-   "img": "https://gfx.nrk.no/clDinfMFbBQ_cBrcc4Qdowe38DlQFPG1CTHgtD2Zes3w.jpg",
-   "date": "2026-11-16T18:18:34+00:00"
   }
  ]
 }
