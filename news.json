@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:15:16.511819+00:00",
+ "updated": "2026-11-17T20:57:25.977779+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -87,6 +87,36 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "Weatherford finds more work with Constellation in Brazil",
+   "source": "Offshore Energy",
+   "summary": "Weatherford has strengthened its Brazilian market position with a deal for Constellation’s deepwater exploration campaign offshore Brazil.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784751447186-1024x680-800x531.png?prefix=media",
+   "date": "2026-11-17T14:32:52+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "2 GW link between Baltic States and Germany seeking Project of Common Interest status",
+   "source": "Offshore Energy",
+   "summary": "Lithuania, Latvia and Germany have submitted an application for a 2 GW hybrid offshore electricity connection that will link the three countries...",
+   "img": "https://www.offshore-energy.biz/api/media/file/2%20GW%20link%20between%20Baltic%20States%20and%20Germany%20seeking%20Project%20of%20Common%20Interest%20status-800x417.jpg?prefix=media",
+   "date": "2026-11-17T13:14:12+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Allseas taps Aker Solutions for recycling of 50,000-ton North Sea platform topside",
+   "source": "Offshore Energy",
+   "summary": "Five decades after a North Sea platform was built, Aker Solutions has been selected to handle the dismantling and recycling of its topside.",
+   "img": "https://www.offshore-energy.biz/api/media/file/statfjord%20a-800x450.jpg?prefix=media",
+   "date": "2026-11-17T12:52:30+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "DEMCON building two unmanned surface vessels for DEME",
    "source": "Offshore Energy",
    "summary": "DEMCON unmanned systems is constructing two offshore unmanned surface vessels (USVs) for DEME, with delivery next year. Based on the DUS OV...",
@@ -134,34 +164,14 @@
    "date": "2026-11-17T08:53:26+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "ExxonMobil pushes ahead with Guyana’s eighth oil project as Saipem gets the all-clear and SBM Offshore bags FPSO job",
-   "source": "Offshore Energy",
-   "summary": "Guyana’s deepwater expansion is gaining momentum as ExxonMobil moves to the execution phase of its recently sanctioned offshore oil development.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Constellation%20Source%20Saipem-800x533.png?prefix=media",
-   "date": "2026-11-17T08:00:08+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "ExxonMobil brings online its fifth oil project offshore Guyana",
-   "source": "Offshore Energy",
-   "summary": "The start-up of production at Uaru raises Guyana’s installed capacity to 1.1 million barrels per day.",
-   "img": "https://www.offshore-energy.biz/api/media/file/20260824_ErreaWittu-800x564.jpg?prefix=media",
-   "date": "2026-11-16T16:02:14+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Seatrium on FPSO duty for ExxonMobil’s seventh oil project in Guyanese waters",
-   "source": "Offshore Energy",
-   "summary": "MODEC has hired Seatrium for work on an FPSO bound for ExxonMobil’s $6.8 billion oil development offshore Guyana.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784739181456-1024x796-800x622.png?prefix=media",
-   "date": "2026-11-16T15:21:13+00:00"
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Backs Nuclear-Powered Offshore Vessel Project",
+   "source": "gCaptain Offshore",
+   "summary": "Norway is moving a step closer to testing nuclear propulsion for commercial ships, with a consortium including shipbuilder VARD and offshore vessel operator Island Offshore securing NOK 20 million ($2...",
+   "img": "",
+   "date": "2026-11-17T16:29:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,14 +244,14 @@
    "date": "2026-10-26T18:22:16+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 2,
-   "title": "Chouest Group Acquires Canada’s Horizon Maritime in Major Expansion",
-   "source": "gCaptain Offshore",
-   "summary": "The Louisiana-based Chouest Group has acquired Canadian marine and offshore services provider Horizon Maritime, expanding its presence across Canada’s East and West coasts and into the Arctic. The deal, announced...",
-   "img": "",
-   "date": "2026-10-26T16:17:46+00:00"
+   "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
+   "source": "Splash247",
+   "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The agreement covers engineering, procurement, f",
+   "img": "https://splash247.com/wp-content/uploads/2022/03/Hornsea-substation.jpg",
+   "date": "2026-11-17T13:00:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -252,16 +262,6 @@
    "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the agreement as very large, valued at between",
    "img": "https://splash247.com/wp-content/uploads/2022/05/Skandi-Africa-TechnipFMC.jpg",
    "date": "2026-11-17T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Allseas taps Aker Solutions for massive topside dismantling job",
-   "source": "Splash247",
-   "summary": "Norwegian offshore engineering group Aker Solutions has received a letter of intent from Allseas to dismantle and recycle Equinor’s Statfjord A platform topside in the North Sea. The agreement covers preparatory work, reception, dismantling and recycling of th",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/Statfjord-A-Equinor.jpg",
-   "date": "2026-11-17T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -317,16 +317,6 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-10T14:43:01+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
    "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
    "source": "Offshore Energy",
    "summary": "",
@@ -334,94 +324,104 @@
    "date": "2026-11-11T08:16:26+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TGS Secures Deep-Water OBN Contract Off Namibia For Repeat Client",
-   "source": "Ocean News & Technology",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-11-12T14:15:54+00:00"
+   "date": "2026-11-17T15:04:30+00:00"
   },
   {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies set to spud Akpo Far East exploration well offshore Nigeria",
+   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
    "source": "Drilling Contractor",
    "summary": "",
    "img": "",
-   "date": "2026-11-16T17:11:11+00:00"
+   "date": "2026-11-17T17:32:26+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Vil opne nye havområde for oppdrett: – Sentral milepæl",
-   "source": "NRK Trøndelag",
-   "summary": "Regjeringa foreslår no kva havområde som skal lysast ut for oppdrett til havs, og korleis selskapa skal konkurrere om å få ta dei i bruk.",
-   "img": "https://gfx.nrk.no/2BfmUiUZ2zj62uj9u5mjQQLkbUKCX0GnHrg-nx2UECGg.jpg",
-   "date": "2026-11-17T08:38:55+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Her kommer bilen over i motsatt kjørefelt",
-   "source": "NRK Trøndelag",
-   "summary": "En observant taxisjåfør klarte å forhindre det som kunne blitt en alvorlig møteulykke inne i tunellen langs E6 mellom Kvithammar og Åsen.",
-   "img": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfga64AqkC421Dd_B31UvD5aQ.jpg",
-   "date": "2026-11-16T19:31:47+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Utdanningsforbundet frykter skolekutt på 11 milliarder kroner",
-   "source": "NRK Trøndelag",
-   "summary": "Synkende elevtall i grunnskolen gjør at norske kommuner får langt mindre penger fra staten de neste åra.",
-   "img": "https://gfx.nrk.no/t1DX36MYs2aWKw6LHtGADwuz6eJ9dATWFZinAyX6DF8w.jpg",
-   "date": "2026-11-16T15:11:40+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Midtnytt: Kjører feil på nye E6",
+   "title": "Full stans på Dovrebanen etter strømbrudd",
    "source": "NRK Trøndelag",
    "summary": "",
-   "img": "https://gfx.nrk.no/sVPRhYydTuZvKRYBCmR1owZPVuk_NfE6uzfAZAIGt3WQ.jpg",
-   "date": "2026-11-16T18:12:25+00:00"
+   "img": "https://gfx.nrk.no/WNjgIed5jzMMJtvq5eHaoQPPE2w7RZWQMWpJVYkkipPQ.jpg",
+   "date": "2026-11-17T20:13:45+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "SAS kuttet i nord – nå skal Widerøe sette inn ekstra fly",
+   "source": "NRK Trøndelag",
+   "summary": "SAS kutter flyvninger mellom Bodø, Tromsø og Trondheim. Nå oppretter Widerøe en ekstra avgang mellom byene.",
+   "img": "https://gfx.nrk.no/uH0Ic00arUJ4RK88QQ1I8Q2Hm6Fg7vd2RcWLLXuSEfmQ.jpg",
+   "date": "2026-11-17T09:07:59+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Sør-Fosen sijte har hatt møte med staten: – Kommer til å ha god kontroll på dyrene",
+   "source": "NRK Trøndelag",
+   "summary": "Reindrifta sør på Fosen ser fram til å kunne ta i bruk tilleggsbeite i Østerdalen.",
+   "img": "https://gfx.nrk.no/dvxWjrPpecsMutcsgvAk5g1hncHB1H8_D_4F1o4D4MwQ.jpg",
+   "date": "2026-11-17T16:31:28+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Kongeparet er på besøk i Trondheim og Nidarosdomen: – Store forventingar",
+   "source": "NRK Trøndelag",
+   "summary": "Kongeparet er på besøk i Nidarosdomen kor dei skal signast 22. august til neste år.",
+   "img": "https://gfx.nrk.no/2jGLJI5aoOWqi42nTWLwqglbftgfYNEyS-3Jc0O5XNUQ.jpg",
+   "date": "2026-11-17T14:04:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Den trojanske langrennshest",
+   "title": "Fikk en grusom start i Parken: – Nesten så jeg ikke tror det jeg ser",
    "source": "NRK",
-   "summary": "Sergej Volkov heter han – og kommer denne uka til å bli mer kjent i Norge enn han nok trodde var mulig.",
-   "img": "https://gfx.nrk.no/UcGnnBAQ-h4riMkSWuiJFAO2nok7KbqY0m9TgNPdfXqw.jpg",
-   "date": "2026-11-17T11:59:32+00:00"
+   "summary": "Etter 14 horrible åpningsminutter har Erling Braut Haaland tent håpet for Norge.",
+   "img": "https://gfx.nrk.no/pHdpC9aAPPSxTCxRR3j1hglhBCqfMeYgKJZhh6EMP-ag.jpg",
+   "date": "2026-11-17T20:06:20+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Blei kjent over natta: – Skjønte jo ingenting",
+   "title": "Staten betaler nær 8000 kroner per billett, men ingen tør å kutte i kystruta",
    "source": "NRK",
-   "summary": "Ida Solbakken (22) har lagt bak seg nokre uforgløymelege månader. No ventar ein spesiell kveld i det som var hennar «andre heim» i oppveksten.",
-   "img": "https://gfx.nrk.no/HFp9exIRqm6nmMqiSZyBnQ7IqRffIlWd39vOu8D6tSYQ.jpg",
-   "date": "2026-11-17T11:06:39+00:00"
+   "summary": "Antallet lokalt reisende på kystruten har stupt de siste årene. Samtidig har statens kostnader per passasjer mer enn doblet seg. Nå er det foreslått drastiske endringer for den tradisjonsrike båtruta.",
+   "img": "https://gfx.nrk.no/ITAe1fWgIfr3_U5N4ULI3gXFRKZ9PAxX-WQ_IGIH1LTw.jpg",
+   "date": "2026-11-17T19:35:43+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kongeparet er på besøk i Trondheim",
+   "title": "Pågående cyberangrep mot Equinor",
    "source": "NRK",
-   "summary": "– Kongeparet er på besøk til Trondheim og er på Stiftsgården deler av dagen i dag, opplyser Slottet overfor NRK. Det var NTB som først meldte om det kongelige besøket. Slottet opplyser ikke om turen er del av forberedelsene til den planlagte signingen i byen i",
-   "img": "https://gfx.nrk.no/2QcLiEWgGeAE4PuFWiUDVAo_P3tIUX4Oi5GWNpCTJwKA.jpg",
-   "date": "2026-11-17T07:02:21+00:00"
+   "summary": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, skriver de i en pressemelding. – Relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene, heter det. – Det er ingen indikasjoner på at data ",
+   "img": "",
+   "date": "2026-11-17T18:05:21+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Slik spredte fugleinfluensaen seg til flere norske gårder",
+   "source": "NRK",
+   "summary": "Til tross for strenge restriksjoner lot Mattilsynet en gård flytte ut unghøner. Avgjørelsen var basert på en klinisk undersøkelse uten prøvetaking – kort tid senere ble det påvist smitte.",
+   "img": "https://gfx.nrk.no/1Hm-0W3Uj_6F-YzCP2Afsw5A9hZoxavw1iRn930FL2Mw.jpg",
+   "date": "2026-11-17T17:34:36+00:00"
   }
  ]
 }
