@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:57:25.977779+00:00",
+ "updated": "2026-11-18T02:42:54.929421+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -317,6 +317,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
+   "source": "Drilling Contractor",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T17:42:07+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
    "source": "Offshore Energy",
    "summary": "",
@@ -332,16 +342,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-17T15:04:30+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
-   "source": "Drilling Contractor",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T17:32:26+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Fikk en grusom start i Parken: – Nesten så jeg ikke tror det jeg ser",
+   "title": "Slo tilbake på Snapchat i natt: – Jeg trenger egentlig ikke si dette",
    "source": "NRK",
-   "summary": "Etter 14 horrible åpningsminutter har Erling Braut Haaland tent håpet for Norge.",
-   "img": "https://gfx.nrk.no/pHdpC9aAPPSxTCxRR3j1hglhBCqfMeYgKJZhh6EMP-ag.jpg",
+   "summary": "Etter å ha kommet seg på privatflyet fyrte Erling Braut Haaland av stikk mot NRK-ekspert Kristoffer Løkberg.",
+   "img": "https://gfx.nrk.no/LvG26mHl_N1Ly7R5Pn-I7QbFMR2ZtK86KsBdPFcn_c9A.jpg",
+   "date": "2026-11-17T23:41:23+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Dansk stjerne om Norge-scenene: – Det gjør vondt",
+   "source": "NRK",
+   "summary": "Det var – som vanlig – deilig å være norsk i Danmark. Like deilig er det ikke å være dansk.",
+   "img": "https://gfx.nrk.no/6mJyQ32hqgF9KktdFDFjYA5yHh7l-SXLsdvbWRc22nCA.jpg",
+   "date": "2026-11-17T22:36:06+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Norges børs mot Danmark: – Et mentalitetsmonster",
+   "source": "NRK",
+   "summary": "Norge reddet kvartfinale i Nasjonsligaen etter et utrolig drama i Parken. Her er NRKs vurdering av de norske spillerne.",
+   "img": "https://gfx.nrk.no/k8g2Fl2hAIpNOD1zBHM-aQDDIqRPLgUkqJhPcOLO9cQA.jpg",
+   "date": "2026-11-17T21:46:27+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Straffemål på overtid reddet Norge: – Sykeste jeg har sett",
+   "source": "NRK",
+   "summary": "Etter 14 horrible åpningsminutter tente Erling Braut Haaland håpet for Norge. Martin Ødegaard holdt flammen i live, før Haaland avgjorde på overtid.",
+   "img": "https://gfx.nrk.no/Bkbqv8Uqkd08yaEsq7EjaABTQwqJQnUmE_tVSAxAIjWg.jpg",
    "date": "2026-11-17T20:06:20+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Staten betaler nær 8000 kroner per billett, men ingen tør å kutte i kystruta",
-   "source": "NRK",
-   "summary": "Antallet lokalt reisende på kystruten har stupt de siste årene. Samtidig har statens kostnader per passasjer mer enn doblet seg. Nå er det foreslått drastiske endringer for den tradisjonsrike båtruta.",
-   "img": "https://gfx.nrk.no/ITAe1fWgIfr3_U5N4ULI3gXFRKZ9PAxX-WQ_IGIH1LTw.jpg",
-   "date": "2026-11-17T19:35:43+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Pågående cyberangrep mot Equinor",
-   "source": "NRK",
-   "summary": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, skriver de i en pressemelding. – Relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene, heter det. – Det er ingen indikasjoner på at data ",
-   "img": "",
-   "date": "2026-11-17T18:05:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Slik spredte fugleinfluensaen seg til flere norske gårder",
-   "source": "NRK",
-   "summary": "Til tross for strenge restriksjoner lot Mattilsynet en gård flytte ut unghøner. Avgjørelsen var basert på en klinisk undersøkelse uten prøvetaking – kort tid senere ble det påvist smitte.",
-   "img": "https://gfx.nrk.no/1Hm-0W3Uj_6F-YzCP2Afsw5A9hZoxavw1iRn930FL2Mw.jpg",
-   "date": "2026-11-17T17:34:36+00:00"
   }
  ]
 }
