@@ -1,8 +1,68 @@
 {
- "updated": "2026-11-18T02:42:54.929421+00:00",
+ "updated": "2026-11-18T10:44:59.374293+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Notifiable trading",
+   "source": "Equinor ASA",
+   "summary": "Allocation of shares to certain primary insiders and their close associates in Equinor (OSE: EQNR, NYSE: EQNR) under Equinor's share saving plan.",
+   "img": "",
+   "date": "2026-11-18T07:00:13.772Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Buy-back of shares to share programmes for employees",
+   "source": "Equinor ASA",
+   "summary": "Please see below information about transactions made under the buy-back programme for Equinor ASA (OSE:EQNR, NYSE:EQNR) for shares to be used in the share-based incentive programmes for employees and management.",
+   "img": "",
+   "date": "2026-11-18T07:00:12.466Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte",
+   "source": "Equinor ASA",
+   "summary": "Nedenfor følger informasjon om transaksjoner knyttet til tilbakekjøpsprogrammet for Equinor ASA (OSE:EQNR, NYSE:EQNR) til bruk i aksjebaserte insentivprogrammer for ansatte og ledelse. Dato for annonsering av tilbakekjøpsprogrammet: 4. februar 2026.",
+   "img": "",
+   "date": "2026-11-18T07:00:11.905Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "BW Offshore: Invitation to Q3 2026 Presentation 25 November",
+   "source": "BW Offshore Limited",
+   "summary": "Invitation to Q3 2026 Presentation 25 November BW Offshore will release its Q3 2026 results on Wednesday 25 November at 07:30 CET. A conference call followed by Q&A will be hosted by CEO Marco Beenen and CFO Ståle Andreassen the same day at 13:00 CET.",
+   "img": "",
+   "date": "2026-11-18T06:30:01.192Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Panoro Energy - Trading Statement and Operations Update",
+   "source": "Panoro Energy ASA",
+   "summary": "Oslo, 18 November 2026 - Panoro Energy ASA (\"Panoro\" or the \"Company\") is pleased to report financial and operational performance for Q3 and the first nine months of 2026 in line with previously communicated expectations.",
+   "img": "",
+   "date": "2026-11-18T06:00:27.639Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Panoro Energy - Key Information on Cash Distribution",
+   "source": "Panoro Energy ASA",
+   "summary": "Oslo, 18 November 2026 - The board of directors of Panoro Energy ASA (\"Panoro\" or the \"Company\") today declares a cash distribution of NOK 0.356 per share (representing a cash distribution to shareholders of NOK 50 million).",
+   "img": "",
+   "date": "2026-11-18T06:00:12.620Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -44,44 +104,54 @@
    "date": "2026-11-17T06:00:00.000Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "NOL: Changes to the Board composition",
-   "source": "Northern Ocean Ltd.",
-   "summary": "16 November 2026 - Hamilton, Bermuda Northern Ocean Ltd. (\"NOL\" or the \"Company\") announces that James Ayers has informed the Company of his resignation from the Board of Directors with immediate effect. The Board of Directors would like to thank Mr.",
-   "img": "",
-   "date": "2026-11-16T19:11:51.554Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "PLSV under construction to work for Petrobras from end of 2028",
+   "source": "Offshore Energy",
+   "summary": "A 50/50 joint venture between Bermuda-headquartered Paratus Energy and Malaysian Vantris Energy has won a contract with Brazil's oil & gas firm...",
+   "img": "https://www.offshore-energy.biz/api/media/file/petrobras-800x527.jpg?prefix=media",
+   "date": "2026-11-18T09:26:31+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Vår Energi ASA's share saving plan allocates shares",
-   "source": "Vår Energi ASA",
-   "summary": "Sandnes, Norway, 16 November 2026: A total of 137 263 shares were purchased on behalf of employees in Vår Energi ASA (OSE: VAR) participating in the company's employee share saving programme. The average purchase price was NOK 50.1883 per share.",
-   "img": "",
-   "date": "2026-11-16T15:56:44.247Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Woodside and Trafigura sign off on decade-long LNG deal",
+   "source": "Offshore Energy",
+   "summary": "This long-term supply agreement is for 1 million tons of liquefied natural gas (LNG) annually, starting in 2030.",
+   "img": "https://www.offshore-energy.biz/api/media/file/2023-trafigura-sefe-800x600.png?prefix=media",
+   "date": "2026-11-18T09:16:02+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "LTIP share awards completed and new grants issued",
-   "source": "Aker BP ASA",
-   "summary": "Aker BP has finalised share awards under its 2023-2026 Long-Term Incentive Programme (LTIP) and initiated new grants for the 2026-2029 cycle. The LTIP is designed to align executive performance with long-term shareholder value creation.",
-   "img": "",
-   "date": "2026-11-16T12:05:17.619Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "WATCH: New Allseas offshore construction vessel hits the water in China",
+   "source": "Offshore Energy",
+   "summary": "Allseas’ new offshore construction vessel, the first of two being built in China, has taken to the water for the first time, with completion and...",
+   "img": "https://www.offshore-energy.biz/api/media/file/New%20Allseas%20offshore%20construction%20vessel%20hits%20the%20water%20in%20China-800x402.jpg?prefix=media",
+   "date": "2026-11-18T08:43:24+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
    "weight": 3,
-   "title": "DOF Group ASA - Awarded subsea SURF services contract in the APAC region by Amplitude Energy Limited",
-   "source": "DOF Group ASA",
-   "summary": "Reference is made to the stocke exchange notice by DOF Group ASA (\"DOF\") on 2 October 2026 regarding a letter of intent for a contract.",
-   "img": "",
-   "date": "2026-11-16T08:39:49.271Z"
+   "title": "Saipem rig lines up multimillion-dollar gigs off Egypt and Suriname’s coasts",
+   "source": "Offshore Energy",
+   "summary": "Saipem has secured two offshore drilling contracts in Egypt and Suriname, extending its rig’s operations through 2028.",
+   "img": "https://www.offshore-energy.biz/api/media/file/scarabeo9_saipem-800x500.jpg?prefix=media",
+   "date": "2026-11-18T08:01:28+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Counting down to OEEC 2026: Amsterdam gets ready to welcome the offshore energy community",
+   "source": "Offshore Energy",
+   "summary": "The countdown is on! In less than a week, Offshore Energy Exhibition & Conference (OEEC) 2026 will open its doors at RAI Amsterdam. On 24 and 25...",
+   "img": "https://www.offshore-energy.biz/api/media/file/OEEC%20Amsterdam%20-%20Navingo-1-800x533.webp?prefix=media",
+   "date": "2026-11-18T07:55:18+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -112,56 +182,6 @@
    "summary": "Five decades after a North Sea platform was built, Aker Solutions has been selected to handle the dismantling and recycling of its topside.",
    "img": "https://www.offshore-energy.biz/api/media/file/statfjord%20a-800x450.jpg?prefix=media",
    "date": "2026-11-17T12:52:30+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DEMCON building two unmanned surface vessels for DEME",
-   "source": "Offshore Energy",
-   "summary": "DEMCON unmanned systems is constructing two offshore unmanned surface vessels (USVs) for DEME, with delivery next year. Based on the DUS OV...",
-   "img": "https://www.offshore-energy.biz/api/media/file/DEMCON%20building%20two%20unmanned%20surface%20vessels%20for%20DEME-800x569.jpg?prefix=media",
-   "date": "2026-11-17T11:28:16+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Fourth floating LNG terminal put into operation mode to fuel Germany’s energy security",
-   "source": "Offshore Energy",
-   "summary": "Germany’s federally commissioned LNG terminal program is now complete, with four floating LNG terminals delivered in just four years.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Energos%20Force%20Source%20DET-800x533.png?prefix=media",
-   "date": "2026-11-17T10:41:15+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fugro completes ultra-deepwater survey offshore Angola",
-   "source": "Offshore Energy",
-   "summary": "Fugro has completed the survey phase of a geophysical program for an ultra-deepwater development offshore Angola, developed by Azule Energy, a...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Fugro%20completes%20ultra-deepwater%20survey%20offshore%20Angola-800x447.jpg?prefix=media",
-   "date": "2026-11-17T10:03:59+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DOF's largest vessel nets contract with TechnipFMC",
-   "source": "Offshore Energy",
-   "summary": "DOF Group has secured a new contract for its largest vessel, following the announcement of two other contracts this week. The new contract for...",
-   "img": "https://www.offshore-energy.biz/api/media/file/DOF%27s%20largest%20vessel%20nets%20contract%20with%20TechnipFMC-710x477.jpg?prefix=media",
-   "date": "2026-11-17T08:58:26+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Shell kicks off gas production from its deepwater project in Southeast Asia",
-   "source": "Offshore Energy",
-   "summary": "Shell has brought online a natural gas development off the coast of Malaysia, which is home to an offshore platform designed to run on solar energy.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Rosmari-Topside-Sailaway-Rosmari-Marjoram%20Source%20MHB-800x533.jpg?prefix=media",
-   "date": "2026-11-17T08:53:26+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -244,34 +264,14 @@
    "date": "2026-10-26T18:22:16+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Semco Maritime and PTSC bag Taiwan offshore wind deal",
-   "source": "Splash247",
-   "summary": "Denmark’s Semco Maritime and Vietnam’s PTSC Mechanical & Construction have secured an offshore substation contract for Copenhagen Infrastructure Partners’ (CIP) 600MW Fengmiao II offshore wind project in Taiwan. The agreement covers engineering, procurement, f",
-   "img": "https://splash247.com/wp-content/uploads/2022/03/Hornsea-substation.jpg",
-   "date": "2026-11-17T13:00:00+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 2,
-   "title": "TechnipFMC extends charter of DOF CSV",
+   "title": "Saipem bags drilling double in Egypt and Suriname",
    "source": "Splash247",
-   "summary": "Norwegian offshore vessel owner DOF has secured a new contract from TechnipFMC for its subsea construction vessel (CSV) Skandi Africa, extending a partnership that dates back more than a decade. DOF has classified the agreement as very large, valued at between",
-   "img": "https://splash247.com/wp-content/uploads/2022/05/Skandi-Africa-TechnipFMC.jpg",
-   "date": "2026-11-17T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Apache keeps North Sea assets producing despite worker walkouts",
-   "source": "Splash247",
-   "summary": "US energy company Apache said that production from its UK North Sea assets remains unaffected despite escalating industrial action involving around 170 offshore workers. Members of the Unite union staged a series of rolling strikes across seven Apache-operated",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Forties-Bravo-Apache.jpg",
-   "date": "2026-11-17T10:00:00+00:00"
+   "summary": "Italian offshore engineering and drilling contractor Saipem has secured two new contracts worth approximately $181m for its Scarabeo 9 semisubmersible drilling rig. Burullus Gas Company, a joint venture between Shell, Petronas, and the Egyptian state-owned Egy",
+   "img": "https://splash247.com/wp-content/uploads/2023/06/Scarabeo-9.jpg",
+   "date": "2026-11-18T10:15:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -317,6 +317,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "TGS Awarded OBN Contract offshore Namibia",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T06:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
    "source": "Drilling Contractor",
    "summary": "",
@@ -327,21 +337,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Ghana's oil & gas drilling yields hydrocarbons and first carbonate reservoir",
+   "title": "Fugro completes ultra-deepwater survey offshore Angola",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-11T08:16:26+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T15:04:30+00:00"
+   "date": "2026-11-17T10:03:59+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -387,41 +387,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Slo tilbake på Snapchat i natt: – Jeg trenger egentlig ikke si dette",
+   "title": "Solbakken klarte ikke lande etter bragden mot Danmark: – Jeg fikk ikke sove",
    "source": "NRK",
-   "summary": "Etter å ha kommet seg på privatflyet fyrte Erling Braut Haaland av stikk mot NRK-ekspert Kristoffer Løkberg.",
-   "img": "https://gfx.nrk.no/LvG26mHl_N1Ly7R5Pn-I7QbFMR2ZtK86KsBdPFcn_c9A.jpg",
-   "date": "2026-11-17T23:41:23+00:00"
+   "summary": "Landslagssjefen lå og så i taket etter seieren i Parken. Men innimellom dukker fremdeles tanker om revansje mot England opp.",
+   "img": "https://gfx.nrk.no/o1-kVB7E2fZWX-RJ8AmemAWDFU5tVlox-9kJBdg2eA6w.jpg",
+   "date": "2026-11-18T10:13:45+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Dansk stjerne om Norge-scenene: – Det gjør vondt",
+   "title": "Tidligere idrettsleder dømt til 15 års forvaring",
    "source": "NRK",
-   "summary": "Det var – som vanlig – deilig å være norsk i Danmark. Like deilig er det ikke å være dansk.",
-   "img": "https://gfx.nrk.no/6mJyQ32hqgF9KktdFDFjYA5yHh7l-SXLsdvbWRc22nCA.jpg",
-   "date": "2026-11-17T22:36:06+00:00"
+   "summary": "Den tidligere idrettslederen nektet straffskyld for voldtekt med trusler. Nå er han dømt igjen.",
+   "img": "https://gfx.nrk.no/eulUinGhfs12OnTUDD-pigXj8z1ptOMasw9O3vrCV0Kg.jpg",
+   "date": "2026-11-18T09:49:11+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Norges børs mot Danmark: – Et mentalitetsmonster",
+   "title": "Mann skutt av politiet med elektrosjokkvåpen",
    "source": "NRK",
-   "summary": "Norge reddet kvartfinale i Nasjonsligaen etter et utrolig drama i Parken. Her er NRKs vurdering av de norske spillerne.",
-   "img": "https://gfx.nrk.no/k8g2Fl2hAIpNOD1zBHM-aQDDIqRPLgUkqJhPcOLO9cQA.jpg",
-   "date": "2026-11-17T21:46:27+00:00"
+   "summary": "Politiet har skutt en mann med elektrosjokkvåpen etter at han skal ha satt seg opp mot politiet og kommet med trusler.",
+   "img": "https://gfx.nrk.no/6n7EEfNQqrjaVZaxhYku-A1JXKzbqdMArHTfuW5MwlNw.jpg",
+   "date": "2026-11-18T07:34:58+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Straffemål på overtid reddet Norge: – Sykeste jeg har sett",
+   "title": "Fillerfesten fra helvete",
    "source": "NRK",
-   "summary": "Etter 14 horrible åpningsminutter tente Erling Braut Haaland håpet for Norge. Martin Ødegaard holdt flammen i live, før Haaland avgjorde på overtid.",
-   "img": "https://gfx.nrk.no/Bkbqv8Uqkd08yaEsq7EjaABTQwqJQnUmE_tVSAxAIjWg.jpg",
-   "date": "2026-11-17T20:06:20+00:00"
+   "summary": "Miriam fikk filler ved kjøkkenbordet. Det gikk fryktelig galt.",
+   "img": "https://gfx.nrk.no/bv3r4ABYklolurXwsdw7xAteIt9E2TtWzTfXnSq0fnhA.jpg",
+   "date": "2026-11-18T07:41:32+00:00"
   }
  ]
 }
