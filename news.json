@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-18T10:44:59.374293+00:00",
+ "updated": "2026-11-18T19:05:55.649823+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Havila Shipping ASA: Regnskap for tredje kvartal 2026",
+   "source": "Havila Shipping ASA",
+   "summary": "Sammendrag * Fraktinntektene var NOK 139,7 million i 3. kvartal 2026, en reduksjon på NOK 9,6 million i forhold til tilsvarende periode i fjor og omtrent på samme nivå som forrige kvartal.",
+   "img": "",
+   "date": "2026-11-18T13:41:34.914Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Havila Shipping ASA: Third quarter 2026 accounts",
+   "source": "Havila Shipping ASA",
+   "summary": "Summary * Freight revenues amounted to NOK 139.7 million in Q3 2026, a decrease of NOK 9.6 million compared to the corresponding period last year and approximately at the same level as the previous quarter.",
+   "img": "",
+   "date": "2026-11-18T13:41:34.908Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -84,24 +104,54 @@
    "date": "2026-11-17T06:13:05.070Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Reach Subsea ASA - 3Q 2026: Svak lønnsomhet; posisjonerer for bedre inntjening ",
-   "source": "Reach Subsea ASA",
-   "summary": "Haugesund, 17. november 2026 - Reach Subsea ASA kunngjorde i dag sine resultater for tredje kvartal 2026.",
-   "img": "",
-   "date": "2026-11-17T06:00:00.000Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Orlen spreads its wings across Central and Eastern Europe with new gas pacts",
+   "source": "Offshore Energy",
+   "summary": "U.S. LNG is expected to reach more European energy markets as Orlen’s new partnerships strengthen regional cooperation.",
+   "img": "https://www.offshore-energy.biz/api/media/file/LNGcarrier2-800x448.jpg?prefix=media",
+   "date": "2026-11-18T15:07:53+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Maldives in talks with Indian firm over wave energy technology",
+   "source": "Offshore Energy",
+   "summary": "Indian ocean energy technology company WaveGen Energy has met with the Maldivian government to explore opportunities for the deployment of wave...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Indian%20company%20looking%20at%20wave%20energy%20tech%20deployment%20in%20Maldives-800x539.jpg?prefix=media",
+   "date": "2026-11-18T14:30:30+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Venture Global’s bigger LNG deal with China Gas adds 500,000 tons annually",
+   "source": "Offshore Energy",
+   "summary": "U.S. LNG is gaining a larger foothold in China as Venture Global expands its 20-year supply agreement with China Gas.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784730228845-1024x746-1024x746-800x583.png?prefix=media",
+   "date": "2026-11-18T13:01:15+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Greece: Dodecanese islands' link to mainland awarded €228.9 million EU grant",
+   "source": "Offshore Energy",
+   "summary": "An interconnector that will link Greece's Dodecanese islands to the mainland electricity grid has secured the largest grant ever awarded under...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Dodecanese%20islands%27%20link%20to%20mainland%20awarded%20%E2%82%AC228.9%20million%20EU%20grant-800x600.jpg?prefix=media",
+   "date": "2026-11-18T11:29:40+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Reach Subsea ASA - 3Q 2026: Weak Profitability; Positioning for Improved Earnings ",
-   "source": "Reach Subsea ASA",
-   "summary": "Haugesund, 17 November 2026 - Reach Subsea ASA today announced its third-quarter 2026 results.",
-   "img": "",
-   "date": "2026-11-17T06:00:00.000Z"
+   "title": "Equinor sheds some light on cyberattack as it races to secure IT systems",
+   "source": "Offshore Energy",
+   "summary": "Equinor is battling a cyberattack targeting certain IT systems, with production unaffected and no indication of stolen data as recovery continues.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Equinor-1-800x450.png?prefix=media",
+   "date": "2026-11-18T11:00:39+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -132,56 +182,6 @@
    "summary": "Allseas’ new offshore construction vessel, the first of two being built in China, has taken to the water for the first time, with completion and...",
    "img": "https://www.offshore-energy.biz/api/media/file/New%20Allseas%20offshore%20construction%20vessel%20hits%20the%20water%20in%20China-800x402.jpg?prefix=media",
    "date": "2026-11-18T08:43:24+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Saipem rig lines up multimillion-dollar gigs off Egypt and Suriname’s coasts",
-   "source": "Offshore Energy",
-   "summary": "Saipem has secured two offshore drilling contracts in Egypt and Suriname, extending its rig’s operations through 2028.",
-   "img": "https://www.offshore-energy.biz/api/media/file/scarabeo9_saipem-800x500.jpg?prefix=media",
-   "date": "2026-11-18T08:01:28+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Counting down to OEEC 2026: Amsterdam gets ready to welcome the offshore energy community",
-   "source": "Offshore Energy",
-   "summary": "The countdown is on! In less than a week, Offshore Energy Exhibition & Conference (OEEC) 2026 will open its doors at RAI Amsterdam. On 24 and 25...",
-   "img": "https://www.offshore-energy.biz/api/media/file/OEEC%20Amsterdam%20-%20Navingo-1-800x533.webp?prefix=media",
-   "date": "2026-11-18T07:55:18+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Weatherford finds more work with Constellation in Brazil",
-   "source": "Offshore Energy",
-   "summary": "Weatherford has strengthened its Brazilian market position with a deal for Constellation’s deepwater exploration campaign offshore Brazil.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784751447186-1024x680-800x531.png?prefix=media",
-   "date": "2026-11-17T14:32:52+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "2 GW link between Baltic States and Germany seeking Project of Common Interest status",
-   "source": "Offshore Energy",
-   "summary": "Lithuania, Latvia and Germany have submitted an application for a 2 GW hybrid offshore electricity connection that will link the three countries...",
-   "img": "https://www.offshore-energy.biz/api/media/file/2%20GW%20link%20between%20Baltic%20States%20and%20Germany%20seeking%20Project%20of%20Common%20Interest%20status-800x417.jpg?prefix=media",
-   "date": "2026-11-17T13:14:12+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Allseas taps Aker Solutions for recycling of 50,000-ton North Sea platform topside",
-   "source": "Offshore Energy",
-   "summary": "Five decades after a North Sea platform was built, Aker Solutions has been selected to handle the dismantling and recycling of its topside.",
-   "img": "https://www.offshore-energy.biz/api/media/file/statfjord%20a-800x450.jpg?prefix=media",
-   "date": "2026-11-17T12:52:30+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -264,6 +264,46 @@
    "date": "2026-10-26T18:22:16+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Neo Next+ snaps up EnQuest’s North Sea business in $960m deal",
+   "source": "Splash247",
+   "summary": "UK offshore producer Neo Next+ Energy has agreed to acquire EnQuest’s entire UK upstream oil and gas business in a deal worth up to $960m, further consolidating its position as the largest producer on the UK Continental Shelf. The transaction involves acquirin",
+   "img": "https://splash247.com/wp-content/uploads/2026/05/Magnus-EnQuest.jpg",
+   "date": "2026-11-18T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Eiffage secures offshore converter platform contract in Germany",
+   "source": "Splash247",
+   "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s Belgian subsidiary, Smulders, as part of Te",
+   "img": "https://splash247.com/wp-content/uploads/2025/12/TenneT-BalWin.jpg",
+   "date": "2026-11-18T11:45:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Chinese contractors land $238m in offshore wind installation deals",
+   "source": "Splash247",
+   "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the 506MW Dafeng H19 and 308MW Dongtai H4/H6 ",
+   "img": "https://splash247.com/wp-content/uploads/2021/01/offshore-wind-farm-Fugro-e1612161403647.jpg",
+   "date": "2026-11-18T11:15:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "DEME orders pair of autonomous offshore survey vessels",
+   "source": "Splash247",
+   "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The vessels will be based on DEMCON’s DUS OV plat",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/DEME-uncrewed-surface-vessel-USV.jpg",
+   "date": "2026-11-18T10:45:00+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 2,
@@ -327,6 +367,16 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
+   "title": "Fugro completes ultra-deepwater survey offshore Angola",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T10:03:59+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
    "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
    "source": "Drilling Contractor",
    "summary": "",
@@ -334,14 +384,34 @@
    "date": "2026-11-17T17:42:07+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fugro completes ultra-deepwater survey offshore Angola",
-   "source": "Offshore Energy",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Bare én av ti barnehageansatte er menn: 15-åringer invitert til å teste",
+   "source": "NRK Trøndelag",
+   "summary": "Norske barnehager skriker etter flere menn. Nå inviteres 15 år gamle gutter til å prøve yrket.",
+   "img": "https://gfx.nrk.no/KdtAWHl8TpdrT93l65FFFQOpr67QPvIqvm6RSBDwmVUA.jpg",
+   "date": "2026-11-18T18:01:36+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Midtnytt: Setebelter på metrobussen?",
+   "source": "NRK Trøndelag",
    "summary": "",
-   "img": "",
-   "date": "2026-11-17T10:03:59+00:00"
+   "img": "https://gfx.nrk.no/sVPRhYydTuZvKRYBCmR1owZPVuk_NfE6uzfAZAIGt3WQ.jpg",
+   "date": "2026-11-18T18:12:30+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Pågrepet etter trusler mot politiet – Bevæpnet seg",
+   "source": "NRK Trøndelag",
+   "summary": "En mann i 40-årene er pågrepet etter å ha truet politiet.",
+   "img": "https://gfx.nrk.no/DM4vKi5IKSwjP1YyC5C8gww6sPJAi6CBqZe5eT3oyi6A.jpg",
+   "date": "2026-11-18T13:12:55+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -354,74 +424,44 @@
    "date": "2026-11-17T20:13:45+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "SAS kuttet i nord – nå skal Widerøe sette inn ekstra fly",
-   "source": "NRK Trøndelag",
-   "summary": "SAS kutter flyvninger mellom Bodø, Tromsø og Trondheim. Nå oppretter Widerøe en ekstra avgang mellom byene.",
-   "img": "https://gfx.nrk.no/uH0Ic00arUJ4RK88QQ1I8Q2Hm6Fg7vd2RcWLLXuSEfmQ.jpg",
-   "date": "2026-11-17T09:07:59+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Sør-Fosen sijte har hatt møte med staten: – Kommer til å ha god kontroll på dyrene",
-   "source": "NRK Trøndelag",
-   "summary": "Reindrifta sør på Fosen ser fram til å kunne ta i bruk tilleggsbeite i Østerdalen.",
-   "img": "https://gfx.nrk.no/dvxWjrPpecsMutcsgvAk5g1hncHB1H8_D_4F1o4D4MwQ.jpg",
-   "date": "2026-11-17T16:31:28+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Kongeparet er på besøk i Trondheim og Nidarosdomen: – Store forventingar",
-   "source": "NRK Trøndelag",
-   "summary": "Kongeparet er på besøk i Nidarosdomen kor dei skal signast 22. august til neste år.",
-   "img": "https://gfx.nrk.no/2jGLJI5aoOWqi42nTWLwqglbftgfYNEyS-3Jc0O5XNUQ.jpg",
-   "date": "2026-11-17T14:04:25+00:00"
+   "title": "Her jager ulv rein: – Fortvilende",
+   "source": "NRK",
+   "summary": "Reineiere fortviler etter å ha funnet rein med alvorlige bittskader. Miljødirektoratet gir to fellingstillatelser.",
+   "img": "https://gfx.nrk.no/wjeMRYoncccbdwzOTG3DsgUXQqZbpuRrCS6sGi8otpFQ.jpg",
+   "date": "2026-11-18T17:43:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Solbakken klarte ikke lande etter bragden mot Danmark: – Jeg fikk ikke sove",
+   "title": "Vrenger klærne for overgreps­utsatte barn",
    "source": "NRK",
-   "summary": "Landslagssjefen lå og så i taket etter seieren i Parken. Men innimellom dukker fremdeles tanker om revansje mot England opp.",
-   "img": "https://gfx.nrk.no/o1-kVB7E2fZWX-RJ8AmemAWDFU5tVlox-9kJBdg2eA6w.jpg",
-   "date": "2026-11-18T10:13:45+00:00"
+   "summary": "De vrenger klærne for å vise støtte til barn og unge som har opplevd vold og overgrep. Stiftelsen bak vrengedagen tror markeringen har kommet for å bli.",
+   "img": "https://gfx.nrk.no/Bfz8-01EGoSawKVUteZ-IQBNZKmkTj1MykBdhvb4lbGA.jpg",
+   "date": "2026-11-18T16:03:15+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tidligere idrettsleder dømt til 15 års forvaring",
+   "title": "Blir hylla av Jan Thomas – men ikkje Solbakken: – Du ser jo kor eg har gjort av den",
    "source": "NRK",
-   "summary": "Den tidligere idrettslederen nektet straffskyld for voldtekt med trusler. Nå er han dømt igjen.",
-   "img": "https://gfx.nrk.no/eulUinGhfs12OnTUDD-pigXj8z1ptOMasw9O3vrCV0Kg.jpg",
-   "date": "2026-11-18T09:49:11+00:00"
+   "summary": "Landslagsherrane var kledde opp i glinsande nye boblejakker før dei vann mot Danmark. Stilgrepet blir hylla av Jan Thomas, men fall ikkje i smak hos alle i den norske leiren.",
+   "img": "https://gfx.nrk.no/1bFAcNYzzC2ooLg-ZHE4RAW9kIZFvxKMYH4Miua5cZ1Q.jpg",
+   "date": "2026-11-18T15:52:16+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mann skutt av politiet med elektrosjokkvåpen",
+   "title": "Israel med ny offensiv – tre drept",
    "source": "NRK",
-   "summary": "Politiet har skutt en mann med elektrosjokkvåpen etter at han skal ha satt seg opp mot politiet og kommet med trusler.",
-   "img": "https://gfx.nrk.no/6n7EEfNQqrjaVZaxhYku-A1JXKzbqdMArHTfuW5MwlNw.jpg",
-   "date": "2026-11-18T07:34:58+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Fillerfesten fra helvete",
-   "source": "NRK",
-   "summary": "Miriam fikk filler ved kjøkkenbordet. Det gikk fryktelig galt.",
-   "img": "https://gfx.nrk.no/bv3r4ABYklolurXwsdw7xAteIt9E2TtWzTfXnSq0fnhA.jpg",
-   "date": "2026-11-18T07:41:32+00:00"
+   "summary": "Israels hær sier den har innledet en operasjon i Hamas-kontrollerte områder i Gaza Israel har innledet en militæroperasjon i det sentrale Gaza vest for den såkalte gule linjen, som har skilt Hamas-kontrollerte og israelsk-kontrollerte områder siden våpenhvilen",
+   "img": "",
+   "date": "2026-11-18T14:43:35+00:00"
   }
  ]
 }
