@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:40:12.619569+00:00",
+ "updated": "2026-11-19T23:48:25.717618+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -157,6 +157,16 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
+   "title": "U.S. Holds Historic Deep-Sea Mining Lease Sale",
+   "source": "gCaptain Offshore",
+   "summary": "The Trump administration on Thursday completed the first-ever U.S. offshore critical minerals lease auction, drawing $6 million in high bids for more than 31.5 million acres of seabed off American...",
+   "img": "",
+   "date": "2026-11-19T20:24:21+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
    "title": "China Oilfield Services Orders 59 Offshore Vessels in $1.6 Billion Shipbuilding Deal",
    "source": "gCaptain Offshore",
    "summary": "China Oilfield Services Limited (COSL) has signed contracts worth approximately $1.64 billion to build 59 offshore support vessels at three Chinese shipyards, marking a major investment in the country’s offshore...",
@@ -226,16 +236,6 @@
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
-   "weight": 2,
-   "title": "MARAD Approves $8.2 Billion Texas LNG Export Port in Record-Time Review",
-   "source": "gCaptain Offshore",
-   "summary": "The Trump administration has approved an $8.2 billion offshore liquefied natural gas export project off the Texas coast, marking a major milestone for its effort to speed up deepwater port...",
-   "img": "",
-   "date": "2026-10-28T17:24:40+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
    "weight": 1,
    "title": "Seamec scores fresh Indian offshore installation award",
    "source": "Splash247",
@@ -287,21 +287,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T14:22:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
    "source": "Data Center Dynamics",
    "summary": "",
    "img": "",
    "date": "2026-11-13T12:36:07+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T14:22:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -314,14 +314,24 @@
    "date": "2026-11-17T03:21:29+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Underwater microphones near Norway’s Hywind Tampen wind farm record sperm whales and killer whales amid turbine and anchor noise",
+   "source": "Energies Media",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-14T12:40:30+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "TotalEnergies, Chevron finalizing targets for multi-well campaigns offshore Nigeria",
+   "title": "Fugro surveys subsea route for Greater PAJ development offshore Angola",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-12T19:48:10+00:00"
+   "date": "2026-11-19T00:47:31+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -367,6 +377,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Boligbrann i Trondheim – åpne flammer",
+   "source": "NRK Trøndelag",
+   "summary": "Det brenner i en bolig på Byåsen i Trondheim. Alle personene skal være ute av huset, ifølge politiet.",
+   "img": "https://gfx.nrk.no/LLxR3bQzcv57r6f__X3awQQD5tQYaqgUqGpn4Nl3KglQ.jpg",
+   "date": "2026-11-19T18:11:01+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Vurderer vern av rekordstort havområde",
    "source": "NRK Trøndelag",
    "summary": "Et område større enn hele Vestfold utredes for vern utenfor Trøndelagskysten.",
@@ -377,71 +397,61 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Midtnytt: Byåsen i semifinale🤾‍♀️",
+   "source": "NRK Trøndelag",
+   "summary": "",
+   "img": "https://gfx.nrk.no/sVPRhYydTuZvKRYBCmR1owZPVuk_NfE6uzfAZAIGt3WQ.jpg",
+   "date": "2026-11-19T18:13:05+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Fallulykke i Stjørdal – skal ha falt tre meter",
    "source": "NRK Trøndelag",
-   "summary": "Luftambulanse er på stedet etter en fallulykke i Stjørdal torsdag ettermiddag.",
+   "summary": "En person ble sendt med luftambulanse etter en fallulykke i Stjørdal torsdag ettermiddag.",
    "img": "https://gfx.nrk.no/fONFr7jrQBDYde0VGUAH5A-khaQyniwK8uD0rbCLEhSw.jpg",
    "date": "2026-11-19T13:11:07+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Lette etter mulig bevæpna mann i Trondheim - kan være jeger",
-   "source": "NRK Trøndelag",
-   "summary": "Flere politipatruljer har dratt til Ugla etter at en mulig bevæpna person skal være sett i området.",
-   "img": "https://gfx.nrk.no/lvw0V9zDeMAvT1WlW5JnSgTGKginWcLXqkRioz95sJIg.jpg",
-   "date": "2026-11-19T09:40:29+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Instruktør påkjørt under mørkekjøringskurs",
-   "source": "NRK Trøndelag",
-   "summary": "Da de ansatte ved kjøreskolen skulle vise betydningen av refleks i mørket for elevene, gikk det galt.",
-   "img": "https://gfx.nrk.no/_A5h-zkoBFjgkIrRIv-_NgTzbh5joNFMF6mJupYdDaXw.jpg",
-   "date": "2026-11-18T19:08:12+00:00"
+   "title": "Her førebur han seg på ein vinter med kjeft",
+   "source": "NRK",
+   "summary": "Ånund Lid Byggland (36) har nok ikkje mykje ros i vente i sin nye jobb. NRK fekk vere med på eit eksklusivt pusterom før det heile brakar laus.",
+   "img": "https://gfx.nrk.no/q6Uoa_DM4erJNFtpJOmmpwoixXi4NChTOTh9LDx-29Iw.jpg",
+   "date": "2026-11-19T21:32:20+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Verden ser til Stians (27) arbeidsplass – vil kopiere Norges største klima­satsing",
+   "title": "Norwegian ber 5000 kundar sperre bankkortet etter datainnbrot",
    "source": "NRK",
-   "summary": "Karbonfangst i Telemark vekker internasjonal oppsikt, og industriledere fra hele verden kommer for å lære. Men en klimaforsker advarer mot å tro at prosjektet redder verden med det første.",
-   "img": "https://gfx.nrk.no/0TU-y3GqKc0H53eKwdlC2wY5hVKhBS-l5PpQ74PBGlEA.jpg",
-   "date": "2026-11-19T17:32:48+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Toppmøtet: Seier for Kina og Russland",
-   "source": "NRK",
-   "summary": "USAs president Trump tenkte kanskje ikke over det. Men bare det å delta i et toppmøte med Putin og Xi oppfattes som en anerkjennelse av at de er likeverdige. USAs hegemoni er historie.",
-   "img": "https://gfx.nrk.no/s5BOQ8aP5NZeD5R6ucqB-wzGQtdOlP7wEPSRF0VTZVlQ.jpg",
-   "date": "2026-11-19T16:51:48+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Høgsterett forkastar anken til Frogner-kvinna",
-   "source": "NRK",
-   "summary": "Høgsterett har forkasta Frogner-kvinna sin anke om erstatningskrav mot Marius Borg Høiby. Det var Dagbladet som først omtalte saka. Høiby blei i Oslo tingrett dømd til å betale Frogner-kvinna 110.000 kroner i oppreising. Frogner-kvinna anka avgjerda, men fekk ",
+   "summary": "Norwegian har teke kontakt med rundt 5000 kundar og bede dei sperre bankkorta sine etter at ein leverandør til nettsidene deira er utsett for datainnbrot, melder NTB. Ein skadeleg kode blei lagt inn på nettsidene til Norwegian, som gjorde at kortdetaljar som b",
    "img": "",
-   "date": "2026-11-19T15:33:08+00:00"
+   "date": "2026-11-19T19:58:32+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Blei oppdaga som 5-åring: – Han var ein liten galning",
+   "title": "Nytt drama om Carlsen: – Selvfølgelig er det kynisk",
    "source": "NRK",
-   "summary": "Eit tilfeldig møte da Sebastian Sponevik var liten gut førte til at livet forandra seg for alltid.",
-   "img": "https://gfx.nrk.no/p6ZMqlWVM9yxcoXuLOuJughYlaEgIG2CvBLK2h7xaW-Q.jpg",
-   "date": "2026-11-19T15:33:10+00:00"
+   "summary": "Torsdag kveld fortsatte Magnus Carlsen (35) å skape storm i sjakkmiljøet. Han innrømmer at han er kynisk.",
+   "img": "https://gfx.nrk.no/xgWcBx0J5ZSD6Y7Dmd0q-QEi3PJPwTx-Z75UGrwVy0Zw.jpg",
+   "date": "2026-11-19T19:55:40+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Endte opp alene på samling – mener langrennslandslaget er splittet",
+   "source": "NRK",
+   "summary": "Milla Grosberghaugen Andreassen (21) åpner om problemer på langrennslandslaget. NRK-eksperten mener at kvinnelandslaget er i ferd med å kollapse.",
+   "img": "https://gfx.nrk.no/JE2DHa6YDI1cnn2NODHNyAgBatZQVZcaH8L8eA3-wPfg.jpg",
+   "date": "2026-11-19T19:23:10+00:00"
   }
  ]
 }
