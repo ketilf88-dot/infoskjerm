@@ -1,8 +1,20 @@
 {
- "updated": "2026-11-18T19:05:55.649823+00:00",
+ "updated": "2026-11-19T01:10:01.793853+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Subsea Afrika"
+ ],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited Announces Third Quarter 2026 Results",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 18, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr\", \"Borr Drilling\" or the \"Company\") announces unaudited results for the three and nine months ended September 30, 2026.",
+   "img": "",
+   "date": "2026-11-18T21:45:59.307Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -94,16 +106,6 @@
    "date": "2026-11-17T07:00:37.242Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 4,
-   "title": "DOF Group ASA - Contract award for Skandi Africa",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") is pleased to announce a Very Large* contract award for the vessel Skandi Africa by TechnipFMC. The new contract will commence in direct continuation with the current contract.",
-   "img": "",
-   "date": "2026-11-17T06:13:05.070Z"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -184,6 +186,16 @@
    "date": "2026-11-18T08:43:24+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "China Oilfield Services Orders 59 Offshore Vessels in $1.6 Billion Shipbuilding Deal",
+   "source": "gCaptain Offshore",
+   "summary": "China Oilfield Services Limited (COSL) has signed contracts worth approximately $1.64 billion to build 59 offshore support vessels at three Chinese shipyards, marking a major investment in the country’s offshore...",
+   "img": "",
+   "date": "2026-11-18T18:42:39+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -252,16 +264,6 @@
    "summary": "The Trump administration has approved an $8.2 billion offshore liquefied natural gas export project off the Texas coast, marking a major milestone for its effort to speed up deepwater port...",
    "img": "",
    "date": "2026-10-28T17:24:40+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
-   "source": "gCaptain Offshore",
-   "summary": "At a shipyard in northern Singapore, a yellow platform towers over a maze of scaffolding and cranes. Resembling a 15-story building, the piece will be shipped halfway around the world to Europe to be installed into an offshore wind farm.",
-   "img": "",
-   "date": "2026-10-26T18:22:16+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -344,44 +346,14 @@
    "date": "2026-11-13T12:36:07+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TotalEnergies, Chevron finalizing targets for multi-well campaigns offshore Nigeria",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-12T19:48:10+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TGS Awarded OBN Contract offshore Namibia",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-12T06:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fugro completes ultra-deepwater survey offshore Angola",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T10:03:59+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
-   "source": "Drilling Contractor",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T17:42:07+00:00"
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Instruktør påkjørt under mørkekjøringskurs",
+   "source": "NRK Trøndelag",
+   "summary": "Da de ansatte ved kjøreskolen skulle vise betydningen av refleks i mørket for elevene, gikk det galt.",
+   "img": "https://gfx.nrk.no/_A5h-zkoBFjgkIrRIv-_NgTzbh5joNFMF6mJupYdDaXw.jpg",
+   "date": "2026-11-18T19:08:12+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -414,54 +386,34 @@
    "date": "2026-11-18T13:12:55+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Full stans på Dovrebanen etter strømbrudd",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/WNjgIed5jzMMJtvq5eHaoQPPE2w7RZWQMWpJVYkkipPQ.jpg",
-   "date": "2026-11-17T20:13:45+00:00"
+   "title": "Militært vogntog av veien i Troms",
+   "source": "NRK",
+   "summary": "To personer er sendt til sykehus.",
+   "img": "https://gfx.nrk.no/DeCn0onRGGoYXcTjEXLnSw1ohJ9NYIrhLViwDUNavmxQ.jpg",
+   "date": "2026-11-19T00:01:13+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Her jager ulv rein: – Fortvilende",
+   "title": "Medier: Anthropic-aksjen prises til 83 dollar",
    "source": "NRK",
-   "summary": "Reineiere fortviler etter å ha funnet rein med alvorlige bittskader. Miljødirektoratet gir to fellingstillatelser.",
-   "img": "https://gfx.nrk.no/wjeMRYoncccbdwzOTG3DsgUXQqZbpuRrCS6sGi8otpFQ.jpg",
-   "date": "2026-11-18T17:43:51+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Vrenger klærne for overgreps­utsatte barn",
-   "source": "NRK",
-   "summary": "De vrenger klærne for å vise støtte til barn og unge som har opplevd vold og overgrep. Stiftelsen bak vrengedagen tror markeringen har kommet for å bli.",
-   "img": "https://gfx.nrk.no/Bfz8-01EGoSawKVUteZ-IQBNZKmkTj1MykBdhvb4lbGA.jpg",
-   "date": "2026-11-18T16:03:15+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Blir hylla av Jan Thomas – men ikkje Solbakken: – Du ser jo kor eg har gjort av den",
-   "source": "NRK",
-   "summary": "Landslagsherrane var kledde opp i glinsande nye boblejakker før dei vann mot Danmark. Stilgrepet blir hylla av Jan Thomas, men fall ikkje i smak hos alle i den norske leiren.",
-   "img": "https://gfx.nrk.no/1bFAcNYzzC2ooLg-ZHE4RAW9kIZFvxKMYH4Miua5cZ1Q.jpg",
-   "date": "2026-11-18T15:52:16+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Israel med ny offensiv – tre drept",
-   "source": "NRK",
-   "summary": "Israels hær sier den har innledet en operasjon i Hamas-kontrollerte områder i Gaza Israel har innledet en militæroperasjon i det sentrale Gaza vest for den såkalte gule linjen, som har skilt Hamas-kontrollerte og israelsk-kontrollerte områder siden våpenhvilen",
+   "summary": "Aksjen til KI-giganten Anthropic får en pris på 83 dollar. Det melder flere medier, blant annet The New York Times, Reuters og Wall Street Journal. Det er ventet at aksjenoteringen til Anthropic blir en av verdens største noensinne. Til sammen er det planlagt ",
    "img": "",
-   "date": "2026-11-18T14:43:35+00:00"
+   "date": "2026-11-18T22:04:32+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Russisk fiskerikonsern tapte søksmålet mot den norske stat",
+   "source": "NRK",
+   "summary": "Norge ble saksøkt av den russiske fiskerigiganten Norebo.",
+   "img": "https://gfx.nrk.no/5jiPYZedKZPQdliQ5Qyt2wwfC1u_qZZdc4gTBv0onFDw.jpg",
+   "date": "2026-11-18T21:16:03+00:00"
   }
  ]
 }
