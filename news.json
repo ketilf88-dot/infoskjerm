@@ -1,19 +1,27 @@
 {
- "updated": "2026-11-19T01:10:01.793853+00:00",
+ "updated": "2026-11-19T08:43:57.544159+00:00",
  "sources": 8,
- "failed": [
-  "Subsea Afrika"
- ],
+ "failed": [],
  "items": [
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Borr Drilling Limited Announces Third Quarter 2026 Results",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 18, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr\", \"Borr Drilling\" or the \"Company\") announces unaudited results for the three and nine months ended September 30, 2026.",
+   "title": "Subsea 7 S.A. Announces Third Quarter 2026 Results",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 19 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY, ISIN: LU0075646355, the Company) announced today results of Subsea7 Group (the Group, Subsea7) for the third quarter of 2026 which ended 30 September 2026.",
    "img": "",
-   "date": "2026-11-18T21:45:59.307Z"
+   "date": "2026-11-19T07:00:08.761Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Notification of PDMR Transactions",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 19, 2026 - the Board of Directors of Borr Drilling Limited (the \"Company\") (OSE and NYSE \"BORR\") has approved a grant of 268,254 restricted stock units (\"RSUs\") to certain persons discharging managerial responsibilities in the …",
+   "img": "",
+   "date": "2026-11-19T06:12:50.602Z"
   },
   {
    "tag": "Oslo Børs",
@@ -86,24 +94,14 @@
    "date": "2026-11-18T06:00:27.639Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Panoro Energy - Key Information on Cash Distribution",
-   "source": "Panoro Energy ASA",
-   "summary": "Oslo, 18 November 2026 - The board of directors of Panoro Energy ASA (\"Panoro\" or the \"Company\") today declares a cash distribution of NOK 0.356 per share (representing a cash distribution to shareholders of NOK 50 million).",
-   "img": "",
-   "date": "2026-11-18T06:00:12.620Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Aker Solutions receives letter of intent for Statfjord A recycling",
-   "source": "Aker Solutions ASA",
-   "summary": "November 17, 2026 - Aker Solutions has received a letter of intent (LOI) from Allseas for the reception, dismantling and recycling of the topside from Equinor's Statfjord A platform in the North Sea.",
-   "img": "",
-   "date": "2026-11-17T07:00:37.242Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Transocean rig spuds final well in East Coast gas drilling campaign",
+   "source": "Offshore Energy",
+   "summary": "Drilling activities are underway at an exploration well in Australian waters, targeting 64.2 billion cubic feet (bcf) of prospective gas resources.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Transocean%20Equinor%20rig%20Source%20Amplitude%20Energy-700x473.jpg?prefix=media",
+   "date": "2026-11-19T07:58:41+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -174,16 +172,6 @@
    "summary": "This long-term supply agreement is for 1 million tons of liquefied natural gas (LNG) annually, starting in 2030.",
    "img": "https://www.offshore-energy.biz/api/media/file/2023-trafigura-sefe-800x600.png?prefix=media",
    "date": "2026-11-18T09:16:02+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "WATCH: New Allseas offshore construction vessel hits the water in China",
-   "source": "Offshore Energy",
-   "summary": "Allseas’ new offshore construction vessel, the first of two being built in China, has taken to the water for the first time, with completion and...",
-   "img": "https://www.offshore-energy.biz/api/media/file/New%20Allseas%20offshore%20construction%20vessel%20hits%20the%20water%20in%20China-800x402.jpg?prefix=media",
-   "date": "2026-11-18T08:43:24+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -266,54 +254,34 @@
    "date": "2026-10-28T17:24:40+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Neo Next+ snaps up EnQuest’s North Sea business in $960m deal",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Borr Drilling adds $269m in jackup contracts across nine rigs",
    "source": "Splash247",
-   "summary": "UK offshore producer Neo Next+ Energy has agreed to acquire EnQuest’s entire UK upstream oil and gas business in a deal worth up to $960m, further consolidating its position as the largest producer on the UK Continental Shelf. The transaction involves acquirin",
-   "img": "https://splash247.com/wp-content/uploads/2026/05/Magnus-EnQuest.jpg",
-   "date": "2026-11-18T12:00:00+00:00"
+   "summary": "Offshore drilling contractor Borr Drilling has secured nine contract commitments for its jackup fleet since its second-quarter update, adding more than 1,950 days of work and approximately $269m in dayrate-equivalent backlog. The latest fleet status report sho",
+   "img": "https://splash247.com/wp-content/uploads/2024/08/Seatrium-Borr-Drilling-Vali.jpg",
+   "date": "2026-11-19T02:40:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Eiffage secures offshore converter platform contract in Germany",
+   "title": "Searenergy lands offshore wind commissioning deal in Poland",
    "source": "Splash247",
-   "summary": "French construction group Eiffage has secured a contract to fabricate the jacket foundation for the LanWin beta offshore converter platform in the German North Sea. Dragados Offshore awarded the contract to Eiffage’s Belgian subsidiary, Smulders, as part of Te",
-   "img": "https://splash247.com/wp-content/uploads/2025/12/TenneT-BalWin.jpg",
-   "date": "2026-11-18T11:45:00+00:00"
+   "summary": "German offshore services group Searenergy has secured a contract from Equinor and Polenergia for hook-up and commissioning work on two offshore substations at the Bałtyk 2 and Bałtyk 3 wind farms in the Polish Baltic Sea. The agreement, awarded to Searenergy’s",
+   "img": "https://splash247.com/wp-content/uploads/2024/01/offshore-wind-equinor.jpg",
+   "date": "2026-11-19T02:30:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Chinese contractors land $238m in offshore wind installation deals",
+   "title": "Golar sets sights on fifth FLNG as fleet expansion gathers pace",
    "source": "Splash247",
-   "summary": "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined CNY1.58bn ($238m) for two projects being developed by Jiangsu Guoxin in the Yellow Sea. The awards cover the 506MW Dafeng H19 and 308MW Dongtai H4/H6 ",
-   "img": "https://splash247.com/wp-content/uploads/2021/01/offshore-wind-farm-Fugro-e1612161403647.jpg",
-   "date": "2026-11-18T11:15:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "DEME orders pair of autonomous offshore survey vessels",
-   "source": "Splash247",
-   "summary": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The vessels will be based on DEMCON’s DUS OV plat",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/DEME-uncrewed-surface-vessel-USV.jpg",
-   "date": "2026-11-18T10:45:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "Saipem bags drilling double in Egypt and Suriname",
-   "source": "Splash247",
-   "summary": "Italian offshore engineering and drilling contractor Saipem has secured two new contracts worth approximately $181m for its Scarabeo 9 semisubmersible drilling rig. Burullus Gas Company, a joint venture between Shell, Petronas, and the Egyptian state-owned Egy",
-   "img": "https://splash247.com/wp-content/uploads/2023/06/Scarabeo-9.jpg",
-   "date": "2026-11-18T10:15:00+00:00"
+   "summary": "Golar LNG is laying the groundwork for a potential fifth floating liquefied natural gas (FLNG) unit, securing long-lead equipment reservations as it looks to capitalise on growing demand for offshore gas production capacity. The company disclosed the preparati",
+   "img": "https://splash247.com/wp-content/uploads/2024/07/FLNG-Hilli-Golar-LNG.jpg",
+   "date": "2026-11-19T02:20:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -333,7 +301,7 @@
    "source": "EnergyNow.com",
    "summary": "",
    "img": "",
-   "date": "2026-11-16T16:25:03+00:00"
+   "date": "2026-11-18T23:14:12+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -344,6 +312,56 @@
    "summary": "",
    "img": "",
    "date": "2026-11-13T12:36:07+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TotalEnergies, Chevron finalizing targets for multi-well campaigns offshore Nigeria",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-12T19:48:10+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TechnipFMC Keeps DOF's Skandi Africa Subsea Vessel on Contract",
+   "source": "Marine News Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T10:40:54+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Fugro completes ultra-deepwater survey offshore Angola",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T10:03:59+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
+   "source": "Drilling Contractor",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T17:42:07+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T15:04:30+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -389,31 +407,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Van Gogh-maleri solgt for 1,8 milliarder kroner",
+   "source": "NRK",
+   "summary": "Et maleri av den nederlandske maleren Vincent Van Gogh er solgt for 190,4 millioner dollar. Beløpet tilsvarer rundt 1,8 milliarder kroner. Det er ny salgsrekord for malerier av van Gogh, melder nyhetsbyrået AFP. Maleriet har tittelen «Chataigniers en fleurs», ",
+   "img": "https://gfx.nrk.no/6Z9nDUOWjWMR-ZyF7z5p3g3T_JPXCD9UQqtni5KYY-lw.jpg",
+   "date": "2026-11-19T02:11:46+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Satt klar da GTA VI kom til Norge: – Jeg er målløs",
+   "source": "NRK",
+   "summary": "Håkon Puntervold er usikker på om man noen gang får oppleve en lignende spillansering.",
+   "img": "https://gfx.nrk.no/aHhwIHYc5gTMkIkb6EVQWgX4aLbCBBpi8KqWtUMeQsXw.jpg",
+   "date": "2026-11-19T01:21:54+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Noreg-profilen håpar han blir seld: – Kryssar fingrane",
+   "source": "NRK",
+   "summary": "David Møller Wolfe (24) har forelska seg i Hamburg på fleire måtar. No håpar han klubben kjøper han ut av kontrakten med Wolverhampton.",
+   "img": "https://gfx.nrk.no/bkYihvfn8CQHJWG9jbeRRwNjh5LOwzu-0N97XphYmaDA.jpg",
+   "date": "2026-11-19T04:02:06+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Militært vogntog av veien i Troms",
    "source": "NRK",
-   "summary": "To personer er sendt til sykehus.",
+   "summary": "To menn er sendt til sykehus.",
    "img": "https://gfx.nrk.no/DeCn0onRGGoYXcTjEXLnSw1ohJ9NYIrhLViwDUNavmxQ.jpg",
    "date": "2026-11-19T00:01:13+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Medier: Anthropic-aksjen prises til 83 dollar",
-   "source": "NRK",
-   "summary": "Aksjen til KI-giganten Anthropic får en pris på 83 dollar. Det melder flere medier, blant annet The New York Times, Reuters og Wall Street Journal. Det er ventet at aksjenoteringen til Anthropic blir en av verdens største noensinne. Til sammen er det planlagt ",
-   "img": "",
-   "date": "2026-11-18T22:04:32+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Russisk fiskerikonsern tapte søksmålet mot den norske stat",
-   "source": "NRK",
-   "summary": "Norge ble saksøkt av den russiske fiskerigiganten Norebo.",
-   "img": "https://gfx.nrk.no/5jiPYZedKZPQdliQ5Qyt2wwfC1u_qZZdc4gTBv0onFDw.jpg",
-   "date": "2026-11-18T21:16:03+00:00"
   }
  ]
 }
