@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:43:32.691168+00:00",
+ "updated": "2026-11-20T21:33:06.075271+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -64,6 +64,36 @@
    "date": "2026-11-18T13:41:34.914Z"
   },
   {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Azule Energy wraps up divestment of two Angolan offshore blocks",
+   "source": "Offshore Energy",
+   "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784733162838-1024x655-800x512.png?prefix=media",
+   "date": "2026-11-20T14:41:21+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "FPSO revamp to begin next year as Navitas addresses contractor challenges",
+   "source": "Offshore Energy",
+   "summary": "Sea Lion oil development remains on track, according to Navitas, which is working to replace contractors amid Argentina-related tensions.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894144195-1024x536-1024x536-800x419.png?prefix=media",
+   "date": "2026-11-20T13:30:14+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "1 MW floating wave energy converter gets green light for test site deployment",
+   "source": "Offshore Energy",
+   "summary": "WEDUSEA, a €19.6 million collaborative project bringing together 14 European partners, has secured a marine license that allows the installation...",
+   "img": "https://www.offshore-energy.biz/api/media/file/1%20MW%20floating%20wave%20energy%20converter%20gets%20green%20light%20for%20test%20site%20deployment-640x360.png?prefix=media",
+   "date": "2026-11-20T13:29:06+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -112,36 +142,6 @@
    "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
    "img": "https://www.offshore-energy.biz/api/media/file/TechnipFMC-800x618.jpg?prefix=media",
    "date": "2026-11-20T08:06:59+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business into its fold",
-   "source": "Offshore Energy",
-   "summary": "London Stock Exchange-listed energy firm EnQuest has decided to exit the UK upstream arena to strengthen its focus on Southeast Asia.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784744074534-580x388-580x388.png?prefix=media",
-   "date": "2026-11-19T16:23:56+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Wison and DNV shake hands on enhancing global energy project delivery",
-   "source": "Offshore Energy",
-   "summary": "This strategic pact is set on strengthening energy project delivery, boosting quality, and managing risks across global projects.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Designer%20%2814%29-800x533.png?prefix=media",
-   "date": "2026-11-19T15:11:08+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Boskalis Subsea Services joins one of 'UK’s largest offshore decommissioning programs'",
-   "source": "Offshore Energy",
-   "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Boskalis%20Subsea%20Services%20hired%20for%20one%20of%20%27UK%E2%80%99s%20largest%20offshore%20decommissioning%20programs%27-800x533.jpg?prefix=media",
-   "date": "2026-11-19T14:42:55+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -304,6 +304,16 @@
    "date": "2026-11-20T06:49:04+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Equinor sheds some light on cyberattack as it races to secure IT systems",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-18T11:00:39+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -324,6 +334,16 @@
    "date": "2026-11-17T10:40:54+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
+   "source": "Submarine Networks",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-20T09:03:40+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -332,16 +352,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-17T17:42:07+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Sing",
-   "source": "Submarine Networks",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T09:03:40+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -357,81 +367,71 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Vil beholde hurtigbåten: – Veldig trist hvis den blir lagt ned",
+   "title": "Gammel vikinggrav skjulte en overraskelse",
    "source": "NRK Trøndelag",
-   "summary": "Hurtigbåten mellom Kristiansund og Trondheim står i fare for å bli lagt ned. Det bekymrer småbarnsmor Mia Dyrnes som mener den er et viktig tilbud for mange.",
+   "summary": "Ny forskning om viking-gravfunn kan utfordre bildet av hva folk i Midt-Norge drev med for nesten 1300 år siden.",
    "img": "",
-   "date": "2026-11-20T13:42:23+00:00"
+   "date": "2026-11-20T19:16:19+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Flere biltyverier i natt: – Bil til 1,5 millioner er borte",
+   "title": "Den umulige Fosen-løsningen: Ber regjeringen om å trykke på stoppknappen",
    "source": "NRK Trøndelag",
-   "summary": "Brøt seg inn hos bilforhandler og fikk med seg de dyreste bilene. Selgeren frykter bilene er på vei ut av landet.",
+   "summary": "Staten vil løse Fosen-saken ved å flytte reinsdyrene 35 mil sørover. Både bygdefolk og reineiere protesterer, og Sp-leder Trygve Slagsvold Vedum krever at prosessen stanses.",
    "img": "",
-   "date": "2026-11-20T09:01:24+00:00"
+   "date": "2026-11-20T15:41:30+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Boligbrann i Trondheim – åpne flammer",
+   "title": "Vurderer ekstraordinære tiltak på ny E6",
    "source": "NRK Trøndelag",
-   "summary": "Det brenner i en bolig på Byåsen i Trondheim. Alle personene skal være ute av huset, ifølge politiet.",
+   "summary": "Nye Veier ser svært alvorlig på flere trafikkfarlige hendelser på nyåpnet E6.",
    "img": "",
-   "date": "2026-11-19T18:11:01+00:00"
+   "date": "2026-11-20T15:03:37+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Vurderer vern av rekordstort havområde",
+   "title": "Første gang i lagmannsretten: Sykepleier får ikke erstatning etter covid-vaksine",
    "source": "NRK Trøndelag",
-   "summary": "Et område større enn hele Vestfold utredes for vern utenfor Trøndelagskysten.",
+   "summary": "Sykepleieren gikk til sak mot staten fordi han mente covid-19 vaksinen førte til at han fikk ME.",
    "img": "",
-   "date": "2026-11-19T16:17:59+00:00"
+   "date": "2026-11-20T14:18:02+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
+   "title": "«Bløff»-quiz: Skjulte ord",
    "source": "NRK",
-   "summary": "Det blir ikkje noko olje- og gassproduksjon på Visund-feltet i Nordsjøen før januar neste år.",
-   "img": "https://gfx.nrk.no/MY7x1kmRRG_G5M57RPQuAwuaRkFrBQocazivTrqP737Q.jpg",
-   "date": "2026-11-20T12:53:17+00:00"
+   "summary": "Alle alternativene begynner på samme bokstav.",
+   "img": "https://gfx.nrk.no/cSyP5hl1LagWSmF7XWUG4wVLAVvpaO38Bz-f6ycBpCkw.jpg",
+   "date": "2026-11-20T05:00:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Begge mistet barn i selvmord – skuffet over at regjeringen skroter mannshelseutvalg",
+   "title": "19-åring beklaget etter kjempebrøler: «Shit happens»",
    "source": "NRK",
-   "summary": "Menn står for omtrent tre av fire selvmord. Likevel sier regjeringen nei til mannshelseutvalg.",
-   "img": "https://gfx.nrk.no/mwZvc3tdjBTLBngrjZY_tgfFRaO3Z5LRKMzo5glKWvGA.jpg",
-   "date": "2026-11-20T10:46:27+00:00"
+   "summary": "Gulljagende Bodø/Glimt gjorde stort sett som de ville på Aker Stadion. Underveis fikk Moldes unge keeperdebutant en opplevelse han neppe glemmer med det første.",
+   "img": "https://gfx.nrk.no/88_orXIf_JiINxhVM9k9EAxRrFBRxUbB9hyNSLjxJe4g.jpg",
+   "date": "2026-11-20T20:01:57+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Sekundduell i skiopninga – Nyenget vann framfor Hjelmeset",
+   "title": "Satt i Kosovo og svindlet eldre norske kvinner: – Levd utsvevende liv med luksusvarer og sportsbiler",
    "source": "NRK",
-   "summary": "Lars Agnar Hjelmeset imponerte under sesongopninga på Beitostølen, men kunne ikkje gjere noko med Martin Løwstrøm Nyenget.",
-   "img": "https://gfx.nrk.no/l3eBx4nnSGpgKr_E14NPjAiBi_wErrjHbjp77fSIPuGQ.jpg",
-   "date": "2026-11-20T11:28:33+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nå er regningen for kong Haralds gravferd klar",
-   "source": "NRK",
-   "summary": "Totalkostnaden i forbindelse med kong Haralds gravferd ble på 279,3 millioner kroner uten moms, opplyser Utenriksdepartementet i en pressemelding. Enkelte leveranser er ennå ikke endelig fakturert eller avregnet. Den endelige sluttkostnaden kan derfor bli endr",
-   "img": "",
-   "date": "2026-11-20T10:46:12+00:00"
+   "summary": "Politiet er i ferd med å rulle opp et stort svindelnettverk i Rogaland. Over 20 unge menn og kvinner er sikta for å ha svindlet eldre kvinner for flere millioner kroner.",
+   "img": "https://gfx.nrk.no/zOu0lFMT6LiY0bT-099kdAWUpRfUYDvh79X1Ooi-Aomw.jpg",
+   "date": "2026-11-20T20:02:45+00:00"
   }
  ]
 }
