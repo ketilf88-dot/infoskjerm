@@ -1,8 +1,48 @@
 {
- "updated": "2026-11-20T04:52:02.610834+00:00",
+ "updated": "2026-11-20T13:43:32.691168+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker Solutions gets go-ahead for Avalon Combustion Turbine (ACT) project in Canada",
+   "source": "Aker Solutions ASA",
+   "summary": "20 November, 2026 - Aker Solutions has been awarded a limited notice to proceed contract by Newfoundland and Labrador Hydro for the ACT project in Holyrood, Newfoundland and Labrador, Canada.",
+   "img": "",
+   "date": "2026-11-20T07:00:18.810Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Announcement of cash dividend of NOK 3.7448 per share for second quarter 2026",
+   "source": "Equinor ASA",
+   "summary": "Equinor ASA (OSE: EQNR, NYSE: EQNR) announced on 22 July 2026 a cash dividend per share of USD 0.39 for second quarter 2026.",
+   "img": "",
+   "date": "2026-11-20T06:50:00.891Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Equinor ASA: Annonsering av kontantutbytte på NOK 3,7448 per aksje for andre kvartal 2026",
+   "source": "Equinor ASA",
+   "summary": "Equinor ASA (OSE: EQNR, NYSE: EQNR) annonserte 22. juli 2026 et kontantutbytte per aksje på USD 0,39 for andre kvartal 2026.",
+   "img": "",
+   "date": "2026-11-20T06:50:00.861Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "NOL: Third Quarter 2026 Results",
+   "source": "Northern Ocean Ltd.",
+   "summary": "20 November 2026 - Hamilton, Bermuda Northern Ocean Limited (OSE: NOL) (together with its subsidiaries, the \"Company\"), today reports unaudited results for the third quarter ended 30 September 2026.",
+   "img": "",
+   "date": "2026-11-20T06:27:21.442Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -17,16 +57,6 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Subsea 7 S.A. Announces Third Quarter 2026 Results",
-   "source": "Subsea 7 S.A.",
-   "summary": "Luxembourg - 19 November 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY, ISIN: LU0075646355, the Company) announced today results of Subsea7 Group (the Group, Subsea7) for the third quarter of 2026 which ended 30 September 2026.",
-   "img": "",
-   "date": "2026-11-19T07:00:08.761Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
    "title": "Havila Shipping ASA: Regnskap for tredje kvartal 2026",
    "source": "Havila Shipping ASA",
    "summary": "Sammendrag * Fraktinntektene var NOK 139,7 million i 3. kvartal 2026, en reduksjon på NOK 9,6 million i forhold til tilsvarende periode i fjor og omtrent på samme nivå som forrige kvartal.",
@@ -34,44 +64,54 @@
    "date": "2026-11-18T13:41:34.914Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Havila Shipping ASA: Third quarter 2026 accounts",
-   "source": "Havila Shipping ASA",
-   "summary": "Summary * Freight revenues amounted to NOK 139.7 million in Q3 2026, a decrease of NOK 9.6 million compared to the corresponding period last year and approximately at the same level as the previous quarter.",
-   "img": "",
-   "date": "2026-11-18T13:41:34.908Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Nexans completes deep-water cable laying ops off Australia for Chevron",
+   "source": "Offshore Energy",
+   "summary": "Nexans has completed the laying and trenching of the high-voltage dynamic cable for Chevron's Jansz-Io Compression (J-IC) project offshore...",
+   "img": "https://www.offshore-energy.biz/api/media/file/Nexans%20completes%20deep-water%20cable%20laying%20ops%20off%20Australia%20for%20Chevron-800x548.jpg?prefix=media",
+   "date": "2026-11-20T12:22:36+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor ASA: Notifiable trading",
-   "source": "Equinor ASA",
-   "summary": "Allocation of shares to certain primary insiders and their close associates in Equinor (OSE: EQNR, NYSE: EQNR) under Equinor's share saving plan.",
-   "img": "",
-   "date": "2026-11-18T07:00:13.772Z"
+   "title": "Cyberattack against Equinor is over with no data breach or impact on production",
+   "source": "Offshore Energy",
+   "summary": "Equinor has brought a cyberattack against its systems to a halt without any reported disruption to production.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FEquinor-1-1600x900-800x450.png?prefix=media",
+   "date": "2026-11-20T12:04:31+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Equinor ASA: Buy-back of shares to share programmes for employees",
-   "source": "Equinor ASA",
-   "summary": "Please see below information about transactions made under the buy-back programme for Equinor ASA (OSE:EQNR, NYSE:EQNR) for shares to be used in the share-based incentive programmes for employees and management.",
-   "img": "",
-   "date": "2026-11-18T07:00:12.466Z"
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Türkiye's seismic vessel exploring Pakistan's oil & gas potential in its second overseas mission",
+   "source": "Offshore Energy",
+   "summary": "Türkiye's national seismic research vessel has embarked on its second overseas operation, having arrived in Pakistan where it will be deployed to...",
+   "img": "https://www.offshore-energy.biz/api/media/file/T%C3%BCrkiye%27s%20seismic%20vessel%20exploring%20Pakistan%27s%20oil%20%26%20gas%20potential%20in%20its%20second%20overseas%20mission-760x500.png?prefix=media",
+   "date": "2026-11-20T09:59:50+00:00"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte",
-   "source": "Equinor ASA",
-   "summary": "Nedenfor følger informasjon om transaksjoner knyttet til tilbakekjøpsprogrammet for Equinor ASA (OSE:EQNR, NYSE:EQNR) til bruk i aksjebaserte insentivprogrammer for ansatte og ledelse. Dato for annonsering av tilbakekjøpsprogrammet: 4. februar 2026.",
-   "img": "",
-   "date": "2026-11-18T07:00:11.905Z"
+   "title": "Europe sends mixed signals on fossil fuels: Norway's climate ruling raises the stakes as EU postpones methane rules",
+   "source": "Offshore Energy",
+   "summary": "Europe's fossil fuel policy dilemma: Norway’s ruling challenges oil & gas industry over climate impact as EU grants two-year methane reprieve.",
+   "img": "https://www.offshore-energy.biz/api/media/file/cdn.equinor-800x600.png?prefix=media",
+   "date": "2026-11-20T09:20:44+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "TechnipFMC scores double offshore Guyana",
+   "source": "Offshore Energy",
+   "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
+   "img": "https://www.offshore-energy.biz/api/media/file/TechnipFMC-800x618.jpg?prefix=media",
+   "date": "2026-11-20T08:06:59+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -102,56 +142,6 @@
    "summary": "Boskalis Subsea Services has secured a long-term contract with Apache North Sea for what is described as one of the UK’s largest offshore...",
    "img": "https://www.offshore-energy.biz/api/media/file/Boskalis%20Subsea%20Services%20hired%20for%20one%20of%20%27UK%E2%80%99s%20largest%20offshore%20decommissioning%20programs%27-800x533.jpg?prefix=media",
    "date": "2026-11-19T14:42:55+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "McDermott-Baker Hughes consortium picks up work on Australian LNG project",
-   "source": "Offshore Energy",
-   "summary": "McDermott-Baker Hughes consortium has lined up an assignment on the next phase of Inpex’s LNG development in Australian waters.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1790373836473-1024x681-800x532.png?prefix=media",
-   "date": "2026-11-19T14:06:41+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "NKT’s Karlskrona offshore cable factory expansion set to start operations in Q2 2027",
-   "source": "Offshore Energy",
-   "summary": "NKT expects the additional production capacity at its high-voltage cable factory in Karlskrona, Sweden, to begin commercial operation and ramp up...",
-   "img": "https://www.offshore-energy.biz/api/media/file/NKT%E2%80%99s%20power%20cable%20factory%20in%20Karlskrona%20source%20NKT%202025-1-800x479.webp?prefix=media",
-   "date": "2026-11-19T14:01:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Purus takes delivery of first methanol-ready Damen CSOV",
-   "source": "Offshore Energy",
-   "summary": "Damen Shipyards Group has delivered the 90-meter commissioning service operation vessel (CSOV) Purus Vortex to Purus, adding the first...",
-   "img": "https://www.offshore-energy.biz/api/media/file/purus2-800x576.jpg?prefix=media",
-   "date": "2026-11-19T12:26:28+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Another methanol-ready offshore energy support vessel launches in China",
-   "source": "Offshore Energy",
-   "summary": "Sea1 Offshore's second of four 120-meter-long offshore energy support vessels (OESVs) being built in China has been launched. Norwegian offshore...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Second%20of%20four%20Sea1%20methanol-ready%20offshore%20energy%20support%20vessels%20launches%20in%20China-800x600.jpg?prefix=media",
-   "date": "2026-11-19T11:44:40+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "AlloySelect relaunches at Offshore Energy 2026 with new CCS screening preview",
-   "source": "Offshore Energy",
-   "summary": "Originally developed by OGC Energy in 2018, AlloySelect is now being relaunched with enhanced corrosion assessment and materials selection capabilities, alongside a new CCS module designed specifically for CO2 transport and storage applications.",
-   "img": "https://www.offshore-energy.biz/api/media/file/1-3-800x450.jpg?prefix=media",
-   "date": "2026-11-19T10:30:21+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -234,44 +224,44 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Seamec scores fresh Indian offshore installation award",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Subsea 7 seeks buyer for pipelay vessel ahead of Saipem merger",
    "source": "Splash247",
-   "summary": "Indian offshore services provider Seamec has secured a letter of award worth approximately $10.77m from the Indian subsidiary of PACC Offshore Services Holdings (POSH) for subsea installation work on the ONGC Pipeline Replacement Project X (PRP-X). The contrac",
-   "img": "https://splash247.com/wp-content/uploads/2026/02/MarineTraffic-Capt.-Turboboss-Seamec-II.jpg",
-   "date": "2026-11-19T12:00:00+00:00"
+   "summary": "Norwegian offshore engineering contractor Subsea 7 has begun identifying a buyer for its pipelay and heavy-lift vessel Seven Borealis, which it must divest as part of its planned merger with Saipem. The company confirmed the move in its third-quarter results, ",
+   "img": "https://splash247.com/wp-content/uploads/2015/07/Subsea-7-Seven-Borealis.jpeg",
+   "date": "2026-11-20T12:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Stamford firms up 10 MR tankers in China",
+   "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
    "source": "Splash247",
-   "summary": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from an unidentified European owner. The shipbu",
-   "img": "https://splash247.com/wp-content/uploads/2023/06/CIMC-SOE.jpg",
-   "date": "2026-11-19T11:27:00+00:00"
+   "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway Alfa Lift, Seaway Strashnov, and Seaway P",
+   "img": "https://splash247.com/wp-content/uploads/2026/10/Seaway-Phoenix-Seaway-7.jpg",
+   "date": "2026-11-20T11:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Paratus and Vantris explore sale of Brazilian subsea venture",
+   "title": "Scotland greenlights 1 GW floating offshore wind project",
    "source": "Splash247",
-   "summary": "Paratus Energy Services and Malaysia’s Vantris Energy are looking into a potential sale of their jointly owned Brazilian subsea services business, Seagems, as part of a strategic review. The two companies, which each hold a 50% stake in Seagems, said they are ",
-   "img": "https://splash247.com/wp-content/uploads/2026/09/Sapura-Jade-Seagems.jpg",
-   "date": "2026-11-19T11:00:00+00:00"
+   "summary": "The Scottish Government has granted offshore planning consent for the 1GW Muir Mhòr floating wind farm being developed by Fred. Olsen Seawind off the Aberdeenshire coast. Located approximately 63 km east of Peterhead, the project will comprise up to 67 floatin",
+   "img": "https://splash247.com/wp-content/uploads/2023/08/Ingka-floating-wind.jpg",
+   "date": "2026-11-20T10:00:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Weatherford bags new deepwater drilling deal in Brazil",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Hunter makes offshore move with Jacktel buyout offer",
    "source": "Splash247",
-   "summary": "US oilfield services giant Weatherford has secured a contract from Constellation Oil Services to provide managed pressure drilling (MPD) technology for a deepwater exploration campaign offshore Brazil. The agreement covers Constellation’s ultra-deepwater drill",
-   "img": "https://splash247.com/wp-content/uploads/2024/12/MarineTraffic-Fabio-Roque-Amaralina-Star-Constellation.jpg",
-   "date": "2026-11-19T10:00:00+00:00"
+   "summary": "Oslo-listed Hunter Group has launched a NOK1.63bn ($168m) takeover bid for Norwegian offshore accommodation player Jacktel, looking to put its windfall from lucrative VLCC charter contracts into a longer-term business. The Erik Mathiesen-led investment company",
+   "img": "https://splash247.com/wp-content/uploads/2022/09/Jacktel-Haven.jpg",
+   "date": "2026-11-20T08:25:49+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -282,16 +272,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-18T23:14:12+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
-   "source": "Data Center Dynamics",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-13T12:36:07+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -312,6 +292,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-17T14:22:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "VodafoneThree mulls UK–Norway subsea cable",
+   "source": "Total Telecom",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-20T06:49:04+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -344,14 +334,14 @@
    "date": "2026-11-17T17:42:07+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fugro completes ultra-deepwater survey offshore Angola",
-   "source": "Offshore Energy",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Sing",
+   "source": "Submarine Networks",
    "summary": "",
    "img": "",
-   "date": "2026-11-17T10:03:59+00:00"
+   "date": "2026-11-20T09:03:40+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -367,10 +357,30 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Vil beholde hurtigbåten: – Veldig trist hvis den blir lagt ned",
+   "source": "NRK Trøndelag",
+   "summary": "Hurtigbåten mellom Kristiansund og Trondheim står i fare for å bli lagt ned. Det bekymrer småbarnsmor Mia Dyrnes som mener den er et viktig tilbud for mange.",
+   "img": "",
+   "date": "2026-11-20T13:42:23+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Flere biltyverier i natt: – Bil til 1,5 millioner er borte",
+   "source": "NRK Trøndelag",
+   "summary": "Brøt seg inn hos bilforhandler og fikk med seg de dyreste bilene. Selgeren frykter bilene er på vei ut av landet.",
+   "img": "",
+   "date": "2026-11-20T09:01:24+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Boligbrann i Trondheim – åpne flammer",
    "source": "NRK Trøndelag",
    "summary": "Det brenner i en bolig på Byåsen i Trondheim. Alle personene skal være ute av huset, ifølge politiet.",
-   "img": "https://gfx.nrk.no/LLxR3bQzcv57r6f__X3awQQD5tQYaqgUqGpn4Nl3KglQ.jpg",
+   "img": "",
    "date": "2026-11-19T18:11:01+00:00"
   },
   {
@@ -380,68 +390,48 @@
    "title": "Vurderer vern av rekordstort havområde",
    "source": "NRK Trøndelag",
    "summary": "Et område større enn hele Vestfold utredes for vern utenfor Trøndelagskysten.",
-   "img": "https://gfx.nrk.no/-yupsUxsSAWwEPJEE-YYQAnzJjc3TZsK0TOFRFp989Jg.jpg",
+   "img": "",
    "date": "2026-11-19T16:17:59+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Midtnytt: Byåsen i semifinale🤾‍♀️",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "https://gfx.nrk.no/sVPRhYydTuZvKRYBCmR1owZPVuk_NfE6uzfAZAIGt3WQ.jpg",
-   "date": "2026-11-19T18:13:05+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Fallulykke i Stjørdal – skal ha falt tre meter",
-   "source": "NRK Trøndelag",
-   "summary": "En person ble sendt med luftambulanse etter en fallulykke i Stjørdal torsdag ettermiddag.",
-   "img": "https://gfx.nrk.no/fONFr7jrQBDYde0VGUAH5A-khaQyniwK8uD0rbCLEhSw.jpg",
-   "date": "2026-11-19T13:11:07+00:00"
+   "title": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
+   "source": "NRK",
+   "summary": "Det blir ikkje noko olje- og gassproduksjon på Visund-feltet i Nordsjøen før januar neste år.",
+   "img": "https://gfx.nrk.no/MY7x1kmRRG_G5M57RPQuAwuaRkFrBQocazivTrqP737Q.jpg",
+   "date": "2026-11-20T12:53:17+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Johaug med innrømmelse før maraton: Mer tent nå enn før ski-VM i Trondheim",
+   "title": "Begge mistet barn i selvmord – skuffet over at regjeringen skroter mannshelseutvalg",
    "source": "NRK",
-   "summary": "Nå hater Therese Johaug sesongens første snøfall. Inne på Bislett Stadion har motivasjonen aldri vært større.",
-   "img": "https://gfx.nrk.no/9oh3JCLlMA7osDO4O0M9_QAItDG-_xLYfjL2gNBVuFOQ.jpg",
-   "date": "2026-11-20T04:39:03+00:00"
+   "summary": "Menn står for omtrent tre av fire selvmord. Likevel sier regjeringen nei til mannshelseutvalg.",
+   "img": "https://gfx.nrk.no/mwZvc3tdjBTLBngrjZY_tgfFRaO3Z5LRKMzo5glKWvGA.jpg",
+   "date": "2026-11-20T10:46:27+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Her førebur han seg på ein vinter med kjeft",
+   "title": "Sekundduell i skiopninga – Nyenget vann framfor Hjelmeset",
    "source": "NRK",
-   "summary": "Ånund Lid Byggland (36) har nok ikkje mykje ros i vente i sin nye jobb. NRK fekk vere med på eit eksklusivt pusterom før det heile brakar laus.",
-   "img": "https://gfx.nrk.no/q6Uoa_DM4erJNFtpJOmmpwoixXi4NChTOTh9LDx-29Iw.jpg",
-   "date": "2026-11-19T21:32:20+00:00"
+   "summary": "Lars Agnar Hjelmeset imponerte under sesongopninga på Beitostølen, men kunne ikkje gjere noko med Martin Løwstrøm Nyenget.",
+   "img": "https://gfx.nrk.no/l3eBx4nnSGpgKr_E14NPjAiBi_wErrjHbjp77fSIPuGQ.jpg",
+   "date": "2026-11-20T11:28:33+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Norwegian ber 5000 kundar sperre bankkortet etter datainnbrot",
+   "title": "Nå er regningen for kong Haralds gravferd klar",
    "source": "NRK",
-   "summary": "Norwegian har teke kontakt med rundt 5000 kundar og bede dei sperre bankkorta sine etter at ein leverandør til nettsidene deira er utsett for datainnbrot, melder NTB. Ein skadeleg kode blei lagt inn på nettsidene til Norwegian, som gjorde at kortdetaljar som b",
+   "summary": "Totalkostnaden i forbindelse med kong Haralds gravferd ble på 279,3 millioner kroner uten moms, opplyser Utenriksdepartementet i en pressemelding. Enkelte leveranser er ennå ikke endelig fakturert eller avregnet. Den endelige sluttkostnaden kan derfor bli endr",
    "img": "",
-   "date": "2026-11-19T19:58:32+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Nytt drama om Carlsen: – Selvfølgelig er det kynisk",
-   "source": "NRK",
-   "summary": "Torsdag kveld fortsatte Magnus Carlsen (35) å skape storm i sjakkmiljøet. Han innrømmer at han er kynisk.",
-   "img": "https://gfx.nrk.no/xgWcBx0J5ZSD6Y7Dmd0q-QEi3PJPwTx-Z75UGrwVy0Zw.jpg",
-   "date": "2026-11-19T19:55:40+00:00"
+   "date": "2026-11-20T10:46:12+00:00"
   }
  ]
 }
