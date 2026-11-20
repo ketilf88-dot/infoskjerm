@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:48:25.717618+00:00",
+ "updated": "2026-11-20T04:52:02.610834+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -297,16 +297,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T14:22:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "Vår Energi expands SLB Norway support role to integrated drilling services",
    "source": "Offshore Magazine",
    "summary": "",
@@ -317,11 +307,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Underwater microphones near Norway’s Hywind Tampen wind farm record sperm whales and killer whales amid turbine and anchor noise",
-   "source": "Energies Media",
+   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+   "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-11-14T12:40:30+00:00"
+   "date": "2026-11-17T14:22:00+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -417,6 +407,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Johaug med innrømmelse før maraton: Mer tent nå enn før ski-VM i Trondheim",
+   "source": "NRK",
+   "summary": "Nå hater Therese Johaug sesongens første snøfall. Inne på Bislett Stadion har motivasjonen aldri vært større.",
+   "img": "https://gfx.nrk.no/9oh3JCLlMA7osDO4O0M9_QAItDG-_xLYfjL2gNBVuFOQ.jpg",
+   "date": "2026-11-20T04:39:03+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Her førebur han seg på ein vinter med kjeft",
    "source": "NRK",
    "summary": "Ånund Lid Byggland (36) har nok ikkje mykje ros i vente i sin nye jobb. NRK fekk vere med på eit eksklusivt pusterom før det heile brakar laus.",
@@ -442,16 +442,6 @@
    "summary": "Torsdag kveld fortsatte Magnus Carlsen (35) å skape storm i sjakkmiljøet. Han innrømmer at han er kynisk.",
    "img": "https://gfx.nrk.no/xgWcBx0J5ZSD6Y7Dmd0q-QEi3PJPwTx-Z75UGrwVy0Zw.jpg",
    "date": "2026-11-19T19:55:40+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Endte opp alene på samling – mener langrennslandslaget er splittet",
-   "source": "NRK",
-   "summary": "Milla Grosberghaugen Andreassen (21) åpner om problemer på langrennslandslaget. NRK-eksperten mener at kvinnelandslaget er i ferd med å kollapse.",
-   "img": "https://gfx.nrk.no/JE2DHa6YDI1cnn2NODHNyAgBatZQVZcaH8L8eA3-wPfg.jpg",
-   "date": "2026-11-19T19:23:10+00:00"
   }
  ]
 }
