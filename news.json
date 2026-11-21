@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:49:33.028815+00:00",
+ "updated": "2026-11-21T10:26:42.017122+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -304,16 +304,6 @@
    "date": "2026-11-20T06:49:04+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Equinor sheds some light on cyberattack as it races to secure IT systems",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-18T11:00:39+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -344,6 +334,16 @@
    "date": "2026-11-20T09:03:40+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T15:04:30+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -354,14 +354,14 @@
    "date": "2026-11-17T17:42:07+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
-   "source": "World Oil",
-   "summary": "",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "GTA-kontrakten fritek Daniel frå kjeft og husarbeid: – Han skal få ti dagar fri",
+   "source": "NRK Trøndelag",
+   "summary": "Daniel og Maria har signert ein kontrakt som lar han sleppe unna pliktene heime dei neste ti dagane. Kan vere ei god løysing for enkelte, seier parterapeuten.",
    "img": "",
-   "date": "2026-11-17T15:04:30+00:00"
+   "date": "2026-11-21T09:36:20+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -394,54 +394,34 @@
    "date": "2026-11-20T15:03:37+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Første gang i lagmannsretten: Sykepleier får ikke erstatning etter covid-vaksine",
-   "source": "NRK Trøndelag",
-   "summary": "Sykepleieren gikk til sak mot staten fordi han mente covid-19 vaksinen førte til at han fikk ME.",
-   "img": "",
-   "date": "2026-11-20T14:18:02+00:00"
+   "title": "Verdensmesteren fikk utdrikningslaget avslørt av NRK: – Fikk meg en god hakeslepp",
+   "source": "NRK",
+   "summary": "Tobias Foss trodde han skulle feire mormorens 80-årsdag. I stedet ventet et utdrikningslag og en langrennssprint på Beitostølen.",
+   "img": "https://gfx.nrk.no/Spo41FLVBrIWyiSKl39AJQ2I5TeJx_WzIJ3YiZOp-Slw.jpg",
+   "date": "2026-11-21T10:14:30+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Saudi-Arabia: Har skutt ned houthi-missiler",
+   "title": "Om høsten blir potene til Mila (5) røde og såre",
    "source": "NRK",
-   "summary": "Tre missiler som hadde retning mot Saudi-Arabias hovedstad Riyadh er skutt ned. Det sier den saudiledede militærkoalisjonen, som en i pågående væpnet konflikt med houthi-militsen. I tillegg skal det vært hørt flere eksplosjoner i Riyadh, melder Reuters. Saudi-",
-   "img": "",
-   "date": "2026-11-20T23:54:52+00:00"
+   "summary": "Regn og fuktig vær kan føre til soppinfeksjon på såre hundepoter. Veterinærer råder hundeeiere til å passe på.",
+   "img": "https://gfx.nrk.no/gvHsqO4bBg9eOk0StYC_DAznpcbB-mDNIP1sqfi1f4PA.jpg",
+   "date": "2026-11-21T08:00:05+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "AP om budsjettforhandlingene: Fortsetter utover fristen",
+   "title": "Exit for Udnes Weng etter fall: – Skjebnesvangert",
    "source": "NRK",
-   "summary": "Aps finanspolitiske talsperson Tuva Moflag sier til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23. – Vi fortsetter arbeidet med å komme til enighet med de rødgrønne partiene. Det er helt naturlig at uenighetene i enkelte saker blir tydelige",
-   "img": "https://gfx.nrk.no/5D-acgEAqoiZtZo_-Y7P1g6E-gTJqlkHm6UWPR0emTxQ.jpg",
-   "date": "2026-11-20T22:05:29+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Historisk «GTA 6»-lansering: Solgte for nesten 4 milliarder dollar på én dag",
-   "source": "NRK",
-   "summary": "Spillgiganten Rockstar Games knuser alle rekorder, melder Variety. Allerede på lanseringsdagen omsatte «Grand Theft Auto 6», også kjent som «GTA 6», for 3,79 milliarder dollar. Det tilsvarer over 37 milliarder norske kroner, og spillet forbigår dermed superhel",
-   "img": "https://gfx.nrk.no/2SHoy7089XEd7OrERR5sTQlvOiGSspAjL_cwDuyzTM8A.jpg",
-   "date": "2026-11-20T21:46:44+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "«Bløff»-quiz: Skjulte ord",
-   "source": "NRK",
-   "summary": "Alle alternativene begynner på samme bokstav.",
-   "img": "https://gfx.nrk.no/cSyP5hl1LagWSmF7XWUG4wVLAVvpaO38Bz-f6ycBpCkw.jpg",
-   "date": "2026-11-20T05:00:00+00:00"
+   "summary": "Lotta Udnes Weng med fall i sprintprologen. Det kan være kritisk for den kommende vinteren.",
+   "img": "https://gfx.nrk.no/sS1dU1xcXl1y_b8kY5NJnQXiSDyuCjPDk32fX5Ua_CWg.jpg",
+   "date": "2026-11-21T08:50:22+00:00"
   }
  ]
 }
