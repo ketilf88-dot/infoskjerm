@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:42:14.386370+00:00",
+ "updated": "2026-11-21T22:23:42.586154+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -284,24 +284,24 @@
    "date": "2026-11-17T03:21:29+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "TechnipFMC Awarded Subsea Contracts for ExxonMobil Guyana’s Longtail Project",
    "source": "Yahoo Finance",
    "summary": "",
    "img": "",
-   "date": "2026-11-17T14:22:00+00:00"
+   "date": "2026-11-19T21:15:00+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "VodafoneThree mulls UK–Norway subsea cable",
-   "source": "Total Telecom",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Saipem says 2027 guidance does not include Middle East cost recovery",
+   "source": "Reuters",
    "summary": "",
    "img": "",
-   "date": "2026-11-20T06:49:04+00:00"
+   "date": "2026-11-19T10:03:26+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -357,6 +357,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Åge Aleksandersen ble hedret",
+   "source": "NRK Trøndelag",
+   "summary": "Det var en preget musiker som mottok dekorasjonen fra Hans Majestet Kongen lørdag ettermiddag.",
+   "img": "",
+   "date": "2026-11-21T18:21:42+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Advarer etter flere ulykker på glatta",
    "source": "NRK Trøndelag",
    "summary": "Glatte veier har ført til trafikkulykker flere steder i landet. Nå ber Vegtrafikksentralen bilister om å senke farten og kjøre etter forholdene.",
@@ -384,14 +394,34 @@
    "date": "2026-11-20T19:16:19+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Den umulige Fosen-løsningen: Ber regjeringen om å trykke på stoppknappen",
-   "source": "NRK Trøndelag",
-   "summary": "Staten vil løse Fosen-saken ved å flytte reinsdyrene 35 mil sørover. Både bygdefolk og reineiere protesterer, og Sp-leder Trygve Slagsvold Vedum krever at prosessen stanses.",
-   "img": "",
-   "date": "2026-11-20T15:41:30+00:00"
+   "title": "Måtte betale 300.000 etter tabbe frå nettselskap",
+   "source": "NRK",
+   "summary": "Elektrisk utstyr for fleire millionar kroner blei øydelagt etter at nettselskapet Fagne ved ein feil sende 400 volt ut på straumnettet. Kundane fortviler over måten dei blir behandla på.",
+   "img": "https://gfx.nrk.no/haMPYMTLJaPU34p1kup_Qg76QyKnteRjbE8tXa9emagQ.jpg",
+   "date": "2026-11-21T21:08:15+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Klubben i total krise: – Ingen ønsker å bidra",
+   "source": "NRK",
+   "summary": "Spelarar og tilsette står på kanten av eit stup. Ingen veit kva som vil skje med ein av Noregs mest tradisjonsrike klubbar.",
+   "img": "https://gfx.nrk.no/st9HF1_kQp7DZdUOSaMRKQj8ze0a-MiFMGkHmT5ZEeDA.jpg",
+   "date": "2026-11-21T20:44:40+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Ødegaard-tabbe i Arsenal-smell: – Grusom feil",
+   "source": "NRK",
+   "summary": "Etter en landslagspause av de sjeldne fikk Martin Ødegaard en turbulent retur til Premier League. En «ukarakteristisk» tabbe fikk ekspertene til å reagere.",
+   "img": "https://gfx.nrk.no/oOUtUr-PSABDQfPfBnZyMwl396prKRls1uvBbvGx7q8g.jpg",
+   "date": "2026-11-21T19:27:21+00:00"
   },
   {
    "tag": "Norge",
@@ -402,36 +432,6 @@
    "summary": "Black week og julehandelen på nett er i full gang, men for mange unge sitter returen langt inne. Vet du hvilke rettigheter du har ved netthandling?",
    "img": "https://gfx.nrk.no/BkGZ-UAMAEGvza_ipqrmgADO0_UXwu8FPxj77Wu1BCUg.jpg",
    "date": "2026-11-21T15:46:29+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Finner ikke rett billett på nettsidene til kystrute-rederiene: – De må skjerpe seg",
-   "source": "NRK",
-   "summary": "Stadig færre lokalreisende tar kystruten mellom Bergen og Kirkenes. Kan det ha noe å gjøre med hvordan disse reisene markedsføres på nettsidene?",
-   "img": "https://gfx.nrk.no/jsXciw_Wz69yXe9yT05YVwr9OUnawvk33CcHBSKcTNEw.jpg",
-   "date": "2026-11-21T15:29:25+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Sår tvil om Viking-gull: – Sjansene er små",
-   "source": "NRK",
-   "summary": "Viking kunne tatt tilbake tabelltoppen, men ble senket av Tromsø. Nå erkjenner Zlatko Tripic at de regjerende seriemesterne har satt seg selv i en vanskelig situasjon.",
-   "img": "https://gfx.nrk.no/iufyXiK83ZSdYT1jNUpD5QYsDJvlnGN8vxGv_Lh6q2hQ.jpg",
-   "date": "2026-11-21T14:54:33+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "ID-porten hadde problemer etter dataangrep",
-   "source": "NRK",
-   "summary": "Innloggingstjenesten ID-porten hadde lørdag problemer etter å ha blitt rammet av et DDOS-angrep. Klokken 17.15 skriver nyhetsbyrået NTB at innloggingsportalen er oppe og går igjen. Problemene oppsto rundt klokken 13.15, opplyste Digitaliseringsdirektoratet til",
-   "img": "https://gfx.nrk.no/3YQNSHWoO3H4CvSL6Tvb8Q9Kp8Bg_0jTIEaZiRLfB6FA.jpg",
-   "date": "2026-11-21T13:47:26+00:00"
   }
  ]
 }
