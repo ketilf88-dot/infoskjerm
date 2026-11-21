@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:26:42.017122+00:00",
+ "updated": "2026-11-21T17:42:14.386370+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -357,6 +357,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Advarer etter flere ulykker på glatta",
+   "source": "NRK Trøndelag",
+   "summary": "Glatte veier har ført til trafikkulykker flere steder i landet. Nå ber Vegtrafikksentralen bilister om å senke farten og kjøre etter forholdene.",
+   "img": "",
+   "date": "2026-11-21T16:05:12+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "GTA-kontrakten fritek Daniel frå kjeft og husarbeid: – Han skal få ti dagar fri",
    "source": "NRK Trøndelag",
    "summary": "Daniel og Maria har signert ein kontrakt som lar han sleppe unna pliktene heime dei neste ti dagane. Kan vere ei god løysing for enkelte, seier parterapeuten.",
@@ -384,44 +394,44 @@
    "date": "2026-11-20T15:41:30+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Vurderer ekstraordinære tiltak på ny E6",
-   "source": "NRK Trøndelag",
-   "summary": "Nye Veier ser svært alvorlig på flere trafikkfarlige hendelser på nyåpnet E6.",
-   "img": "",
-   "date": "2026-11-20T15:03:37+00:00"
+   "title": "Aileen (22) orker ikke å returnere bomkjøp på nett: – Er aldri verdt den lange prosessen",
+   "source": "NRK",
+   "summary": "Black week og julehandelen på nett er i full gang, men for mange unge sitter returen langt inne. Vet du hvilke rettigheter du har ved netthandling?",
+   "img": "https://gfx.nrk.no/BkGZ-UAMAEGvza_ipqrmgADO0_UXwu8FPxj77Wu1BCUg.jpg",
+   "date": "2026-11-21T15:46:29+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Verdensmesteren fikk utdrikningslaget avslørt av NRK: – Fikk meg en god hakeslepp",
+   "title": "Finner ikke rett billett på nettsidene til kystrute-rederiene: – De må skjerpe seg",
    "source": "NRK",
-   "summary": "Tobias Foss trodde han skulle feire mormorens 80-årsdag. I stedet ventet et utdrikningslag og en langrennssprint på Beitostølen.",
-   "img": "https://gfx.nrk.no/Spo41FLVBrIWyiSKl39AJQ2I5TeJx_WzIJ3YiZOp-Slw.jpg",
-   "date": "2026-11-21T10:14:30+00:00"
+   "summary": "Stadig færre lokalreisende tar kystruten mellom Bergen og Kirkenes. Kan det ha noe å gjøre med hvordan disse reisene markedsføres på nettsidene?",
+   "img": "https://gfx.nrk.no/jsXciw_Wz69yXe9yT05YVwr9OUnawvk33CcHBSKcTNEw.jpg",
+   "date": "2026-11-21T15:29:25+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Om høsten blir potene til Mila (5) røde og såre",
+   "title": "Sår tvil om Viking-gull: – Sjansene er små",
    "source": "NRK",
-   "summary": "Regn og fuktig vær kan føre til soppinfeksjon på såre hundepoter. Veterinærer råder hundeeiere til å passe på.",
-   "img": "https://gfx.nrk.no/gvHsqO4bBg9eOk0StYC_DAznpcbB-mDNIP1sqfi1f4PA.jpg",
-   "date": "2026-11-21T08:00:05+00:00"
+   "summary": "Viking kunne tatt tilbake tabelltoppen, men ble senket av Tromsø. Nå erkjenner Zlatko Tripic at de regjerende seriemesterne har satt seg selv i en vanskelig situasjon.",
+   "img": "https://gfx.nrk.no/iufyXiK83ZSdYT1jNUpD5QYsDJvlnGN8vxGv_Lh6q2hQ.jpg",
+   "date": "2026-11-21T14:54:33+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Exit for Udnes Weng etter fall: – Skjebnesvangert",
+   "title": "ID-porten hadde problemer etter dataangrep",
    "source": "NRK",
-   "summary": "Lotta Udnes Weng med fall i sprintprologen. Det kan være kritisk for den kommende vinteren.",
-   "img": "https://gfx.nrk.no/sS1dU1xcXl1y_b8kY5NJnQXiSDyuCjPDk32fX5Ua_CWg.jpg",
-   "date": "2026-11-21T08:50:22+00:00"
+   "summary": "Innloggingstjenesten ID-porten hadde lørdag problemer etter å ha blitt rammet av et DDOS-angrep. Klokken 17.15 skriver nyhetsbyrået NTB at innloggingsportalen er oppe og går igjen. Problemene oppsto rundt klokken 13.15, opplyste Digitaliseringsdirektoratet til",
+   "img": "https://gfx.nrk.no/3YQNSHWoO3H4CvSL6Tvb8Q9Kp8Bg_0jTIEaZiRLfB6FA.jpg",
+   "date": "2026-11-21T13:47:26+00:00"
   }
  ]
 }
