@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:47:07.254747+00:00",
+ "updated": "2026-11-22T22:57:51.374326+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -357,6 +357,16 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Mann pågrepet etter trusselsituasjon i Oppdal",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet rykket ut flere ganger til samme adresse i Oppdal søndag. Noen timer senere endte det med en pågripelse.",
+   "img": "",
+   "date": "2026-11-22T20:15:11+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Marianne fekk ME kort tid etter ho tok koronavaksinen – har saksøkt staten",
    "source": "NRK Trøndelag",
    "summary": "Marianne Torp Foss fekk påvist sjukdommen ME kort tid etter at ho fekk andre dose av koronavaksinen og saksøkte staten.",
@@ -384,22 +394,22 @@
    "date": "2026-11-21T18:21:42+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Advarer etter flere ulykker på glatta",
-   "source": "NRK Trøndelag",
-   "summary": "Glatte veier har ført til trafikkulykker flere steder i landet. Nå ber Vegtrafikksentralen bilister om å senke farten og kjøre etter forholdene.",
-   "img": "",
-   "date": "2026-11-21T16:05:12+00:00"
+   "title": "Krev lovendring etter Brennpunkt-dokumentar",
+   "source": "NRK",
+   "summary": "Ingen har oversikt over kven som tilbyr botox og fillers i Noreg. No vil Høgre og SV stramme inn reglane etter mønster frå Sverige og Danmark.",
+   "img": "https://gfx.nrk.no/pRmRsXN0H8l_iD_e0-_gIAA_8QZ_Qab4ZyxsOvEeBdLg.jpg",
+   "date": "2026-11-22T18:19:52+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Marerittstart for Pochettino: – Kunne ikke blitt verre",
+   "title": "Kritikken hagler etter marerittdebut: – Europas verste forsvar",
    "source": "NRK",
-   "summary": "Etter bare 13 minutter mot erkerivalen Liverpool hadde Mauricio Pochettino sett laget sitt slippe inn to mål og få en spiller utvist.",
+   "summary": "Etter bare 13 minutter mot erkerivalen Liverpool hadde Mauricio Pochettino sett laget sitt slippe inn to mål og få en spiller utvist. Og verre skulle det bli.",
    "img": "https://gfx.nrk.no/pcxuDkuKat2-bR-6kh6wZA0Pu0DrsfaMRX11CRhz8qpA.jpg",
    "date": "2026-11-22T16:54:06+00:00"
   },
@@ -407,7 +417,7 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Vegvesenet brukte over 50 millioner på reinbru: Reineier nekter å bruke den",
+   "title": "Vegvesenet brukte over 50 millioner på reintiltak: Reineier nekter å bruke den",
    "source": "NRK",
    "summary": "Nord-Norges største samferdselsprosjekt går rett gjennom et reinbeiteområde. Derfor har vegvesenet brukt millioner på tiltak. – Går ikke an å bruke, sier reineier.",
    "img": "https://gfx.nrk.no/DZB2XKDaGjSWW_7ORqpOqA8G_qd2VjOeBhSPJ1oaFL-Q.jpg",
