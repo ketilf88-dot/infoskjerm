@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:00:19.790901+00:00",
+ "updated": "2026-11-22T17:47:07.254747+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -277,21 +277,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T14:22:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Vår Energi expands SLB Norway support role to integrated drilling services",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
    "date": "2026-11-17T03:21:29+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "TechnipFMC Awarded Subsea Contracts for ExxonMobil Guyana’s Longtail Project",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-19T21:15:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -357,7 +357,17 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Emil (10) debuterer som barnebokforfatter",
+   "title": "Marianne fekk ME kort tid etter ho tok koronavaksinen – har saksøkt staten",
+   "source": "NRK Trøndelag",
+   "summary": "Marianne Torp Foss fekk påvist sjukdommen ME kort tid etter at ho fekk andre dose av koronavaksinen og saksøkte staten.",
+   "img": "",
+   "date": "2026-11-22T12:58:14+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Emil (10) vil snu lesetrenden blant gutter med egen bok",
    "source": "NRK Trøndelag",
    "summary": "Nå håper han at boka kan bidra til å øke leselysten blant unge gutter.",
    "img": "",
@@ -384,54 +394,34 @@
    "date": "2026-11-21T16:05:12+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "GTA-kontrakten fritek Daniel frå kjeft og husarbeid: – Han skal få ti dagar fri",
-   "source": "NRK Trøndelag",
-   "summary": "Daniel og Maria har signert ein kontrakt som lar han sleppe unna pliktene heime dei neste ti dagane. Kan vere ei god løysing for enkelte, seier parterapeuten.",
-   "img": "",
-   "date": "2026-11-21T09:36:20+00:00"
+   "title": "Marerittstart for Pochettino: – Kunne ikke blitt verre",
+   "source": "NRK",
+   "summary": "Etter bare 13 minutter mot erkerivalen Liverpool hadde Mauricio Pochettino sett laget sitt slippe inn to mål og få en spiller utvist.",
+   "img": "https://gfx.nrk.no/pcxuDkuKat2-bR-6kh6wZA0Pu0DrsfaMRX11CRhz8qpA.jpg",
+   "date": "2026-11-22T16:54:06+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kong Haakon er på plass: I dag blir Tor Magne Nesvik Stavangers nye biskop",
+   "title": "Vegvesenet brukte over 50 millioner på reinbru: Reineier nekter å bruke den",
    "source": "NRK",
-   "summary": "I dag tar Tor Magne Nesvik formelt over stafettpinnen som biskop i Stavanger bispedømme, med Kong Haakon på benkeraden.",
-   "img": "https://gfx.nrk.no/-vMBoXrwpdFPp7Gr-R0W6QxMZrD0pW6h8I-TjCDjqNfQ.jpg",
-   "date": "2026-11-22T08:59:54+00:00"
+   "summary": "Nord-Norges største samferdselsprosjekt går rett gjennom et reinbeiteområde. Derfor har vegvesenet brukt millioner på tiltak. – Går ikke an å bruke, sier reineier.",
+   "img": "https://gfx.nrk.no/DZB2XKDaGjSWW_7ORqpOqA8G_qd2VjOeBhSPJ1oaFL-Q.jpg",
+   "date": "2026-11-22T15:28:42+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Såpeglatte vegar: – I dag kan vere ein fin dag å heller spele GTA",
+   "title": "Én siktet for drapsforsøk i Arendal",
    "source": "NRK",
-   "summary": "Politiet og Vegtrafikksentralen har fått inn bøttevis med meldingar om glatte vegar i Møre og Romsdal i morgontimane søndag. – Ekstremt utfordrande på vegane, seier Vegtrafikksentralen.",
-   "img": "https://gfx.nrk.no/ShCVFa7AItvg4p5o4TWzzw8jvakEM793XX_CoxO-rOsg.jpg",
-   "date": "2026-11-22T08:01:05+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Tusenvis av nordmenn har sykdommen: – Jeg følte meg veldig alene",
-   "source": "NRK",
-   "summary": "Da Karoline Grøtting (25) fikk diagnosen «eilo» av legen, følte hun seg alene. Men sykdommen rammer flere enn hun trodde.",
-   "img": "https://gfx.nrk.no/SNUkSzi8IDlZvcVLNvrZiQng8n_wYfrjxKt4NUdD08ng.jpg",
-   "date": "2026-11-22T06:50:44+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Selvik reddet straffe på overtid da Brest vant igjen",
-   "source": "NRK",
-   "summary": "Egil Selvik fortsetter å storspille i Brest-målet. Lørdag sikret han 1-0-seier borte mot Strasbourg ved å redde straffespark fem minutter på overtid. Sraffen ble dømt etter en VAR-gjennomgang av en situasjon der ballen traff armen til Brest-spiller Mama Baldé,",
-   "img": "https://gfx.nrk.no/WiydKYdp20_RVVZ8O6MBfgB1aA-INfrWuker6TQxmjAw.jpg",
-   "date": "2026-11-21T22:42:13+00:00"
+   "summary": "To menn er pågrepet, én siktet for drapsforsøk etter et slagsmål i Arendal sentrum natt til søndag.",
+   "img": "https://static.nrk.no/kartoteket/01M81XVAB8E7TKNC93Q00E0RCP/F169/650w.png",
+   "date": "2026-11-22T15:12:05+00:00"
   }
  ]
 }
