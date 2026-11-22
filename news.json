@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:25:59.708614+00:00",
+ "updated": "2026-11-22T10:00:19.790901+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -314,16 +314,6 @@
    "date": "2026-11-19T00:47:31+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TechnipFMC Keeps DOF's Skandi Africa Subsea Vessel on Contract",
-   "source": "Marine News Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T10:40:54+00:00"
-  },
-  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -332,6 +322,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-20T09:03:40+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "TechnipFMC Keeps DOF's Skandi Africa Subsea Vessel on Contract",
+   "source": "Marine News Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T10:40:54+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -352,6 +352,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-17T17:42:07+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Emil (10) debuterer som barnebokforfatter",
+   "source": "NRK Trøndelag",
+   "summary": "Nå håper han at boka kan bidra til å øke leselysten blant unge gutter.",
+   "img": "",
+   "date": "2026-11-22T09:43:22+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -384,14 +394,34 @@
    "date": "2026-11-21T09:36:20+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Gammel vikinggrav skjulte en overraskelse",
-   "source": "NRK Trøndelag",
-   "summary": "Ny forskning om viking-gravfunn kan utfordre bildet av hva folk i Midt-Norge drev med for nesten 1300 år siden.",
-   "img": "",
-   "date": "2026-11-20T19:16:19+00:00"
+   "title": "Kong Haakon er på plass: I dag blir Tor Magne Nesvik Stavangers nye biskop",
+   "source": "NRK",
+   "summary": "I dag tar Tor Magne Nesvik formelt over stafettpinnen som biskop i Stavanger bispedømme, med Kong Haakon på benkeraden.",
+   "img": "https://gfx.nrk.no/-vMBoXrwpdFPp7Gr-R0W6QxMZrD0pW6h8I-TjCDjqNfQ.jpg",
+   "date": "2026-11-22T08:59:54+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Såpeglatte vegar: – I dag kan vere ein fin dag å heller spele GTA",
+   "source": "NRK",
+   "summary": "Politiet og Vegtrafikksentralen har fått inn bøttevis med meldingar om glatte vegar i Møre og Romsdal i morgontimane søndag. – Ekstremt utfordrande på vegane, seier Vegtrafikksentralen.",
+   "img": "https://gfx.nrk.no/ShCVFa7AItvg4p5o4TWzzw8jvakEM793XX_CoxO-rOsg.jpg",
+   "date": "2026-11-22T08:01:05+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Tusenvis av nordmenn har sykdommen: – Jeg følte meg veldig alene",
+   "source": "NRK",
+   "summary": "Da Karoline Grøtting (25) fikk diagnosen «eilo» av legen, følte hun seg alene. Men sykdommen rammer flere enn hun trodde.",
+   "img": "https://gfx.nrk.no/SNUkSzi8IDlZvcVLNvrZiQng8n_wYfrjxKt4NUdD08ng.jpg",
+   "date": "2026-11-22T06:50:44+00:00"
   },
   {
    "tag": "Norge",
@@ -402,36 +432,6 @@
    "summary": "Egil Selvik fortsetter å storspille i Brest-målet. Lørdag sikret han 1-0-seier borte mot Strasbourg ved å redde straffespark fem minutter på overtid. Sraffen ble dømt etter en VAR-gjennomgang av en situasjon der ballen traff armen til Brest-spiller Mama Baldé,",
    "img": "https://gfx.nrk.no/WiydKYdp20_RVVZ8O6MBfgB1aA-INfrWuker6TQxmjAw.jpg",
    "date": "2026-11-21T22:42:13+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Måtte betale 300.000 etter tabbe frå nettselskap",
-   "source": "NRK",
-   "summary": "Elektrisk utstyr for fleire millionar kroner blei øydelagt etter at nettselskapet Fagne ved ein feil sende 400 volt ut på straumnettet. Kundane fortviler over måten dei blir behandla på.",
-   "img": "https://gfx.nrk.no/haMPYMTLJaPU34p1kup_Qg76QyKnteRjbE8tXa9emagQ.jpg",
-   "date": "2026-11-21T21:08:15+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Klubben i total krise: – Ingen ønsker å bidra",
-   "source": "NRK",
-   "summary": "Spelarar og tilsette står på kanten av eit stup. Ingen veit kva som vil skje med ein av Noregs mest tradisjonsrike klubbar.",
-   "img": "https://gfx.nrk.no/st9HF1_kQp7DZdUOSaMRKQj8ze0a-MiFMGkHmT5ZEeDA.jpg",
-   "date": "2026-11-21T20:44:40+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Ødegaard-tabbe i Arsenal-smell: – Grusom feil",
-   "source": "NRK",
-   "summary": "Etter en landslagspause av de sjeldne fikk Martin Ødegaard en turbulent retur til Premier League. En «ukarakteristisk» tabbe fikk ekspertene til å reagere.",
-   "img": "https://gfx.nrk.no/oOUtUr-PSABDQfPfBnZyMwl396prKRls1uvBbvGx7q8g.jpg",
-   "date": "2026-11-21T19:27:21+00:00"
   }
  ]
 }
