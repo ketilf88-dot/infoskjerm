@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:23:42.586154+00:00",
+ "updated": "2026-11-22T02:25:59.708614+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -294,14 +294,14 @@
    "date": "2026-11-19T21:15:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Saipem says 2027 guidance does not include Middle East cost recovery",
-   "source": "Reuters",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "VodafoneThree mulls UK–Norway subsea cable",
+   "source": "Total Telecom",
    "summary": "",
    "img": "",
-   "date": "2026-11-19T10:03:26+00:00"
+   "date": "2026-11-20T06:49:04+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -397,6 +397,16 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Selvik reddet straffe på overtid da Brest vant igjen",
+   "source": "NRK",
+   "summary": "Egil Selvik fortsetter å storspille i Brest-målet. Lørdag sikret han 1-0-seier borte mot Strasbourg ved å redde straffespark fem minutter på overtid. Sraffen ble dømt etter en VAR-gjennomgang av en situasjon der ballen traff armen til Brest-spiller Mama Baldé,",
+   "img": "https://gfx.nrk.no/WiydKYdp20_RVVZ8O6MBfgB1aA-INfrWuker6TQxmjAw.jpg",
+   "date": "2026-11-21T22:42:13+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Måtte betale 300.000 etter tabbe frå nettselskap",
    "source": "NRK",
    "summary": "Elektrisk utstyr for fleire millionar kroner blei øydelagt etter at nettselskapet Fagne ved ein feil sende 400 volt ut på straumnettet. Kundane fortviler over måten dei blir behandla på.",
@@ -422,16 +432,6 @@
    "summary": "Etter en landslagspause av de sjeldne fikk Martin Ødegaard en turbulent retur til Premier League. En «ukarakteristisk» tabbe fikk ekspertene til å reagere.",
    "img": "https://gfx.nrk.no/oOUtUr-PSABDQfPfBnZyMwl396prKRls1uvBbvGx7q8g.jpg",
    "date": "2026-11-21T19:27:21+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Aileen (22) orker ikke å returnere bomkjøp på nett: – Er aldri verdt den lange prosessen",
-   "source": "NRK",
-   "summary": "Black week og julehandelen på nett er i full gang, men for mange unge sitter returen langt inne. Vet du hvilke rettigheter du har ved netthandling?",
-   "img": "https://gfx.nrk.no/BkGZ-UAMAEGvza_ipqrmgADO0_UXwu8FPxj77Wu1BCUg.jpg",
-   "date": "2026-11-21T15:46:29+00:00"
   }
  ]
 }
