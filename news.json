@@ -1,8 +1,48 @@
 {
- "updated": "2026-11-23T03:29:33.533260+00:00",
+ "updated": "2026-11-23T13:30:03.416118+00:00",
  "sources": 8,
  "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Aker Solutions receives a letter of award",
+   "source": "Aker Solutions ASA",
+   "summary": "23 November, 2026 - Aker Solutions has received a letter of award for a substantial1 contract with an undisclosed client in the oil and gas sector.",
+   "img": "",
+   "date": "2026-11-23T09:03:41.312Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Major Holdings Notification",
+   "source": "Borr Drilling Limited",
+   "summary": "Please see attachment on www.newsweb.no",
+   "img": "",
+   "date": "2026-11-23T07:52:19.995Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Vår Energi to acquire ConocoPhillips' Norwegian business, and related UK infrastructure, strengthening its position as Europe's largest independent E&P company",
+   "source": "Vår Energi ASA",
+   "summary": "Sandnes, Norway, 23 November 2026: Vår Energi ASA (OSE: VAR, \"Vår Energi\", \"the Company\") has entered into an agreement (the \"Transaction\") to acquire ConocoPhillips' Norwegian upstream business and related infrastructure interests in Norway and the United …",
+   "img": "",
+   "date": "2026-11-23T06:29:13.330Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 23, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") has received notification of a transaction in its securities related to Mr.",
+   "img": "",
+   "date": "2026-11-23T05:15:00.000Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -47,21 +87,51 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Borr Drilling Limited - Q3 2026 Presentation",
+   "title": "Borr Drilling Limited - Filing of Interim Financial Report on Form 6-K",
    "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 19, 2026 - Please find enclosed the presentation of Borr Drilling Limited's financial results for the three and nine months ended September 30, 2026 to be held on the webcast/conference call at 09:00 New York time (15:00 CET) on …",
+   "summary": "Hamilton, Bermuda, November 19, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") today filed its unaudited interim financial report on Form 6-K for the three and nine months ended September 30, 2026 with the U.S.",
    "img": "",
-   "date": "2026-11-19T13:40:14.849Z"
+   "date": "2026-11-19T13:20:42.286Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Havila Shipping ASA: Regnskap for tredje kvartal 2026",
-   "source": "Havila Shipping ASA",
-   "summary": "Sammendrag * Fraktinntektene var NOK 139,7 million i 3. kvartal 2026, en reduksjon på NOK 9,6 million i forhold til tilsvarende periode i fjor og omtrent på samme nivå som forrige kvartal.",
-   "img": "",
-   "date": "2026-11-18T13:41:34.914Z"
+   "title": "Mermaid reveals new framework targeting major savings on North Sea decom campaigns",
+   "source": "Offshore Energy",
+   "summary": "Mermaid has unveiled a new North Sea decommissioning framework that could cut costs and execution time through shared campaigns.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784743361203-1600x1067-800x533.png?prefix=media",
+   "date": "2026-11-23T13:10:32+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "€2.8 billion UK-Germany energy link continues to take shape as nearshore cabling works begin on German coast",
+   "source": "Offshore Energy",
+   "summary": "Prysmian has started laying 30 kilometers of nearshore cabling at Wilhelmshaven, advancing the 725-kilometer UK-Germany electricity interconnector.",
+   "img": "https://www.offshore-energy.biz/api/media/file/NeuConnect-800x450.png?prefix=media",
+   "date": "2026-11-23T11:15:32+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+   "source": "Offshore Energy",
+   "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
+   "img": "https://www.offshore-energy.biz/api/media/file/9dd458dfb888e804_org-800x682.jpg?prefix=media",
+   "date": "2026-11-23T08:39:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
+   "source": "Offshore Energy",
+   "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784785219619-1024x719-800x562.png?prefix=media",
+   "date": "2026-11-23T07:52:08+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -102,46 +172,6 @@
    "summary": "Nexans has completed the laying and trenching of the high-voltage dynamic cable for Chevron's Jansz-Io Compression (J-IC) project offshore...",
    "img": "https://www.offshore-energy.biz/api/media/file/Nexans%20completes%20deep-water%20cable%20laying%20ops%20off%20Australia%20for%20Chevron-800x548.jpg?prefix=media",
    "date": "2026-11-20T12:22:36+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Cyberattack against Equinor is over with no data breach or impact on production",
-   "source": "Offshore Energy",
-   "summary": "Equinor has brought a cyberattack against its systems to a halt without any reported disruption to production.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FEquinor-1-1600x900-800x450.png?prefix=media",
-   "date": "2026-11-20T12:04:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Türkiye's seismic vessel exploring Pakistan's oil & gas potential in its second overseas mission",
-   "source": "Offshore Energy",
-   "summary": "Türkiye's national seismic research vessel has embarked on its second overseas operation, having arrived in Pakistan where it will be deployed to...",
-   "img": "https://www.offshore-energy.biz/api/media/file/T%C3%BCrkiye%27s%20seismic%20vessel%20exploring%20Pakistan%27s%20oil%20%26%20gas%20potential%20in%20its%20second%20overseas%20mission-760x500.png?prefix=media",
-   "date": "2026-11-20T09:59:50+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Europe sends mixed signals on fossil fuels: Norway's climate ruling raises the stakes as EU postpones methane rules",
-   "source": "Offshore Energy",
-   "summary": "Europe's fossil fuel policy dilemma: Norway’s ruling challenges oil & gas industry over climate impact as EU grants two-year methane reprieve.",
-   "img": "https://www.offshore-energy.biz/api/media/file/cdn.equinor-800x600.png?prefix=media",
-   "date": "2026-11-20T09:20:44+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "TechnipFMC scores double offshore Guyana",
-   "source": "Offshore Energy",
-   "summary": "TechnipFMC has won a contract worth between $500 million and $1 billion to deliver subsea production systems for ExxonMobil's recently sanctioned...",
-   "img": "https://www.offshore-energy.biz/api/media/file/TechnipFMC-800x618.jpg?prefix=media",
-   "date": "2026-11-20T08:06:59+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -224,44 +254,44 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Subsea 7 seeks buyer for pipelay vessel ahead of Saipem merger",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Kansai Electric takes 40% stake in Polish offshore wind project",
    "source": "Splash247",
-   "summary": "Norwegian offshore engineering contractor Subsea 7 has begun identifying a buyer for its pipelay and heavy-lift vessel Seven Borealis, which it must divest as part of its planned merger with Saipem. The company confirmed the move in its third-quarter results, ",
-   "img": "https://splash247.com/wp-content/uploads/2015/07/Subsea-7-Seven-Borealis.jpeg",
-   "date": "2026-11-20T12:00:00+00:00"
+   "summary": "Japan’s Kansai Electric Power has agreed to acquire a 40% interest in Ocean Winds’ 390 MW BC-Wind offshore wind development in Poland, marking its first investment in the country. The Japanese utility signed a share purchase agreement with Ocean Winds on Novem",
+   "img": "https://splash247.com/wp-content/uploads/2023/07/Ocean-Winds.jpg",
+   "date": "2026-11-23T12:02:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Seaway 7 lines up vessel trio for Scottish offshore wind project",
+   "title": "Arabian Drilling picks up $400m in long-term offshore work",
    "source": "Splash247",
-   "summary": "Offshore construction contractor Seaway 7 is preparing to deploy three vessels on SSE Renewables’ proposed 1.4GW Berwick Bank B offshore wind development in Scotland. The planned installation fleet comprises the Seaway Alfa Lift, Seaway Strashnov, and Seaway P",
-   "img": "https://splash247.com/wp-content/uploads/2026/10/Seaway-Phoenix-Seaway-7.jpg",
-   "date": "2026-11-20T11:00:00+00:00"
+   "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement replaces existing contracts covering two off",
+   "img": "https://splash247.com/wp-content/uploads/2025/07/Arabian-Drilling-generic.jpg",
+   "date": "2026-11-23T11:00:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Scotland greenlights 1 GW floating offshore wind project",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 2,
+   "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
    "source": "Splash247",
-   "summary": "The Scottish Government has granted offshore planning consent for the 1GW Muir Mhòr floating wind farm being developed by Fred. Olsen Seawind off the Aberdeenshire coast. Located approximately 63 km east of Peterhead, the project will comprise up to 67 floatin",
-   "img": "https://splash247.com/wp-content/uploads/2023/08/Ingka-floating-wind.jpg",
-   "date": "2026-11-20T10:00:00+00:00"
+   "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the same block. The investment decision, forma",
+   "img": "https://splash247.com/wp-content/uploads/2024/10/ExxonMobil-worker.jpg",
+   "date": "2026-11-23T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 2,
-   "title": "Hunter makes offshore move with Jacktel buyout offer",
+   "title": "Hunter seals $168m Jacktel takeover",
    "source": "Splash247",
-   "summary": "Oslo-listed Hunter Group has launched a NOK1.63bn ($168m) takeover bid for Norwegian offshore accommodation player Jacktel, looking to put its windfall from lucrative VLCC charter contracts into a longer-term business. The Erik Mathiesen-led investment company",
-   "img": "https://splash247.com/wp-content/uploads/2022/09/Jacktel-Haven.jpg",
-   "date": "2026-11-20T08:25:49+00:00"
+   "summary": "Norway’s Hunter Group has secured control of offshore accommodation rig owner Jacktel after winning acceptances for more than 91% of the company’s shares in a NOK1.63bn ($168m) takeover. The Morten Astrup-backed investment company confirmed on Monday that all ",
+   "img": "https://splash247.com/wp-content/uploads/2019/09/Jacktel-Haven.jpg",
+   "date": "2026-11-23T09:30:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -292,6 +322,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-17T03:21:29+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Europe sends mixed signals on fossil fuels: Norway's climate ruling raises the stakes as EU postpones methane rules",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-20T09:20:44+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -357,6 +397,36 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
+   "title": "Fant cannabisfrø i bilen – endte med ransakelse av sjåførens bolig",
+   "source": "NRK Trøndelag",
+   "summary": "En rutinekontroll hos Tolletaten førte til at politiet avdekket en cannabisplantasje i boligen til sjåføren. Nå er mannen fra Trøndelag siktet for grov narkotikaovertredelse.",
+   "img": "",
+   "date": "2026-11-23T12:02:05+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Mathilde (22) hadde lenge planen klar – nå tør hun ikke satse på drømmen",
+   "source": "NRK Trøndelag",
+   "summary": "­",
+   "img": "",
+   "date": "2026-11-23T09:30:15+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Sju leiligheter fikk sotskader etter røykutvikling i blokk i Trondheim",
+   "source": "NRK Trøndelag",
+   "summary": "Ingen ble skadd, men tolv personer kunne ikke overnatte i leilighetene sine etter røykutvikling i kjelleren i ei boligblokk i Trondheim i natt.",
+   "img": "",
+   "date": "2026-11-23T07:24:22+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
    "title": "Mann pågrepet etter trusselsituasjon i Oppdal",
    "source": "NRK Trøndelag",
    "summary": "Politiet rykket ut flere ganger til samme adresse i Oppdal søndag. Noen timer senere endte det med en pågripelse.",
@@ -364,74 +434,34 @@
    "date": "2026-11-22T20:15:11+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Marianne fekk ME kort tid etter ho tok koronavaksinen – har saksøkt staten",
-   "source": "NRK Trøndelag",
-   "summary": "Marianne Torp Foss fekk påvist sjukdommen ME kort tid etter at ho fekk andre dose av koronavaksinen og saksøkte staten.",
-   "img": "",
-   "date": "2026-11-22T12:58:14+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Emil (10) vil snu lesetrenden blant gutter med egen bok",
-   "source": "NRK Trøndelag",
-   "summary": "Nå håper han at boka kan bidra til å øke leselysten blant unge gutter.",
-   "img": "",
-   "date": "2026-11-22T09:43:22+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Åge Aleksandersen ble hedret",
-   "source": "NRK Trøndelag",
-   "summary": "Det var en preget musiker som mottok dekorasjonen fra Hans Majestet Kongen lørdag ettermiddag.",
-   "img": "",
-   "date": "2026-11-21T18:21:42+00:00"
+   "title": "Full furore etter at julelys blei vinterlys: – Tatt ut av kontekst",
+   "source": "NRK",
+   "summary": "Overskrifta frå Surnadal fekk reaksjonar landet rundt: – Altfor mange misforstår, og har lyst til å kaste seg inn i debatten, seier redaktøren.",
+   "img": "https://gfx.nrk.no/7ilko6nOrPaSAUyCnxbVqAW9wyuwsLR-PxYfEjbbV5tw.jpg",
+   "date": "2026-11-23T12:04:02+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Krev lovendring etter Brennpunkt-dokumentar",
+   "title": "Politi aksjonerte mot ungdommer i Harstad - mann i varetekt for å rekruttere til voldsoppdrag",
    "source": "NRK",
-   "summary": "Ingen har oversikt over kven som tilbyr botox og fillers i Noreg. No vil Høgre og SV stramme inn reglane etter mønster frå Sverige og Danmark.",
-   "img": "https://gfx.nrk.no/pRmRsXN0H8l_iD_e0-_gIAA_8QZ_Qab4ZyxsOvEeBdLg.jpg",
-   "date": "2026-11-22T18:19:52+00:00"
+   "summary": "Politiet har mottatt flere tips om bevæpning i miljøet, i form av kniver og airsoft-pistoler. En person er siktet og politiet har opprettet flere straffesaker.",
+   "img": "https://gfx.nrk.no/F3Jly0BZWdkcZZGYdsz-lwLxSHEhFaKad9yQeuqUvYyA.jpg",
+   "date": "2026-11-23T09:11:32+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Kritikken hagler etter marerittdebut: – Europas verste forsvar",
+   "title": "Erkjenner delvis skyld for drapet på Asbjørn Lanes (80) på sykehjemmet i Lyngen",
    "source": "NRK",
-   "summary": "Etter bare 13 minutter mot erkerivalen Liverpool hadde Mauricio Pochettino sett laget sitt slippe inn to mål og få en spiller utvist. Og verre skulle det bli.",
-   "img": "https://gfx.nrk.no/pcxuDkuKat2-bR-6kh6wZA0Pu0DrsfaMRX11CRhz8qpA.jpg",
-   "date": "2026-11-22T16:54:06+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Vegvesenet brukte over 50 millioner på reintiltak: Reineier nekter å bruke den",
-   "source": "NRK",
-   "summary": "Nord-Norges største samferdselsprosjekt går rett gjennom et reinbeiteområde. Derfor har vegvesenet brukt millioner på tiltak. – Går ikke an å bruke, sier reineier.",
-   "img": "https://gfx.nrk.no/DZB2XKDaGjSWW_7ORqpOqA8G_qd2VjOeBhSPJ1oaFL-Q.jpg",
-   "date": "2026-11-22T15:28:42+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Én siktet for drapsforsøk i Arendal",
-   "source": "NRK",
-   "summary": "To menn er pågrepet, én siktet for drapsforsøk etter et slagsmål i Arendal sentrum natt til søndag.",
-   "img": "https://static.nrk.no/kartoteket/01M81XVAB8E7TKNC93Q00E0RCP/F169/650w.png",
-   "date": "2026-11-22T15:12:05+00:00"
+   "summary": "En mann i 50-årene står mandag tiltalt i tingretten etter sykehjemsdrapet i Lyngen i november 2025. Han forteller om perioder med depresjon.",
+   "img": "https://gfx.nrk.no/rvNFSfYALlXJi8jlni3YZwOxqSne3BDhyFPPaEXPyg0w.jpg",
+   "date": "2026-11-23T08:15:14+00:00"
   }
  ]
 }
