@@ -1,7 +1,10 @@
 {
- "updated": "2026-11-23T13:30:03.416118+00:00",
+ "updated": "2026-11-24T01:08:52.064578+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Subsea Norden",
+  "Subsea Afrika"
+ ],
  "items": [
   {
    "tag": "Oslo Børs",
@@ -97,6 +100,36 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
+   "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+   "source": "Offshore Energy",
+   "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
+   "img": "https://www.offshore-energy.biz/api/media/file/9dd458dfb888e804_org-800x682.jpg?prefix=media",
+   "date": "2026-11-23T15:10:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "First well hits target depth offshore Oman as operator gets ready for next one",
+   "source": "Offshore Energy",
+   "summary": "Masirah Oil has reached target depth at the first well in its drilling campaign offshore Oman and will proceed with the move to the second well.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Block%2050%20position%20in%20east%20coast%20of%20Oman%20Source%20Masirah%20Oil-1-800x533.jpg?prefix=media",
+   "date": "2026-11-23T14:46:08+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Oil & gas player books Aker Solutions on assignment worth up to $409 million",
+   "source": "Offshore Energy",
+   "summary": "Aker Solutions has received a letter of award (LOA) for a new job with an undisclosed oil and gas company.",
+   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Foffshore_maintenance_modifications_Aker_2520Solutions-1600x900-800x450.png?prefix=media",
+   "date": "2026-11-23T13:54:15+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
    "title": "Mermaid reveals new framework targeting major savings on North Sea decom campaigns",
    "source": "Offshore Energy",
    "summary": "Mermaid has unveiled a new North Sea decommissioning framework that could cut costs and execution time through shared campaigns.",
@@ -114,14 +147,14 @@
    "date": "2026-11-23T11:15:32+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Go-ahead for Eni’s Indonesian field development paves the way to unlock 8 trillion cubic feet of gas",
    "source": "Offshore Energy",
-   "summary": "Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthening its position as 'Europe’s largest independent E&P company.'",
-   "img": "https://www.offshore-energy.biz/api/media/file/9dd458dfb888e804_org-800x682.jpg?prefix=media",
-   "date": "2026-11-23T08:39:00+00:00"
+   "summary": "A green light has been secured for a gas development off the coast of Indonesia, targeting peak production of 1 billion cubic feet per day.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Jangkrik%20Source%20Eni-800x450.png?prefix=media",
+   "date": "2026-11-23T08:30:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -142,36 +175,6 @@
    "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
    "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784733162838-1024x655-800x512.png?prefix=media",
    "date": "2026-11-20T14:41:21+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "FPSO revamp to begin next year as Navitas addresses contractor challenges",
-   "source": "Offshore Energy",
-   "summary": "Sea Lion oil development remains on track, according to Navitas, which is working to replace contractors amid Argentina-related tensions.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1787894144195-1024x536-1024x536-800x419.png?prefix=media",
-   "date": "2026-11-20T13:30:14+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "1 MW floating wave energy converter gets green light for test site deployment",
-   "source": "Offshore Energy",
-   "summary": "WEDUSEA, a €19.6 million collaborative project bringing together 14 European partners, has secured a marine license that allows the installation...",
-   "img": "https://www.offshore-energy.biz/api/media/file/1%20MW%20floating%20wave%20energy%20converter%20gets%20green%20light%20for%20test%20site%20deployment-640x360.png?prefix=media",
-   "date": "2026-11-20T13:29:06+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Nexans completes deep-water cable laying ops off Australia for Chevron",
-   "source": "Offshore Energy",
-   "summary": "Nexans has completed the laying and trenching of the high-voltage dynamic cable for Chevron's Jansz-Io Compression (J-IC) project offshore...",
-   "img": "https://www.offshore-energy.biz/api/media/file/Nexans%20completes%20deep-water%20cable%20laying%20ops%20off%20Australia%20for%20Chevron-800x548.jpg?prefix=media",
-   "date": "2026-11-20T12:22:36+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -294,104 +297,14 @@
    "date": "2026-11-23T09:30:00+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
-   "summary": "",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Proff eller amatør? Disse takler presset best",
+   "source": "NRK Trøndelag",
+   "summary": "­",
    "img": "",
-   "date": "2026-11-22T16:47:41+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
-   "source": "Yahoo Finance",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T14:22:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Vår Energi expands SLB Norway support role to integrated drilling services",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T03:21:29+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Europe sends mixed signals on fossil fuels: Norway's climate ruling raises the stakes as EU postpones methane rules",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T09:20:44+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "VodafoneThree mulls UK–Norway subsea cable",
-   "source": "Total Telecom",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T06:49:04+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Fugro surveys subsea route for Greater PAJ development offshore Angola",
-   "source": "Offshore Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-19T00:47:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
-   "source": "Submarine Networks",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T09:03:40+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "TechnipFMC Keeps DOF's Skandi Africa Subsea Vessel on Contract",
-   "source": "Marine News Magazine",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T10:40:54+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
-   "source": "World Oil",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T15:04:30+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
-   "source": "Drilling Contractor",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-17T17:42:07+00:00"
+   "date": "2026-11-23T16:28:27+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -424,44 +337,44 @@
    "date": "2026-11-23T07:24:22+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Mann pågrepet etter trusselsituasjon i Oppdal",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet rykket ut flere ganger til samme adresse i Oppdal søndag. Noen timer senere endte det med en pågripelse.",
+   "title": "- Han var den beste faren noen kunne ha",
+   "source": "NRK",
+   "summary": "Israel har de siste tre årene angrepet samtlige av Gazas 35 sykehus, ifølge Verdens helseorganisasjon. I ruinene lette datteren etter levningene til faren.",
+   "img": "https://gfx.nrk.no/VlTMczKSLWRZb-A03hz1MwjGBF3Xn6MPks4YFPto-14w.jpg",
+   "date": "2026-11-23T22:08:21+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "To siktet for drapsforsøk i Alta – pågrepet i Sverige",
+   "source": "NRK",
+   "summary": "Norsk politi vil nå be om å få de siktede utlevert.",
+   "img": "https://gfx.nrk.no/Mi0894LWIUxzL05S-tQV2QG77J9ojlOi8WxXJeXAnYXA.jpg",
+   "date": "2026-11-23T20:32:57+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Voldshendelse i Alta: To pågrepet av svensk politi",
+   "source": "NRK",
+   "summary": "To personer ble natt til mandag pågrepet av svensk politi i forbindelse med voldshendelsen i Alta søndag morgen, skriver politiet i loggen. De to personene er bosatt et annet sted i Norge, siktet for drapsforsøk mot en mann bosatt i Alta. Politiet etterforsker",
    "img": "",
-   "date": "2026-11-22T20:15:11+00:00"
+   "date": "2026-11-23T20:22:17+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Full furore etter at julelys blei vinterlys: – Tatt ut av kontekst",
+   "title": "Sjøpunginvasjon ved sommerparadis: – Kveler alt på havbunnen",
    "source": "NRK",
-   "summary": "Overskrifta frå Surnadal fekk reaksjonar landet rundt: – Altfor mange misforstår, og har lyst til å kaste seg inn i debatten, seier redaktøren.",
-   "img": "https://gfx.nrk.no/7ilko6nOrPaSAUyCnxbVqAW9wyuwsLR-PxYfEjbbV5tw.jpg",
-   "date": "2026-11-23T12:04:02+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Politi aksjonerte mot ungdommer i Harstad - mann i varetekt for å rekruttere til voldsoppdrag",
-   "source": "NRK",
-   "summary": "Politiet har mottatt flere tips om bevæpning i miljøet, i form av kniver og airsoft-pistoler. En person er siktet og politiet har opprettet flere straffesaker.",
-   "img": "https://gfx.nrk.no/F3Jly0BZWdkcZZGYdsz-lwLxSHEhFaKad9yQeuqUvYyA.jpg",
-   "date": "2026-11-23T09:11:32+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Erkjenner delvis skyld for drapet på Asbjørn Lanes (80) på sykehjemmet i Lyngen",
-   "source": "NRK",
-   "summary": "En mann i 50-årene står mandag tiltalt i tingretten etter sykehjemsdrapet i Lyngen i november 2025. Han forteller om perioder med depresjon.",
-   "img": "https://gfx.nrk.no/rvNFSfYALlXJi8jlni3YZwOxqSne3BDhyFPPaEXPyg0w.jpg",
-   "date": "2026-11-23T08:15:14+00:00"
+   "summary": "Den fryktede fremmedarten sjøpung sprer seg raskt på Kosterøyene, rett utenfor norskegrensen. Nå tester svenskene flere hastetiltak.",
+   "img": "https://gfx.nrk.no/uk978gPjIaNtzZxfp0m3PQ1MGL32gw6gNydDG52rKuDQ.jpg",
+   "date": "2026-11-23T17:50:21+00:00"
   }
  ]
 }
