@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-24T01:08:52.064578+00:00",
+ "updated": "2026-11-24T10:53:17.887840+00:00",
  "sources": 8,
- "failed": [
-  "Subsea Norden",
-  "Subsea Afrika"
- ],
+ "failed": [],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "DOF Group ASA - Sale of vessel",
+   "source": "DOF Group ASA",
+   "summary": "DOF Group ASA (\"DOF\") has agreed to sell the 2008-built CSV Skandi Forza. The vessel will be delivered to the new owners in Q4 2026. DOF will charter the vessel back on a two-year bareboat hire to conclude its current and planned commitments.",
+   "img": "",
+   "date": "2026-11-24T08:44:33.273Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -87,14 +94,24 @@
    "date": "2026-11-20T06:27:21.442Z"
   },
   {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
+   "source": "Offshore Energy",
+   "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
+   "img": "https://www.offshore-energy.biz/api/media/file/NjordGuard-cable-protection-system-800x418.webp?prefix=media",
+   "date": "2026-11-24T09:19:46+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 3,
-   "title": "Borr Drilling Limited - Filing of Interim Financial Report on Form 6-K",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 19, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") today filed its unaudited interim financial report on Form 6-K for the three and nine months ended September 30, 2026 with the U.S.",
-   "img": "",
-   "date": "2026-11-19T13:20:42.286Z"
+   "title": "Germany secures 18-year supply of Norwegian gas with Equinor-VNG deal",
+   "source": "Offshore Energy",
+   "summary": "This is Equinor’s longest deal since 1986 and entails the supply of natural gas to Germany from 2027 through 2044.",
+   "img": "https://www.offshore-energy.biz/api/media/file/Anders%20Opedal%20%28left%29%2C%20president%20and%20CEO%20of%20Equinor%2C%20and%20Ulf%20Heitm%C3%BCller%2C%20CEO%20of%20VNG%20AG-800x450.png?prefix=media",
+   "date": "2026-11-24T08:30:34+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -155,26 +172,6 @@
    "summary": "A green light has been secured for a gas development off the coast of Indonesia, targeting peak production of 1 billion cubic feet per day.",
    "img": "https://www.offshore-energy.biz/api/media/file/Jangkrik%20Source%20Eni-800x450.png?prefix=media",
    "date": "2026-11-23T08:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "1974-built rig changes hands as Dolphin Drilling and SPM forge joint venture for drilling jobs in India",
-   "source": "Offshore Energy",
-   "summary": "With the sale of a 52-year-old semi-submersible out of the way, Dolphin Drilling and SPM have taken steps to create an India-focused joint venture.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784785219619-1024x719-800x562.png?prefix=media",
-   "date": "2026-11-23T07:52:08+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Azule Energy wraps up divestment of two Angolan offshore blocks",
-   "source": "Offshore Energy",
-   "summary": "Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition of Azule Energy’s interests in two blocks.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784733162838-1024x655-800x512.png?prefix=media",
-   "date": "2026-11-20T14:41:21+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -260,41 +257,101 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Kansai Electric takes 40% stake in Polish offshore wind project",
+   "title": "Seatrium cuts 220 jobs in latest post-merger restructuring",
    "source": "Splash247",
-   "summary": "Japan’s Kansai Electric Power has agreed to acquire a 40% interest in Ocean Winds’ 390 MW BC-Wind offshore wind development in Poland, marking its first investment in the country. The Japanese utility signed a share purchase agreement with Ocean Winds on Novem",
-   "img": "https://splash247.com/wp-content/uploads/2023/07/Ocean-Winds.jpg",
-   "date": "2026-11-23T12:02:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Arabian Drilling picks up $400m in long-term offshore work",
-   "source": "Splash247",
-   "summary": "Saudi Arabian drilling contractor Arabian Drilling has secured a SAR1.5bn ($400m) long-term contract from Khafji Joint Operations (KJO) to provide and operate two self-propelled offshore service units. The agreement replaces existing contracts covering two off",
-   "img": "https://splash247.com/wp-content/uploads/2025/07/Arabian-Drilling-generic.jpg",
-   "date": "2026-11-23T11:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 2,
-   "title": "ExxonMobil greenlights $4bn Angola offshore redevelopment",
-   "source": "Splash247",
-   "summary": "US energy major ExxonMobil and its partners have taken a final investment decision worth an estimated $4bn to redevelop the Kizomba A and B fields offshore Angola, while announcing a fresh hydrocarbon discovery in the same block. The investment decision, forma",
-   "img": "https://splash247.com/wp-content/uploads/2024/10/ExxonMobil-worker.jpg",
-   "date": "2026-11-23T10:00:00+00:00"
+   "summary": "Singapore-based offshore and marine engineering group Seatrium is laying off around 220 employees, representing 2% of its local workforce, as part of a restructuring programme to streamline operations and consolidate its global shipyard network. The move marks",
+   "img": "https://splash247.com/wp-content/uploads/2024/11/Seatrium-yard-Seatrium.jpg",
+   "date": "2026-11-24T10:06:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
+   "weight": 3,
+   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
+   "source": "EnergyNow.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-22T16:47:41+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "ConocoPhillips agrees to sell Norway, UK offshore portfolio to Vår Energi",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-23T20:15:13+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T14:22:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Mermaid Subsea Services I-DECOM Framework Targets 45% Cost Reduction In North Sea",
+   "source": "Ocean News & Technology",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-23T16:21:17+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Fugro surveys subsea route for Greater PAJ development offshore Angola",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-19T00:47:31+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
    "weight": 2,
-   "title": "Hunter seals $168m Jacktel takeover",
-   "source": "Splash247",
-   "summary": "Norway’s Hunter Group has secured control of offshore accommodation rig owner Jacktel after winning acceptances for more than 91% of the company’s shares in a NOK1.63bn ($168m) takeover. The Morten Astrup-backed investment company confirmed on Monday that all ",
-   "img": "https://splash247.com/wp-content/uploads/2019/09/Jacktel-Haven.jpg",
-   "date": "2026-11-23T09:30:00+00:00"
+   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
+   "source": "Submarine Networks",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-20T09:03:40+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey",
+   "source": "World Oil",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T15:04:30+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Borr Grid drills Impala-2 offshore Angola, Pacassa SW sidetrack to follow",
+   "source": "Drilling Contractor",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-17T17:42:07+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Pasient skadd etter fall i sjakt på St. Olavs hospital",
+   "source": "NRK Trøndelag",
+   "summary": "Pasienten ble frakta til akuttmottaket etter fallet.",
+   "img": "",
+   "date": "2026-11-24T05:48:06+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -327,54 +384,34 @@
    "date": "2026-11-23T09:30:15+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Sju leiligheter fikk sotskader etter røykutvikling i blokk i Trondheim",
-   "source": "NRK Trøndelag",
-   "summary": "Ingen ble skadd, men tolv personer kunne ikke overnatte i leilighetene sine etter røykutvikling i kjelleren i ei boligblokk i Trondheim i natt.",
-   "img": "",
-   "date": "2026-11-23T07:24:22+00:00"
+   "title": "Tok de ansatte med på Dublin-tur til 320.000 kroner mens kommunen gikk på sparebluss",
+   "source": "NRK",
+   "summary": "Samtidig som eierkommunen kuttet flere hundre stillinger for å spare penger, fikk 12 ansatte i Bodø Havn påspandert utenlandstur med irsk aften og ølsmaking.",
+   "img": "https://gfx.nrk.no/2_fZs7n95hBfyW5SLxwMBQhsoy_MtZLJitR6T7TDxDLg.jpg",
+   "date": "2026-11-24T09:19:35+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "- Han var den beste faren noen kunne ha",
+   "title": "Væpnet ran under bruktbilkjøp i Tønsberg",
    "source": "NRK",
-   "summary": "Israel har de siste tre årene angrepet samtlige av Gazas 35 sykehus, ifølge Verdens helseorganisasjon. I ruinene lette datteren etter levningene til faren.",
-   "img": "https://gfx.nrk.no/VlTMczKSLWRZb-A03hz1MwjGBF3Xn6MPks4YFPto-14w.jpg",
-   "date": "2026-11-23T22:08:21+00:00"
+   "summary": "To gutter i tenårene skal ved hjelp av pistol ha blitt fraranet 100.000 i kontanter.",
+   "img": "https://gfx.nrk.no/iNZru3nWzk0Og8YOseeajAkF45lESJ1qflhXPUeVeRhQ.jpg",
+   "date": "2026-11-24T06:52:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "To siktet for drapsforsøk i Alta – pågrepet i Sverige",
+   "title": "Equinor med gigantisk gassavtale – lengste på 40 år",
    "source": "NRK",
-   "summary": "Norsk politi vil nå be om å få de siktede utlevert.",
-   "img": "https://gfx.nrk.no/Mi0894LWIUxzL05S-tQV2QG77J9ojlOi8WxXJeXAnYXA.jpg",
-   "date": "2026-11-23T20:32:57+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Voldshendelse i Alta: To pågrepet av svensk politi",
-   "source": "NRK",
-   "summary": "To personer ble natt til mandag pågrepet av svensk politi i forbindelse med voldshendelsen i Alta søndag morgen, skriver politiet i loggen. De to personene er bosatt et annet sted i Norge, siktet for drapsforsøk mot en mann bosatt i Alta. Politiet etterforsker",
-   "img": "",
-   "date": "2026-11-23T20:22:17+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Sjøpunginvasjon ved sommerparadis: – Kveler alt på havbunnen",
-   "source": "NRK",
-   "summary": "Den fryktede fremmedarten sjøpung sprer seg raskt på Kosterøyene, rett utenfor norskegrensen. Nå tester svenskene flere hastetiltak.",
-   "img": "https://gfx.nrk.no/uk978gPjIaNtzZxfp0m3PQ1MGL32gw6gNydDG52rKuDQ.jpg",
-   "date": "2026-11-23T17:50:21+00:00"
+   "summary": "Norge skal levere gass til Tyskland i lang tid fremover. I dag signerte Equinor nok en gigaavtale for europeisk energiforsyning.",
+   "img": "https://gfx.nrk.no/nw370mqMSxVJlehHSuGzKgD_UdoOTOJ8Qp1VUlip4tDQ.jpg",
+   "date": "2026-11-24T06:30:00+00:00"
   }
  ]
 }
