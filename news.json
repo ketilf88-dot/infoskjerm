@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:56:06.987541+00:00",
+ "updated": "2026-11-25T03:53:44.024505+00:00",
  "sources": 8,
  "failed": [],
  "items": [
@@ -7,11 +7,11 @@
    "tag": "Oslo Børs",
    "cls": "t-bors",
    "weight": 3,
-   "title": "Vår Energi ASA: Contemplated Private Placement",
+   "title": "Vår Energi ASA: Private Placement successfully completed",
    "source": "Vår Energi ASA",
    "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, CANADA, JAPAN, AUSTRALIA OR ANY OTHER JURISDICTION IN WHICH THE RELEASE, PUBLICATION OR DISTRIBUTION WOULD REQUIRE THE APPROVAL OF LOCAL …",
    "img": "",
-   "date": "2026-11-24T15:30:06.999Z"
+   "date": "2026-11-24T22:26:11.416Z"
   },
   {
    "tag": "Oslo Børs",
@@ -92,16 +92,6 @@
    "summary": "Equinor ASA (OSE: EQNR, NYSE: EQNR) annonserte 22. juli 2026 et kontantutbytte per aksje på USD 0,39 for andre kvartal 2026.",
    "img": "",
    "date": "2026-11-20T06:50:00.861Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "NOL: Third Quarter 2026 Results",
-   "source": "Northern Ocean Ltd.",
-   "summary": "20 November 2026 - Hamilton, Bermuda Northern Ocean Limited (OSE: NOL) (together with its subsidiaries, the \"Company\"), today reports unaudited results for the third quarter ended 30 September 2026.",
-   "img": "",
-   "date": "2026-11-20T06:27:21.442Z"
   },
   {
    "tag": "Offshore · Afrika",
@@ -334,16 +324,6 @@
    "date": "2026-11-23T16:21:17+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-23T19:30:00+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -437,41 +417,41 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Pasientar fekk sjokkbeskjed på telefon: – Hjarterått",
+   "source": "NRK",
+   "summary": "Fleire har fått beskjed om alvorleg eller dødeleg sjukdom frå Sjukehuset Østfold over telefon, men sjukehusleiinga avviser at det er ein systemfeil.",
+   "img": "https://gfx.nrk.no/T09i73gpscOYv6I04CKI0AeC-tLwyLVGji0-br62GK0A.jpg",
+   "date": "2026-11-24T22:21:23+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Nusa-dobbel for Leipzig i Meisterligaen",
+   "source": "NRK",
+   "summary": "Antonio Nusa briljerte med heile to scoringar for RB Leipzig i kampen mot franske Lens. Nusa markerte seg allereie frå start og sørga for det andre av to mål for Leipzig i første omgang før det var gått ti minutt. Etter pausen var franskmennene litt meir på ba",
+   "img": "https://gfx.nrk.no/Bmz-lJELCKCbeHyF8P54uAghKQxRj9r6G1dLUA_Nmd4w.jpg",
+   "date": "2026-11-24T22:01:28+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "FSB pågrep person etter ulovlig grensekryssing fra Norge",
+   "source": "NRK",
+   "summary": "En utenlandsk statsborger er pågrepet av Russlands sikkerhetstjeneste. Norsk politi kjenner ikke til hendelsen.",
+   "img": "https://gfx.nrk.no/CY888mRjhSsxMtw3wBKkpQwjprikbVNLPTutgLElDnAw.jpg",
+   "date": "2026-11-24T20:58:31+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Glimt-jubel på overtid – Knutsen feiret på seg strekk",
    "source": "NRK",
    "summary": "Bodø/Glimts trener haltet etter overtidsdramaet i Mesterligaen. Nå røper han hvorfor.",
    "img": "https://gfx.nrk.no/Ycm5xsK8eh6UU3D0bB2cFgsBAEsl2Ja9VbYjooXP1stg.jpg",
    "date": "2026-11-24T19:41:06+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Mot nytt rekordår for flått­sykdom",
-   "source": "NRK",
-   "summary": "Det er registrert rekordmange tilfeller av de flåttbårne sykdommene borreliose og TBE i Norge i år.",
-   "img": "https://gfx.nrk.no/JvtrHlhfm4uaMp8LV-x7HwatBuyF6dTD4EqFg_jLx68g.jpg",
-   "date": "2026-11-24T06:48:29+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Dette området er mest utsett for fugleinfluensa: – Ei tøff belastning",
-   "source": "NRK",
-   "summary": "Tett med gardar og trekkfuglar gjer Jæren ekstra sårbar for smitte av fugleinfluensa. Ti av 14 tilfelle dei siste fem åra har råka regionen.",
-   "img": "https://gfx.nrk.no/qGpvEORNdJ6n1QOEFMsWvgt60zIY58v428YdxJxh6jmw.jpg",
-   "date": "2026-11-24T19:31:13+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Snudde etter Nicolas-saken: Vil gjøre det lettere å få utsatt skolestart",
-   "source": "NRK",
-   "summary": "Familien måtte kjempe i månedsvis for at sønnen skulle få ett år til i barnehagen. Nå er det flertall for å endre loven om utsatt skolestart – mot regjeringens vilje.",
-   "img": "https://gfx.nrk.no/8l1SLpirESpZIGDsxFedXA4uIIwHhny239axsrt-sAyA.jpg",
-   "date": "2026-11-24T17:56:59+00:00"
   }
  ]
 }
