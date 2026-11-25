@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-25T03:53:44.024505+00:00",
+ "updated": "2026-11-25T13:43:36.013142+00:00",
  "sources": 8,
- "failed": [],
+ "failed": [
+  "Offshore Energy"
+ ],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "BW Offshore: Dividend information",
+   "source": "BW Offshore Limited",
+   "summary": "Dividend information Reference is made to the Q3 2026 Presentation released 25 November 2026. BW Offshore Limited (\"BW Offshore\") provides the following key information relating to its cash dividend for Q3 2026.",
+   "img": "",
+   "date": "2026-11-25T06:45:01.133Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "BW Offshore: Third quarter results 2026",
+   "source": "BW Offshore Limited",
+   "summary": "Third quarter results 2026 HIGHLIGHTS * Q3 EBITDA of USD 82.2 million and operating cash flow of USD 91.0 million * Robust balance sheet with USD 476 million in available liquidity * Q3 cash dividend of USD 0.063 per share * BW Opal achieved nameplate …",
+   "img": "",
+   "date": "2026-11-25T06:30:06.170Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
+   "source": "Borr Drilling Limited",
+   "summary": "Hamilton, Bermuda, November 25, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") has received notification of a transaction in its securities related to Mr.",
+   "img": "",
+   "date": "2026-11-25T05:45:38.603Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -52,126 +84,6 @@
    "summary": "Sandnes, Norway, 23 November 2026: Vår Energi ASA (OSE: VAR, \"Vår Energi\", \"the Company\") has entered into an agreement (the \"Transaction\") to acquire ConocoPhillips' Norwegian upstream business and related infrastructure interests in Norway and the United …",
    "img": "",
    "date": "2026-11-23T06:29:13.330Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 23, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") has received notification of a transaction in its securities related to Mr.",
-   "img": "",
-   "date": "2026-11-23T05:15:00.000Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Aker Solutions gets go-ahead for Avalon Combustion Turbine (ACT) project in Canada",
-   "source": "Aker Solutions ASA",
-   "summary": "20 November, 2026 - Aker Solutions has been awarded a limited notice to proceed contract by Newfoundland and Labrador Hydro for the ACT project in Holyrood, Newfoundland and Labrador, Canada.",
-   "img": "",
-   "date": "2026-11-20T07:00:18.810Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Equinor ASA: Announcement of cash dividend of NOK 3.7448 per share for second quarter 2026",
-   "source": "Equinor ASA",
-   "summary": "Equinor ASA (OSE: EQNR, NYSE: EQNR) announced on 22 July 2026 a cash dividend per share of USD 0.39 for second quarter 2026.",
-   "img": "",
-   "date": "2026-11-20T06:50:00.891Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Equinor ASA: Annonsering av kontantutbytte på NOK 3,7448 per aksje for andre kvartal 2026",
-   "source": "Equinor ASA",
-   "summary": "Equinor ASA (OSE: EQNR, NYSE: EQNR) annonserte 22. juli 2026 et kontantutbytte per aksje på USD 0,39 for andre kvartal 2026.",
-   "img": "",
-   "date": "2026-11-20T06:50:00.861Z"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "African expansion on the cards for Eco Wave Power with potential 100 MW development",
-   "source": "Offshore Energy",
-   "summary": "Eco Wave Power is exploring a potential 100 MW wave energy initiative in Africa, following its South African feasibility study.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784749254490-1536x1154-800x601.png?prefix=media",
-   "date": "2026-11-24T15:38:31+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
-   "source": "Offshore Energy",
-   "summary": "ExxonMobil’s final investment decision (FID) will extend production at Block 15 fields, while a new discovery marks the block’s 21st hydrocarbon find.",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2Fwp-import-1784746453315-1600x1200-800x600.png?prefix=media",
-   "date": "2026-11-24T14:44:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "DOF sells 2008-built vessel and charters it back for two years",
-   "source": "Offshore Energy",
-   "summary": "DOF has struck a deal to divest its 2008-built construction support vessel (CSV), expecting a $35 million gain upon delivery to the new owners.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Skandi%20Forza%20Source%20DOF-567x352.png?prefix=media",
-   "date": "2026-11-24T13:04:58+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034",
-   "source": "Offshore Energy",
-   "summary": "Saipem will keep providing advanced subsea robotics services at an oil and gas field in Norwegian waters until the end of 2034.",
-   "img": "https://www.offshore-energy.biz/api/media/file/DJI_0008%20%284%29-800x600.jpg?prefix=media",
-   "date": "2026-11-24T11:48:33+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "NKT starts power cable production for IJmuiden Ver Beta offshore wind grid connection",
-   "source": "Offshore Energy",
-   "summary": "NKT has begun production of the high-voltage direct current (HVDC) power cable systems for TenneT’s IJmuiden Ver Beta offshore grid connection...",
-   "img": "https://www.offshore-energy.biz/api/media/file/_2Fapi_2Fmedia_2Ffile_2FNKT_2520power_2520cable_2520production-1600x1200-800x600.png?prefix=media",
-   "date": "2026-11-24T10:49:49+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "$2.3 billion integrated LNG-to-power project on the development agenda in South Africa",
-   "source": "Offshore Energy",
-   "summary": "Engen-led consortium’s proposed LNG-to-power project features a 1.9 GW power plant, LNG import terminal, and related infrastructure.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Durban-LNG_picture-1%20Source%20VTTI-800x376.png?prefix=media",
-   "date": "2026-11-24T10:06:57+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "LS Marine Solution selects NjordGuard cable protection for South Korean offshore wind farm",
-   "source": "Offshore Energy",
-   "summary": "AIS, formerly CRP Subsea, and LS Marine Solution have signed a contract for the supply of NjordGuard cable protection systems (CPS) and...",
-   "img": "https://www.offshore-energy.biz/api/media/file/NjordGuard-cable-protection-system-800x418.webp?prefix=media",
-   "date": "2026-11-24T09:19:46+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Germany secures 18-year supply of Norwegian gas with Equinor-VNG deal",
-   "source": "Offshore Energy",
-   "summary": "This is Equinor’s longest deal since 1986 and entails the supply of natural gas to Germany from 2027 through 2044.",
-   "img": "https://www.offshore-energy.biz/api/media/file/Anders%20Opedal%20%28left%29%2C%20president%20and%20CEO%20of%20Equinor%2C%20and%20Ulf%20Heitm%C3%BCller%2C%20CEO%20of%20VNG%20AG-800x450.png?prefix=media",
-   "date": "2026-11-24T08:30:34+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -254,44 +166,44 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "EnEarth takes control of Scottish carbon storage project",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Saipem bags dual offshore EPCI contracts from Aramco",
    "source": "Splash247",
-   "summary": "Carbon storage developer EnEarth has agreed to acquire Storegga’s 30% stake in the Acorn carbon capture and storage project in northeast Scotland, taking over as lead developer of the North Sea scheme. The transaction will transfer Storegga’s project interest ",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/EnEarth-offshore-platform.jpg",
-   "date": "2026-11-24T14:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "DOF sells CSV in $35m gain deal",
-   "source": "Splash247",
-   "summary": "Norwegian offshore vessel owner DOF has agreed to sell its 2008-built subsea construction vessel (CSV) Skandi Forza, while retaining access to the ship through a two-year bareboat charterback arrangement. The vessel is expected to be delivered to its new owner",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/MarineTraffic-Andrew-Shields-Skandi-Forza-under-a-previous-name.jpg",
-   "date": "2026-11-24T13:00:00+00:00"
+   "summary": "Italian offshore engineering and construction contractor Saipem has been awarded two offshore contracts in Saudi Arabia under its existing long-term agreement with Aramco. The approximate value of $650m covers the engineering, procurement, construction, instal",
+   "img": "https://splash247.com/wp-content/uploads/2023/06/Saipem-worker.jpg",
+   "date": "2026-11-25T10:40:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Indonesia clears offshore gas development for Eni-Petronas venture",
+   "title": "Vantris secures $115m Petronas work package",
    "source": "Splash247",
-   "summary": "Indonesian authorities have approved the development plan for the Geliga gas field offshore East Kalimantan, paving the way for a major new deepwater production hub involving an FPSO vessel and 15 subsea wells. The approval, announced by Italian energy major E",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Eni-headquarters.jpg",
-   "date": "2026-11-24T12:00:00+00:00"
+   "summary": "Malaysian offshore contractor Vantris Energy has secured further transportation and installation work orders from Petronas Carigali, with a combined potential value of RM475m ($115m). The Kuala Lumpur-listed company said the contracts were awarded to its wholl",
+   "img": "https://splash247.com/wp-content/uploads/2023/06/Sapura-Energy.jpg",
+   "date": "2026-11-25T10:25:17+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "North Sea decommissioning spending set to hit $32bn by 2035",
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "DEME joins Allseas on Canadian LNG pipeline project",
    "source": "Splash247",
-   "summary": "Oil and gas companies operating in the UK North Sea are expected to spend £24.7bn ($32.5bn) on decommissioning over the next decade, according to a new report from industry body Offshore Energies UK (OEUK). The organisation’s latest decommissioning outlook for",
-   "img": "https://splash247.com/wp-content/uploads/2026/07/Decommissioning-HSD.jpg",
-   "date": "2026-11-24T11:00:00+00:00"
+   "summary": "Belgian marine contractor DEME has secured a subcontract from Swiss-based offshore construction specialist Allseas for marine works on the Prince Rupert Gas Transmission (PRGT) pipeline in Canada. DEME described the award as a large contract, a classification ",
+   "img": "https://splash247.com/wp-content/uploads/2021/02/DEME-Orion.jpg",
+   "date": "2026-11-25T10:20:00+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 2,
+   "title": "TotalEnergies taps Shearwater for fresh Angola survey",
+   "source": "Splash247",
+   "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17 and 17/06 offshore Angola. The programme ",
+   "img": "https://splash247.com/wp-content/uploads/2023/05/Amazon-Conqueror.jpg",
+   "date": "2026-11-25T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -307,11 +219,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "ConocoPhillips agrees to sell Norway, UK offshore portfolio to Vår Energi",
+   "title": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-24T11:48:33+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Hydrone-R to continue subsea inspections at Njord Field offshore mid-Norway",
    "source": "Offshore Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-23T20:15:13+00:00"
+   "date": "2026-11-24T18:40:35+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -324,6 +246,16 @@
    "date": "2026-11-23T16:21:17+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-23T19:30:00+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -332,16 +264,6 @@
    "summary": "",
    "img": "",
    "date": "2026-11-19T00:47:31+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
-   "source": "Submarine Networks",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T09:03:40+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -357,11 +279,21 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
-   "title": "Sonangol discovers hydrocarbons offshore Kwanza basin",
-   "source": "Oil & Gas Journal",
+   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
+   "source": "Submarine Networks",
    "summary": "",
    "img": "",
-   "date": "2026-11-18T18:16:43+00:00"
+   "date": "2026-11-20T09:03:40+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Jordan to join Europe-North Africa Medusa subsea cable network",
+   "source": "Arab News",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-19T11:46:28+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -372,6 +304,26 @@
    "summary": "",
    "img": "",
    "date": "2026-11-23T15:09:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Slår alarm om «Helikopterforeldre» i barneidretten",
+   "source": "NRK Trøndelag",
+   "summary": "Foreldre stiller stadig høyere krav til breddeklubben, samtidig som færre er villige til å ta på seg verv. En uheldig utvikling, mener idrettspsykolog.",
+   "img": "",
+   "date": "2026-11-25T12:53:42+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Varsler tøffere tider for kollektivtrafikken",
+   "source": "NRK Trøndelag",
+   "summary": "Høye drivstoffpriser og strømutgifter gjør at AtB trolig får 115 millioner kroner mindre å rutte med neste år. Nå varsler kollektivselskapet kutt i rutetilbudet.",
+   "img": "",
+   "date": "2026-11-25T11:18:41+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -394,64 +346,44 @@
    "date": "2026-11-24T16:18:16+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Pappa Sørloth: – Viking har null sjanser mot Atlético Madrid",
-   "source": "NRK Trøndelag",
-   "summary": "Gøran Sørloth gir Viking lite håp mot Atlético Madrid i Mesterligaen. – Vi har lyst til å overraske, svarer Viking-kaptein Zlatko Tripic.",
-   "img": "",
-   "date": "2026-11-24T15:55:22+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Brann i enebolig på Møllenberg",
-   "source": "NRK Trøndelag",
-   "summary": "Brannen startet i paller utenfor bygget. Årsaken til brannen er foreløpig ukjent.",
-   "img": "",
-   "date": "2026-11-24T15:13:33+00:00"
+   "title": "Martine (1) døde: Dagmamma-frifinnelsen blir stående",
+   "source": "NRK",
+   "summary": "Påtalemyndigheten anker ikke frifinnelsen og den tidligere dagmammaen er dermed frikjent. Nå vil forsvareren vurdere erstatningskrav.",
+   "img": "https://gfx.nrk.no/zPKPW6UdL7ShPQkdaTLyMAtjCKy4_5KLZD0h8lVzJzrw.jpg",
+   "date": "2026-11-25T11:06:38+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Pasientar fekk sjokkbeskjed på telefon: – Hjarterått",
+   "title": "Fekk ikkje mensen: – Måtte velje mellom idretten eller eiga helse",
    "source": "NRK",
-   "summary": "Fleire har fått beskjed om alvorleg eller dødeleg sjukdom frå Sjukehuset Østfold over telefon, men sjukehusleiinga avviser at det er ein systemfeil.",
-   "img": "https://gfx.nrk.no/T09i73gpscOYv6I04CKI0AeC-tLwyLVGji0-br62GK0A.jpg",
-   "date": "2026-11-24T22:21:23+00:00"
+   "summary": "Etter to trøyttleiksbrot på eit halvt år begynte skiskyttaren Maya Cloetens (24) å nøste i eiga helse. Svaret fekk henne til å stoppe opp.",
+   "img": "https://gfx.nrk.no/ZI87AtQaoFXl860z_Uh3kARZOeTzasIZxOUgt9T-B6EQ.jpg",
+   "date": "2026-11-25T11:05:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Nusa-dobbel for Leipzig i Meisterligaen",
+   "title": "Jordskjelv i Midt-Troms",
    "source": "NRK",
-   "summary": "Antonio Nusa briljerte med heile to scoringar for RB Leipzig i kampen mot franske Lens. Nusa markerte seg allereie frå start og sørga for det andre av to mål for Leipzig i første omgang før det var gått ti minutt. Etter pausen var franskmennene litt meir på ba",
-   "img": "https://gfx.nrk.no/Bmz-lJELCKCbeHyF8P54uAghKQxRj9r6G1dLUA_Nmd4w.jpg",
-   "date": "2026-11-24T22:01:28+00:00"
+   "summary": "Natt til onsdag ble et jordskjelv med en styrke på 2,8 registrert i Midt-Troms.",
+   "img": "https://gfx.nrk.no/4wbPMBrRQHD1ecC8JUOAiQ48A3bGMIFG8cF6ZujJfJ2w.jpg",
+   "date": "2026-11-25T08:42:26+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "FSB pågrep person etter ulovlig grensekryssing fra Norge",
+   "title": "Gard må avlive 225.000 unghøner – varslar klage",
    "source": "NRK",
-   "summary": "En utenlandsk statsborger er pågrepet av Russlands sikkerhetstjeneste. Norsk politi kjenner ikke til hendelsen.",
-   "img": "https://gfx.nrk.no/CY888mRjhSsxMtw3wBKkpQwjprikbVNLPTutgLElDnAw.jpg",
-   "date": "2026-11-24T20:58:31+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Glimt-jubel på overtid – Knutsen feiret på seg strekk",
-   "source": "NRK",
-   "summary": "Bodø/Glimts trener haltet etter overtidsdramaet i Mesterligaen. Nå røper han hvorfor.",
-   "img": "https://gfx.nrk.no/Ycm5xsK8eh6UU3D0bB2cFgsBAEsl2Ja9VbYjooXP1stg.jpg",
-   "date": "2026-11-24T19:41:06+00:00"
+   "summary": "Fleire hundre tusen av hønene til A&A Salte Kyllingoppdrett på Jæren må avlivast, har Mattilsynet bestemt. Garden reagerer sterkt på vedtaket.",
+   "img": "https://gfx.nrk.no/62uTY8m03Yt3kMNcfsF1UAPcrZ9awBeOHpzSlc4w3dQw.jpg",
+   "date": "2026-11-25T08:23:11+00:00"
   }
  ]
 }
