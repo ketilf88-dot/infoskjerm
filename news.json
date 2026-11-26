@@ -1,8 +1,9 @@
 {
- "updated": "2026-11-26T14:26:41.407476+00:00",
+ "updated": "2026-11-26T23:09:58.063683+00:00",
  "sources": 8,
  "failed": [
-  "Offshore Energy"
+  "Offshore Energy",
+  "Splash247"
  ],
  "items": [
   {
@@ -186,56 +187,6 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "BIMCO puts ship-to-ship transfer costs on charterers",
-   "source": "Splash247",
-   "summary": "Shipping organisation BIMCO has released a new standard clause for tanker charterparties that places the costs and risks of ship-to-ship cargo transfers on charterers while preserving the master’s authority over vessel safety. Published this week, the clause c",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/STS-BIMCO.jpg",
-   "date": "2026-11-26T11:54:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Polish offshore wind rules draw Danish shipowner backlash",
-   "source": "Splash247",
-   "summary": "Danish shipowners have raised concerns at EU level over new Polish vessel certification requirements, warning that additional inspections are making it harder for foreign operators to compete for offshore wind and marine construction contracts in the Baltic Se",
-   "img": "https://splash247.com/wp-content/uploads/2022/10/RWE-Poland-offshore-wind.jpg",
-   "date": "2026-11-26T11:19:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
-   "source": "Splash247",
-   "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided not to participate in the first phase of",
-   "img": "https://splash247.com/wp-content/uploads/2025/02/Source-Galileo-offshore-wind.jpg",
-   "date": "2026-11-26T11:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "NextGeo wins survey work on European hydrogen pipeline",
-   "source": "Splash247",
-   "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas transmission operators NaTran and Teréga an",
-   "img": "https://splash247.com/wp-content/uploads/2025/11/MarineTraffic-Marcel-Coster-NextGeo-NG-Surveyor.jpg",
-   "date": "2026-11-26T10:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "UK offshore wind decommissioning estimates vary tenfold",
-   "source": "Splash247",
-   "summary": "Decommissioning provisions for UK offshore wind farms with similarly sized turbines can differ by as much as ten times, highlighting major uncertainties over the future cost of dismantling ageing installations, according to new research. A study by energy cons",
-   "img": "https://splash247.com/wp-content/uploads/2025/09/Semco-Maritime-offshore-wind.jpg",
-   "date": "2026-11-26T10:00:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -289,11 +240,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Sonangol E&P strikes oil at Burututu-1 offshore Angola",
-   "source": "Drilling Contractor",
+   "title": "Shearwater wins TotalEnergies 4D seismic survey offshore Angola",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-11-20T15:32:07+00:00"
+   "date": "2026-11-25T21:16:10+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -309,21 +260,31 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Shearwater wins TotalEnergies 4D seismic survey offshore Angola",
-   "source": "World Oil",
+   "title": "Sonangol E&P strikes oil at Burututu-1 offshore Angola",
+   "source": "Drilling Contractor",
    "summary": "",
    "img": "",
-   "date": "2026-11-25T21:16:10+00:00"
+   "date": "2026-11-20T15:32:07+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Brava takes control of Pescada fields cluster offshore Brazil",
-   "source": "Offshore Magazine",
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
+   "source": "Connecting Africa",
    "summary": "",
    "img": "",
-   "date": "2026-11-21T19:44:34+00:00"
+   "date": "2026-11-23T15:09:00+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Rykka ut til melding om knivran – uklart kva som har skjedd",
+   "source": "NRK Trøndelag",
+   "summary": "Politiet rykka ut til melding om tenåring som hadde blitt rana og trua med kniv på Risvollan i Trondheim.",
+   "img": "",
+   "date": "2026-11-26T20:26:10+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -356,54 +317,44 @@
    "date": "2026-11-26T10:59:16+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Riksrevisjonen: Effektiviteten i sjukehusa har falle",
-   "source": "NRK Trøndelag",
-   "summary": "Det er stor forskjell på kor effektivt helseføretaka driv. Riksrevisjonen meiner at økonomistyringa av sjukehusa ikkje er god nok.",
-   "img": "",
-   "date": "2026-11-26T10:05:50+00:00"
+   "title": "Debutant vinner Brage­prisen for roman om samiske skjebner",
+   "source": "NRK",
+   "summary": "Remi Skytterstad er den første debutanten som vinner Brageprisen i skjønnlitteratur.",
+   "img": "https://gfx.nrk.no/mlyUezJddHWnuilv-TxnNQRGQzOlqwlNGGhOU8qIuUBQ.jpg",
+   "date": "2026-11-26T19:11:51+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Må betale brannvesenet millioner etter storbrann",
+   "title": "Full forvirring etter trenerens beskjed: – Blir litt paralysert",
    "source": "NRK",
-   "summary": "Ragn-Sells må betale Grenland brann og redning over 10 millioner etter storbrannen ved dekkgjenvinningsgigantens anlegg i Bamble.",
-   "img": "https://gfx.nrk.no/PuCY6s0X_oc28pK6CBGx6Ak0PWKdIWXiTGfwyzw-4SGA.jpg",
-   "date": "2026-11-26T13:45:34+00:00"
+   "summary": "Johan-Olav Smørdal Botn (27) fikk spolert rennet allerede på første skyting. Kun minutter tidligere fikk han beskjeden fra skytetreneren som gjorde han usikker.",
+   "img": "https://gfx.nrk.no/a_t58xbOL0Zlq3BDqw0XnAU5E49qYL1k0ACwi5o-XUUQ.jpg",
+   "date": "2026-11-26T18:31:31+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Marianne (52) tok opp lån for å bli frisk – ny forsking gir håp",
+   "title": "Influensa­utbrotet er i gang: – Ikkje for seint å bli vaksinert før jul",
    "source": "NRK",
-   "summary": "Lipødem er ikkje ein anerkjent diagnose i Noreg, og pasientar må sjølv betale dyrt for operasjonar. No kan ein ny studie endre på det.",
-   "img": "https://gfx.nrk.no/D5OAWkgLtiQeXvjnS8liGQ4DdXTh6WG48MUTpO0Fl8rw.jpg",
-   "date": "2026-11-26T13:41:13+00:00"
+   "summary": "Influensaen spreier seg for alvor, og fleire blir så sjuke at dei må på sjukehus. No ber helsemyndigheitene folk om å vaksinere seg.",
+   "img": "https://gfx.nrk.no/GrewAluA1o5YY-dP4bjHaQ56GhKfpqrTCwTQa3h-URJA.jpg",
+   "date": "2026-11-26T17:21:24+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Mattilsynet vurderer å utsette avliving av 225.000 fuglar etter klage",
+   "title": "Folket har talt: D-blokka kåret til årets styggeste nybygg",
    "source": "NRK",
-   "summary": "I Noregs største utbrot av fugleinfluensa skulle 225.000 fuglar avlivast. Ein klage frå oppdrettaren kan setje masseavlivinga på vent.",
-   "img": "https://gfx.nrk.no/ZTr1XL7142q2lCPvq9T2uwJQCNEhpcA8NLmf8oVizuxQ.jpg",
-   "date": "2026-11-26T12:46:02+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Utbrudd av influensa: – Ta vaksinen nå",
-   "source": "NRK",
-   "summary": "Vinterens influensautbrudd er i gang. Samtidig øker koronasmitten. Det opplyser Folkehelseinstituttet torsdag. – Beskyttelse mot influensa og covid-19 oppnås én til to uker etter at du har tatt vaksine. Det er derfor viktig at de som er anbefalt vaksine tar de",
-   "img": "https://gfx.nrk.no/5nZSYBjl_4NGXwj7TyS-tgItuDbmTwVyaRrq3YURUu6A.jpg",
-   "date": "2026-11-26T12:14:16+00:00"
+   "summary": "D-blokka i det nye regjeringskvartalet fikk i kveld årets «grøsspris». Sju hus i Drøbak ble kåret til de vakreste.",
+   "img": "https://gfx.nrk.no/YcYMC-LsIIOIipibiQ4IvAOYX6lMCmrpjqyh6TOYfEIw.jpg",
+   "date": "2026-11-26T15:51:27+00:00"
   }
  ]
 }
