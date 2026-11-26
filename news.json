@@ -1,10 +1,40 @@
 {
- "updated": "2026-11-26T04:36:24.457450+00:00",
+ "updated": "2026-11-26T14:26:41.407476+00:00",
  "sources": 8,
  "failed": [
   "Offshore Energy"
  ],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Subsea7 awarded contract extension offshore Norway",
+   "source": "Subsea 7 S.A.",
+   "summary": "Luxembourg - 26 November 2026 - Subsea7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) today announced the award of a sizeable(1) extension of an existing frame agreement by Equinor for Seven Viking through to the end of 2028.",
+   "img": "",
+   "date": "2026-11-26T14:08:38.408Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Ny rente",
+   "source": "BW Offshore Limited",
+   "summary": "Se vedlegg på www.newsweb.no",
+   "img": "",
+   "date": "2026-11-26T12:35:25.809Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Odfjell Technology - Further extension of Master Service Agreement in the UK to June 2029 ",
+   "source": "Odfjell Technology Ltd",
+   "summary": "Odfjell Technology (UK) Ltd is pleased to announce that a North Sea operator has exercised the two remaining one-year extension options under its Master Service Agreement, extending the firm contract period from 15 June 2027 to 15 June 2029.",
+   "img": "",
+   "date": "2026-11-26T12:00:22.195Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -74,26 +104,6 @@
    "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, CANADA, JAPAN, AUSTRALIA OR ANY OTHER JURISDICTION IN WHICH THE RELEASE, PUBLICATION OR DISTRIBUTION WOULD REQUIRE THE APPROVAL OF LOCAL …",
    "img": "",
    "date": "2026-11-24T22:26:11.416Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "DOF Group ASA - Sale of vessel",
-   "source": "DOF Group ASA",
-   "summary": "DOF Group ASA (\"DOF\") has agreed to sell the 2008-built CSV Skandi Forza. The vessel will be delivered to the new owners in Q4 2026. DOF will charter the vessel back on a two-year bareboat hire to conclude its current and planned commitments.",
-   "img": "",
-   "date": "2026-11-24T08:44:33.273Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Aker Solutions receives a letter of award",
-   "source": "Aker Solutions ASA",
-   "summary": "23 November, 2026 - Aker Solutions has received a letter of award for a substantial1 contract with an undisclosed client in the oil and gas sector.",
-   "img": "",
-   "date": "2026-11-23T09:03:41.312Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -179,61 +189,61 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Saipem bags dual offshore EPCI contracts from Aramco",
+   "title": "BIMCO puts ship-to-ship transfer costs on charterers",
    "source": "Splash247",
-   "summary": "Italian offshore engineering and construction contractor Saipem has been awarded two offshore contracts in Saudi Arabia under its existing long-term agreement with Aramco. The approximate value of $650m covers the engineering, procurement, construction, instal",
-   "img": "https://splash247.com/wp-content/uploads/2023/06/Saipem-worker.jpg",
-   "date": "2026-11-25T10:40:00+00:00"
+   "summary": "Shipping organisation BIMCO has released a new standard clause for tanker charterparties that places the costs and risks of ship-to-ship cargo transfers on charterers while preserving the master’s authority over vessel safety. Published this week, the clause c",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/STS-BIMCO.jpg",
+   "date": "2026-11-26T11:54:00+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Vantris secures $115m Petronas work package",
-   "source": "Splash247",
-   "summary": "Malaysian offshore contractor Vantris Energy has secured further transportation and installation work orders from Petronas Carigali, with a combined potential value of RM475m ($115m). The Kuala Lumpur-listed company said the contracts were awarded to its wholl",
-   "img": "https://splash247.com/wp-content/uploads/2023/06/Sapura-Energy.jpg",
-   "date": "2026-11-25T10:25:17+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "DEME joins Allseas on Canadian LNG pipeline project",
-   "source": "Splash247",
-   "summary": "Belgian marine contractor DEME has secured a subcontract from Swiss-based offshore construction specialist Allseas for marine works on the Prince Rupert Gas Transmission (PRGT) pipeline in Canada. DEME described the award as a large contract, a classification ",
-   "img": "https://splash247.com/wp-content/uploads/2021/02/DEME-Orion.jpg",
-   "date": "2026-11-25T10:20:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
    "weight": 2,
-   "title": "TotalEnergies taps Shearwater for fresh Angola survey",
+   "title": "Polish offshore wind rules draw Danish shipowner backlash",
    "source": "Splash247",
-   "summary": "Norwegian offshore seismic vessel operator Shearwater Geoservices has been awarded a 4D towed-streamer seismic acquisition project by TotalEnergies offshore Angola. Amazon Conqueror will conduct the survey in Blocks 17 and 17/06 offshore Angola. The programme ",
-   "img": "https://splash247.com/wp-content/uploads/2023/05/Amazon-Conqueror.jpg",
-   "date": "2026-11-25T10:00:00+00:00"
+   "summary": "Danish shipowners have raised concerns at EU level over new Polish vessel certification requirements, warning that additional inspections are making it harder for foreign operators to compete for offshore wind and marine construction contracts in the Baltic Se",
+   "img": "https://splash247.com/wp-content/uploads/2022/10/RWE-Poland-offshore-wind.jpg",
+   "date": "2026-11-26T11:19:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+   "source": "Splash247",
+   "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided not to participate in the first phase of",
+   "img": "https://splash247.com/wp-content/uploads/2025/02/Source-Galileo-offshore-wind.jpg",
+   "date": "2026-11-26T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "NextGeo wins survey work on European hydrogen pipeline",
+   "source": "Splash247",
+   "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas transmission operators NaTran and Teréga an",
+   "img": "https://splash247.com/wp-content/uploads/2025/11/MarineTraffic-Marcel-Coster-NextGeo-NG-Surveyor.jpg",
+   "date": "2026-11-26T10:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "UK offshore wind decommissioning estimates vary tenfold",
+   "source": "Splash247",
+   "summary": "Decommissioning provisions for UK offshore wind farms with similarly sized turbines can differ by as much as ten times, highlighting major uncertainties over the future cost of dismantling ageing installations, according to new research. A study by energy cons",
+   "img": "https://splash247.com/wp-content/uploads/2025/09/Semco-Maritime-offshore-wind.jpg",
+   "date": "2026-11-26T10:00:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Norway Oil Service Lockout Takes Effect, Disrupts Offshore Drilling",
-   "source": "EnergyNow.com",
+   "title": "Saipem wins Equinor extension for Njord subsea drone services through 2034",
+   "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-11-22T16:47:41+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034",
-   "source": "Offshore Energy",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-24T11:48:33+00:00"
+   "date": "2026-11-26T05:48:31+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -244,6 +254,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-24T18:40:35+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034",
+   "source": "Offshore Energy",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-24T11:48:33+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -266,6 +286,16 @@
    "date": "2026-11-23T20:41:36+00:00"
   },
   {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Sonangol E&P strikes oil at Burututu-1 offshore Angola",
+   "source": "Drilling Contractor",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-20T15:32:07+00:00"
+  },
+  {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 2,
@@ -279,31 +309,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Etu Energias completes Block 14 acquisition offshore Angola, backed by Chariot and Shell Trading",
+   "title": "Shearwater wins TotalEnergies 4D seismic survey offshore Angola",
    "source": "World Oil",
    "summary": "",
    "img": "",
-   "date": "2026-11-20T08:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Jordan to join Europe-North Africa Medusa subsea cable network",
-   "source": "Arab News",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-19T11:46:28+00:00"
-  },
-  {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
-   "source": "Connecting Africa",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-23T15:09:00+00:00"
+   "date": "2026-11-25T21:16:10+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -319,81 +329,81 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Rykket ut etter eksplosjon i powerbank",
+   "title": "Kryptisk om «mystisk» skade i tommelen: – Dere får ikke noe svar",
    "source": "NRK Trøndelag",
-   "summary": "Nødetatene rykket i kveld ut til en tomannsbolig på Ranheim etter melding om brann i en powerbank.",
+   "summary": "Johannes Høsflot Klæbo ville ikke snakke i detaljer rundt tommelen sin da han møtte pressekorpset.",
    "img": "",
-   "date": "2026-11-25T21:26:18+00:00"
+   "date": "2026-11-26T11:43:18+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Har saksøkt staten etter koronavaksine: – Dei som har blitt skada må få erstatning",
+   "title": "Annonserte kjøretøy og maskiner – siktet for bedrageri",
    "source": "NRK Trøndelag",
-   "summary": "Marianne Torp Foss fekk påvist ME etter at ho fekk andre dose av koronavaksinen og saksøkte staten.",
+   "summary": "Tre menn ble denne uka pågrepet i Trøndelag og siktet for bedragerier for flere hundre tusen.",
    "img": "",
-   "date": "2026-11-25T15:48:51+00:00"
+   "date": "2026-11-26T11:22:44+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "RBK-trener bekrefter sterk interesse",
+   "title": "Gamal skule brenn ned til grunnen i Flatanger",
    "source": "NRK Trøndelag",
-   "summary": "Freyr Alexandersson bekrefter at det er samtaler og sier han alltid har drømt om å være trener i engelsk fotball.",
+   "summary": "Brannvesenet fekk kontroll på spreiingsfaren, men bygningen stod ikkje til å redde.",
    "img": "",
-   "date": "2026-11-25T14:50:23+00:00"
+   "date": "2026-11-26T10:59:16+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Slår alarm om «Helikopterforeldre» i barneidretten",
+   "title": "Riksrevisjonen: Effektiviteten i sjukehusa har falle",
    "source": "NRK Trøndelag",
-   "summary": "Foreldre stiller stadig høyere krav til breddeklubben, samtidig som færre er villige til å ta på seg verv. En uheldig utvikling, mener idrettspsykolog.",
+   "summary": "Det er stor forskjell på kor effektivt helseføretaka driv. Riksrevisjonen meiner at økonomistyringa av sjukehusa ikkje er god nok.",
    "img": "",
-   "date": "2026-11-25T12:53:42+00:00"
+   "date": "2026-11-26T10:05:50+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Tre til helsesjekk etter boligbrann i Bergen",
+   "title": "Må betale brannvesenet millioner etter storbrann",
    "source": "NRK",
-   "summary": "Tre personer er fraktet til sykehus og legevakt etter å ha pustet inn røyk i forbindelse med en boligbrann på Mannsverk i Bergen onsdag kveld, opplyser politiet. Brannen startet på et kjøkken under matlaging like før klokken 23.00, og den aktuelle leiligheten ",
-   "img": "https://gfx.nrk.no/-ljJM8gDn7ZOfz1qf3a_Fwrpe1hFOfAKC6j-BzFklFOQ.jpg",
-   "date": "2026-11-25T22:45:03+00:00"
+   "summary": "Ragn-Sells må betale Grenland brann og redning over 10 millioner etter storbrannen ved dekkgjenvinningsgigantens anlegg i Bamble.",
+   "img": "https://gfx.nrk.no/PuCY6s0X_oc28pK6CBGx6Ak0PWKdIWXiTGfwyzw-4SGA.jpg",
+   "date": "2026-11-26T13:45:34+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Ekspertene raser etter nok en United-nedtur",
+   "title": "Marianne (52) tok opp lån for å bli frisk – ny forsking gir håp",
    "source": "NRK",
-   "summary": "Mauricio Pochettino og Manchester United så ut til å få en opptur, men så rotet Semme Lammens det til. Det er likevel noe annet som tar fokus.",
-   "img": "https://gfx.nrk.no/-lYEZQ-I6btTLZIeiggMlQUNnN8H_fpx6kuOTz74Ef0A.jpg",
-   "date": "2026-11-25T21:55:43+00:00"
+   "summary": "Lipødem er ikkje ein anerkjent diagnose i Noreg, og pasientar må sjølv betale dyrt for operasjonar. No kan ein ny studie endre på det.",
+   "img": "https://gfx.nrk.no/D5OAWkgLtiQeXvjnS8liGQ4DdXTh6WG48MUTpO0Fl8rw.jpg",
+   "date": "2026-11-26T13:41:13+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Omdiskutert keepervalg av Viking: – Så ærlige må vi være",
+   "title": "Mattilsynet vurderer å utsette avliving av 225.000 fuglar etter klage",
    "source": "NRK",
-   "summary": "Vikings keepervalg er et hett tema etter 2–0 tapet for Atlético Madrid.",
-   "img": "https://gfx.nrk.no/kHlHF1YTP6luFmMKyDotug7ldiqzQnvE4DymDjn4WvOQ.jpg",
-   "date": "2026-11-25T20:47:51+00:00"
+   "summary": "I Noregs største utbrot av fugleinfluensa skulle 225.000 fuglar avlivast. Ein klage frå oppdrettaren kan setje masseavlivinga på vent.",
+   "img": "https://gfx.nrk.no/ZTr1XL7142q2lCPvq9T2uwJQCNEhpcA8NLmf8oVizuxQ.jpg",
+   "date": "2026-11-26T12:46:02+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Slik lurer spillene barn til å bruke penger",
+   "title": "Utbrudd av influensa: – Ta vaksinen nå",
    "source": "NRK",
-   "summary": "Barn kan bruke ekte penger i spill uten å skjønne hvor mye det faktisk koster. Nå skal Forbrukertilsynet undersøke om barn blir presset eller lurt til å kjøpe mer.",
-   "img": "https://gfx.nrk.no/_a0tq3POfvdgh6pJoqC_FwrSIAbjZV0Re7lO4d8jhDOg.jpg",
-   "date": "2026-11-25T20:28:13+00:00"
+   "summary": "Vinterens influensautbrudd er i gang. Samtidig øker koronasmitten. Det opplyser Folkehelseinstituttet torsdag. – Beskyttelse mot influensa og covid-19 oppnås én til to uker etter at du har tatt vaksine. Det er derfor viktig at de som er anbefalt vaksine tar de",
+   "img": "https://gfx.nrk.no/5nZSYBjl_4NGXwj7TyS-tgItuDbmTwVyaRrq3YURUu6A.jpg",
+   "date": "2026-11-26T12:14:16+00:00"
   }
  ]
 }
