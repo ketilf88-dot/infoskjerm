@@ -1,9 +1,8 @@
 {
- "updated": "2026-11-26T23:09:58.063683+00:00",
+ "updated": "2026-11-27T04:58:55.199591+00:00",
  "sources": 8,
  "failed": [
-  "Offshore Energy",
-  "Splash247"
+  "Offshore Energy"
  ],
  "items": [
   {
@@ -187,6 +186,56 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "BIMCO puts ship-to-ship transfer costs on charterers",
+   "source": "Splash247",
+   "summary": "Shipping organisation BIMCO has released a new standard clause for tanker charterparties that places the costs and risks of ship-to-ship cargo transfers on charterers while preserving the master’s authority over vessel safety. Published this week, the clause c",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/STS-BIMCO.jpg",
+   "date": "2026-11-26T11:54:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 2,
+   "title": "Polish offshore wind rules draw Danish shipowner backlash",
+   "source": "Splash247",
+   "summary": "Danish shipowners have raised concerns at EU level over new Polish vessel certification requirements, warning that additional inspections are making it harder for foreign operators to compete for offshore wind and marine construction contracts in the Baltic Se",
+   "img": "https://splash247.com/wp-content/uploads/2022/10/RWE-Poland-offshore-wind.jpg",
+   "date": "2026-11-26T11:19:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+   "source": "Splash247",
+   "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided not to participate in the first phase of",
+   "img": "https://splash247.com/wp-content/uploads/2025/02/Source-Galileo-offshore-wind.jpg",
+   "date": "2026-11-26T11:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "NextGeo wins survey work on European hydrogen pipeline",
+   "source": "Splash247",
+   "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas transmission operators NaTran and Teréga an",
+   "img": "https://splash247.com/wp-content/uploads/2025/11/MarineTraffic-Marcel-Coster-NextGeo-NG-Surveyor.jpg",
+   "date": "2026-11-26T10:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "UK offshore wind decommissioning estimates vary tenfold",
+   "source": "Splash247",
+   "summary": "Decommissioning provisions for UK offshore wind farms with similarly sized turbines can differ by as much as ten times, highlighting major uncertainties over the future cost of dismantling ageing installations, according to new research. A study by energy cons",
+   "img": "https://splash247.com/wp-content/uploads/2025/09/Semco-Maritime-offshore-wind.jpg",
+   "date": "2026-11-26T10:00:00+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -320,6 +369,26 @@
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
+   "title": "Ny togstasjon: 780 nye sykkelplasser og ingen parkeringsplass",
+   "source": "NRK",
+   "summary": "De som ønsker å parkere med bil på den nye togstasjonen i Moss, får nå et lengre strekke å gå: – Klønete, sier pendler.",
+   "img": "https://gfx.nrk.no/5oQuk4gQE7lrsiPCa6kWQARoWvZKhFBAoCU0FWa1YBnw.jpg",
+   "date": "2026-11-27T04:32:18+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Reagerer på at utøvarar tviheld på eigne trenarar: – Det byrjar å bli vaksne folk",
+   "source": "NRK",
+   "summary": "Tidlegare landslagstrenar Arild Monsen er bekymra for utviklinga i det norske kvinnelandslaget og meiner utøvarane har blitt for avhengig av sine private trenarar.",
+   "img": "https://gfx.nrk.no/1qvioM9zZI-DRRJH0LGS0gBIXvhtq45VGRYsy6f_8DSA.jpg",
+   "date": "2026-11-27T04:08:45+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
    "title": "Debutant vinner Brage­prisen for roman om samiske skjebner",
    "source": "NRK",
    "summary": "Remi Skytterstad er den første debutanten som vinner Brageprisen i skjønnlitteratur.",
@@ -335,26 +404,6 @@
    "summary": "Johan-Olav Smørdal Botn (27) fikk spolert rennet allerede på første skyting. Kun minutter tidligere fikk han beskjeden fra skytetreneren som gjorde han usikker.",
    "img": "https://gfx.nrk.no/a_t58xbOL0Zlq3BDqw0XnAU5E49qYL1k0ACwi5o-XUUQ.jpg",
    "date": "2026-11-26T18:31:31+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Influensa­utbrotet er i gang: – Ikkje for seint å bli vaksinert før jul",
-   "source": "NRK",
-   "summary": "Influensaen spreier seg for alvor, og fleire blir så sjuke at dei må på sjukehus. No ber helsemyndigheitene folk om å vaksinere seg.",
-   "img": "https://gfx.nrk.no/GrewAluA1o5YY-dP4bjHaQ56GhKfpqrTCwTQa3h-URJA.jpg",
-   "date": "2026-11-26T17:21:24+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Folket har talt: D-blokka kåret til årets styggeste nybygg",
-   "source": "NRK",
-   "summary": "D-blokka i det nye regjeringskvartalet fikk i kveld årets «grøsspris». Sju hus i Drøbak ble kåret til de vakreste.",
-   "img": "https://gfx.nrk.no/YcYMC-LsIIOIipibiQ4IvAOYX6lMCmrpjqyh6TOYfEIw.jpg",
-   "date": "2026-11-26T15:51:27+00:00"
   }
  ]
 }
