@@ -1,8 +1,9 @@
 {
- "updated": "2026-11-27T14:43:56.870994+00:00",
+ "updated": "2026-11-27T22:58:13.503533+00:00",
  "sources": 8,
  "failed": [
-  "Offshore Energy"
+  "Offshore Energy",
+  "Splash247"
  ],
  "items": [
   {
@@ -186,46 +187,6 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Seamec lands fresh DSV charter offshore India",
-   "source": "Splash247",
-   "summary": "Indian offshore vessel operator Seamec has secured a charter from compatriot oil and gas company Hindustan Oil Exploration Company (HOEC) for one of its diving support vessels (DSVs). The Mumbai-based company signed a BIMCO charterparty to deploy the 1983-buil",
-   "img": "https://splash247.com/wp-content/uploads/2025/06/Seamec-III-Seamec.jpg",
-   "date": "2026-11-27T13:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Netherlands opens 2GW offshore wind tender",
-   "source": "Splash247",
-   "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened applications on Thursday for development",
-   "img": "https://splash247.com/wp-content/uploads/2025/11/Alpha-Ventus-offshore-wind.jpg",
-   "date": "2026-11-27T12:00:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "EDT Offshore kicks off fleet renewal with subsea newbuild",
-   "source": "Splash247",
-   "summary": "Cyprus-based EDT Offshore has ordered a subsea construction vessel at China’s ZPMC, with an option for a second unit, kicking off a newbuilding programme aimed at expanding its offshore capabilities. The Limassol-headquartered owner has signed a contract with ",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/EDT-Offshore-subsea-vessel-newbuild.jpg",
-   "date": "2026-11-27T11:05:00+00:00"
-  },
-  {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 1,
-   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
-   "source": "Splash247",
-   "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish gas transmission operator Enagás and its ",
-   "img": "https://splash247.com/wp-content/uploads/2024/05/Wood-workers.jpg",
-   "date": "2026-11-27T09:20:00+00:00"
-  },
-  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -249,16 +210,6 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-23T19:30:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
    "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
    "source": "Offshore Energy",
    "summary": "",
@@ -276,6 +227,16 @@
    "date": "2026-11-24T12:13:59+00:00"
   },
   {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "Mermaid launches i-DECOM for dismantling in the North Sea",
+   "source": "Inspenet",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-23T20:41:36+00:00"
+  },
+  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -289,11 +250,11 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "Sonangol E&P strikes oil at Burututu-1 offshore Angola",
-   "source": "Drilling Contractor",
+   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
+   "source": "Connecting Africa",
    "summary": "",
    "img": "",
-   "date": "2026-11-20T15:32:07+00:00"
+   "date": "2026-11-23T15:09:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
@@ -309,19 +270,39 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
-   "source": "Connecting Africa",
+   "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
+   "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-23T15:09:00+00:00"
+   "date": "2026-11-24T14:44:31+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Alvorlig frontkollisjon på E14 – to barn til sykehus med alvorlige skader",
+   "title": "Tjoelmem loeveni jïh maanagïertem rïhpesti",
    "source": "NRK Trøndelag",
-   "summary": "Flere personer er skadd etter frontkollisjonen på E14 i Stjørdal.",
+   "summary": "Ij mubpie-tjïeltenåejvie baantem bietskieh, men soehpenje-tjoelmem loeveni gosse Luvlege maanagïertem rïhpesti Plaassjesne.",
+   "img": "",
+   "date": "2026-11-27T18:44:54+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Trondheim Kino utsatt for dataangrep: – Vi beklager på det sterkeste",
+   "source": "NRK Trøndelag",
+   "summary": "Flere personopplysninger har kommet på avveie.",
+   "img": "",
+   "date": "2026-11-27T16:07:33+00:00"
+  },
+  {
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Frontkollisjon på E14 – to barn til sykehus med alvorlige skader",
+   "source": "NRK Trøndelag",
+   "summary": "Flere personer er skadd etter frontkollisjonen på E14 i Stjørdal. Vegen åpnet igjen kl. 19.27.",
    "img": "",
    "date": "2026-11-27T13:39:33+00:00"
   },
@@ -329,51 +310,51 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Nødetatene rykker ut til melding om brann: – Bål i stuen",
+   "title": "Nødetatene rykker ut til melding om brann: – Åpne flammer i huset",
    "source": "NRK Trøndelag",
    "summary": "Politiet har mottatt melding om at det lukter brent og kommer røyk ut av en leilighet.",
    "img": "",
    "date": "2026-11-27T13:03:55+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Meteorologen advarer om mildvær: – Det blir glatt",
-   "source": "NRK Trøndelag",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-27T11:07:51+00:00"
-  },
-  {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
-   "weight": 1,
-   "title": "Trodde Klæbo-triks funka på fødende: – Stopp med det",
-   "source": "NRK Trøndelag",
-   "summary": "Aurora (29) veit alt om hvor belastende det kan være å føde før kroppen er klar. En metode som blir brukt for å gjøre det enklere, viser seg ikke å funke.",
-   "img": "",
-   "date": "2026-11-27T10:37:00+00:00"
+   "title": "Norsk målfest i NHL – Solberg og Zuccarello med scoringer",
+   "source": "NRK",
+   "summary": "Stian Solberg leverte sin første fulltreffer i NHL da han satte kampens første i oppgjøret mellom Anaheim Ducks og Los Angeles Kings. Like etterpå kom nummer to. Begge kom i førsteperioden mot Mats Zuccarellos lag. 1-0 satt i nettet med fem minutter igjen av d",
+   "img": "https://gfx.nrk.no/CmkHE50v2lR33XV5GOCtBgML8IMOTuKLO9x3XTFPZ3JQ.jpg",
+   "date": "2026-11-27T22:12:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Motivert av to år gammel feiring: – Den har sittet i hodet",
+   "title": "Anne Britt ble nyresyk i svanger­skapet – nå frykter hun dødsfall",
    "source": "NRK",
-   "summary": "Det ble seksdobbelt norsk i sesongens første renn. Den aller beste har hentet motivasjon fra noe helt spesielt.",
-   "img": "https://gfx.nrk.no/aYAqPUuzL3CIuzSS_EmzqQPS-0eN1AFAXbnkkO6dZHLw.jpg",
-   "date": "2026-11-27T12:57:46+00:00"
+   "summary": "Døgnvakten som skal hjelpe nyresyke kan bli lagt ned. Nå slår både pasienter og leger alarm.",
+   "img": "https://gfx.nrk.no/lWEQ0YdKpNDTvGByQQiFVQT0B_tEWyBRRXXPp_eZpDTA.jpg",
+   "date": "2026-11-27T21:03:05+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bussbrann delte Norge i to: Dette blir straffen",
+   "title": "Bompenge­furore i Ryfylke – igjen",
    "source": "NRK",
-   "summary": "Planen var å frakte en billig buss til russecampen i nabokommunen. Resultatet ble stengt E6 i flere dager.",
-   "img": "https://gfx.nrk.no/Kb31sZI9VnWARCW2CN5hBwKT1A0ruJHHz-Rc9BLq0FqQ.jpg",
-   "date": "2026-11-27T09:49:01+00:00"
+   "summary": "Rabatt og støtte til bompenger har ikke ført til trafikkvekst. Derfor risikerer pendlere nå en økt bomregning på over 27.000 i året i Ryfylke.",
+   "img": "https://gfx.nrk.no/krzsRSR1uQhmMCJIGNk9XAWreApO-Bb7yUnSx3lUo4Ag.jpg",
+   "date": "2026-11-27T18:21:12+00:00"
+  },
+  {
+   "tag": "Norge",
+   "cls": "t-norge",
+   "weight": 1,
+   "title": "Tok grep før enorm opptur: – Skal prøve å gjøre like geniale ting fremover",
+   "source": "NRK",
+   "summary": "Lite overlates til tilfeldighetene i skiskyting, og fredag var det én avgjørende detalj som sørget for at Marthe Kråkstad Johansen hylles etter verdenscupåpningen.",
+   "img": "https://gfx.nrk.no/s1YHGJh6OA6BytRdksi3xQRnyC0MzITOsNzaZ0WFpEJA.jpg",
+   "date": "2026-11-27T18:47:32+00:00"
   }
  ]
 }
