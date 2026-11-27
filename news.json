@@ -1,10 +1,30 @@
 {
- "updated": "2026-11-27T04:58:55.199591+00:00",
+ "updated": "2026-11-27T14:43:56.870994+00:00",
  "sources": 8,
  "failed": [
   "Offshore Energy"
  ],
  "items": [
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "Finansiell kalender",
+   "source": "Odfjell SE",
+   "summary": "Finansiell kalender for Odfjell SE REGNSKAPSÅR 2026 19.03.2027 - Årsrapport 10.02.2027 - Kvartalsrapport - Q4 REGNSKAPSÅR 2027 17.08.2027 - Halvårsrapport 04.05.2027 - Ordinær generalforsamling 04.05.2027 - Kvartalsrapport - Q1 03.11.2027 - Kvartalsrapport - …",
+   "img": "",
+   "date": "2026-11-27T12:57:48.685Z"
+  },
+  {
+   "tag": "Oslo Børs",
+   "cls": "t-bors",
+   "weight": 3,
+   "title": "EIOF - Expected contract extension for Seven Viking",
+   "source": "Eidesvik Offshore ASA",
+   "summary": "Reference is made to the stock exchange notice published by Subsea7 S.A. 26 November 2026 regarding Equinor's extension of its frame agreement for Seven Viking.",
+   "img": "",
+   "date": "2026-11-27T07:45:00.000Z"
+  },
   {
    "tag": "Oslo Børs",
    "cls": "t-bors",
@@ -84,26 +104,6 @@
    "summary": "Third quarter results 2026 HIGHLIGHTS * Q3 EBITDA of USD 82.2 million and operating cash flow of USD 91.0 million * Robust balance sheet with USD 476 million in available liquidity * Q3 cash dividend of USD 0.063 per share * BW Opal achieved nameplate …",
    "img": "",
    "date": "2026-11-25T06:30:06.170Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
-   "source": "Borr Drilling Limited",
-   "summary": "Hamilton, Bermuda, November 25, 2026 - Borr Drilling Limited (NYSE and OSE: BORR) (the \"Company\") has received notification of a transaction in its securities related to Mr.",
-   "img": "",
-   "date": "2026-11-25T05:45:38.603Z"
-  },
-  {
-   "tag": "Oslo Børs",
-   "cls": "t-bors",
-   "weight": 3,
-   "title": "Vår Energi ASA: Private Placement successfully completed",
-   "source": "Vår Energi ASA",
-   "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO THE UNITED STATES, CANADA, JAPAN, AUSTRALIA OR ANY OTHER JURISDICTION IN WHICH THE RELEASE, PUBLICATION OR DISTRIBUTION WOULD REQUIRE THE APPROVAL OF LOCAL …",
-   "img": "",
-   "date": "2026-11-24T22:26:11.416Z"
   },
   {
    "tag": "Offshore · Globalt",
@@ -189,51 +189,41 @@
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "BIMCO puts ship-to-ship transfer costs on charterers",
+   "title": "Seamec lands fresh DSV charter offshore India",
    "source": "Splash247",
-   "summary": "Shipping organisation BIMCO has released a new standard clause for tanker charterparties that places the costs and risks of ship-to-ship cargo transfers on charterers while preserving the master’s authority over vessel safety. Published this week, the clause c",
-   "img": "https://splash247.com/wp-content/uploads/2026/11/STS-BIMCO.jpg",
-   "date": "2026-11-26T11:54:00+00:00"
-  },
-  {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 2,
-   "title": "Polish offshore wind rules draw Danish shipowner backlash",
-   "source": "Splash247",
-   "summary": "Danish shipowners have raised concerns at EU level over new Polish vessel certification requirements, warning that additional inspections are making it harder for foreign operators to compete for offshore wind and marine construction contracts in the Baltic Se",
-   "img": "https://splash247.com/wp-content/uploads/2022/10/RWE-Poland-offshore-wind.jpg",
-   "date": "2026-11-26T11:19:00+00:00"
+   "summary": "Indian offshore vessel operator Seamec has secured a charter from compatriot oil and gas company Hindustan Oil Exploration Company (HOEC) for one of its diving support vessels (DSVs). The Mumbai-based company signed a BIMCO charterparty to deploy the 1983-buil",
+   "img": "https://splash247.com/wp-content/uploads/2025/06/Seamec-III-Seamec.jpg",
+   "date": "2026-11-27T13:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "Hanwha Ocean pulls out of 800MW offshore wind project",
+   "title": "Netherlands opens 2GW offshore wind tender",
    "source": "Splash247",
-   "summary": "South Korean shipbuilding heavyweight Hanwha Ocean has pulled out of an 800MW offshore wind development off the country’s southwestern coast. The company confirmed in a regulatory filing on Wednesday that it had decided not to participate in the first phase of",
-   "img": "https://splash247.com/wp-content/uploads/2025/02/Source-Galileo-offshore-wind.jpg",
-   "date": "2026-11-26T11:00:00+00:00"
+   "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened applications on Thursday for development",
+   "img": "https://splash247.com/wp-content/uploads/2025/11/Alpha-Ventus-offshore-wind.jpg",
+   "date": "2026-11-27T12:00:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "NextGeo wins survey work on European hydrogen pipeline",
+   "title": "EDT Offshore kicks off fleet renewal with subsea newbuild",
    "source": "Splash247",
-   "summary": "Italian offshore survey specialist Next Geosolutions (NextGeo) has secured an €11.6m ($12.7m) contract to survey a planned subsea hydrogen pipeline linking Spain and France. BarMar, a joint venture between French gas transmission operators NaTran and Teréga an",
-   "img": "https://splash247.com/wp-content/uploads/2025/11/MarineTraffic-Marcel-Coster-NextGeo-NG-Surveyor.jpg",
-   "date": "2026-11-26T10:30:00+00:00"
+   "summary": "Cyprus-based EDT Offshore has ordered a subsea construction vessel at China’s ZPMC, with an option for a second unit, kicking off a newbuilding programme aimed at expanding its offshore capabilities. The Limassol-headquartered owner has signed a contract with ",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/EDT-Offshore-subsea-vessel-newbuild.jpg",
+   "date": "2026-11-27T11:05:00+00:00"
   },
   {
    "tag": "Offshore · Globalt",
    "cls": "t-global",
    "weight": 1,
-   "title": "UK offshore wind decommissioning estimates vary tenfold",
+   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
    "source": "Splash247",
-   "summary": "Decommissioning provisions for UK offshore wind farms with similarly sized turbines can differ by as much as ten times, highlighting major uncertainties over the future cost of dismantling ageing installations, according to new research. A study by energy cons",
-   "img": "https://splash247.com/wp-content/uploads/2025/09/Semco-Maritime-offshore-wind.jpg",
-   "date": "2026-11-26T10:00:00+00:00"
+   "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish gas transmission operator Enagás and its ",
+   "img": "https://splash247.com/wp-content/uploads/2024/05/Wood-workers.jpg",
+   "date": "2026-11-27T09:20:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -259,11 +249,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034",
+   "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-23T19:30:00+00:00"
+  },
+  {
+   "tag": "Offshore · Norden",
+   "cls": "t-norden",
+   "weight": 3,
+   "title": "$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastructure expands Vår Energi’s North Sea footprint",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-24T11:48:33+00:00"
+   "date": "2026-11-23T15:10:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
@@ -276,16 +276,6 @@
    "date": "2026-11-24T12:13:59+00:00"
   },
   {
-   "tag": "Offshore · Norden",
-   "cls": "t-norden",
-   "weight": 3,
-   "title": "Mermaid launches i-DECOM for dismantling in the North Sea",
-   "source": "Inspenet",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-23T20:41:36+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -296,16 +286,6 @@
    "date": "2026-11-25T21:16:10+00:00"
   },
   {
-   "tag": "Offshore · Globalt",
-   "cls": "t-global",
-   "weight": 2,
-   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
-   "source": "Submarine Networks",
-   "summary": "",
-   "img": "",
-   "date": "2026-11-20T09:03:40+00:00"
-  },
-  {
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
@@ -314,6 +294,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-20T15:32:07+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 2,
+   "title": "Brava takes control of Pescada fields cluster offshore Brazil",
+   "source": "Offshore Magazine",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-21T19:44:34+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -329,81 +319,61 @@
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Rykka ut til melding om knivran – uklart kva som har skjedd",
+   "title": "Alvorlig frontkollisjon på E14 – to barn til sykehus med alvorlige skader",
    "source": "NRK Trøndelag",
-   "summary": "Politiet rykka ut til melding om tenåring som hadde blitt rana og trua med kniv på Risvollan i Trondheim.",
+   "summary": "Flere personer er skadd etter frontkollisjonen på E14 i Stjørdal.",
    "img": "",
-   "date": "2026-11-26T20:26:10+00:00"
+   "date": "2026-11-27T13:39:33+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Kryptisk om «mystisk» skade i tommelen: – Dere får ikke noe svar",
+   "title": "Nødetatene rykker ut til melding om brann: – Bål i stuen",
    "source": "NRK Trøndelag",
-   "summary": "Johannes Høsflot Klæbo ville ikke snakke i detaljer rundt tommelen sin da han møtte pressekorpset.",
+   "summary": "Politiet har mottatt melding om at det lukter brent og kommer røyk ut av en leilighet.",
    "img": "",
-   "date": "2026-11-26T11:43:18+00:00"
+   "date": "2026-11-27T13:03:55+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Annonserte kjøretøy og maskiner – siktet for bedrageri",
+   "title": "Meteorologen advarer om mildvær: – Det blir glatt",
    "source": "NRK Trøndelag",
-   "summary": "Tre menn ble denne uka pågrepet i Trøndelag og siktet for bedragerier for flere hundre tusen.",
+   "summary": "",
    "img": "",
-   "date": "2026-11-26T11:22:44+00:00"
+   "date": "2026-11-27T11:07:51+00:00"
   },
   {
    "tag": "Trøndelag",
    "cls": "t-trond",
    "weight": 1,
-   "title": "Gamal skule brenn ned til grunnen i Flatanger",
+   "title": "Trodde Klæbo-triks funka på fødende: – Stopp med det",
    "source": "NRK Trøndelag",
-   "summary": "Brannvesenet fekk kontroll på spreiingsfaren, men bygningen stod ikkje til å redde.",
+   "summary": "Aurora (29) veit alt om hvor belastende det kan være å føde før kroppen er klar. En metode som blir brukt for å gjøre det enklere, viser seg ikke å funke.",
    "img": "",
-   "date": "2026-11-26T10:59:16+00:00"
+   "date": "2026-11-27T10:37:00+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Ny togstasjon: 780 nye sykkelplasser og ingen parkeringsplass",
+   "title": "Motivert av to år gammel feiring: – Den har sittet i hodet",
    "source": "NRK",
-   "summary": "De som ønsker å parkere med bil på den nye togstasjonen i Moss, får nå et lengre strekke å gå: – Klønete, sier pendler.",
-   "img": "https://gfx.nrk.no/5oQuk4gQE7lrsiPCa6kWQARoWvZKhFBAoCU0FWa1YBnw.jpg",
-   "date": "2026-11-27T04:32:18+00:00"
+   "summary": "Det ble seksdobbelt norsk i sesongens første renn. Den aller beste har hentet motivasjon fra noe helt spesielt.",
+   "img": "https://gfx.nrk.no/aYAqPUuzL3CIuzSS_EmzqQPS-0eN1AFAXbnkkO6dZHLw.jpg",
+   "date": "2026-11-27T12:57:46+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Reagerer på at utøvarar tviheld på eigne trenarar: – Det byrjar å bli vaksne folk",
+   "title": "Bussbrann delte Norge i to: Dette blir straffen",
    "source": "NRK",
-   "summary": "Tidlegare landslagstrenar Arild Monsen er bekymra for utviklinga i det norske kvinnelandslaget og meiner utøvarane har blitt for avhengig av sine private trenarar.",
-   "img": "https://gfx.nrk.no/1qvioM9zZI-DRRJH0LGS0gBIXvhtq45VGRYsy6f_8DSA.jpg",
-   "date": "2026-11-27T04:08:45+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Debutant vinner Brage­prisen for roman om samiske skjebner",
-   "source": "NRK",
-   "summary": "Remi Skytterstad er den første debutanten som vinner Brageprisen i skjønnlitteratur.",
-   "img": "https://gfx.nrk.no/mlyUezJddHWnuilv-TxnNQRGQzOlqwlNGGhOU8qIuUBQ.jpg",
-   "date": "2026-11-26T19:11:51+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Full forvirring etter trenerens beskjed: – Blir litt paralysert",
-   "source": "NRK",
-   "summary": "Johan-Olav Smørdal Botn (27) fikk spolert rennet allerede på første skyting. Kun minutter tidligere fikk han beskjeden fra skytetreneren som gjorde han usikker.",
-   "img": "https://gfx.nrk.no/a_t58xbOL0Zlq3BDqw0XnAU5E49qYL1k0ACwi5o-XUUQ.jpg",
-   "date": "2026-11-26T18:31:31+00:00"
+   "summary": "Planen var å frakte en billig buss til russecampen i nabokommunen. Resultatet ble stengt E6 i flere dager.",
+   "img": "https://gfx.nrk.no/Kb31sZI9VnWARCW2CN5hBwKT1A0ruJHHz-Rc9BLq0FqQ.jpg",
+   "date": "2026-11-27T09:49:01+00:00"
   }
  ]
 }
