@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:31:24.657517+00:00",
+ "updated": "2026-11-28T13:35:37.522705+00:00",
  "sources": 8,
  "failed": [
   "Offshore Energy"
@@ -259,21 +259,21 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Equinor Extends Saipem's Subsea Robotics Contract off Norway",
-   "source": "Offshore Engineer Magazine",
+   "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
+   "source": "Crude Oil Prices Today | OilPrice.com",
    "summary": "",
    "img": "",
-   "date": "2026-11-24T12:13:59+00:00"
+   "date": "2026-11-23T19:30:00+00:00"
   },
   {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Subsea 7 Secures Further Vessel Contract Extension from Equinor",
-   "source": "marketscreener.com",
+   "title": "Equinor Extends Saipem's Subsea Robotics Contract off Norway",
+   "source": "Offshore Engineer Magazine",
    "summary": "",
    "img": "",
-   "date": "2026-11-26T15:12:12+00:00"
+   "date": "2026-11-24T12:13:59+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -284,6 +284,16 @@
    "summary": "",
    "img": "",
    "date": "2026-11-25T21:16:10+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Telecom Egypt Advances Egypt’s Eastern Digital Corridor with Sharm El Sheikh–Taba Subsea Cable",
+   "source": "Submarine Networks",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-28T08:39:53+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -316,14 +326,14 @@
    "date": "2026-11-24T10:06:57+00:00"
   },
   {
-   "tag": "Offshore · Afrika",
-   "cls": "t-afrika",
-   "weight": 3,
-   "title": "Preparing for Angola’s next offshore upswing",
-   "source": "The Energy Year",
-   "summary": "",
+   "tag": "Trøndelag",
+   "cls": "t-trond",
+   "weight": 1,
+   "title": "Løste lasso-knuten og åpnet barnehagen",
+   "source": "NRK Trøndelag",
+   "summary": "Ingen snor ble klippet, men en lassoknute ble løst da varaordføreren åpnet Luvlege maanagïerte / Ysterhagaen barnehage i Røros.",
    "img": "",
-   "date": "2026-11-24T11:02:17+00:00"
+   "date": "2026-11-28T07:49:10+00:00"
   },
   {
    "tag": "Trøndelag",
@@ -356,54 +366,44 @@
    "date": "2026-11-27T13:39:33+00:00"
   },
   {
-   "tag": "Trøndelag",
-   "cls": "t-trond",
+   "tag": "Norge",
+   "cls": "t-norge",
    "weight": 1,
-   "title": "Nødetatene rykker ut til melding om brann: – Åpne flammer i huset",
-   "source": "NRK Trøndelag",
-   "summary": "Politiet har mottatt melding om at det lukter brent og kommer røyk ut av en leilighet.",
-   "img": "",
-   "date": "2026-11-27T13:03:55+00:00"
+   "title": "Ler av stortalentets feiring etter Klæbo-knusing: – Plutselig får han to i promille",
+   "source": "NRK",
+   "summary": "Oskar Opstad Vike knuste Johannes Høsflot Klæbo på sprinten i Ruka. Så feiret 22-åringen på en måte som kommer til å bli husket.",
+   "img": "https://gfx.nrk.no/4osdshLDMu4ykT__BT14KQrAUFAzq8J6svyMqKnBp6tg.jpg",
+   "date": "2026-11-28T12:05:22+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Norsk målfest i NHL – Solberg og Zuccarello med scoringer",
+   "title": "Slik snudde de trenden og ble best i landet: – Jeg unner alle å være her",
    "source": "NRK",
-   "summary": "Stian Solberg leverte sin første fulltreffer i NHL da han satte kampens første i oppgjøret mellom Anaheim Ducks og Los Angeles Kings. Like etterpå kom nummer to. Begge kom i førsteperioden mot Mats Zuccarellos lag. 1-0 satt i nettet med fem minutter igjen av d",
-   "img": "https://gfx.nrk.no/CmkHE50v2lR33XV5GOCtBgML8IMOTuKLO9x3XTFPZ3JQ.jpg",
-   "date": "2026-11-27T22:12:46+00:00"
+   "summary": "På ungdomsskolen satt Mari Svendsen (18) mye alene. Nå utdanner hun seg til sveiser – og er en del av forklaringen på hvorfor Troms har færrest unge utenfor arbeidslivet i landet.",
+   "img": "https://gfx.nrk.no/WbsCsOqnK9V8uCu5i4JUrA8vQXgG5-u4QEztmOFmr_gg.jpg",
+   "date": "2026-11-28T12:01:02+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Anne Britt ble nyresyk i svanger­skapet – nå frykter hun dødsfall",
+   "title": "Stjerneskudd i tårer etter nedtur: – Roter det til",
    "source": "NRK",
-   "summary": "Døgnvakten som skal hjelpe nyresyke kan bli lagt ned. Nå slår både pasienter og leger alarm.",
-   "img": "https://gfx.nrk.no/lWEQ0YdKpNDTvGByQQiFVQT0B_tEWyBRRXXPp_eZpDTA.jpg",
-   "date": "2026-11-27T21:03:05+00:00"
+   "summary": "Milla Grosberghaugen Andreassen gikk en gnistrende kvalifisering i klassisksprinten i Ruka, men i kvartfinalen gikk det meste galt for 21-åringen.",
+   "img": "https://gfx.nrk.no/3mNxIHuG8996kZYacF08CQ-qJvzDRIOoRfz1kt6V8LmQ.jpg",
+   "date": "2026-11-28T11:02:45+00:00"
   },
   {
    "tag": "Norge",
    "cls": "t-norge",
    "weight": 1,
-   "title": "Bompenge­furore i Ryfylke – igjen",
+   "title": "Ja, United kan faktisk rykke ned",
    "source": "NRK",
-   "summary": "Rabatt og støtte til bompenger har ikke ført til trafikkvekst. Derfor risikerer pendlere nå en økt bomregning på over 27.000 i året i Ryfylke.",
-   "img": "https://gfx.nrk.no/krzsRSR1uQhmMCJIGNk9XAWreApO-Bb7yUnSx3lUo4Ag.jpg",
-   "date": "2026-11-27T18:21:12+00:00"
-  },
-  {
-   "tag": "Norge",
-   "cls": "t-norge",
-   "weight": 1,
-   "title": "Tok grep før enorm opptur: – Skal prøve å gjøre like geniale ting fremover",
-   "source": "NRK",
-   "summary": "Lite overlates til tilfeldighetene i skiskyting, og fredag var det én avgjørende detalj som sørget for at Marthe Kråkstad Johansen hylles etter verdenscupåpningen.",
-   "img": "https://gfx.nrk.no/s1YHGJh6OA6BytRdksi3xQRnyC0MzITOsNzaZ0WFpEJA.jpg",
-   "date": "2026-11-27T18:47:32+00:00"
+   "summary": "Premier League er ikke lenger idiotsikker for de største.",
+   "img": "https://gfx.nrk.no/PqaxAY_6XuWcftmgBViS9gm-xsxndkEMj98cpDtkRwNA.jpg",
+   "date": "2026-11-28T07:27:43+00:00"
   }
  ]
 }
