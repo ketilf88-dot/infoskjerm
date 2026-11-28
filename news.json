@@ -1,9 +1,8 @@
 {
- "updated": "2026-11-27T22:58:13.503533+00:00",
+ "updated": "2026-11-28T04:31:24.657517+00:00",
  "sources": 8,
  "failed": [
-  "Offshore Energy",
-  "Splash247"
+  "Offshore Energy"
  ],
  "items": [
   {
@@ -187,6 +186,46 @@
    "date": "2026-10-29T16:39:42+00:00"
   },
   {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Seamec lands fresh DSV charter offshore India",
+   "source": "Splash247",
+   "summary": "Indian offshore vessel operator Seamec has secured a charter from compatriot oil and gas company Hindustan Oil Exploration Company (HOEC) for one of its diving support vessels (DSVs). The Mumbai-based company signed a BIMCO charterparty to deploy the 1983-buil",
+   "img": "https://splash247.com/wp-content/uploads/2025/06/Seamec-III-Seamec.jpg",
+   "date": "2026-11-27T13:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Netherlands opens 2GW offshore wind tender",
+   "source": "Splash247",
+   "summary": "The Netherlands has launched tenders for two offshore wind farms with a combined generating capacity of 2GW, backed by a maximum subsidy budget of nearly €9.5bn ($10.43bn). The Netherlands Enterprise Agency (RVO) opened applications on Thursday for development",
+   "img": "https://splash247.com/wp-content/uploads/2025/11/Alpha-Ventus-offshore-wind.jpg",
+   "date": "2026-11-27T12:00:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "EDT Offshore kicks off fleet renewal with subsea newbuild",
+   "source": "Splash247",
+   "summary": "Cyprus-based EDT Offshore has ordered a subsea construction vessel at China’s ZPMC, with an option for a second unit, kicking off a newbuilding programme aimed at expanding its offshore capabilities. The Limassol-headquartered owner has signed a contract with ",
+   "img": "https://splash247.com/wp-content/uploads/2026/11/EDT-Offshore-subsea-vessel-newbuild.jpg",
+   "date": "2026-11-27T11:05:00+00:00"
+  },
+  {
+   "tag": "Offshore · Globalt",
+   "cls": "t-global",
+   "weight": 1,
+   "title": "Wood scores FEED work on Spain-France offshore hydrogen link",
+   "source": "Splash247",
+   "summary": "UK engineering and consulting firm Wood has secured a front-end engineering design (FEED) contract for the proposed BarMar subsea hydrogen pipeline connecting Spain and France. The BarMar consortium, comprising Spanish gas transmission operator Enagás and its ",
+   "img": "https://splash247.com/wp-content/uploads/2024/05/Wood-workers.jpg",
+   "date": "2026-11-27T09:20:00+00:00"
+  },
+  {
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
@@ -230,11 +269,11 @@
    "tag": "Offshore · Norden",
    "cls": "t-norden",
    "weight": 3,
-   "title": "Mermaid launches i-DECOM for dismantling in the North Sea",
-   "source": "Inspenet",
+   "title": "Subsea 7 Secures Further Vessel Contract Extension from Equinor",
+   "source": "marketscreener.com",
    "summary": "",
    "img": "",
-   "date": "2026-11-23T20:41:36+00:00"
+   "date": "2026-11-26T15:12:12+00:00"
   },
   {
    "tag": "Offshore · Afrika",
@@ -270,11 +309,21 @@
    "tag": "Offshore · Afrika",
    "cls": "t-afrika",
    "weight": 3,
-   "title": "ExxonMobil signs off on $4 billion FID as new discovery signals more oil potential at Angolan offshore block",
+   "title": "$2.3 billion integrated LNG-to-power project on the development agenda in South Africa",
    "source": "Offshore Energy",
    "summary": "",
    "img": "",
-   "date": "2026-11-24T14:44:31+00:00"
+   "date": "2026-11-24T10:06:57+00:00"
+  },
+  {
+   "tag": "Offshore · Afrika",
+   "cls": "t-afrika",
+   "weight": 3,
+   "title": "Preparing for Angola’s next offshore upswing",
+   "source": "The Energy Year",
+   "summary": "",
+   "img": "",
+   "date": "2026-11-24T11:02:17+00:00"
   },
   {
    "tag": "Trøndelag",
